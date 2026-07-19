@@ -44,18 +44,16 @@ def get_latest_video():
         print(f"❌ Video file not found: {video_file}")
         return None
 
-    # Find phrase images - use the FIRST phrase image (phrase_0000.jpg) as thumbnail
-    # This is better than generic thumbnail - it shows actual Spanish content
-    phrase_images = sorted(latest_dir.glob("phrase_*.jpg"))
+    # Use custom generated thumbnail (AI scenic background with text overlay)
     thumbnail_file = None
-    if phrase_images:
-        # Use first phrase image (phrase_0000.jpg) - it's the opening phrase
-        thumbnail_file = phrase_images[0]
-        print(f"🖼️  Using phrase image as thumbnail: {thumbnail_file.name}")
-    elif (latest_dir / "thumbnail.jpg").exists():
-        # Fallback to generic thumbnail if no phrase images
+    if (latest_dir / "thumbnail.jpg").exists():
         thumbnail_file = latest_dir / "thumbnail.jpg"
-        print(f"⚠️  No phrase images found, using: thumbnail.jpg")
+        print(f"🖼️  Using custom thumbnail: thumbnail.jpg")
+    else:
+        phrase_images = sorted(latest_dir.glob("phrase_*.jpg"))
+        if phrase_images:
+            thumbnail_file = phrase_images[0]
+            print(f"🖼️  Using phrase image as thumbnail: {thumbnail_file.name}")
 
     return {
         "dir": latest_dir,
@@ -150,7 +148,7 @@ def upload_to_youtube(video_info):
     youtube = build(API_SERVICE_NAME, API_VERSION, credentials=credentials)
     
     # Get title and description
-    title = "Learn Spanish with Velocity Spanish"
+    title = "Learn Telugu with Velocity Telugu"
     description = ""
     
     if video_info.get("metadata") and video_info["metadata"].exists():
@@ -179,11 +177,11 @@ def upload_to_youtube(video_info):
             "title": title,
             "description": description,
             "tags": [
-                "Learn Spanish",
-                "Spanish Phrases",
-                "Spanish Language",
-                "Velocity Spanish",
-                "Spanish for Beginners",
+                "Learn Telugu",
+                "Telugu Phrases",
+                "Telugu Language",
+                "Velocity Telugu",
+                "Telugu for Beginners",
                 "Language Learning"
             ],
             "categoryId": "27"  # Education
@@ -257,7 +255,7 @@ def upload_to_youtube(video_info):
 
 def main():
     print("\n" + "="*80)
-    print("🇪🇸 VELOCITY SPANISH - YOUTUBE LONG-FORM UPLOADER 🇪🇸")
+    print("🇮🇳 VELOCITY TELUGU - YOUTUBE LONG-FORM UPLOADER 🇮🇳")
     print("="*80)
     
     # Find latest video

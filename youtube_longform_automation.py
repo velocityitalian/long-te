@@ -111,7 +111,7 @@ if not AI_MODEL:
 
 def load_phrase_history():
     if PHRASE_HISTORY_FILE.exists():
-        with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8") as f:
+        with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8-sig") as f:
             return json.load(f)
     return {"phrases": [], "last_updated": None}
 
