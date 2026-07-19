@@ -214,6 +214,17 @@ def generate_phrases_for_longform(category_english: str, num_phrases: int) -> li
 
 Style: Make each phrase feel like a {viral_style} - something people would want to share!
 
+CRITICAL RULE - STRICTLY ENFORCE:
+The "english" field must contain PURE ENGLISH words only. ZERO Telugu/Devanagari.
+The "telugu" field contains the Telugu translation in Telugu script.
+The "pronunciation" field is phonetic English spelling.
+
+WRONG (mixed language): {{"english": "Nee sapne sach karo, believe in yourself", ...}}
+WRONG (Telugu in english): {{"english": "Follow your kalalu and success will come", ...}}
+CORRECT: {{"english": "Make your dreams come true, believe in yourself.", "telugu": "మీ కలలను నిజం చేసుకోండి, మీపై నమ్మకం ఉంచండి.", "pronunciation": "mee ka-la-lu ni-jam che-sa-koon-di, mee-pai nam-ma-kam un-cha-ndi."}}
+
+The english field MUST be 100% English words only. NO Telugu words allowed.
+
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
 2. Add NATURAL PAUSES using commas (e.g., "Dream big, start small")
@@ -225,9 +236,9 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 8. Vary sentence structure for natural flow
 
 For each phrase:
-1. English phrase (with commas for natural pauses)
-2. Telugu translation (Telugu script)
-3. Pronunciation guide (phonetic spelling for English speakers)
+1. English phrase (pure English, zero Telugu) with commas for natural pauses
+2. Telugu translation (Telugu script only)
+3. Pronunciation guide (phonetic English spelling)
 
 Return as JSON array:
 [{{"english": "...", "telugu": "...", "pronunciation": "..."}}]
@@ -237,7 +248,7 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You are a viral Telugu teacher creating engaging educational content for YouTube. Create short, natural phrases with pauses."},
+                        {"role": "system", "content": "You are a viral Telugu teacher. CRITICAL: The 'english' field must contain PURE ENGLISH words ONLY. NO Telugu in english field. Telugu goes in the 'telugu' field. This is strictly enforced."},
                         {"role": "user", "content": prompt}
                     ],
                     "temperature": 1.0
