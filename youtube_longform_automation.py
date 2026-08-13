@@ -837,6 +837,9 @@ def generate_title_description(category_english: str, category_telugu: str, phra
         f"Speak Telugu Fluently | {category_english} Phrases | English + Telugu + Pronunciation",
     ]
 
+    # YouTube title limit is 100 chars - truncate any overlong title safely
+    titles = [t if len(t) <= 100 else (t[:97] + "...") for t in titles]
+
     description = f"""🇮🇳 Learn Telugu with Velocity Telugu! 🇮🇳
 
 In this video, you'll learn 60 essential Telugu phrases about {category_english} ({category_telugu}).
