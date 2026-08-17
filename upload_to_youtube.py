@@ -3,6 +3,7 @@ YouTube Upload Script for Velocity Telugu
 """
 
 import os, sys, json, time
+import time
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -36,7 +37,7 @@ def get_latest_video():
 
 
 
-def ensure_playlist(youtube, title="Velocity Telugu - Telugu Phrases", description="All Telugu phrases videos in one playlist. Learn Telugu with Velocity Telugu!"):
+def ensure_playlist(youtube, title="Learn Telugu Phrases for Beginners | Velocity Telugu", description="All telugu phrases videos in one playlist. 🇮🇳 Learn Telugu with Velocity Telugu!"):
     """Find an existing playlist by title or create a new one. Returns playlist_id."""
     try:
         req = youtube.playlists().list(part="snippet", mine=True, maxResults=50)
