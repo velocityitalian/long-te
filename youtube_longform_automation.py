@@ -78,7 +78,7 @@ CATEGORIES_TELUGU = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "te-IN-ShrutiNeural"
 
 # Phrase history file
