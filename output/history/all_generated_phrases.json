@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "What's up, man?,",
+      "telugu": "ఏంటి సంగతులు, బావా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664694"
+    },
+    {
+      "english": "No problem at all,",
+      "telugu": "ఏం కాదులే, మామూలే.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664709"
+    },
+    {
+      "english": "It's just like that,",
+      "telugu": "అంతేలే, అలాగైంది.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664712"
+    },
+    {
+      "english": "Don't worry about it,",
+      "telugu": "దాని గురించి ఆలోచించకు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664715"
+    },
+    {
+      "english": "Let's go now,",
+      "telugu": "ఇక వెళ్దాం పద.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664718"
+    },
+    {
+      "english": "Is that so?,",
+      "telugu": "అవునా, నిజమా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664721"
+    },
+    {
+      "english": "I got it, okay?,",
+      "telugu": "అర్థమైందిలే, సరేనా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664724"
+    },
+    {
+      "english": "It's too much, dude,",
+      "telugu": "చాలా ఎక్కువైందిరా, భాయ్.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664729"
+    },
+    {
+      "english": "Are you kidding me?,",
+      "telugu": "నన్ను ఆటపట్టిస్తున్నావా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664733"
+    },
+    {
+      "english": "Come on, man,",
+      "telugu": "అరే, అలా అనకు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664736"
+    },
+    {
+      "english": "It's fine, don't stress,",
+      "telugu": "పర్లేదులే, టెన్షన్ పడకు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664739"
+    },
+    {
+      "english": "Just like that, happened,",
+      "telugu": "అలాగే, జరిగిపోయింది.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664741"
+    },
+    {
+      "english": "What's the plan?,",
+      "telugu": "ఏం ప్లాన్, చెప్పు?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664744"
+    },
+    {
+      "english": "I'm hungry, seriously,",
+      "telugu": "ఆకలేస్తుంది, నిజంగా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664746"
+    },
+    {
+      "english": "Let's eat something,",
+      "telugu": "ఏదైనా తిందాం పద.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664749"
+    },
+    {
+      "english": "This is too good,",
+      "telugu": "ఇది సూపర్ ఉంది.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664751"
+    },
+    {
+      "english": "I'm tired, man,",
+      "telugu": "అలిసిపోయానురా, భాయ్.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664753"
+    },
+    {
+      "english": "Need some rest,",
+      "telugu": "కొంచెం విశ్రాంతి కావాలి.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664756"
+    },
+    {
+      "english": "What's happening here?,",
+      "telugu": "ఇక్కడ ఏం జరుగుతోంది?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664759"
+    },
+    {
+      "english": "Just chilling, you know?,",
+      "telugu": "ఏం లేదులే, కూర్చున్నా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664762"
+    },
+    {
+      "english": "It's a big deal, right?,",
+      "telugu": "పెద్ద విషయమే కదా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664764"
+    },
+    {
+      "english": "Don't be like that,",
+      "telugu": "అలా చేయకు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664766"
+    },
+    {
+      "english": "It's okay, let it go,",
+      "telugu": "సరేలే, వదిలేయ్.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664769"
+    },
+    {
+      "english": "That's the spirit!,",
+      "telugu": "అదే కదా స్పిరిట్!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664771"
+    },
+    {
+      "english": "I'm bored, totally,",
+      "telugu": "బోర్ కొడుతోంది, చాలా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664773"
+    },
+    {
+      "english": "What else?,",
+      "telugu": "ఇంకేంటి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664775"
+    },
+    {
+      "english": "Let's do it, now,",
+      "telugu": "ఇప్పుడే చేద్దాం.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664778"
+    },
+    {
+      "english": "Totally agreed, man,",
+      "telugu": "పూర్తిగా ఒప్పుకుంటాను, బావా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664780"
+    },
+    {
+      "english": "So, what's new, buddy?",
+      "telugu": "మరి, నీ సంగతేంటి, మిత్రమా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664783"
+    },
+    {
+      "english": "Can you tell me, please?",
+      "telugu": "ఒక్కసారి చెప్పగలవా, దయచేసి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664785"
+    },
+    {
+      "english": "What's your opinion on this?",
+      "telugu": "దీనిపై నీ అభిప్రాయం ఏంటి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664788"
+    },
+    {
+      "english": "How was your day, friend?",
+      "telugu": "నీ రోజు ఎలా గడిచింది, స్నేహితుడా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664790"
+    },
+    {
+      "english": "What do you think, really?",
+      "telugu": "నిజంగా, నువ్వేమనుకుంటున్నావ్?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664793"
+    },
+    {
+      "english": "Any suggestions for me?",
+      "telugu": "నాకు ఏమైనా సలహాలు ఇస్తావా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664796"
+    },
+    {
+      "english": "Tell me more, if you can.",
+      "telugu": "వీలైతే, ఇంకా చెప్పు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664798"
+    },
+    {
+      "english": "Did you understand, at all?",
+      "telugu": "అర్థమైందా నీకు, అసలు?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664800"
+    },
+    {
+      "english": "What's the actual matter?",
+      "telugu": "అసలు విషయం ఏంటి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664802"
+    },
+    {
+      "english": "Can we talk, for a bit?",
+      "telugu": "కొంచెం సేపు మాట్లాడుకోవచ్చా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664804"
+    },
+    {
+      "english": "Where should we go, next?",
+      "telugu": "తరువాత ఎక్కడికి వెళ్ళాలి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664807"
+    },
+    {
+      "english": "What's the best option, then?",
+      "telugu": "అప్పుడు, మంచి ఎంపిక ఏది?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664810"
+    },
+    {
+      "english": "Can you help me out, please?",
+      "telugu": "దయచేసి, నాకు సహాయం చేయగలవా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664824"
+    },
+    {
+      "english": "What's bothering you, friend?",
+      "telugu": "ఏం బాధ పెడుతోంది, మిత్రమా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664827"
+    },
+    {
+      "english": "What's the next step, really?",
+      "telugu": "నిజానికి, తదుపరి చర్య ఏంటి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664829"
+    },
+    {
+      "english": "How do we solve this?",
+      "telugu": "దీన్ని ఎలా పరిష్కరించుకోవాలి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664831"
+    },
+    {
+      "english": "What are your plans, for now?",
+      "telugu": "ప్రస్తుతానికి, నీ ప్రణాళికలు ఏంటి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664833"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "telugu": "దయచేసి, మళ్ళీ చెప్పగలవా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664836"
+    },
+    {
+      "english": "What's the big deal, then?",
+      "telugu": "అయితే, అంత పెద్ద విషయం ఏంటి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664838"
+    },
+    {
+      "english": "Is everything alright, with you?",
+      "telugu": "నీతో అంతా బాగానే ఉందా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664840"
+    },
+    {
+      "english": "What are you up to, today?",
+      "telugu": "ఈరోజు ఏం చేస్తున్నావ్?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664842"
+    },
+    {
+      "english": "Can you explain this better?",
+      "telugu": "దీన్ని ఇంకా బాగా వివరించగలవా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664845"
+    },
+    {
+      "english": "What's the reason, behind this?",
+      "telugu": "దీని వెనుక కారణం ఏంటి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664847"
+    },
+    {
+      "english": "Do you need anything else?",
+      "telugu": "నీకు ఇంకేమైనా కావాలా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664849"
+    },
+    {
+      "english": "What's the latest, news?",
+      "telugu": "ఇటీవలి వార్తలు ఏంటి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664852"
+    },
+    {
+      "english": "Can we discuss this later?",
+      "telugu": "దీని గురించి తర్వాత చర్చించుకోవచ్చా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664854"
+    },
+    {
+      "english": "What do you suggest we do?",
+      "telugu": "మనం ఏం చేయాలో నీ సలహా ఏంటి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664856"
+    },
+    {
+      "english": "What's the main point, here?",
+      "telugu": "ఇక్కడ ముఖ్య విషయం ఏంటి?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664859"
+    },
+    {
+      "english": "How do you feel, about it?",
+      "telugu": "దాని గురించి నీకెలా అనిపిస్తోంది?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664861"
+    },
+    {
+      "english": "Keep pushing forward, always.",
+      "telugu": "ఎప్పుడూ ముందుకు సాగిపో.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664866"
+    },
+    {
+      "english": "You've got this, believe it.",
+      "telugu": "నీవు చేయగలవు, నమ్ము.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664868"
+    },
+    {
+      "english": "Great effort, truly awesome!",
+      "telugu": "గొప్ప ప్రయత్నం, నిజంగా అద్భుతం!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664870"
+    },
+    {
+      "english": "Your potential is huge, man.",
+      "telugu": "నీ సామర్థ్యం చాలా ఎక్కువ, మిత్రమా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664873"
+    },
+    {
+      "english": "Think positive, stay strong.",
+      "telugu": "సానుకూలంగా ఆలోచించు, దృఢంగా ఉండు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664875"
+    },
+    {
+      "english": "Don't doubt yourself, never.",
+      "telugu": "నిన్ను నువ్వు సందేహించుకోవద్దు, ఎప్పుడూ.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664877"
+    },
+    {
+      "english": "You're doing so well, keep it up.",
+      "telugu": "చాలా బాగా చేస్తున్నావు, కొనసాగించు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664880"
+    },
+    {
+      "english": "Believe in your journey, friend.",
+      "telugu": "నీ ప్రయాణాన్ని నమ్ము, స్నేహితుడా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664882"
+    },
+    {
+      "english": "Awesome job, really impressive!",
+      "telugu": "అద్భుతమైన పని, నిజంగా ఆకట్టుకుంది!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664885"
+    },
+    {
+      "english": "Every step counts, move on.",
+      "telugu": "ప్రతి అడుగు ముఖ్యమే, ముందుకు వెళ్ళు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664887"
+    },
+    {
+      "english": "You are capable of anything.",
+      "telugu": "నువ్వు ఏదైనా చేయగలవు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664890"
+    },
+    {
+      "english": "Stay focused, you'll win.",
+      "telugu": "ఏకాగ్రతతో ఉండు, నువ్వు గెలుస్తావు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664894"
+    },
+    {
+      "english": "Never give up on dreams.",
+      "telugu": "కలలను ఎప్పుడూ వదులుకోవద్దు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664896"
+    },
+    {
+      "english": "That's a brilliant idea, wow!",
+      "telugu": "అది ఒక అద్భుతమైన ఆలోచన, వావ్!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664898"
+    },
+    {
+      "english": "You inspire many people.",
+      "telugu": "నువ్వు చాలా మందికి స్ఫూర్తినిస్తావు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664901"
+    },
+    {
+      "english": "Keep that positive vibe going.",
+      "telugu": "ఆ సానుకూల శక్తిని కొనసాగించు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664903"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "telugu": "నువ్వు అనుకున్నదానికంటే ఎక్కువ బలవంతుడివి.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664905"
+    },
+    {
+      "english": "Fantastic progress, well done!",
+      "telugu": "అద్భుతమైన పురోగతి, చాలా బాగా చేసావు!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664908"
+    },
+    {
+      "english": "Embrace challenges with courage.",
+      "telugu": "సవాళ్లను ధైర్యంగా స్వీకరించు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664910"
+    },
+    {
+      "english": "Your effort is commendable, truly.",
+      "telugu": "నీ ప్రయత్నం ప్రశంసనీయం, నిజంగా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664915"
+    },
+    {
+      "english": "Stay hopeful, brighter days ahead.",
+      "telugu": "ఆశాజనకంగా ఉండు, మంచి రోజులు ముందున్నాయి.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664918"
+    },
+    {
+      "english": "You have a great attitude.",
+      "telugu": "నీ వైఖరి చాలా బాగుంది.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664920"
+    },
+    {
+      "english": "Believe in good things coming.",
+      "telugu": "మంచి జరుగుతుందని నమ్ము.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664922"
+    },
+    {
+      "english": "You're making a real difference.",
+      "telugu": "నువ్వు నిజంగా మార్పు తెస్తున్నావు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664924"
+    },
+    {
+      "english": "Keep that determination alive.",
+      "telugu": "ఆ సంకల్పాన్ని సజీవంగా ఉంచు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664927"
+    },
+    {
+      "english": "Your hard work will pay off.",
+      "telugu": "నీ కష్టానికి ప్రతిఫలం దక్కుతుంది.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664929"
+    },
+    {
+      "english": "You're on the right track.",
+      "telugu": "నువ్వు సరైన మార్గంలో ఉన్నావు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664931"
+    },
+    {
+      "english": "Stay motivated, keep going strong.",
+      "telugu": "ప్రేరణతో ఉండు, బలంగా ముందుకు వెళ్ళు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664933"
+    },
+    {
+      "english": "You've got immense talent, really.",
+      "telugu": "నీకు అపారమైన ప్రతిభ ఉంది, నిజంగా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664935"
+    },
+    {
+      "english": "Keep shining, you are bright.",
+      "telugu": "మెరుస్తూనే ఉండు, నువ్వు ప్రకాశవంతంగా ఉంటావు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664938"
+    },
+    {
+      "english": "Totally understand, don't worry.",
+      "telugu": "పూర్తిగా అర్థమైంది, కంగారు పడకు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664940"
+    },
+    {
+      "english": "It's okay, we'll figure it out.",
+      "telugu": "పర్వాలేదు, మనం చూసుకుందాం.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664943"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "telugu": "నీకు టైం తీసుకో, తొందర ఏమీ లేదు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664947"
+    },
+    {
+      "english": "I'm just thinking aloud, really.",
+      "telugu": "నేను ఊరికే ఆలోచిస్తున్నా, అంతే.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664949"
+    },
+    {
+      "english": "This is quite deep, isn't it?",
+      "telugu": "ఇది చాలా లోతైన విషయం, కదా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664952"
+    },
+    {
+      "english": "Sometimes, things just are.",
+      "telugu": "కొన్నిసార్లు, పరిస్థితులు అంతే ఉంటాయి.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664954"
+    },
+    {
+      "english": "Let it go, man, seriously.",
+      "telugu": "వదిలేయ్, మచ్చా, నిజంగా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664960"
+    },
+    {
+      "english": "Deep breaths, it'll pass.",
+      "telugu": "లోతుగా శ్వాస తీసుకో, ఇది పోతుంది.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664962"
+    },
+    {
+      "english": "It hit me, suddenly, you know?",
+      "telugu": "అది నాకు తట్టింది, అకస్మాత్తుగా, తెలుసా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664965"
+    },
+    {
+      "english": "I need some time, to process.",
+      "telugu": "నాకు కొంచెం టైం కావాలి, ఆలోచించుకోవడానికి.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664967"
+    },
+    {
+      "english": "This thought, it lingers on.",
+      "telugu": "ఈ ఆలోచన, ఇంకా మనసులోనే ఉంది.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664969"
+    },
+    {
+      "english": "Honesty, is always best, right?",
+      "telugu": "నిజాయితీ, ఎప్పుడూ మంచిదే, కదా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664972"
+    },
+    {
+      "english": "What's going on, inside your head?",
+      "telugu": "నీ మనసులో ఏముంది, ఏం జరుగుతోంది?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664974"
+    },
+    {
+      "english": "Just being real, with you.",
+      "telugu": "నీతో నిజాయితీగా ఉంటున్నా, అంతే.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664976"
+    },
+    {
+      "english": "It's a learning curve, totally.",
+      "telugu": "ఇదొక నేర్చుకునే ప్రక్రియ, పూర్తిగా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664979"
+    },
+    {
+      "english": "Can you just be patient, please?",
+      "telugu": "కాస్త ఓపిక పట్టగలవా, ప్లీజ్?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664981"
+    },
+    {
+      "english": "That feeling, it's complex, man.",
+      "telugu": "ఆ ఫీలింగ్, అది కాంప్లెక్స్, మచ్చా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664983"
+    },
+    {
+      "english": "I’m just reflecting, on life.",
+      "telugu": "నేను జీవితం గురించి ఆలోచిస్తున్నాను, అంతే.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664989"
+    },
+    {
+      "english": "It's a tough pill, to swallow.",
+      "telugu": "ఇది మింగడానికి కష్టమైన విషయం.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664992"
+    },
+    {
+      "english": "Gotta accept, what is.",
+      "telugu": "ఏది ఉందో, దాన్ని ఒప్పుకోవాలి.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664994"
+    },
+    {
+      "english": "This needs real thought, you know.",
+      "telugu": "దీనికి నిజమైన ఆలోచన అవసరం, తెలుసా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664997"
+    },
+    {
+      "english": "Let's just sit, with it.",
+      "telugu": "దీనితోనే కూర్చుందాం, అంతే.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.664999"
+    },
+    {
+      "english": "Sometimes, less is more, dude.",
+      "telugu": "కొన్నిసార్లు, తక్కువ ఎక్కువ, డూడ్.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.665002"
+    },
+    {
+      "english": "It is what it is, sadly.",
+      "telugu": "అది ఏంటో, అదే, పాపం.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.665004"
+    },
+    {
+      "english": "My bad, totally slipped my mind.",
+      "telugu": "నా తప్పు, పూర్తిగా మర్చిపోయాను.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.665006"
+    },
+    {
+      "english": "It’s a process, not an event.",
+      "telugu": "ఇది ఒక ప్రక్రియ, ఒక సంఘటన కాదు.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.665009"
+    },
+    {
+      "english": "I’m just being honest, okay?",
+      "telugu": "నేను నిజాయితీగా ఉంటున్నాను, ఓకే?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.665013"
+    },
+    {
+      "english": "This requires patience, a lot.",
+      "telugu": "దీనికి ఓపిక కావాలి, చాలా.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.665015"
+    },
+    {
+      "english": "Let's try to see, both sides.",
+      "telugu": "రెండు వైపులా చూడటానికి ప్రయత్నిద్దాం.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.665017"
+    },
+    {
+      "english": "It just dawned on me, wow.",
+      "telugu": "ఇప్పుడే నాకు తెలిసింది, వావ్.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.665019"
+    },
+    {
+      "english": "What's the latest, buddy?",
+      "telugu": "ఏంటి సంగతులు, మిత్రమా?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.665022"
+    },
+    {
+      "english": "Just chill, man, relax.",
+      "telugu": "కూల్ గా ఉండు, మనిషి, రిలాక్స్.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.665024"
+    },
+    {
+      "english": "Let's grab a bite, soon.",
+      "telugu": "త్వరగా, తినడానికి పోదాం.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:38:00.665028"
+    }
+  ],
+  "last_updated": "2026-10-17T07:38:00.665030"
+}
