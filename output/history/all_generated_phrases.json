@@ -719,7 +719,727 @@
       "telugu": "త్వరగా, తినడానికి పోదాం.",
       "category": "Common Native Slang",
       "generated_at": "2026-10-17T07:38:00.665028"
+    },
+    {
+      "english": "I'm not feeling well, doctor.",
+      "telugu": "నాకు ఆరోగ్యం బాగాలేదు, డాక్టర్.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558799"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "telugu": "దగ్గరలో ఉన్న మందుల షాపు ఎక్కడ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558809"
+    },
+    {
+      "english": "I need to see a doctor.",
+      "telugu": "నేను డాక్టర్‌ను కలవాలి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558812"
+    },
+    {
+      "english": "Do you have this medicine?",
+      "telugu": "ఈ మందు మీ దగ్గర ఉందా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558815"
+    },
+    {
+      "english": "What is the dosage?",
+      "telugu": "ఎంత మోతాదులో తీసుకోవాలి?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558818"
+    },
+    {
+      "english": "I have a headache.",
+      "telugu": "నాకు తలనొప్పిగా ఉంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558820"
+    },
+    {
+      "english": "I feel a bit feverish.",
+      "telugu": "నాకు కొంచెం జ్వరం వచ్చినట్టుంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558825"
+    },
+    {
+      "english": "Can I get a prescription?",
+      "telugu": "నాకు ప్రిస్క్రిప్షన్ ఇస్తారా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558830"
+    },
+    {
+      "english": "Is there any side effect?",
+      "telugu": "దీని వల్ల ఏమైనా సైడ్ ఎఫెక్ట్స్ ఉన్నాయా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558836"
+    },
+    {
+      "english": "I need cough syrup.",
+      "telugu": "నాకు దగ్గు మందు కావాలి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558840"
+    },
+    {
+      "english": "My stomach hurts.",
+      "telugu": "నా కడుపు నొప్పిగా ఉంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558842"
+    },
+    {
+      "english": "How much is this?",
+      "telugu": "దీని ధర ఎంత?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558845"
+    },
+    {
+      "english": "I need pain relief.",
+      "telugu": "నాకు నొప్పి నివారణ మందు కావాలి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558848"
+    },
+    {
+      "english": "When should I take it?",
+      "telugu": "దీన్ని ఎప్పుడు వేసుకోవాలి?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558850"
+    },
+    {
+      "english": "Please speak slowly.",
+      "telugu": "దయచేసి నెమ్మదిగా మాట్లాడండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558858"
+    },
+    {
+      "english": "I have allergies.",
+      "telugu": "నాకు అలర్జీలు ఉన్నాయి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558860"
+    },
+    {
+      "english": "Is this available without prescription?",
+      "telugu": "ఇది ప్రిస్క్రిప్షన్ లేకుండా దొరుకుతుందా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558863"
+    },
+    {
+      "english": "I need bandages.",
+      "telugu": "నాకు బ్యాండేజీలు కావాలి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558866"
+    },
+    {
+      "english": "I have a sore throat.",
+      "telugu": "నా గొంతు నొప్పిగా ఉంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558869"
+    },
+    {
+      "english": "Can you recommend something?",
+      "telugu": "ఏదైనా సూచిస్తారా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558871"
+    },
+    {
+      "english": "I need eye drops.",
+      "telugu": "నాకు కంటి చుక్కలు కావాలి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558874"
+    },
+    {
+      "english": "This is for fever.",
+      "telugu": "ఇది జ్వరం కోసం.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558876"
+    },
+    {
+      "english": "I have a cough.",
+      "telugu": "నాకు దగ్గు వస్తోంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558878"
+    },
+    {
+      "english": "How long does it take?",
+      "telugu": "దీనికి ఎంత సమయం పడుతుంది?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558881"
+    },
+    {
+      "english": "I feel dizzy.",
+      "telugu": "నాకు కళ్ళు తిరుగుతున్నాయి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558883"
+    },
+    {
+      "english": "Where is the waiting room?",
+      "telugu": "వెయిటింగ్ రూమ్ ఎక్కడ ఉంది?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558886"
+    },
+    {
+      "english": "I need an appointment.",
+      "telugu": "నాకు అపాయింట్‌మెంట్ కావాలి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558888"
+    },
+    {
+      "english": "Please write it down.",
+      "telugu": "దయచేసి రాసివ్వండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558891"
+    },
+    {
+      "english": "I have a toothache.",
+      "telugu": "నాకు పంటి నొప్పిగా ఉంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558893"
+    },
+    {
+      "english": "This helps with sleep.",
+      "telugu": "ఇది నిద్రకు సహాయపడుతుంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558896"
+    },
+    {
+      "english": "What's bothering you, sir?",
+      "telugu": "ఏమిటి ఇబ్బంది, గారు?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558899"
+    },
+    {
+      "english": "Tell me your symptoms, please.",
+      "telugu": "లక్షణాలు చెప్పండి, దయచేసి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558902"
+    },
+    {
+      "english": "Have you taken any medicine before?",
+      "telugu": "ముందు ఏమైనా మందులు వాడారా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558905"
+    },
+    {
+      "english": "When did this start, madam?",
+      "telugu": "ఇది ఎప్పుడు మొదలైంది, మేడం?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558908"
+    },
+    {
+      "english": "Do you have any allergies?",
+      "telugu": "మీకు ఏమైనా అలర్జీలు ఉన్నాయా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558910"
+    },
+    {
+      "english": "Let me check your pulse.",
+      "telugu": "మీ నాడిని పరీక్షిస్తాను.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558913"
+    },
+    {
+      "english": "Take deep breaths, please.",
+      "telugu": "లోతుగా శ్వాస తీసుకోండి, దయచేసి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558916"
+    },
+    {
+      "english": "Don't worry, it's treatable.",
+      "telugu": "చింతించకండి, ఇది నయం అవుతుంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558921"
+    },
+    {
+      "english": "What's the name of this medicine?",
+      "telugu": "ఈ మందు పేరు ఏమిటి?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558926"
+    },
+    {
+      "english": "Can I get a refill, please?",
+      "telugu": "రీఫిల్ తెచ్చుకోవచ్చా, దయచేసి?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558929"
+    },
+    {
+      "english": "Is this for general use?",
+      "telugu": "ఇది సాధారణ వాడకానికేనా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558931"
+    },
+    {
+      "english": "I need something for sleep.",
+      "telugu": "నాకు నిద్ర కోసం ఏదైనా కావాలి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558934"
+    },
+    {
+      "english": "Please show me that one.",
+      "telugu": "దయచేసి ఆ ఒకటి చూపించండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558937"
+    },
+    {
+      "english": "How many tablets should I take?",
+      "telugu": "ఎన్ని మాత్రలు వేసుకోవాలి?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558939"
+    },
+    {
+      "english": "This is for my child.",
+      "telugu": "ఇది నా పిల్లల కోసం.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558942"
+    },
+    {
+      "english": "Does it require a prescription?",
+      "telugu": "దీనికి ప్రిస్క్రిప్షన్ అవసరమా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558944"
+    },
+    {
+      "english": "I'm feeling very weak.",
+      "telugu": "నేను చాలా బలహీనంగా ఉన్నాను.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558947"
+    },
+    {
+      "english": "What time do you close?",
+      "telugu": "మీరు ఎప్పుడు మూసివేస్తారు?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558949"
+    },
+    {
+      "english": "Can you explain the instructions?",
+      "telugu": "సూచనలు వివరించగలరా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558952"
+    },
+    {
+      "english": "I need an antiseptic cream.",
+      "telugu": "నాకు యాంటిసెప్టిక్ క్రీమ్ కావాలి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558954"
+    },
+    {
+      "english": "Is there a doctor available now?",
+      "telugu": "ఇప్పుడు డాక్టర్ అందుబాటులో ఉన్నారా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558957"
+    },
+    {
+      "english": "My body is aching all over.",
+      "telugu": "నా శరీరం అంతా నొప్పులుగా ఉంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558959"
+    },
+    {
+      "english": "Can I pay by card?",
+      "telugu": "నేను కార్డుతో చెల్లించవచ్చా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558962"
+    },
+    {
+      "english": "What's the emergency number?",
+      "telugu": "అత్యవసర సంఖ్య ఏమిటి?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558965"
+    },
+    {
+      "english": "I have a skin rash.",
+      "telugu": "నాకు చర్మంపై దద్దుర్లు వచ్చాయి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558967"
+    },
+    {
+      "english": "How often should I use this?",
+      "telugu": "దీనిని ఎంత తరచుగా వాడాలి?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558970"
+    },
+    {
+      "english": "I need something for digestion.",
+      "telugu": "నాకు జీర్ణక్రియకు ఏదైనా కావాలి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558973"
+    },
+    {
+      "english": "Are there any side effects?",
+      "telugu": "ఏవైనా దుష్ప్రభావాలు ఉన్నాయా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558975"
+    },
+    {
+      "english": "Please explain the usage.",
+      "telugu": "వాడకం వివరించండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558977"
+    },
+    {
+      "english": "This medicine is expired.",
+      "telugu": "ఈ మందు గడువు ముగిసింది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558980"
+    },
+    {
+      "english": "Doctor's advice, is gold.",
+      "telugu": "వైద్యుడి సలహా, బంగారం.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558983"
+    },
+    {
+      "english": "Health first, wealth later.",
+      "telugu": "ఆరోగ్యమే మహాభాగ్యం.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558985"
+    },
+    {
+      "english": "Don't ignore, small pains.",
+      "telugu": "చిన్న నొప్పులను, వదిలేయకండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558988"
+    },
+    {
+      "english": "Medicine is bitter, but good.",
+      "telugu": "మందు చేదైనా, మేలు చేస్తుంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558993"
+    },
+    {
+      "english": "Preventive care, saves future.",
+      "telugu": "ముందు జాగ్రత్త, భవిష్యత్తును కాపాడుతుంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558996"
+    },
+    {
+      "english": "A doctor's visit, is a must.",
+      "telugu": "డాక్టర్ దగ్గరికి వెళ్లడం, తప్పనిసరి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.558998"
+    },
+    {
+      "english": "Follow the prescription, carefully.",
+      "telugu": "సూచించిన మందులను, జాగ్రత్తగా వాడండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559001"
+    },
+    {
+      "english": "Rest is, the best medicine.",
+      "telugu": "విశ్రాంతే, గొప్ప మందు.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559004"
+    },
+    {
+      "english": "Hydration is key, always.",
+      "telugu": "నీరు తాగడం ముఖ్యం, ఎప్పుడూ.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559006"
+    },
+    {
+      "english": "Listen to your body, it knows.",
+      "telugu": "మీ శరీరం చెప్పేది, వినండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559011"
+    },
+    {
+      "english": "A healthy mind, healthy body.",
+      "telugu": "ఆరోగ్యకరమైన మనసు, ఆరోగ్యకరమైన శరీరం.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559014"
+    },
+    {
+      "english": "Home remedies, can help too.",
+      "telugu": "ఇంటి చిట్కాలు, కూడా సహాయపడతాయి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559017"
+    },
+    {
+      "english": "Don't self-medicate, consult first.",
+      "telugu": "స్వంత వైద్యం వద్దు, ముందు సంప్రదించండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559021"
+    },
+    {
+      "english": "Ask, if unsure about dosage.",
+      "telugu": "మోతాదు గురించి, సందేహం ఉంటే అడగండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559024"
+    },
+    {
+      "english": "Patience, with recovery.",
+      "telugu": "కోలుకోవడానికి, ఓపిక కావాలి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559027"
+    },
+    {
+      "english": "Regular check-ups, are vital.",
+      "telugu": "తరచుగా పరీక్షలు, చాలా ముఖ్యం.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559029"
+    },
+    {
+      "english": "Hygiene matters, a lot.",
+      "telugu": "పరిశుభ్రత ముఖ్యం, చాలా.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559032"
+    },
+    {
+      "english": "Listen to the pharmacist's advice.",
+      "telugu": "ఫార్మసిస్ట్ సలహా, వినండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559035"
+    },
+    {
+      "english": "Quick recovery, is the wish.",
+      "telugu": "త్వరగా కోలుకోవాలి, అదే కోరిక.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559038"
+    },
+    {
+      "english": "Diet plays, a big role.",
+      "telugu": "ఆహారం, పెద్ద పాత్ర పోషిస్తుంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559040"
+    },
+    {
+      "english": "Take medicine, on time.",
+      "telugu": "మందులు, సమయానికి వేసుకోండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559043"
+    },
+    {
+      "english": "Symptoms can change, watch out.",
+      "telugu": "లక్షణాలు మారవచ్చు, జాగ్రత్త.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559046"
+    },
+    {
+      "english": "Stress less, live more.",
+      "telugu": "ఒత్తిడి తగ్గించండి, ఎక్కువ జీవించండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559048"
+    },
+    {
+      "english": "Trust the medical professionals.",
+      "telugu": "వైద్య నిపుణులను, నమ్మండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559051"
+    },
+    {
+      "english": "A healthy lifestyle, is priceless.",
+      "telugu": "ఆరోగ్యకరమైన జీవనశైలి, అమూల్యమైనది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559055"
+    },
+    {
+      "english": "Don't delay, treatment.",
+      "telugu": "చికిత్సలో, ఆలస్యం చేయవద్దు.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559058"
+    },
+    {
+      "english": "Ask for generic options.",
+      "telugu": "సాధారణ మందుల గురించి, అడగండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559061"
+    },
+    {
+      "english": "Read the label, thoroughly.",
+      "telugu": "లేబుల్ ను, పూర్తిగా చదవండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559063"
+    },
+    {
+      "english": "Your health, is your wealth.",
+      "telugu": "మీ ఆరోగ్యం, మీ సంపద.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559066"
+    },
+    {
+      "english": "Seek medical help, promptly.",
+      "telugu": "వెంటనే, వైద్య సహాయం పొందండి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559071"
+    },
+    {
+      "english": "Sometimes, healing takes time, you know?",
+      "telugu": "కొన్నిసార్లు, నయం కావడానికి సమయం పడుతుంది, తెలుసా?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559074"
+    },
+    {
+      "english": "I truly feel better now, thanks.",
+      "telugu": "నేను నిజంగా ఇప్పుడు బాగున్నాను, ధన్యవాదాలు.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559077"
+    },
+    {
+      "english": "This treatment feels right for me.",
+      "telugu": "ఈ చికిత్స నాకు సరైనది అనిపిస్తోంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559079"
+    },
+    {
+      "english": "It’s good to be honest about pain.",
+      "telugu": "నొప్పి గురించి నిజాయితీగా ఉండటం మంచిది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559083"
+    },
+    {
+      "english": "I appreciate your patience with me.",
+      "telugu": "మీ సహనానికి నేను కృతజ్ఞుడను.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559085"
+    },
+    {
+      "english": "Sharing my worries, helped a lot.",
+      "telugu": "నా ఆందోళనలు పంచుకోవడం, చాలా సహాయపడింది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559088"
+    },
+    {
+      "english": "I'm learning to trust my body more.",
+      "telugu": "నా శరీరాన్ని ఎక్కువగా నమ్మడం నేర్చుకుంటున్నాను.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559091"
+    },
+    {
+      "english": "This experience, taught me resilience.",
+      "telugu": "ఈ అనుభవం, నాకు ధైర్యాన్ని నేర్పింది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559093"
+    },
+    {
+      "english": "It’s okay to feel scared sometimes.",
+      "telugu": "కొన్నిసార్లు భయపడటం, తప్పు లేదు.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559097"
+    },
+    {
+      "english": "What are your deeper thoughts on this?",
+      "telugu": "దీనిపై మీ లోతైన ఆలోచనలు ఏమిటి?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559099"
+    },
+    {
+      "english": "I reflect on my health choices now.",
+      "telugu": "నేను ఇప్పుడు నా ఆరోగ్య ఎంపికలను ప్రతిబింబిస్తున్నాను.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559102"
+    },
+    {
+      "english": "Understanding this is crucial for me.",
+      "telugu": "దీన్ని అర్థం చేసుకోవడం నాకు చాలా ముఖ్యం.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559106"
+    },
+    {
+      "english": "My perspective has changed, truly.",
+      "telugu": "నా దృక్పథం మారింది, నిజంగా.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559109"
+    },
+    {
+      "english": "Feeling hopeful about recovery now.",
+      "telugu": "ఇప్పుడు కోలుకోవడంపై ఆశగా ఉంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559111"
+    },
+    {
+      "english": "This medication, brings me comfort.",
+      "telugu": "ఈ మందు, నాకు ఓదార్పునిస్తుంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559114"
+    },
+    {
+      "english": "I'm grateful for the care received.",
+      "telugu": "అందిన సంరక్షణకు నేను కృతజ్ఞుడను.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559117"
+    },
+    {
+      "english": "Small improvements, mean a lot.",
+      "telugu": "చిన్న మెరుగుదలలు, చాలా అర్థం.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559119"
+    },
+    {
+      "english": "It's important to feel heard.",
+      "telugu": "వినబడటం ముఖ్యం.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559122"
+    },
+    {
+      "english": "I’m thinking about long-term wellness.",
+      "telugu": "నేను దీర్ఘకాలిక ఆరోగ్యం గురించి ఆలోచిస్తున్నాను.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559125"
+    },
+    {
+      "english": "This journey, requires understanding.",
+      "telugu": "ఈ ప్రయాణానికి, అవగాహన అవసరం.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559128"
+    },
+    {
+      "english": "I find strength in vulnerability.",
+      "telugu": "బలహీనతలో నేను బలాన్ని కనుగొంటాను.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559131"
+    },
+    {
+      "english": "My feelings are valid, I know.",
+      "telugu": "నా భావాలు సరైనవే, నాకు తెలుసు.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559133"
+    },
+    {
+      "english": "This medicine, has a calming effect.",
+      "telugu": "ఈ మందు, ప్రశాంతమైన ప్రభావాన్ని కలిగి ఉంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559136"
+    },
+    {
+      "english": "I'm processing, what happened.",
+      "telugu": "ఏం జరిగిందో, నేను ప్రాసెస్ చేస్తున్నాను.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559139"
+    },
+    {
+      "english": "We need empathy, in healthcare.",
+      "telugu": "ఆరోగ్య సంరక్షణలో, మనకు సానుభూతి కావాలి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559142"
+    },
+    {
+      "english": "Trust takes time, to build.",
+      "telugu": "నమ్మకం ఏర్పడటానికి, సమయం పడుతుంది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559144"
+    },
+    {
+      "english": "I'm focusing on, positive outcomes.",
+      "telugu": "నేను సానుకూల ఫలితాలపై, దృష్టి పెడుతున్నాను.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559147"
+    },
+    {
+      "english": "This conversation, was very helpful.",
+      "telugu": "ఈ సంభాషణ, చాలా సహాయపడింది.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559150"
+    },
+    {
+      "english": "I feel understood, finally.",
+      "telugu": "నేను అర్థం చేసుకోబడ్డాను, చివరికి.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559152"
+    },
+    {
+      "english": "Taking care of myself, is important.",
+      "telugu": "నన్ను నేను చూసుకోవడం, ముఖ్యం.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:53:38.559155"
     }
   ],
-  "last_updated": "2026-10-17T07:38:00.665030"
+  "last_updated": "2026-10-18T07:53:38.559157"
 }
