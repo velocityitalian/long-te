@@ -1439,7 +1439,727 @@
       "telugu": "నన్ను నేను చూసుకోవడం, ముఖ్యం.",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-10-18T07:53:38.559155"
+    },
+    {
+      "english": "How much money, do you have?",
+      "telugu": "మీ దగ్గర ఎంత డబ్బు ఉంది?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362162"
+    },
+    {
+      "english": "I need cash, right now.",
+      "telugu": "నాకు వెంటనే నగదు కావాలి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362175"
+    },
+    {
+      "english": "Can I withdraw, some money?",
+      "telugu": "నేను కొంత డబ్బు తీసుకోవచ్చా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362178"
+    },
+    {
+      "english": "Where is the ATM, please?",
+      "telugu": "దయచేసి ATM ఎక్కడ ఉంది?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362180"
+    },
+    {
+      "english": "I want to deposit, this check.",
+      "telugu": "నేను ఈ చెక్కును డిపాజిట్ చేయాలనుకుంటున్నాను.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362182"
+    },
+    {
+      "english": "What is the balance, in my account?",
+      "telugu": "నా ఖాతాలో ఎంత బ్యాలెన్స్ ఉంది?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362185"
+    },
+    {
+      "english": "This is too expensive, for me.",
+      "telugu": "ఇది నాకు చాలా ఖరీదైనది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362187"
+    },
+    {
+      "english": "Can you give me, change please?",
+      "telugu": "దయచేసి నాకు చిల్లర ఇస్తారా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362192"
+    },
+    {
+      "english": "I have no money, left.",
+      "telugu": "నా దగ్గర డబ్బు మిగిలి లేదు.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362195"
+    },
+    {
+      "english": "Save money, for a rainy day.",
+      "telugu": "భవిష్యత్తు కోసం డబ్బు ఆదా చేయండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362198"
+    },
+    {
+      "english": "Is this on sale, today?",
+      "telugu": "ఇది ఈరోజు సేల్‌లో ఉందా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362200"
+    },
+    {
+      "english": "I need to pay, the bill.",
+      "telugu": "నేను బిల్లు చెల్లించాలి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362202"
+    },
+    {
+      "english": "I'm short, of cash.",
+      "telugu": "నా దగ్గర నగదు తక్కువగా ఉంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362204"
+    },
+    {
+      "english": "Let's go, Dutch tonight.",
+      "telugu": "ఈరోజు మనం ఖర్చులు పంచుకుందాం.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362208"
+    },
+    {
+      "english": "Can I use, my card here?",
+      "telugu": "నేను ఇక్కడ నా కార్డు వాడొచ్చా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362210"
+    },
+    {
+      "english": "This is a good deal, wow!",
+      "telugu": "ఇది మంచి డీల్, వావ్!",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362213"
+    },
+    {
+      "english": "I need to transfer, money.",
+      "telugu": "నేను డబ్బు బదిలీ చేయాలి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362215"
+    },
+    {
+      "english": "How much do I owe, you?",
+      "telugu": "నేను మీకు ఎంత బాకీ ఉన్నాను?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362217"
+    },
+    {
+      "english": "It's worth, every penny.",
+      "telugu": "ప్రతి పైసాకు ఇది విలువైనది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362220"
+    },
+    {
+      "english": "Is there a discount, please?",
+      "telugu": "దయచేసి డిస్కౌంట్ ఉందా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362222"
+    },
+    {
+      "english": "I need to open, an account.",
+      "telugu": "నేను ఒక ఖాతా తెరవాలి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362224"
+    },
+    {
+      "english": "This is quite, affordable.",
+      "telugu": "ఇది చాలా అందుబాటు ధరలో ఉంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362226"
+    },
+    {
+      "english": "Can I get, a receipt?",
+      "telugu": "నేను రసీదు తీసుకోవచ్చా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362228"
+    },
+    {
+      "english": "My wallet, is empty.",
+      "telugu": "నా పర్సు ఖాళీగా ఉంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362230"
+    },
+    {
+      "english": "This is a rip-off, honestly.",
+      "telugu": "ఇది నిజంగా దోపిడీ, నిజాయితీగా.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362232"
+    },
+    {
+      "english": "I'm on a tight, budget.",
+      "telugu": "నేను కఠినమైన బడ్జెట్‌లో ఉన్నాను.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362234"
+    },
+    {
+      "english": "Can we split, the bill?",
+      "telugu": "మనం బిల్లు పంచుకోవచ్చా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362236"
+    },
+    {
+      "english": "This is a good, investment.",
+      "telugu": "ఇది మంచి పెట్టుబడి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362240"
+    },
+    {
+      "english": "Money doesn't, grow on trees.",
+      "telugu": "డబ్బు చెట్లకు కాసేది కాదు.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362242"
+    },
+    {
+      "english": "What is, today's exchange rate?",
+      "telugu": "నేటి మారకపు రేటు, ఎంత?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362246"
+    },
+    {
+      "english": "Can you help, me with this?",
+      "telugu": "దీనిలో, నాకు సహాయం చేస్తారా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362248"
+    },
+    {
+      "english": "Where can I, find a bank?",
+      "telugu": "బ్యాంకు, ఎక్కడ దొరుకుతుంది?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362251"
+    },
+    {
+      "english": "Do you accept, credit cards?",
+      "telugu": "మీరు, క్రెడిట్ కార్డులు తీసుకుంటారా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362253"
+    },
+    {
+      "english": "How much commission, is charged?",
+      "telugu": "ఎంత కమీషన్, వసూలు చేస్తారు?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362256"
+    },
+    {
+      "english": "Is there, an ATM nearby?",
+      "telugu": "ఇక్కడికి, దగ్గరలో ఏటీఎం ఉందా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362258"
+    },
+    {
+      "english": "I need to exchange, some currency.",
+      "telugu": "నేను, కొంత కరెన్సీ మార్చుకోవాలి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362261"
+    },
+    {
+      "english": "What are, your banking hours?",
+      "telugu": "మీ బ్యాంకింగ్, సమయాలు ఏమిటి?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362263"
+    },
+    {
+      "english": "Can I get, a loan here?",
+      "telugu": "నేను, ఇక్కడ రుణం పొందవచ్చా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362265"
+    },
+    {
+      "english": "What's the interest rate, on loans?",
+      "telugu": "రుణాలపై, వడ్డీ రేటు ఎంత?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362267"
+    },
+    {
+      "english": "Could you explain, this fee?",
+      "telugu": "ఈ రుసుమును, వివరించగలరా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362270"
+    },
+    {
+      "english": "Where is, the nearest branch?",
+      "telugu": "అత్యంత సమీప, శాఖ ఎక్కడ ఉంది?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362272"
+    },
+    {
+      "english": "I'd like to inquire, about savings.",
+      "telugu": "నేను, పొదుపు గురించి అడగాలనుకుంటున్నాను.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362275"
+    },
+    {
+      "english": "Is mobile banking, available?",
+      "telugu": "మొబైల్ బ్యాంకింగ్, అందుబాటులో ఉందా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362361"
+    },
+    {
+      "english": "What services, do you offer?",
+      "telugu": "మీరు, ఏ సేవలను అందిస్తారు?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362364"
+    },
+    {
+      "english": "Can I pay, with my phone?",
+      "telugu": "నేను, నా ఫోన్‌తో చెల్లించవచ్చా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362366"
+    },
+    {
+      "english": "How do I, set up online banking?",
+      "telugu": "ఆన్‌లైన్ బ్యాంకింగ్‌ను, ఎలా సెటప్ చేయాలి?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362368"
+    },
+    {
+      "english": "Do you have, any special offers?",
+      "telugu": "మీ వద్ద, ఏవైనా ప్రత్యేక ఆఫర్లు ఉన్నాయా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362371"
+    },
+    {
+      "english": "What's the limit, for daily withdrawals?",
+      "telugu": "రోజువారీ ఉపసంహరణలకు, పరిమితి ఎంత?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362373"
+    },
+    {
+      "english": "Can I get, a statement, please?",
+      "telugu": "నేను, ఒక స్టేట్‌మెంట్ పొందవచ్చా, దయచేసి?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362375"
+    },
+    {
+      "english": "Is there, a fee for transfers?",
+      "telugu": "బదిలీలకు, రుసుము ఏమైనా ఉందా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362377"
+    },
+    {
+      "english": "I need to update, my details.",
+      "telugu": "నేను, నా వివరాలను అప్‌డేట్ చేయాలి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362379"
+    },
+    {
+      "english": "Where can I, cash a traveler's check?",
+      "telugu": "ట్రావెలర్ చెక్‌ను, నేను ఎక్కడ నగదు చేసుకోవచ్చు?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362381"
+    },
+    {
+      "english": "What's the best way, to save money?",
+      "telugu": "డబ్బు ఆదా చేయడానికి, ఉత్తమ మార్గం ఏమిటి?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362384"
+    },
+    {
+      "english": "Can you advise, me on investments?",
+      "telugu": "పెట్టుబడులపై, మీరు నాకు సలహా ఇవ్వగలరా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362385"
+    },
+    {
+      "english": "I'm looking for, a savings account.",
+      "telugu": "నేను, ఒక పొదుపు ఖాతా కోసం చూస్తున్నాను.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362388"
+    },
+    {
+      "english": "What's the minimum balance, required?",
+      "telugu": "అవసరమైన, కనిష్ట బ్యాలెన్స్ ఎంత?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362390"
+    },
+    {
+      "english": "Can I withdraw, foreign currency?",
+      "telugu": "నేను, విదేశీ కరెన్సీని విత్‌డ్రా చేయవచ్చా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362392"
+    },
+    {
+      "english": "Where is, the nearest currency exchange?",
+      "telugu": "అత్యంత సమీప, కరెన్సీ మార్పిడి ఎక్కడ ఉంది?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362394"
+    },
+    {
+      "english": "Could you check, my transaction history?",
+      "telugu": "నా లావాదేవీల చరిత్రను, మీరు తనిఖీ చేయగలరా?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362396"
+    },
+    {
+      "english": "Think big, earn bigger.",
+      "telugu": "పెద్దగా ఆలోచించు, ఇంకా పెద్దగా సంపాదించు.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362400"
+    },
+    {
+      "english": "Your savings, your future.",
+      "telugu": "మీ పొదుపు, మీ భవిష్యత్తు.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362402"
+    },
+    {
+      "english": "Every rupee counts, save wisely.",
+      "telugu": "ప్రతి రూపాయి విలువైనదే, తెలివిగా పొదుపు చేయండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362404"
+    },
+    {
+      "english": "Success is built, brick by brick.",
+      "telugu": "విజయం ఒకదానిపై ఒకటి కట్టుకుంటూ నిర్మించబడుతుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362407"
+    },
+    {
+      "english": "Stay focused, achieve your goals.",
+      "telugu": "లక్ష్యం మీద దృష్టి పెట్టు, మీ లక్ష్యాలను సాధించు.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362409"
+    },
+    {
+      "english": "Believe in your potential, earn more.",
+      "telugu": "మీ సామర్థ్యంపై నమ్మకం ఉంచు, ఇంకా ఎక్కువ సంపాదించు.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362411"
+    },
+    {
+      "english": "Small steps today, big results tomorrow.",
+      "telugu": "నేడు చిన్న అడుగులు, రేపు పెద్ద ఫలితాలు.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362413"
+    },
+    {
+      "english": "Manage your money, master your life.",
+      "telugu": "మీ డబ్బును నిర్వహించండి, మీ జీవితాన్ని శాసించండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362419"
+    },
+    {
+      "english": "You've earned it, enjoy responsibly.",
+      "telugu": "మీరు దానిని సంపాదించారు, బాధ్యతాయుతంగా ఆనందించండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362421"
+    },
+    {
+      "english": "Smart choices, secure future.",
+      "telugu": "తెలివైన ఎంపికలు, సురక్షితమైన భవిష్యత్తు.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362423"
+    },
+    {
+      "english": "Keep learning, keep growing financially.",
+      "telugu": "నేర్చుకుంటూ ఉండండి, ఆర్థికంగా ఎదుగుతూ ఉండండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362426"
+    },
+    {
+      "english": "Your effort, your reward.",
+      "telugu": "మీ కృషి, మీ బహుమతి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362428"
+    },
+    {
+      "english": "Don't just dream, plan and execute.",
+      "telugu": "కేవలం కలలు కనకండి, ప్రణాళిక వేసి అమలు చేయండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362430"
+    },
+    {
+      "english": "Financial freedom, is within reach.",
+      "telugu": "ఆర్థిక స్వాతంత్ర్యం, అందుబాటులోనే ఉంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362436"
+    },
+    {
+      "english": "Invest in yourself, always.",
+      "telugu": "మీపై మీరు పెట్టుబడి పెట్టండి, ఎల్లప్పుడూ.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362438"
+    },
+    {
+      "english": "Discipline pays, in the long run.",
+      "telugu": "క్రమశిక్షణ దీర్ఘకాలంలో, ప్రతిఫలాన్నిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362440"
+    },
+    {
+      "english": "You are capable, of great wealth.",
+      "telugu": "మీరు గొప్ప సంపదకు, సామర్థ్యం కలవారు.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362442"
+    },
+    {
+      "english": "Patience is key, to wealth.",
+      "telugu": "ఓర్పు, సంపదకు కీలకం.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362444"
+    },
+    {
+      "english": "Celebrate small wins, stay motivated.",
+      "telugu": "చిన్న విజయాలను, సెలబ్రేట్ చేసుకోండి, ప్రేరణ పొందండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362446"
+    },
+    {
+      "english": "Make wise financial decisions.",
+      "telugu": "తెలివైన ఆర్థిక నిర్ణయాలు, తీసుకోండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362448"
+    },
+    {
+      "english": "Future is bright, with good planning.",
+      "telugu": "మంచి ప్రణాళికతో, భవిష్యత్తు ప్రకాశవంతంగా ఉంటుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362450"
+    },
+    {
+      "english": "Control your spending, increase your savings.",
+      "telugu": "మీ ఖర్చును నియంత్రించండి, మీ పొదుపును పెంచుకోండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362452"
+    },
+    {
+      "english": "Be financially disciplined, be successful.",
+      "telugu": "ఆర్థిక క్రమశిక్షణతో, విజయవంతంగా ఉండండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362454"
+    },
+    {
+      "english": "Wealth creation, takes time.",
+      "telugu": "సంపద సృష్టికి, సమయం పడుతుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362456"
+    },
+    {
+      "english": "Keep your financial goals, in sight.",
+      "telugu": "మీ ఆర్థిక లక్ష్యాలను, గుర్తుంచుకోండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362458"
+    },
+    {
+      "english": "You're doing great, keep it up!",
+      "telugu": "మీరు అద్భుతంగా చేస్తున్నారు, కొనసాగించండి!",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362462"
+    },
+    {
+      "english": "Financial growth, is achievable.",
+      "telugu": "ఆర్థిక వృద్ధి, సాధించదగినదే.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362464"
+    },
+    {
+      "english": "Invest smart, live better.",
+      "telugu": "తెలివిగా పెట్టుబడి పెట్టండి, మెరుగ్గా జీవించండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362466"
+    },
+    {
+      "english": "Your positive money mindset, matters.",
+      "telugu": "మీ సానుకూల డబ్బు ఆలోచన, ముఖ్యం.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362468"
+    },
+    {
+      "english": "This feels right, for my future.",
+      "telugu": "ఇది నా భవిష్యత్తుకు, సరైనదిగా అనిపిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362470"
+    },
+    {
+      "english": "I'm truly happy, with this decision.",
+      "telugu": "నేను ఈ నిర్ణయంతో, నిజంగా సంతోషంగా ఉన్నాను.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362472"
+    },
+    {
+      "english": "This amount, brings me peace.",
+      "telugu": "ఈ మొత్తం, నాకు ప్రశాంతతను ఇస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362474"
+    },
+    {
+      "english": "I feel secure, knowing this.",
+      "telugu": "ఇది తెలుసుకొని, నేను సురక్షితంగా ఉన్నాను.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362478"
+    },
+    {
+      "english": "My heart says, this is the way.",
+      "telugu": "నా మనసు చెబుతోంది, ఇదే సరైన మార్గం.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362480"
+    },
+    {
+      "english": "It's a relief, to sort this out.",
+      "telugu": "దీన్ని పరిష్కరించడం, ఒక ఉపశమనం.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362482"
+    },
+    {
+      "english": "I've learned patience, through this.",
+      "telugu": "దీని ద్వారా, నేను ఓర్పును నేర్చుకున్నాను.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362485"
+    },
+    {
+      "english": "This thought, lingers in my mind.",
+      "telugu": "ఈ ఆలోచన, నా మనసులో మెదులుతోంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362487"
+    },
+    {
+      "english": "I trust my gut, on this.",
+      "telugu": "దీనిపై, నా అంతరాత్మను నమ్ముతున్నాను.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362489"
+    },
+    {
+      "english": "It feels honest, this approach.",
+      "telugu": "ఈ విధానం, నిజాయితీగా అనిపిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362491"
+    },
+    {
+      "english": "My spirit agrees, with this plan.",
+      "telugu": "నా ఆత్మ, ఈ ప్రణాళికతో ఏకీభవిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362493"
+    },
+    {
+      "english": "This path feels, deeply right.",
+      "telugu": "ఈ మార్గం, లోతుగా సరైనదనిపిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362495"
+    },
+    {
+      "english": "I feel a sense, of gratitude.",
+      "telugu": "నాకు కృతజ్ఞతా భావం, కలుగుతోంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362497"
+    },
+    {
+      "english": "This brings clarity, to my thoughts.",
+      "telugu": "ఇది నా ఆలోచనలకు, స్పష్టతను తెస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362499"
+    },
+    {
+      "english": "My intuition, guides me here.",
+      "telugu": "నా అంతర్ దృష్టి, నన్ను ఇక్కడికి నడిపిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362502"
+    },
+    {
+      "english": "This solution feels, so natural.",
+      "telugu": "ఈ పరిష్కారం, చాలా సహజంగా అనిపిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362505"
+    },
+    {
+      "english": "I'm content, with the outcome.",
+      "telugu": "ఫలితంతో, నేను సంతృప్తిగా ఉన్నాను.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362507"
+    },
+    {
+      "english": "This makes perfect sense, emotionally.",
+      "telugu": "ఇది భావోద్వేగంగా, పూర్తిగా అర్ధమవుతుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362509"
+    },
+    {
+      "english": "My soul feels, lighter now.",
+      "telugu": "నా ఆత్మ, ఇప్పుడు తేలికగా అనిపిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362511"
+    },
+    {
+      "english": "This deep feeling, is important.",
+      "telugu": "ఈ లోతైన భావన, ముఖ్యం.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362513"
+    },
+    {
+      "english": "I'm at peace, with this.",
+      "telugu": "దీనితో, నేను ప్రశాంతంగా ఉన్నాను.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362515"
+    },
+    {
+      "english": "This resonates, with my values.",
+      "telugu": "ఇది నా విలువలతో, ప్రతిధ్వనిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362517"
+    },
+    {
+      "english": "I feel a true connection, here.",
+      "telugu": "నాకు ఇక్కడ, నిజమైన అనుబంధం అనిపిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362519"
+    },
+    {
+      "english": "My inner voice, approves this.",
+      "telugu": "నా అంతరాత్మ, దీన్ని ఆమోదిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362521"
+    },
+    {
+      "english": "This feels like, the right time.",
+      "telugu": "ఇది సరైన సమయంలా, అనిపిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362523"
+    },
+    {
+      "english": "I'm reflecting, on this journey.",
+      "telugu": "నేను ఈ ప్రయాణంపై, ఆలోచిస్తున్నాను.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362525"
+    },
+    {
+      "english": "This decision, feels heartfelt.",
+      "telugu": "ఈ నిర్ణయం, హృదయపూర్వకంగా అనిపిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362527"
+    },
+    {
+      "english": "My confidence, grows with this.",
+      "telugu": "నా ఆత్మవిశ్వాసం, దీంతో పెరుగుతుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362529"
+    },
+    {
+      "english": "This truth, brings comfort.",
+      "telugu": "ఈ నిజం, ఓదార్పునిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362531"
+    },
+    {
+      "english": "I feel a deep sense, of purpose.",
+      "telugu": "నాకు ఒక లోతైన, ఉద్దేశ్యం అనిపిస్తుంది.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362533"
+    },
+    {
+      "english": "Pay bills on time, avoid late fees.",
+      "telugu": "బిల్లులు, సమయానికి కట్టండి, ఆలస్య రుసుములు, తప్పించుకోండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362535"
+    },
+    {
+      "english": "Check account balance, before spending much.",
+      "telugu": "ఖర్చు, చేయడానికి ముందు, అకౌంట్ బ్యాలెన్స్, చూడండి.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:38:23.362537"
     }
   ],
-  "last_updated": "2026-10-18T07:53:38.559157"
+  "last_updated": "2026-10-19T08:38:23.362539"
 }
