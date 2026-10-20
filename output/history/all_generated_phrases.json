@@ -2159,7 +2159,727 @@
       "telugu": "ఖర్చు, చేయడానికి ముందు, అకౌంట్ బ్యాలెన్స్, చూడండి.",
       "category": "Banking & Money",
       "generated_at": "2026-10-19T08:38:23.362537"
+    },
+    {
+      "english": "Good morning, boss.",
+      "telugu": "శుభోదయం, బాస్.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856801"
+    },
+    {
+      "english": "How are you, sir?",
+      "telugu": "ఎలా ఉన్నారు, సార్?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856814"
+    },
+    {
+      "english": "I am fine, thank you.",
+      "telugu": "నేను బాగున్నాను, ధన్యవాదాలు.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856819"
+    },
+    {
+      "english": "What is the task today?",
+      "telugu": "ఈ రోజు పని ఏమిటి?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856822"
+    },
+    {
+      "english": "Let's start the meeting.",
+      "telugu": "సమావేశం ప్రారంభిద్దాం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856826"
+    },
+    {
+      "english": "Please pass the file.",
+      "telugu": "దయచేసి ఫైల్ ఇవ్వండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856829"
+    },
+    {
+      "english": "I need some help.",
+      "telugu": "నాకు కొంచెం సహాయం కావాలి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856833"
+    },
+    {
+      "english": "I don't understand.",
+      "telugu": "నాకు అర్థం కాలేదు.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856839"
+    },
+    {
+      "english": "Where is the printer?",
+      "telugu": "ప్రింటర్ ఎక్కడ ఉంది?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856843"
+    },
+    {
+      "english": "My computer is slow.",
+      "telugu": "నా కంప్యూటర్ నెమ్మదిగా ఉంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856846"
+    },
+    {
+      "english": "Let's take a break.",
+      "telugu": "విరామం తీసుకుందాం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856849"
+    },
+    {
+      "english": "I have a deadline.",
+      "telugu": "నాకు గడువు ఉంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856852"
+    },
+    {
+      "english": "Is this urgent?",
+      "telugu": "ఇది అత్యవసరమా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856855"
+    },
+    {
+      "english": "I will do it now.",
+      "telugu": "నేను ఇప్పుడు చేస్తాను.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856858"
+    },
+    {
+      "english": "When is the next meeting?",
+      "telugu": "తదుపరి సమావేశం ఎప్పుడు?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856863"
+    },
+    {
+      "english": "Please send the email.",
+      "telugu": "దయచేసి ఈమెయిల్ పంపండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856866"
+    },
+    {
+      "english": "This is very important.",
+      "telugu": "ఇది చాలా ముఖ్యం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856869"
+    },
+    {
+      "english": "I am working on it.",
+      "telugu": "నేను దానిపై పని చేస్తున్నాను.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856872"
+    },
+    {
+      "english": "What is your opinion?",
+      "telugu": "మీ అభిప్రాయం ఏమిటి?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856874"
+    },
+    {
+      "english": "Can you check this?",
+      "telugu": "మీరు దీన్ని తనిఖీ చేయగలరా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856877"
+    },
+    {
+      "english": "I need more time.",
+      "telugu": "నాకు ఇంకా సమయం కావాలి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856880"
+    },
+    {
+      "english": "Let's finish this quickly.",
+      "telugu": "దీన్ని త్వరగా పూర్తి చేద్దాం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856883"
+    },
+    {
+      "english": "Good job, everyone.",
+      "telugu": "అందరూ బాగా చేసారు.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856886"
+    },
+    {
+      "english": "I will be back soon.",
+      "telugu": "నేను త్వరలో వస్తాను.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856889"
+    },
+    {
+      "english": "Is the work done?",
+      "telugu": "పని పూర్తయిందా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856892"
+    },
+    {
+      "english": "I need to make a call.",
+      "telugu": "నేను ఒక కాల్ చేయాలి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856896"
+    },
+    {
+      "english": "Please send the report.",
+      "telugu": "దయచేసి నివేదిక పంపండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856899"
+    },
+    {
+      "english": "I am leaving now.",
+      "telugu": "నేను ఇప్పుడు బయలుదేరుతున్నాను.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856902"
+    },
+    {
+      "english": "See you tomorrow.",
+      "telugu": "రేపు కలుద్దాం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856905"
+    },
+    {
+      "english": "What's the main agenda, madam?",
+      "telugu": "ప్రధాన ఎజెండా ఏమిటండీ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856909"
+    },
+    {
+      "english": "Could you explain that again, please?",
+      "telugu": "దయచేసి, మళ్ళీ వివరించగలరా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856913"
+    },
+    {
+      "english": "Do you have a moment to discuss?",
+      "telugu": "మాట్లాడటానికి మీకు కొంచెం సమయం ఉందా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856916"
+    },
+    {
+      "english": "Where should I submit this document?",
+      "telugu": "ఈ పత్రాన్ని ఎక్కడ సమర్పించాలి?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856919"
+    },
+    {
+      "english": "Is there any update on the project?",
+      "telugu": "ప్రాజెక్ట్ గురించి ఏదైనా అప్డేట్ ఉందా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856922"
+    },
+    {
+      "english": "Can we reschedule our meeting?",
+      "telugu": "మనం మన సమావేశాన్ని రీషెడ్యూల్ చేయవచ్చా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856926"
+    },
+    {
+      "english": "Who is responsible for this task?",
+      "telugu": "ఈ పనికి ఎవరు బాధ్యులు?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856929"
+    },
+    {
+      "english": "What is the expected outcome?",
+      "telugu": "ఆశించిన ఫలితం ఏమిటి?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856933"
+    },
+    {
+      "english": "How can I improve my performance?",
+      "telugu": "నా పనితీరును ఎలా మెరుగుపరచుకోవాలి?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856936"
+    },
+    {
+      "english": "Could you suggest a solution?",
+      "telugu": "మీరు ఒక పరిష్కారం సూచించగలరా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856939"
+    },
+    {
+      "english": "What are the next steps?",
+      "telugu": "తదుపరి చర్యలు ఏమిటి?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856942"
+    },
+    {
+      "english": "Is there anything else I can do?",
+      "telugu": "నేను చేయగలిగేది ఇంకేమైనా ఉందా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856945"
+    },
+    {
+      "english": "When is the deadline for this?",
+      "telugu": "దీనికి గడువు ఎప్పుడు?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856950"
+    },
+    {
+      "english": "Can you share your screen?",
+      "telugu": "మీ స్క్రీన్ షేర్ చేయగలరా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856953"
+    },
+    {
+      "english": "What feedback do you have?",
+      "telugu": "మీరు ఎలాంటి అభిప్రాయం కలిగి ఉన్నారు?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856958"
+    },
+    {
+      "english": "Is this information confidential?",
+      "telugu": "ఈ సమాచారం గోప్యమా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856961"
+    },
+    {
+      "english": "What is the priority level?",
+      "telugu": "ప్రాధాన్యత స్థాయి ఏమిటి?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856964"
+    },
+    {
+      "english": "How do you handle challenges?",
+      "telugu": "మీరు సవాళ్లను ఎలా ఎదుర్కొంటారు?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856967"
+    },
+    {
+      "english": "Can we brainstorm ideas together?",
+      "telugu": "మనం కలిసి ఆలోచనలు చేయగలమా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856970"
+    },
+    {
+      "english": "What is the best approach?",
+      "telugu": "ఉత్తమ విధానం ఏమిటి?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856973"
+    },
+    {
+      "english": "Are there any pending issues?",
+      "telugu": "ఏదైనా పెండింగ్ సమస్యలు ఉన్నాయా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856976"
+    },
+    {
+      "english": "Can you clarify the requirements?",
+      "telugu": "మీరు అవసరాలను స్పష్టం చేయగలరా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856979"
+    },
+    {
+      "english": "What support can you provide?",
+      "telugu": "మీరు ఎలాంటి మద్దతు అందించగలరు?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856981"
+    },
+    {
+      "english": "How do we measure success?",
+      "telugu": "విజయాన్ని మనం ఎలా కొలుస్తాము?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856984"
+    },
+    {
+      "english": "Can you delegate this task?",
+      "telugu": "ఈ పనిని మీరు అప్పగించగలరా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856987"
+    },
+    {
+      "english": "What are your expectations?",
+      "telugu": "మీ అంచనాలు ఏమిటి?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856990"
+    },
+    {
+      "english": "Is there a workaround for this?",
+      "telugu": "దీనికి ప్రత్యామ్నాయ మార్గం ఉందా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856993"
+    },
+    {
+      "english": "Let's review the progress.",
+      "telugu": "పురోగతిని సమీక్షిద్దాం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856996"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "telugu": "మిమ్మల్ని మీరు నమ్మండి, ఎప్పుడూ.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.856999"
+    },
+    {
+      "english": "Positive attitude, wins.",
+      "telugu": "సానుకూల దృక్పథం, గెలుస్తుంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857002"
+    },
+    {
+      "english": "You are doing great work.",
+      "telugu": "మీరు గొప్ప పని చేస్తున్నారు.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857005"
+    },
+    {
+      "english": "Keep up the excellent effort.",
+      "telugu": "ఈ అద్భుతమైన ప్రయత్నాన్ని కొనసాగించండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857008"
+    },
+    {
+      "english": "Your contribution is valuable.",
+      "telugu": "మీ సహకారం విలువైనది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857011"
+    },
+    {
+      "english": "Think big, achieve bigger.",
+      "telugu": "పెద్దగా ఆలోచించండి, ఇంకా పెద్దది సాధించండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857014"
+    },
+    {
+      "english": "Never give up, try again.",
+      "telugu": "ఎప్పుడూ వదులుకోవద్దు, మళ్ళీ ప్రయత్నించండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857018"
+    },
+    {
+      "english": "We can achieve this together.",
+      "telugu": "మనం దీన్ని కలిసి సాధించగలము.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857020"
+    },
+    {
+      "english": "Your dedication is inspiring.",
+      "telugu": "మీ అంకితభావం స్ఫూర్తిదాయకం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857023"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "telugu": "సమస్యలపై కాకుండా, పరిష్కారాలపై దృష్టి పెట్టండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857027"
+    },
+    {
+      "english": "Every small step counts.",
+      "telugu": "ప్రతి చిన్న అడుగు ముఖ్యమే.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857029"
+    },
+    {
+      "english": "You have great potential.",
+      "telugu": "మీకు గొప్ప సామర్థ్యం ఉంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857034"
+    },
+    {
+      "english": "Stay focused, stay productive.",
+      "telugu": "లక్ష్యంగా ఉండండి, ఉత్పాదకంగా ఉండండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857038"
+    },
+    {
+      "english": "This challenge makes us stronger.",
+      "telugu": "ఈ సవాలు మనల్ని బలపరుస్తుంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857041"
+    },
+    {
+      "english": "Let's aim for excellence.",
+      "telugu": "శ్రేష్ఠత కోసం లక్ష్యంగా పెట్టుకుందాం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857044"
+    },
+    {
+      "english": "Your ideas are highly appreciated.",
+      "telugu": "మీ ఆలోచనలను బాగా అభినందిస్తున్నాము.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857047"
+    },
+    {
+      "english": "We are a strong team.",
+      "telugu": "మనం ఒక బలమైన జట్టు.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857050"
+    },
+    {
+      "english": "Your hard work is noticed.",
+      "telugu": "మీ కష్టాన్ని గమనించారు.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857053"
+    },
+    {
+      "english": "Success is within reach.",
+      "telugu": "విజయం అందుబాటులో ఉంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857056"
+    },
+    {
+      "english": "Embrace the changes, adapt.",
+      "telugu": "మార్పులను స్వీకరించండి, అనుగుణంగా మారండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857060"
+    },
+    {
+      "english": "You exceeded expectations.",
+      "telugu": "మీరు అంచనాలను మించిపోయారు.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857062"
+    },
+    {
+      "english": "Stay motivated, stay driven.",
+      "telugu": "ప్రేరణతో ఉండండి, చురుకుగా ఉండండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857065"
+    },
+    {
+      "english": "Let's make progress daily.",
+      "telugu": "ప్రతిరోజూ పురోగతి సాధిద్దాం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857068"
+    },
+    {
+      "english": "Your effort makes a difference.",
+      "telugu": "మీ ప్రయత్నం మార్పు తెస్తుంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857071"
+    },
+    {
+      "english": "We can overcome any obstacle.",
+      "telugu": "ఏ అడ్డంకినైనా మనం అధిగమించగలము.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857074"
+    },
+    {
+      "english": "Believe in the process.",
+      "telugu": "ప్రక్రియను నమ్మండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857077"
+    },
+    {
+      "english": "Keep the momentum going.",
+      "telugu": "వేగాన్ని కొనసాగించండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857080"
+    },
+    {
+      "english": "Your positivity is contagious.",
+      "telugu": "మీ సానుకూలత అంటువ్యాధిలా వ్యాపిస్తుంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857083"
+    },
+    {
+      "english": "This feels, like a real puzzle.",
+      "telugu": "ఇది, ఒక నిజమైన చిక్కుముడిలా ఉంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857086"
+    },
+    {
+      "english": "I need, more time to think.",
+      "telugu": "నాకు, ఆలోచించడానికి ఇంకా సమయం కావాలి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857089"
+    },
+    {
+      "english": "Let's be, completely honest here.",
+      "telugu": "ఇక్కడ, పూర్తిగా నిజాయితీగా ఉందాం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857107"
+    },
+    {
+      "english": "My gut feeling, says something's off.",
+      "telugu": "నా అంతర్బుద్ధి, ఏదో తేడా ఉందని చెబుతోంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857111"
+    },
+    {
+      "english": "I'm a bit, worried about this.",
+      "telugu": "నేను దీని గురించి, కొంచెం ఆందోళన చెందుతున్నాను.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857115"
+    },
+    {
+      "english": "This situation, requires patience.",
+      "telugu": "ఈ పరిస్థితికి, సహనం అవసరం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857118"
+    },
+    {
+      "english": "I'm reflecting, on my mistakes.",
+      "telugu": "నేను, నా తప్పులను ప్రతిబింబిస్తున్నాను.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857121"
+    },
+    {
+      "english": "Are we, truly understanding this?",
+      "telugu": "మనం, దీన్ని నిజంగా అర్థం చేసుకుంటున్నామా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857125"
+    },
+    {
+      "english": "I have, a deeper concern.",
+      "telugu": "నాకు, ఒక లోతైన ఆందోళన ఉంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857128"
+    },
+    {
+      "english": "It’s okay, to not have answers.",
+      "telugu": "సమాధానాలు లేకపోయినా, పర్వాలేదు.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857133"
+    },
+    {
+      "english": "Let's pause, and re-evaluate.",
+      "telugu": "ఆగుదాం, మరియు మళ్ళీ అంచనా వేద్దాం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857137"
+    },
+    {
+      "english": "This feels, very personal.",
+      "telugu": "ఇది, చాలా వ్యక్తిగతంగా అనిపిస్తుంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857139"
+    },
+    {
+      "english": "I need, to process this.",
+      "telugu": "నేను, దీన్ని ప్రాసెస్ చేయాలి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857146"
+    },
+    {
+      "english": "What's truly, bothering you?",
+      "telugu": "నిన్ను నిజంగా, ఏమి ఇబ్బంది పెడుతోంది?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857150"
+    },
+    {
+      "english": "This requires, careful thought.",
+      "telugu": "దీనికి, జాగ్రత్తగా ఆలోచించడం అవసరం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857157"
+    },
+    {
+      "english": "I feel, a bit lost here.",
+      "telugu": "నేను, ఇక్కడ కొంచెం దారి తప్పినట్లు అనిపిస్తుంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857161"
+    },
+    {
+      "english": "Let's speak, from the heart.",
+      "telugu": "మనసులోంచి, మాట్లాడుకుందాం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857164"
+    },
+    {
+      "english": "This is, weighing on me.",
+      "telugu": "ఇది, నాపై భారం అవుతోంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857167"
+    },
+    {
+      "english": "I'm seeking, clarity.",
+      "telugu": "నేను, స్పష్టత కోరుకుంటున్నాను.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857170"
+    },
+    {
+      "english": "This demands, empathy.",
+      "telugu": "దీనికి, సానుభూతి అవసరం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857173"
+    },
+    {
+      "english": "I'm reconsidering, my approach.",
+      "telugu": "నేను, నా పద్ధతిని పునరాలోచిస్తున్నాను.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857176"
+    },
+    {
+      "english": "This is, emotionally draining.",
+      "telugu": "ఇది, మానసికంగా అలసిపోతుంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857179"
+    },
+    {
+      "english": "I need, to trust the process.",
+      "telugu": "నేను, ప్రక్రియను విశ్వసించాలి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857182"
+    },
+    {
+      "english": "This feels, like a test.",
+      "telugu": "ఇది, ఒక పరీక్షలా అనిపిస్తుంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857185"
+    },
+    {
+      "english": "What's your, honest opinion?",
+      "telugu": "నీ నిజాయితీ అభిప్రాయం, ఏమిటి?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857189"
+    },
+    {
+      "english": "I'm learning, from this.",
+      "telugu": "నేను, దీని నుండి నేర్చుకుంటున్నాను.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857192"
+    },
+    {
+      "english": "This requires, careful navigation.",
+      "telugu": "దీనికి, జాగ్రత్తగా నావిగేషన్ అవసరం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857195"
+    },
+    {
+      "english": "My intuition, is strong here.",
+      "telugu": "నా అంతర్బుద్ధి, ఇక్కడ బలంగా ఉంది.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857198"
+    },
+    {
+      "english": "Let's be, vulnerable.",
+      "telugu": "బలహీనులుగా, ఉందాం.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857201"
+    },
+    {
+      "english": "I'm trying, to be patient.",
+      "telugu": "నేను, సహనంతో ఉండటానికి ప్రయత్నిస్తున్నాను.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857204"
+    },
+    {
+      "english": "Clock in on time, boss appreciates it.",
+      "telugu": "సమయానికి రండి, బాస్ మెచ్చుకుంటారు.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857207"
+    },
+    {
+      "english": "Did you finish, the weekly report?",
+      "telugu": "వారపు నివేదిక, పూర్తి చేశారా?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857211"
+    },
+    {
+      "english": "Take a quick break, refresh your mind.",
+      "telugu": "చిన్న విరామం తీసుకోండి, మనసును తేలికపరచుకోండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857214"
+    },
+    {
+      "english": "Ask for help, don't struggle alone.",
+      "telugu": "సహాయం అడగండి, ఒంటరిగా కష్టపడకండి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857217"
+    },
+    {
+      "english": "Keep your desk tidy, find things fast.",
+      "telugu": "మీ బల్ల శుభ్రంగా ఉంచుకోండి, వస్తువులు త్వరగా దొరుకుతాయి.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-20T08:19:28.857220"
     }
   ],
-  "last_updated": "2026-10-19T08:38:23.362539"
+  "last_updated": "2026-10-20T08:19:28.857223"
 }
