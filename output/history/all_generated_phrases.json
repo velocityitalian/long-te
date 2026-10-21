@@ -2879,7 +2879,727 @@
       "telugu": "మీ బల్ల శుభ్రంగా ఉంచుకోండి, వస్తువులు త్వరగా దొరుకుతాయి.",
       "category": "Work & Office",
       "generated_at": "2026-10-20T08:19:28.857220"
+    },
+    {
+      "english": "I love you, dear.",
+      "telugu": "నిన్ను ప్రేమిస్తున్నాను, ప్రియతమా.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465905"
+    },
+    {
+      "english": "You are my everything.",
+      "telugu": "నువ్వే నా సర్వస్వం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465921"
+    },
+    {
+      "english": "My heart beats for you.",
+      "telugu": "నా గుండె నీ కోసమే కొట్టుకుంటుంది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465924"
+    },
+    {
+      "english": "Thinking of you, always.",
+      "telugu": "ఎప్పుడూ నీ గురించే ఆలోచిస్తున్నాను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465928"
+    },
+    {
+      "english": "You make me happy.",
+      "telugu": "నువ్వు నన్ను సంతోషంగా ఉంచుతావు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465931"
+    },
+    {
+      "english": "I miss you a lot.",
+      "telugu": "నిన్ను చాలా మిస్ అవుతున్నాను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465934"
+    },
+    {
+      "english": "You are so special.",
+      "telugu": "నువ్వు చాలా ప్రత్యేకమైన దానివి/వాడివి.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465937"
+    },
+    {
+      "english": "Can I see you today?",
+      "telugu": "ఈరోజు నిన్ను కలవచ్చా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465963"
+    },
+    {
+      "english": "Let's spend time together.",
+      "telugu": "కలిసి సమయం గడుపుదాం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465967"
+    },
+    {
+      "english": "You are very cute.",
+      "telugu": "నువ్వు చాలా ముద్దుగా ఉన్నావు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465971"
+    },
+    {
+      "english": "My love for you grows.",
+      "telugu": "నీపై నా ప్రేమ పెరుగుతూనే ఉంటుంది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465974"
+    },
+    {
+      "english": "I want to be with you.",
+      "telugu": "నీతో ఉండాలని కోరుకుంటున్నాను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.465977"
+    },
+    {
+      "english": "You are in my dreams.",
+      "telugu": "నువ్వు నా కలలో ఉంటావు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466070"
+    },
+    {
+      "english": "My life is better with you.",
+      "telugu": "నువ్వు ఉంటే నా జీవితం బాగుంటుంది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466073"
+    },
+    {
+      "english": "I adore you so much.",
+      "telugu": "నిన్ను చాలా ఆరాధిస్తున్నాను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466076"
+    },
+    {
+      "english": "You are my soulmate.",
+      "telugu": "నువ్వే నా ఆత్మ సహచరి/సహచరుడు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466079"
+    },
+    {
+      "english": "I feel safe with you.",
+      "telugu": "నీతో ఉంటే నాకు భద్రంగా అనిపిస్తుంది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466084"
+    },
+    {
+      "english": "Your smile is beautiful.",
+      "telugu": "నీ నవ్వు చాలా అందంగా ఉంది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466087"
+    },
+    {
+      "english": "I can't live without you.",
+      "telugu": "నువ్వు లేకుండా నేను బ్రతకలేను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466090"
+    },
+    {
+      "english": "You are my true love.",
+      "telugu": "నువ్వే నా నిజమైన ప్రేమ.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466093"
+    },
+    {
+      "english": "My heart belongs to you.",
+      "telugu": "నా హృదయం నీకే అంకితం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466096"
+    },
+    {
+      "english": "You are always on my mind.",
+      "telugu": "నువ్వు ఎప్పుడూ నా మనసులో ఉంటావు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466099"
+    },
+    {
+      "english": "I cherish every moment.",
+      "telugu": "ప్రతి క్షణాన్ని నేను గౌరవిస్తాను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466102"
+    },
+    {
+      "english": "You complete me.",
+      "telugu": "నువ్వు నన్ను పరిపూర్ణుడిని/పరిపూర్ణురాలిని చేస్తావు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466105"
+    },
+    {
+      "english": "I am lucky to have you.",
+      "telugu": "నువ్వు దొరకడం నా అదృష్టం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466108"
+    },
+    {
+      "english": "My love is eternal.",
+      "telugu": "నా ప్రేమ శాశ్వతమైనది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466110"
+    },
+    {
+      "english": "You are my only one.",
+      "telugu": "నువ్వే నా ఏకైక.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466113"
+    },
+    {
+      "english": "Let's fall in love.",
+      "telugu": "ప్రేమలో పడదాం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466116"
+    },
+    {
+      "english": "You stole my heart.",
+      "telugu": "నువ్వు నా హృదయాన్ని దొంగిలించావు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466119"
+    },
+    {
+      "english": "My love, forever.",
+      "telugu": "నా ప్రియతమా, ఎప్పటికీ.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466122"
+    },
+    {
+      "english": "What do you think, darling?",
+      "telugu": "ఏమంటావు, బంగారం?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466125"
+    },
+    {
+      "english": "Can we talk, please?",
+      "telugu": "ఒకసారి మాట్లాడొచ్చా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466129"
+    },
+    {
+      "english": "Are you free tonight?",
+      "telugu": "ఈరోజు రాత్రి ఖాళీగా ఉన్నావా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466132"
+    },
+    {
+      "english": "What are your plans, dear?",
+      "telugu": "నీ ప్లాన్స్ ఏంటి, ప్రియతమా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466137"
+    },
+    {
+      "english": "Tell me, what's bothering you?",
+      "telugu": "చెప్పు, ఏంటి నీ బాధ?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466140"
+    },
+    {
+      "english": "Do you like this place?",
+      "telugu": "ఈ చోటు నీకు నచ్చిందా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466143"
+    },
+    {
+      "english": "Shall we go somewhere nice?",
+      "telugu": "ఏదైనా మంచి చోటికి వెళ్దామా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466146"
+    },
+    {
+      "english": "What are you thinking about?",
+      "telugu": "ఏం ఆలోచిస్తున్నావు?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466149"
+    },
+    {
+      "english": "Is everything okay, love?",
+      "telugu": "అంతా బాగానే ఉందా, ప్రాణం?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466152"
+    },
+    {
+      "english": "What's on your mind?",
+      "telugu": "నీ మనసులో ఏముంది?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466155"
+    },
+    {
+      "english": "Should we get food?",
+      "telugu": "మనం భోజనం చేద్దామా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466158"
+    },
+    {
+      "english": "How was your day, honey?",
+      "telugu": "ఈరోజు ఎలా గడిచింది, బంగారం?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466164"
+    },
+    {
+      "english": "Do you need anything, sweetie?",
+      "telugu": "నీకు ఏమైనా కావాలా, చందమామ?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466167"
+    },
+    {
+      "english": "Let's decide together, okay?",
+      "telugu": "కలిసి నిర్ణయిద్దాం, సరేనా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466171"
+    },
+    {
+      "english": "Can you explain this to me?",
+      "telugu": "దీన్ని నాకు వివరించగలవా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466174"
+    },
+    {
+      "english": "What do you want to do?",
+      "telugu": "నువ్వు ఏం చేయాలనుకుంటున్నావు?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466177"
+    },
+    {
+      "english": "Are you feeling alright?",
+      "telugu": "నీకు అంతా బాగానే ఉందా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466179"
+    },
+    {
+      "english": "Where do you want to go?",
+      "telugu": "ఎక్కడికి వెళ్లాలని ఉంది?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466182"
+    },
+    {
+      "english": "Do you want to watch a movie?",
+      "telugu": "సినిమా చూద్దామా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466187"
+    },
+    {
+      "english": "Can I ask you something?",
+      "telugu": "ఒక ప్రశ్న అడగవచ్చా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466190"
+    },
+    {
+      "english": "What do you suggest, love?",
+      "telugu": "ఏం సూచిస్తావు, నా ప్రియతమా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466193"
+    },
+    {
+      "english": "Are you hungry, my dear?",
+      "telugu": "ఆకలిగా ఉందా, నా ప్రాణమా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466196"
+    },
+    {
+      "english": "Shall we go for a walk?",
+      "telugu": "నడకకు వెళ్దామా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466199"
+    },
+    {
+      "english": "What's the matter, my love?",
+      "telugu": "ఏమైంది, నా బంగారు?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466202"
+    },
+    {
+      "english": "Can you share your thoughts?",
+      "telugu": "నీ ఆలోచనలు పంచుకుంటావా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466205"
+    },
+    {
+      "english": "Believe in our love, always.",
+      "telugu": "మన ప్రేమను, ఎప్పుడూ నమ్ము.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466209"
+    },
+    {
+      "english": "Your presence, brings joy.",
+      "telugu": "నీవుంటే, సంతోషం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466212"
+    },
+    {
+      "english": "You inspire me, greatly.",
+      "telugu": "నువ్వు నన్ను, బాగా ప్రేరేపిస్తావు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466215"
+    },
+    {
+      "english": "Our bond, is very strong.",
+      "telugu": "మన బంధం, చాలా బలమైనది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466218"
+    },
+    {
+      "english": "Together, we can achieve anything.",
+      "telugu": "కలిసి, ఏదైనా సాధించగలం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466222"
+    },
+    {
+      "english": "Your kindness, shines through.",
+      "telugu": "నీ దయ, ప్రకాశిస్తుంది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466227"
+    },
+    {
+      "english": "I admire, your spirit.",
+      "telugu": "నీ స్ఫూర్తిని, నేను మెచ్చుకుంటాను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466230"
+    },
+    {
+      "english": "We grow, better together.",
+      "telugu": "మనం, కలిసి మరింత మెరుగుపడతాము.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466233"
+    },
+    {
+      "english": "Trust our journey, darling.",
+      "telugu": "మన ప్రయాణాన్ని, నమ్ము ప్రియతమా.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466236"
+    },
+    {
+      "english": "Your efforts, are noticed.",
+      "telugu": "నీ ప్రయత్నాలు, గుర్తించబడ్డాయి.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466239"
+    },
+    {
+      "english": "You make me, proud.",
+      "telugu": "నువ్వు నన్ను, గర్వపడేలా చేస్తావు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466242"
+    },
+    {
+      "english": "Our connection, is special.",
+      "telugu": "మన అనుబంధం, ప్రత్యేకమైనది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466245"
+    },
+    {
+      "english": "Keep loving, keep growing.",
+      "telugu": "ప్రేమిస్తూ ఉండు, ఎదుగుతూ ఉండు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466249"
+    },
+    {
+      "english": "You have, a beautiful heart.",
+      "telugu": "నీకు, అందమైన హృదయం ఉంది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466252"
+    },
+    {
+      "english": "Our future, looks bright.",
+      "telugu": "మన భవిష్యత్తు, ప్రకాశవంతంగా కనిపిస్తుంది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466255"
+    },
+    {
+      "english": "Your strength, amazes me.",
+      "telugu": "నీ బలం, నన్ను ఆశ్చర్యపరుస్తుంది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466258"
+    },
+    {
+      "english": "This love, is a blessing.",
+      "telugu": "ఈ ప్రేమ, ఒక వరం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466261"
+    },
+    {
+      "english": "You bring, out the best.",
+      "telugu": "నువ్వు, ఉత్తమమైనదాన్ని బయటకు తెస్తావు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466265"
+    },
+    {
+      "english": "Let's build, a great life.",
+      "telugu": "ఒక గొప్ప జీవితాన్ని, నిర్మిద్దాం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466268"
+    },
+    {
+      "english": "Your understanding, is valued.",
+      "telugu": "నీ అవగాహన, విలువైనది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466271"
+    },
+    {
+      "english": "We are, a great team.",
+      "telugu": "మనం, ఒక గొప్ప జట్టు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466274"
+    },
+    {
+      "english": "Your happiness, matters most.",
+      "telugu": "నీ సంతోషం, చాలా ముఖ్యం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466277"
+    },
+    {
+      "english": "Embrace this, beautiful feeling.",
+      "telugu": "ఈ అందమైన, భావనను స్వీకరించు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466280"
+    },
+    {
+      "english": "You make, life worthwhile.",
+      "telugu": "నువ్వు, జీవితాన్ని విలువైనదిగా చేస్తావు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466283"
+    },
+    {
+      "english": "Our love, is our strength.",
+      "telugu": "మన ప్రేమ, మన బలం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466286"
+    },
+    {
+      "english": "You are, a true gem.",
+      "telugu": "నువ్వు, ఒక నిజమైన రత్నం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466291"
+    },
+    {
+      "english": "Let hope, guide us.",
+      "telugu": "ఆశ, మనకు మార్గనిర్దేశం చేయనివ్వు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466294"
+    },
+    {
+      "english": "You're amazing, truly.",
+      "telugu": "నువ్వు అద్భుతం, నిజంగా.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466297"
+    },
+    {
+      "english": "Our hearts, beat as one.",
+      "telugu": "మన హృదయాలు, ఒకటిగా కొట్టుకుంటాయి.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466300"
+    },
+    {
+      "english": "This is, a special bond.",
+      "telugu": "ఇది, ఒక ప్రత్యేక బంధం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466303"
+    },
+    {
+      "english": "Tell me, how you truly feel.",
+      "telugu": "నీ మనసులో మాట చెప్పు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466308"
+    },
+    {
+      "english": "Let's listen, to our hearts.",
+      "telugu": "మనసు చెప్పింది విందాం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466311"
+    },
+    {
+      "english": "Patience, is our guide.",
+      "telugu": "ఓపికే మన మార్గం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466314"
+    },
+    {
+      "english": "This feeling, is very deep.",
+      "telugu": "ఈ భావన, చాలా లోతైనది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466317"
+    },
+    {
+      "english": "My thoughts, are with you.",
+      "telugu": "నా ఆలోచనలు, నీతోనే ఉన్నాయి.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466320"
+    },
+    {
+      "english": "Let's understand, each other.",
+      "telugu": "ఒకరినొకరం అర్థం చేసుకుందాం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466324"
+    },
+    {
+      "english": "I'm reflecting, on us.",
+      "telugu": "మన గురించి నేను ఆలోచిస్తున్నాను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466327"
+    },
+    {
+      "english": "Give it time, let it grow.",
+      "telugu": "సమయం ఇవ్వు, అది పెరగనివ్వు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466330"
+    },
+    {
+      "english": "Your honesty, means a lot.",
+      "telugu": "నీ నిజాయితీ, చాలా ముఖ్యం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466333"
+    },
+    {
+      "english": "My heart, is open to you.",
+      "telugu": "నా హృదయం, నీకు తెరిచి ఉంది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466336"
+    },
+    {
+      "english": "This love, requires thought.",
+      "telugu": "ఈ ప్రేమకు, ఆలోచన అవసరం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466339"
+    },
+    {
+      "english": "I need to be sure.",
+      "telugu": "నేను ఖచ్చితంగా ఉండాలి.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466342"
+    },
+    {
+      "english": "Let's be honest, always.",
+      "telugu": "ఎల్లప్పుడూ నిజాయితీగా ఉందాం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466346"
+    },
+    {
+      "english": "My feelings, are genuine.",
+      "telugu": "నా భావాలు, నిజమైనవి.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466349"
+    },
+    {
+      "english": "Tell me, your worries.",
+      "telugu": "నీ బాధలు, నాకు చెప్పు.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466352"
+    },
+    {
+      "english": "We must trust, this process.",
+      "telugu": "ఈ ప్రక్రియను, మనం నమ్మాలి.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466355"
+    },
+    {
+      "english": "I'm thinking, about our future.",
+      "telugu": "మన భవిష్యత్తు గురించి, నేను ఆలోచిస్తున్నాను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466358"
+    },
+    {
+      "english": "Your words, touch my soul.",
+      "telugu": "నీ మాటలు, నా ఆత్మను తాకుతాయి.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466361"
+    },
+    {
+      "english": "Let's share, our deep thoughts.",
+      "telugu": "మన లోతైన ఆలోచనలు, పంచుకుందాం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466366"
+    },
+    {
+      "english": "I'm learning, to love you more.",
+      "telugu": "నిన్ను ఇంకా ఎక్కువగా ప్రేమించడం, నేర్చుకుంటున్నాను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466370"
+    },
+    {
+      "english": "Can we talk, about this?",
+      "telugu": "దీని గురించి, మనం మాట్లాడుకోవచ్చా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466372"
+    },
+    {
+      "english": "This requires, careful consideration.",
+      "telugu": "దీనికి, జాగ్రత్తగా ఆలోచించడం అవసరం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466376"
+    },
+    {
+      "english": "I value, your perspective.",
+      "telugu": "నీ అభిప్రాయానికి, నేను విలువ ఇస్తాను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466379"
+    },
+    {
+      "english": "My heart, is listening.",
+      "telugu": "నా గుండె, వింటోంది.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466382"
+    },
+    {
+      "english": "Let's be real, with each other.",
+      "telugu": "ఒకరితో ఒకరం, నిజాయితీగా ఉందాం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466385"
+    },
+    {
+      "english": "What are your hopes, love?",
+      "telugu": "నీ ఆశలు ఏమిటి, ప్రియతమా?",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466388"
+    },
+    {
+      "english": "This is, a deep connection.",
+      "telugu": "ఇది, ఒక లోతైన బంధం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466393"
+    },
+    {
+      "english": "Love needs, daily care.",
+      "telugu": "ప్రేమకి, రోజూ శ్రద్ధ అవసరం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466398"
+    },
+    {
+      "english": "Share your day, with me.",
+      "telugu": "నీ రోజుని, నాతో పంచుకో.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466402"
+    },
+    {
+      "english": "Little things, mean a lot.",
+      "telugu": "చిన్న పనులు, చాలా ముఖ్యం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466405"
+    },
+    {
+      "english": "Let's resolve, problems together.",
+      "telugu": "సమస్యల్ని, కలిసి పరిష్కరించుకుందాం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466408"
+    },
+    {
+      "english": "Always listen, carefully.",
+      "telugu": "ఎప్పుడూ, జాగ్రత్తగా విను.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466411"
+    },
+    {
+      "english": "Show appreciation, often.",
+      "telugu": "మెచ్చుకోవడం, తరచుగా చెయ్యి.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466415"
+    },
+    {
+      "english": "Small gestures, build trust.",
+      "telugu": "చిన్న పనులు, నమ్మకాన్ని పెంచుతాయి.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466418"
+    },
+    {
+      "english": "Let's forgive, and move on.",
+      "telugu": "క్షమించుకుని, ముందుకు వెళ్దాం.",
+      "category": "Love",
+      "generated_at": "2026-10-21T08:23:55.466421"
     }
   ],
-  "last_updated": "2026-10-20T08:19:28.857223"
+  "last_updated": "2026-10-21T08:23:55.466423"
 }
