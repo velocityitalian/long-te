@@ -4319,7 +4319,727 @@
       "telugu": "వినయంగా ఉండండి, దయతో ఉండండి.",
       "category": "Success",
       "generated_at": "2026-10-22T08:41:21.091292"
+    },
+    {
+      "english": "Good morning, everyone!",
+      "telugu": "అందరికీ శుభోదయం!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607158"
+    },
+    {
+      "english": "How are you doing today?",
+      "telugu": "ఈరోజు ఎలా ఉన్నారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607176"
+    },
+    {
+      "english": "I woke up early, yes.",
+      "telugu": "నేను త్వరగా లేచాను, అవును.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607180"
+    },
+    {
+      "english": "Let's start the day.",
+      "telugu": "రోజును ప్రారంభిద్దాం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607183"
+    },
+    {
+      "english": "Time for breakfast, right?",
+      "telugu": "అల్పాహారం సమయం, కదా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607186"
+    },
+    {
+      "english": "I need some coffee.",
+      "telugu": "నాకు కొంచెం కాఫీ కావాలి.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607191"
+    },
+    {
+      "english": "Feeling a bit tired.",
+      "telugu": "కొంచెం అలసిపోయినట్లు అనిపిస్తుంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607194"
+    },
+    {
+      "english": "Let's get moving, folks!",
+      "telugu": "కదలండి, మిత్రులారా!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607200"
+    },
+    {
+      "english": "Ready for work now.",
+      "telugu": "ఇప్పుడు పనికి సిద్ధంగా ఉన్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607204"
+    },
+    {
+      "english": "This is my daily grind.",
+      "telugu": "ఇది నా దినచర్య.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607207"
+    },
+    {
+      "english": "Making breakfast is fun.",
+      "telugu": "అల్పాహారం చేయడం సరదాగా ఉంటుంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607210"
+    },
+    {
+      "english": "Don't forget to hydrate.",
+      "telugu": "నీరు తాగడం మర్చిపోవద్దు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607212"
+    },
+    {
+      "english": "Quick shower time!",
+      "telugu": "త్వరగా స్నానం చేసే సమయం!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607215"
+    },
+    {
+      "english": "Getting dressed, you know.",
+      "telugu": "బట్టలు వేసుకుంటున్నాను, తెలుసా.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607218"
+    },
+    {
+      "english": "My commute begins now.",
+      "telugu": "నా ప్రయాణం ఇప్పుడు మొదలవుతుంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607220"
+    },
+    {
+      "english": "Traffic is always crazy.",
+      "telugu": "ట్రాఫిక్ ఎప్పుడూ పిచ్చిగా ఉంటుంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607222"
+    },
+    {
+      "english": "Arrived at the office.",
+      "telugu": "ఆఫీసుకు చేరుకున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607225"
+    },
+    {
+      "english": "Let's tackle the emails.",
+      "telugu": "ఈమెయిల్స్ ప్రారంభిద్దాం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607227"
+    },
+    {
+      "english": "Meeting time soon.",
+      "telugu": "త్వరలో సమావేశం సమయం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607230"
+    },
+    {
+      "english": "Lunch break, finally!",
+      "telugu": "మధ్యాహ్న భోజన విరామం, చివరికి!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607233"
+    },
+    {
+      "english": "Need a short break.",
+      "telugu": "ఒక చిన్న విరామం కావాలి.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607235"
+    },
+    {
+      "english": "Back to work again.",
+      "telugu": "మళ్ళీ పనికి వెళ్ళాలి.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607237"
+    },
+    {
+      "english": "Almost done for the day.",
+      "telugu": "ఈరోజుకి దాదాపు పూర్తయింది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607240"
+    },
+    {
+      "english": "Heading home now.",
+      "telugu": "ఇప్పుడు ఇంటికి వెళ్తున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607242"
+    },
+    {
+      "english": "Dinner plans tonight?",
+      "telugu": "ఈరోజు రాత్రి భోజన ప్రణాళికలు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607245"
+    },
+    {
+      "english": "Relaxing at home.",
+      "telugu": "ఇంట్లో విశ్రాంతి తీసుకుంటున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607247"
+    },
+    {
+      "english": "Time to unwind a bit.",
+      "telugu": "కొంచెం సేదతీరడానికి సమయం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607251"
+    },
+    {
+      "english": "Getting ready for bed.",
+      "telugu": "నిద్రకు సిద్ధమవుతున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607254"
+    },
+    {
+      "english": "Good night, sleep well!",
+      "telugu": "శుభరాత్రి, బాగా నిద్రపోండి!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607256"
+    },
+    {
+      "english": "What time do you wake up?",
+      "telugu": "మీరెప్పుడు నిద్ర లేస్తారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607259"
+    },
+    {
+      "english": "Did you eat breakfast yet?",
+      "telugu": "ఇంకా టిఫిన్ చేశారా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607262"
+    },
+    {
+      "english": "What do you usually drink?",
+      "telugu": "సాధారణంగా ఏమి తాగుతారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607265"
+    },
+    {
+      "english": "How do you get to work?",
+      "telugu": "పనికి ఎలా వెళ్తారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607267"
+    },
+    {
+      "english": "Is the office far from here?",
+      "telugu": "ఆఫీస్ ఇక్కడికి దూరమేనా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607270"
+    },
+    {
+      "english": "What do you do first at work?",
+      "telugu": "ఆఫీస్ లో ముందుగా ఏమి చేస్తారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607273"
+    },
+    {
+      "english": "Do you take a lunch break?",
+      "telugu": "లంచ్ బ్రేక్ తీసుకుంటారా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607275"
+    },
+    {
+      "english": "What do you eat for lunch?",
+      "telugu": "మధ్యాహ్న భోజనానికి ఏమి తింటారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607278"
+    },
+    {
+      "english": "Do you have many meetings?",
+      "telugu": "మీకు చాలా మీటింగులు ఉంటాయా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607282"
+    },
+    {
+      "english": "When do you finish work?",
+      "telugu": "పని ఎప్పుడు పూర్తి చేస్తారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607284"
+    },
+    {
+      "english": "How is your commute home?",
+      "telugu": "ఇంటికి వచ్చే దారి ఎలా ఉంది?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607287"
+    },
+    {
+      "english": "What's for dinner tonight?",
+      "telugu": "ఈరోజు రాత్రికి భోజనం ఏమిటి?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607289"
+    },
+    {
+      "english": "Do you cook dinner yourself?",
+      "telugu": "రాత్రి భోజనం మీరే వండుతారా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607294"
+    },
+    {
+      "english": "What do you do in the evening?",
+      "telugu": "సాయంత్రం ఏమి చేస్తారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607297"
+    },
+    {
+      "english": "Do you watch TV often?",
+      "telugu": "టీవీ ఎక్కువగా చూస్తారా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607299"
+    },
+    {
+      "english": "Do you read before sleeping?",
+      "telugu": "పడుకునే ముందు చదువుతారా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607302"
+    },
+    {
+      "english": "What time do you go to bed?",
+      "telugu": "ఎంతసేపు నిద్రపోతారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607305"
+    },
+    {
+      "english": "Do you feel rested today?",
+      "telugu": "ఈరోజు మీరు విశ్రాంతిగా ఉన్నారా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607307"
+    },
+    {
+      "english": "Can you recommend a good habit?",
+      "telugu": "మంచి అలవాటు సూచించగలరా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607310"
+    },
+    {
+      "english": "What helps you stay focused?",
+      "telugu": "ఏది మిమ్మల్ని ఏకాగ్రతతో ఉంచుతుంది?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607312"
+    },
+    {
+      "english": "Is it hard to wake up?",
+      "telugu": "నిద్ర లేవడం కష్టమా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607315"
+    },
+    {
+      "english": "Do you exercise daily?",
+      "telugu": "రోజూ వ్యాయామం చేస్తారా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607317"
+    },
+    {
+      "english": "Where do you usually relax?",
+      "telugu": "మీరు సాధారణంగా ఎక్కడ విశ్రాంతి తీసుకుంటారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607321"
+    },
+    {
+      "english": "What do you do to de-stress?",
+      "telugu": "ఒత్తిడి తగ్గించుకోవడానికి ఏమి చేస్తారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607324"
+    },
+    {
+      "english": "Is your routine very busy?",
+      "telugu": "మీ దినచర్య చాలా బిజీగా ఉందా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607327"
+    },
+    {
+      "english": "What part of your day do you like?",
+      "telugu": "మీ రోజులో ఏ భాగం మీకు ఇష్టం?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607330"
+    },
+    {
+      "english": "Do you plan your day ahead?",
+      "telugu": "మీ రోజును ముందుగానే ప్లాన్ చేసుకుంటారా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607332"
+    },
+    {
+      "english": "What do you think about that?",
+      "telugu": "దాని గురించి మీరేమనుకుంటున్నారు?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607335"
+    },
+    {
+      "english": "Is this a good time to talk?",
+      "telugu": "ఇప్పుడు మాట్లాడటానికి ఇది మంచి సమయమేనా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607337"
+    },
+    {
+      "english": "Believe in your efforts, always.",
+      "telugu": "నీ ప్రయత్నాలపై నమ్ము, ఎప్పుడూ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607340"
+    },
+    {
+      "english": "Today is a fresh start.",
+      "telugu": "ఈ రోజు ఒక కొత్త ఆరంభం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607343"
+    },
+    {
+      "english": "You are doing great, keep going!",
+      "telugu": "నువ్వు అద్భుతంగా చేస్తున్నావు, కొనసాగించు!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607347"
+    },
+    {
+      "english": "Positive thoughts bring positive results.",
+      "telugu": "మంచి ఆలోచనలు, మంచి ఫలితాలనిస్తాయి.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607350"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "telugu": "పరిపూర్ణతపై కాదు, పురోగతిపై దృష్టి పెట్టు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607353"
+    },
+    {
+      "english": "You've got this, be proud!",
+      "telugu": "నీవు చేయగలవు, గర్వపడు!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607356"
+    },
+    {
+      "english": "Embrace the challenge, learn more.",
+      "telugu": "సవాలును స్వీకరించు, మరింత నేర్చుకో.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607358"
+    },
+    {
+      "english": "Your potential is limitless.",
+      "telugu": "నీ సామర్థ్యం అపరిమితం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607361"
+    },
+    {
+      "english": "Stay motivated, stay strong.",
+      "telugu": "ప్రేరణతో ఉండు, బలంగా ఉండు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607364"
+    },
+    {
+      "english": "Good job on finishing that task!",
+      "telugu": "ఆ పని పూర్తి చేసినందుకు మంచి పని!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607366"
+    },
+    {
+      "english": "This is a great opportunity.",
+      "telugu": "ఇది ఒక గొప్ప అవకాశం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607369"
+    },
+    {
+      "english": "Keep your mind open.",
+      "telugu": "నీ మనసును తెరిచి ఉంచు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607373"
+    },
+    {
+      "english": "You are capable of amazing things.",
+      "telugu": "నువ్వు అద్భుతాలు చేయగలవు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607376"
+    },
+    {
+      "english": "Today will be productive.",
+      "telugu": "ఈ రోజు ఉత్పాదకంగా ఉంటుంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607379"
+    },
+    {
+      "english": "You are learning so quickly!",
+      "telugu": "నువ్వు చాలా వేగంగా నేర్చుకుంటున్నావు!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607381"
+    },
+    {
+      "english": "Stay positive, everything will be fine.",
+      "telugu": "సానుకూలంగా ఉండు, అంతా బాగానే ఉంటుంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607385"
+    },
+    {
+      "english": "Your effort is noticeable.",
+      "telugu": "నీ ప్రయత్నం గమనించదగినది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607387"
+    },
+    {
+      "english": "Be kind to yourself.",
+      "telugu": "నీ పట్ల దయతో ఉండు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607390"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "telugu": "నువ్వు అనుకున్నదానికంటే బలంగా ఉన్నావు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607392"
+    },
+    {
+      "english": "One day at a time.",
+      "telugu": "ఒక రోజుకి ఒక అడుగు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607394"
+    },
+    {
+      "english": "Keep up the good work!",
+      "telugu": "మంచి పనిని కొనసాగించు!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607397"
+    },
+    {
+      "english": "Believe in your intuition.",
+      "telugu": "నీ అంతర్ దృష్టిని నమ్ము.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607399"
+    },
+    {
+      "english": "This is a learning experience.",
+      "telugu": "ఇది ఒక అభ్యాస అనుభవం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607404"
+    },
+    {
+      "english": "You're making great progress.",
+      "telugu": "నువ్వు గొప్ప పురోగతి సాధిస్తున్నావు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607406"
+    },
+    {
+      "english": "Think happy thoughts.",
+      "telugu": "సంతోషకరమైన ఆలోచనలు చెయ్యి.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607409"
+    },
+    {
+      "english": "You inspire others.",
+      "telugu": "నువ్వు ఇతరులకు స్ఫూర్తినిస్తావు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607411"
+    },
+    {
+      "english": "Embrace the journey.",
+      "telugu": "ప్రయాణాన్ని ఆస్వాదించు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607414"
+    },
+    {
+      "english": "Some days feel harder, you know?",
+      "telugu": "కొన్ని రోజులు కష్టంగా అనిపిస్తాయి, తెలుసా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607417"
+    },
+    {
+      "english": "I'm still figuring things out.",
+      "telugu": "నేను ఇంకా విషయాలు అర్థం చేసుకుంటున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607420"
+    },
+    {
+      "english": "It takes time, I understand.",
+      "telugu": "సమయం పడుతుంది, నాకు అర్థమైంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607422"
+    },
+    {
+      "english": "Feeling a bit overwhelmed today.",
+      "telugu": "ఈరోజు కొంచెం ఒత్తిడిగా ఉంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607425"
+    },
+    {
+      "english": "Just need a moment to breathe.",
+      "telugu": "ఒక్క క్షణం ఊపిరి తీసుకోవాలి.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607427"
+    },
+    {
+      "english": "Reflecting on my choices lately.",
+      "telugu": "ఇటీవల నా ఎంపికల గురించి ఆలోచిస్తున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607430"
+    },
+    {
+      "english": "Patience is a virtue, truly.",
+      "telugu": "ఓపిక ఒక గొప్ప గుణం, నిజంగా.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607433"
+    },
+    {
+      "english": "This routine calms my mind.",
+      "telugu": "ఈ దినచర్య నా మనసుకు ప్రశాంతతనిస్తుంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607436"
+    },
+    {
+      "english": "I'm learning to accept myself.",
+      "telugu": "నేను నన్ను నేను అంగీకరించడం నేర్చుకుంటున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607438"
+    },
+    {
+      "english": "Small joys make a big difference.",
+      "telugu": "చిన్న సంతోషాలు పెద్ద తేడాను చేస్తాయి.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607441"
+    },
+    {
+      "english": "Thinking deeply about the future.",
+      "telugu": "భవిష్యత్తు గురించి లోతుగా ఆలోచిస్తున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607444"
+    },
+    {
+      "english": "Honesty with myself is key.",
+      "telugu": "నాతో నేను నిజాయితీగా ఉండటమే ముఖ్యం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607446"
+    },
+    {
+      "english": "Every day brings new lessons.",
+      "telugu": "ప్రతి రోజు కొత్త పాఠాలను తెస్తుంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607449"
+    },
+    {
+      "english": "Letting go of what doesn't serve.",
+      "telugu": "ఏది పనికిరానిదో దాన్ని వదిలేస్తున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607451"
+    },
+    {
+      "english": "Finding peace in simplicity.",
+      "telugu": "సరళతలో శాంతిని కనుగొనడం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607454"
+    },
+    {
+      "english": "My feelings are valid, always.",
+      "telugu": "నా భావాలు ఎల్లప్పుడూ సరైనవే.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607457"
+    },
+    {
+      "english": "This quiet time is precious.",
+      "telugu": "ఈ నిశ్శబ్ద సమయం చాలా విలువైనది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607462"
+    },
+    {
+      "english": "Understanding takes effort, right?",
+      "telugu": "అర్థం చేసుకోవడానికి ప్రయత్నం కావాలి, కదా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607465"
+    },
+    {
+      "english": "Embracing imperfections feels freeing.",
+      "telugu": "లోపాలను అంగీకరించడం స్వేచ్ఛగా అనిపిస్తుంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607468"
+    },
+    {
+      "english": "What truly matters to me?",
+      "telugu": "నాకు నిజంగా ఏది ముఖ్యం?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607470"
+    },
+    {
+      "english": "Slow down, appreciate the moment.",
+      "telugu": "నెమ్మదిగా వెళ్ళు, క్షణాన్ని ఆస్వాదించు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607473"
+    },
+    {
+      "english": "Gratitude shifts my perspective.",
+      "telugu": "కృతజ్ఞత నా దృక్పథాన్ని మారుస్తుంది.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607475"
+    },
+    {
+      "english": "Being present is the goal.",
+      "telugu": "ప్రస్తుతం ఉండటమే లక్ష్యం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607479"
+    },
+    {
+      "english": "Letting my guard down a bit.",
+      "telugu": "నా అప్రమత్తతను కొంచెం తగ్గిస్తున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607482"
+    },
+    {
+      "english": "It’s okay to not be okay.",
+      "telugu": "బాగులేకపోయినా పర్వాలేదు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607485"
+    },
+    {
+      "english": "Deep breaths, clear thoughts.",
+      "telugu": "లోతైన శ్వాసలు, స్పష్టమైన ఆలోచనలు.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607488"
+    },
+    {
+      "english": "Trusting the process unfolds naturally.",
+      "telugu": "ప్రక్రియ సహజంగా జరిగేలా నమ్ముతున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607493"
+    },
+    {
+      "english": "Finding comfort in my own space.",
+      "telugu": "నా సొంత స్థలంలో సౌకర్యాన్ని కనుగొనడం.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607496"
+    },
+    {
+      "english": "Reflecting on what I’ve learned.",
+      "telugu": "నేను ఏమి నేర్చుకున్నానో ఆలోచిస్తున్నాను.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607499"
+    },
+    {
+      "english": "Drink water, first thing.",
+      "telugu": "ముందుగా, నీళ్ళు తాగండి.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607502"
+    },
+    {
+      "english": "What's for breakfast today?",
+      "telugu": "ఈరోజు అల్పాహారం ఏమిటి?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607505"
+    },
+    {
+      "english": "I need to plan my tasks.",
+      "telugu": "నేను నా పనులను ప్లాన్ చేసుకోవాలి.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607508"
+    },
+    {
+      "english": "Remember to take a break.",
+      "telugu": "విరామం తీసుకోవడం గుర్తుంచుకోండి.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607511"
+    },
+    {
+      "english": "How was your morning?",
+      "telugu": "మీ ఉదయం ఎలా గడిచింది?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607513"
+    },
+    {
+      "english": "Did you finish your work?",
+      "telugu": "మీ పని పూర్తి చేశారా?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-23T08:22:20.607515"
     }
   ],
-  "last_updated": "2026-10-22T08:41:21.091296"
+  "last_updated": "2026-10-23T08:22:20.607517"
 }
