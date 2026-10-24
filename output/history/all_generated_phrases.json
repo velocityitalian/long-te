@@ -5039,7 +5039,727 @@
       "telugu": "మీ పని పూర్తి చేశారా?",
       "category": "Daily Routine",
       "generated_at": "2026-10-23T08:22:20.607515"
+    },
+    {
+      "english": "Hello there, nice to meet you.",
+      "telugu": "నమస్కారం, మిమ్మల్ని కలవడం ఆనందంగా ఉంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083275"
+    },
+    {
+      "english": "Good morning, how are you?",
+      "telugu": "శుభోదయం, ఎలా ఉన్నారు?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083290"
+    },
+    {
+      "english": "Good afternoon, hope you're well.",
+      "telugu": "శుభ మధ్యాహ్నం, మీరు బాగున్నారని ఆశిస్తున్నాను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083292"
+    },
+    {
+      "english": "Good evening, what a surprise!",
+      "telugu": "శుభ సాయంత్రం, ఎంత ఆశ్చర్యం!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083294"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "telugu": "స్వాగతం, దయచేసి లోపలికి రండి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083295"
+    },
+    {
+      "english": "It's a pleasure to meet you.",
+      "telugu": "మిమ్మల్ని కలవడం చాలా సంతోషం.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083297"
+    },
+    {
+      "english": "How is everything going?",
+      "telugu": "అంతా ఎలా జరుగుతోంది?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083299"
+    },
+    {
+      "english": "What's new with you?",
+      "telugu": "మీతో కొత్తగా ఏమిటి?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083303"
+    },
+    {
+      "english": "Long time no see, friend.",
+      "telugu": "చాలా కాలం అయింది, స్నేహితుడా.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083306"
+    },
+    {
+      "english": "Glad to see you again.",
+      "telugu": "మిమ్మల్ని మళ్ళీ చూడటం సంతోషంగా ఉంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083308"
+    },
+    {
+      "english": "Where are you from?",
+      "telugu": "మీరు ఎక్కడ నుండి వచ్చారు?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083310"
+    },
+    {
+      "english": "I'm from India, and you?",
+      "telugu": "నేను భారతదేశం నుండి వచ్చాను, మరి మీరు?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083312"
+    },
+    {
+      "english": "Nice to meet your family.",
+      "telugu": "మీ కుటుంబాన్ని కలవడం ఆనందంగా ఉంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083313"
+    },
+    {
+      "english": "What do you do?",
+      "telugu": "మీరు ఏమి చేస్తారు?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083315"
+    },
+    {
+      "english": "I work as a teacher.",
+      "telugu": "నేను ఉపాధ్యాయుడిగా పనిచేస్తాను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083316"
+    },
+    {
+      "english": "That's interesting, tell me more.",
+      "telugu": "అది ఆసక్తికరంగా ఉంది, ఇంకా చెప్పండి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083318"
+    },
+    {
+      "english": "I'm happy to help you.",
+      "telugu": "మీకు సహాయం చేయడం నాకు సంతోషం.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083320"
+    },
+    {
+      "english": "Do you need any assistance?",
+      "telugu": "మీకు ఏదైనా సహాయం కావాలా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083321"
+    },
+    {
+      "english": "This is my friend, Ravi.",
+      "telugu": "ఇతను నా స్నేహితుడు, రవి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083324"
+    },
+    {
+      "english": "And this is my wife, Priya.",
+      "telugu": "మరి ఈమె నా భార్య, ప్రియ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083326"
+    },
+    {
+      "english": "Pleased to make your acquaintance.",
+      "telugu": "మీ పరిచయం చేసుకోవడం సంతోషంగా ఉంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083328"
+    },
+    {
+      "english": "How was your journey?",
+      "telugu": "మీ ప్రయాణం ఎలా జరిగింది?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083330"
+    },
+    {
+      "english": "I hope you are comfortable.",
+      "telugu": "మీరు సౌకర్యంగా ఉన్నారని ఆశిస్తున్నాను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083331"
+    },
+    {
+      "english": "What brings you here?",
+      "telugu": "మీరు ఇక్కడికి ఏమి తెచ్చారు?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083333"
+    },
+    {
+      "english": "Just visiting, exploring the city.",
+      "telugu": "కేవలం సందర్శిస్తున్నాను, నగరాన్ని అన్వేషిస్తున్నాను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083335"
+    },
+    {
+      "english": "It's nice talking to you.",
+      "telugu": "మీతో మాట్లాడటం బాగుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083336"
+    },
+    {
+      "english": "We should do this again.",
+      "telugu": "మనం మళ్ళీ ఇలా కలుద్దాం.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083338"
+    },
+    {
+      "english": "Goodbye for now, take care.",
+      "telugu": "ఇప్పటికి వీడ్కోలు, జాగ్రత్త.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083339"
+    },
+    {
+      "english": "See you soon!",
+      "telugu": "త్వరలో కలుద్దాం!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083341"
+    },
+    {
+      "english": "Have a great day ahead.",
+      "telugu": "మీ రోజు బాగుండాలని కోరుకుంటున్నాను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083342"
+    },
+    {
+      "english": "Are you enjoying your stay?",
+      "telugu": "మీ బసను ఆస్వాదిస్తున్నారా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083343"
+    },
+    {
+      "english": "Can I help you find anything?",
+      "telugu": "మీకు ఏదైనా దొరకడానికి నేను సహాయం చేయగలనా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083345"
+    },
+    {
+      "english": "What's your favorite thing here?",
+      "telugu": "ఇక్కడ మీకు బాగా నచ్చిన విషయం ఏమిటి?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083347"
+    },
+    {
+      "english": "Have you tried the local food?",
+      "telugu": "మీరు స్థానిక ఆహారం ప్రయత్నించారా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083349"
+    },
+    {
+      "english": "What do you think of this place?",
+      "telugu": "ఈ ప్రదేశం గురించి మీరు ఏమనుకుంటున్నారు?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083351"
+    },
+    {
+      "english": "Is this your first time visiting?",
+      "telugu": "మీరు ఇక్కడకు రావడం ఇదే మొదటిసారా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083352"
+    },
+    {
+      "english": "How long are you staying?",
+      "telugu": "మీరు ఎంతకాలం ఉంటున్నారు?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083354"
+    },
+    {
+      "english": "What sights have you seen?",
+      "telugu": "మీరు ఏ దృశ్యాలు చూశారు?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083356"
+    },
+    {
+      "english": "Do you need directions anywhere?",
+      "telugu": "మీకు ఎక్కడికైనా దారి కావాలా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083357"
+    },
+    {
+      "english": "What's the best way to get there?",
+      "telugu": "అక్కడికి వెళ్ళడానికి ఉత్తమ మార్గం ఏమిటి?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083359"
+    },
+    {
+      "english": "Could you recommend a good restaurant?",
+      "telugu": "మీరు ఒక మంచి రెస్టారెంట్ ను సిఫార్సు చేయగలరా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083362"
+    },
+    {
+      "english": "I'm looking for a souvenir shop.",
+      "telugu": "నేను ఒక సావనీర్ షాప్ కోసం వెతుకుతున్నాను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083364"
+    },
+    {
+      "english": "Is there a local market nearby?",
+      "telugu": "సమీపంలో స్థానిక మార్కెట్ ఏదైనా ఉందా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083366"
+    },
+    {
+      "english": "What time does this close?",
+      "telugu": "ఇది ఏ సమయానికి మూసివేస్తారు?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083368"
+    },
+    {
+      "english": "Can you tell me more about this?",
+      "telugu": "దీని గురించి నాకు ఇంకా చెప్పగలరా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083370"
+    },
+    {
+      "english": "Is it always this busy?",
+      "telugu": "ఇది ఎప్పుడూ ఇంత రద్దీగా ఉంటుందా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083371"
+    },
+    {
+      "english": "What's the cultural significance?",
+      "telugu": "దీని సాంస్కృతిక ప్రాముఖ్యత ఏమిటి?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083374"
+    },
+    {
+      "english": "Do you live around here?",
+      "telugu": "మీరు ఈ పరిసరాలలో నివసిస్తున్నారా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083376"
+    },
+    {
+      "english": "What's your favorite local custom?",
+      "telugu": "మీకు ఇష్టమైన స్థానిక ఆచారం ఏమిటి?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083377"
+    },
+    {
+      "english": "Can you recommend a good book?",
+      "telugu": "మీరు ఒక మంచి పుస్తకాన్ని సిఫార్సు చేయగలరా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083379"
+    },
+    {
+      "english": "I'm learning Telugu, can you help?",
+      "telugu": "నేను తెలుగు నేర్చుకుంటున్నాను, మీరు సహాయం చేయగలరా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083381"
+    },
+    {
+      "english": "How do you say this in Telugu?",
+      "telugu": "దీన్ని తెలుగులో ఎలా చెప్పాలి?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083382"
+    },
+    {
+      "english": "Is my pronunciation okay?",
+      "telugu": "నా ఉచ్చారణ బాగానే ఉందా?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083384"
+    },
+    {
+      "english": "That's a beautiful word!",
+      "telugu": "అది ఒక అందమైన పదం!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083386"
+    },
+    {
+      "english": "What does that mean?",
+      "telugu": "దాని అర్థం ఏమిటి?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083388"
+    },
+    {
+      "english": "I'm trying to learn the language.",
+      "telugu": "నేను భాష నేర్చుకోవడానికి ప్రయత్నిస్తున్నాను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083390"
+    },
+    {
+      "english": "Thank you for your patience.",
+      "telugu": "మీ సహనానికి ధన్యవాదాలు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083391"
+    },
+    {
+      "english": "It's nice to practice with you.",
+      "telugu": "మీతో సాధన చేయడం బాగుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083393"
+    },
+    {
+      "english": "Keep trying, you're improving!",
+      "telugu": "ప్రయత్నిస్తూ ఉండు, నీవు మెరుగుపడుతున్నావు!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083394"
+    },
+    {
+      "english": "Don't be shy, approach them.",
+      "telugu": "సిగ్గుపడకు, వారిని సంప్రదించు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083397"
+    },
+    {
+      "english": "Every conversation is a new lesson.",
+      "telugu": "ప్రతి సంభాషణ ఒక కొత్త పాఠం.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083398"
+    },
+    {
+      "english": "That's a great start!",
+      "telugu": "అది అద్భుతమైన ప్రారంభం!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083400"
+    },
+    {
+      "english": "Smiling opens many doors.",
+      "telugu": "చిరునవ్వు చాలా తలుపులు తెరుస్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083402"
+    },
+    {
+      "english": "Be open to new friendships.",
+      "telugu": "కొత్త స్నేహాలకు సిద్ధంగా ఉండు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083403"
+    },
+    {
+      "english": "Your positive attitude shines.",
+      "telugu": "నీ సానుకూల దృక్పథం మెరుస్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083405"
+    },
+    {
+      "english": "Embrace the learning process.",
+      "telugu": "నేర్చుకునే ప్రక్రియను స్వీకరించు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083407"
+    },
+    {
+      "english": "Connect with kindness, always.",
+      "telugu": "దయతో అనుసంధానం అవ్వు, ఎల్లప్పుడూ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083409"
+    },
+    {
+      "english": "You're making good progress.",
+      "telugu": "నీవు మంచి పురోగతి సాధిస్తున్నావు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083411"
+    },
+    {
+      "english": "Listen more, speak thoughtfully.",
+      "telugu": "ఎక్కువ విను, ఆలోచించి మాట్లాడు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083413"
+    },
+    {
+      "english": "A friendly word goes far.",
+      "telugu": "ఒక స్నేహపూర్వక పదం చాలా దూరం వెళ్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083414"
+    },
+    {
+      "english": "Believe in your speaking skills.",
+      "telugu": "నీ మాట్లాడే నైపుణ్యాలపై నమ్మకం ఉంచు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083416"
+    },
+    {
+      "english": "Every interaction builds confidence.",
+      "telugu": "ప్రతి పరస్పర చర్య ఆత్మవిశ్వాసాన్ని పెంచుతుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083419"
+    },
+    {
+      "english": "You are doing wonderfully!",
+      "telugu": "నీవు అద్భుతంగా చేస్తున్నావు!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083420"
+    },
+    {
+      "english": "Curiosity leads to great talks.",
+      "telugu": "కుతూహలం గొప్ప సంభాషణలకు దారితీస్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083424"
+    },
+    {
+      "english": "Be brave, initiate the chat.",
+      "telugu": "ధైర్యంగా ఉండు, సంభాషణను ప్రారంభించు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083425"
+    },
+    {
+      "english": "Your willingness to learn is inspiring.",
+      "telugu": "నీవు నేర్చుకోవాలనే సంకల్పం స్ఫూర్తిదాయకం.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083427"
+    },
+    {
+      "english": "Good luck with your conversations!",
+      "telugu": "నీ సంభాషణలకు శుభాకాంక్షలు!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083429"
+    },
+    {
+      "english": "People appreciate genuine interest.",
+      "telugu": "నిజమైన ఆసక్తిని ప్రజలు అభినందిస్తారు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083430"
+    },
+    {
+      "english": "You're connecting effectively.",
+      "telugu": "నీవు సమర్థవంతంగా కనెక్ట్ అవుతున్నావు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083432"
+    },
+    {
+      "english": "Don't fear mistakes, learn from them.",
+      "telugu": "తప్పులకు భయపడకు, వాటి నుండి నేర్చుకో.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083434"
+    },
+    {
+      "english": "Your voice matters, speak up.",
+      "telugu": "నీ స్వరం ముఖ్యమైనది, మాట్లాడు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083435"
+    },
+    {
+      "english": "Build bridges with your words.",
+      "telugu": "నీ మాటలతో వారధులు నిర్మించు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083437"
+    },
+    {
+      "english": "Stay positive, stay engaged.",
+      "telugu": "సానుకూలంగా ఉండు, నిమగ్నమై ఉండు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083438"
+    },
+    {
+      "english": "You have a warm presence.",
+      "telugu": "నీవు ఒక వెచ్చని ఉనికిని కలిగి ఉన్నావు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083440"
+    },
+    {
+      "english": "Your encouraging words are great.",
+      "telugu": "నీ ప్రోత్సాహకరమైన మాటలు గొప్పవి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083441"
+    },
+    {
+      "english": "It feels good, meeting new people.",
+      "telugu": "కొత్త వాళ్ళని కలవడం, చాలా బాగుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083443"
+    },
+    {
+      "english": "I appreciate your understanding.",
+      "telugu": "మీ సహనానికి, నేను కృతజ్ఞుడను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083444"
+    },
+    {
+      "english": "This conversation feels meaningful.",
+      "telugu": "ఈ సంభాషణ, చాలా అర్ధవంతంగా ఉంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083446"
+    },
+    {
+      "english": "Your openness is refreshing.",
+      "telugu": "మీ స్నేహపూర్వకత, ఆహ్లాదకరంగా ఉంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083448"
+    },
+    {
+      "english": "I'm enjoying this connection.",
+      "telugu": "ఈ పరిచయం, నాకు నచ్చింది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083449"
+    },
+    {
+      "english": "It's a relief, finding common ground.",
+      "telugu": "ఉమ్మడి అభిప్రాయాలు, దొరకడం ఉపశమనం.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083451"
+    },
+    {
+      "english": "Your perspective is interesting.",
+      "telugu": "మీ ఆలోచన, ఆసక్తికరంగా ఉంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083453"
+    },
+    {
+      "english": "This chat is making my day.",
+      "telugu": "ఈ మాటలు, నా రోజుని మార్చాయి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083455"
+    },
+    {
+      "english": "I feel a real connection here.",
+      "telugu": "ఇక్కడ, నిజమైన అనుబంధం అనిపిస్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083456"
+    },
+    {
+      "english": "Your sincerity is evident.",
+      "telugu": "మీ నిజాయితీ, స్పష్టంగా తెలుస్తోంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083458"
+    },
+    {
+      "english": "This moment feels special.",
+      "telugu": "ఈ క్షణం, ప్రత్యేకంగా అనిపిస్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083459"
+    },
+    {
+      "english": "I'm moved by your kindness.",
+      "telugu": "మీ దయ, నన్ను కదిలించింది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083461"
+    },
+    {
+      "english": "It’s rewarding, learning about you.",
+      "telugu": "మీ గురించి, తెలుసుకోవడం లాభదాయకం.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083463"
+    },
+    {
+      "english": "Your thoughts resonate with me.",
+      "telugu": "మీ ఆలోచనలు, నాకు సరిపోలుతున్నాయి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083464"
+    },
+    {
+      "english": "This feels like a genuine encounter.",
+      "telugu": "ఇది నిజమైన కలయికలా, అనిపిస్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083467"
+    },
+    {
+      "english": "I value this interaction greatly.",
+      "telugu": "ఈ సంభాషణను, నేను ఎంతో విలువైనదిగా భావిస్తాను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083469"
+    },
+    {
+      "english": "Your warmth is truly appreciated.",
+      "telugu": "మీ ఆత్మీయతకు, నిజంగా కృతజ్ఞతలు.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083471"
+    },
+    {
+      "english": "This discussion is quite insightful.",
+      "telugu": "ఈ చర్చ, చాలా లోతైనది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083472"
+    },
+    {
+      "english": "I feel understood right now.",
+      "telugu": "ప్రస్తుతం, నన్ను అర్థం చేసుకున్నట్లు అనిపిస్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083475"
+    },
+    {
+      "english": "It’s comforting, sharing stories.",
+      "telugu": "కథలు చెప్పడం, ఓదార్పునిస్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083478"
+    },
+    {
+      "english": "Your openness helps me relax.",
+      "telugu": "మీ స్వేచ్ఛ, నన్ను రిలాక్స్ చేస్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083480"
+    },
+    {
+      "english": "This connection feels natural.",
+      "telugu": "ఈ పరిచయం, సహజంగా అనిపిస్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083481"
+    },
+    {
+      "english": "I'm reflecting on our chat.",
+      "telugu": "మన సంభాషణ గురించి, నేను ఆలోచిస్తున్నాను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083484"
+    },
+    {
+      "english": "Your kindness leaves a lasting impression.",
+      "telugu": "మీ దయ, చిరకాలం గుర్తుండిపోతుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083486"
+    },
+    {
+      "english": "It’s good to be vulnerable here.",
+      "telugu": "ఇక్కడ, బలహీనంగా ఉండటం మంచిది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083488"
+    },
+    {
+      "english": "I'm learning so much from this.",
+      "telugu": "దీని నుండి, నేను చాలా నేర్చుకుంటున్నాను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083489"
+    },
+    {
+      "english": "Your empathy is very touching.",
+      "telugu": "మీ సానుభూతి, చాలా స్పృశిస్తుంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083491"
+    },
+    {
+      "english": "I'm grateful for this exchange.",
+      "telugu": "ఈ మార్పిడికి, నేను కృతజ్ఞుడను.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083492"
+    },
+    {
+      "english": "Your presence is very calming.",
+      "telugu": "మీ ఉనికి, చాలా ప్రశాంతంగా ఉంది.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083494"
+    },
+    {
+      "english": "Start with a simple smile, always.",
+      "telugu": "ముందుగా, చిరునవ్వుతో పలకరించండి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083495"
+    },
+    {
+      "english": "Ask about their day, casually.",
+      "telugu": "వారి దినచర్య గురించి, మామూలుగా అడగండి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083497"
+    },
+    {
+      "english": "Offer help, if they seem lost.",
+      "telugu": "వారు ఇబ్బందిలో ఉంటే, సహాయం అందించండి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083499"
+    },
+    {
+      "english": "Listen more, talk less, initially.",
+      "telugu": "ముందుగా, ఎక్కువ వినండి, తక్కువ మాట్లాడండి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083501"
+    },
+    {
+      "english": "Remember their name, use it.",
+      "telugu": "వారి పేరు గుర్తుంచుకోండి, ఉపయోగించండి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083503"
+    },
+    {
+      "english": "Find common interests, deep dive.",
+      "telugu": "సాధారణ ఆసక్తులను కనుగొని, లోతుగా వెళ్ళండి.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T07:59:16.083505"
     }
   ],
-  "last_updated": "2026-10-23T08:22:20.607517"
+  "last_updated": "2026-10-24T07:59:16.083506"
 }
