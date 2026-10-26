@@ -6479,7 +6479,727 @@
       "telugu": "నీ రోజును ప్లాన్ చేసుకో, లక్ష్యాలను సాధించు.",
       "category": "Wisdom",
       "generated_at": "2026-10-25T08:14:08.211403"
+    },
+    {
+      "english": "I am happy, very happy.",
+      "telugu": "నేను సంతోషంగా ఉన్నాను, చాలా సంతోషంగా.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463960"
+    },
+    {
+      "english": "Are you okay, my friend?",
+      "telugu": "నీకు బాగానే ఉందా, నా స్నేహితుడా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463975"
+    },
+    {
+      "english": "That's great, I'm glad.",
+      "telugu": "అది చాలా బాగుంది, నాకు సంతోషం.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463978"
+    },
+    {
+      "english": "I feel a little tired.",
+      "telugu": "నాకు కొంచెం అలసటగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463980"
+    },
+    {
+      "english": "Don't worry, be happy.",
+      "telugu": "చింతించకు, సంతోషంగా ఉండు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463982"
+    },
+    {
+      "english": "I am feeling good today.",
+      "telugu": "ఈరోజు నాకు చాలా బాగుంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463983"
+    },
+    {
+      "english": "This is quite surprising.",
+      "telugu": "ఇది చాలా ఆశ్చర్యంగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463985"
+    },
+    {
+      "english": "I feel a bit sad.",
+      "telugu": "నాకు కొంచెం బాధగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463989"
+    },
+    {
+      "english": "What happened, tell me?",
+      "telugu": "ఏమైంది, చెప్పు?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463991"
+    },
+    {
+      "english": "I am really excited now.",
+      "telugu": "నేను ఇప్పుడు నిజంగా ఉత్సాహంగా ఉన్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463993"
+    },
+    {
+      "english": "How are you feeling now?",
+      "telugu": "ఇప్పుడు నీకు ఎలా ఉంది?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463995"
+    },
+    {
+      "english": "That's a little annoying.",
+      "telugu": "అది కొంచెం చిరాకుగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463996"
+    },
+    {
+      "english": "I feel very peaceful here.",
+      "telugu": "నాకు ఇక్కడ చాలా ప్రశాంతంగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.463998"
+    },
+    {
+      "english": "It's okay, don't mind.",
+      "telugu": "పర్వాలేదు, పట్టించుకోకు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464000"
+    },
+    {
+      "english": "I'm a little scared, honestly.",
+      "telugu": "నేను నిజాయితీగా కొంచెం భయపడుతున్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464003"
+    },
+    {
+      "english": "That makes me angry.",
+      "telugu": "అది నాకు కోపం తెప్పిస్తుంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464005"
+    },
+    {
+      "english": "I'm so relieved now.",
+      "telugu": "నేను ఇప్పుడు చాలా ఊపిరి పీల్చుకున్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464007"
+    },
+    {
+      "english": "This is quite interesting.",
+      "telugu": "ఇది చాలా ఆసక్తికరంగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464008"
+    },
+    {
+      "english": "I feel a little lonely.",
+      "telugu": "నాకు కొంచెం ఒంటరిగా అనిపిస్తుంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464010"
+    },
+    {
+      "english": "Are you feeling better?",
+      "telugu": "నీకు కొంచెం నయంగా ఉందా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464012"
+    },
+    {
+      "english": "That's really disappointing.",
+      "telugu": "అది నిజంగా నిరాశపరిచింది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464014"
+    },
+    {
+      "english": "I feel a little confused.",
+      "telugu": "నాకు కొంచెం గందరగోళంగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464016"
+    },
+    {
+      "english": "Don't get upset, please.",
+      "telugu": "బాధపడకు, దయచేసి.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464018"
+    },
+    {
+      "english": "I feel so proud of you.",
+      "telugu": "నీ గురించి నాకు చాలా గర్వంగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464019"
+    },
+    {
+      "english": "That's a bit worrying.",
+      "telugu": "అది కొంచెం ఆందోళనకరంగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464021"
+    },
+    {
+      "english": "I feel very energetic.",
+      "telugu": "నాకు చాలా శక్తిగా అనిపిస్తుంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464023"
+    },
+    {
+      "english": "This is very touching.",
+      "telugu": "ఇది చాలా హృద్యంగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464024"
+    },
+    {
+      "english": "I feel a bit bored.",
+      "telugu": "నాకు కొంచెం విసుగుగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464026"
+    },
+    {
+      "english": "Are you feeling sleepy?",
+      "telugu": "నీకు నిద్ర వస్తుందా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464027"
+    },
+    {
+      "english": "It's a bit frustrating.",
+      "telugu": "ఇది కొంచెం నిరాశపరిచింది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464029"
+    },
+    {
+      "english": "Why the long face, my dear?",
+      "telugu": "ఎందుకంత దిగులుగా ఉన్నావు, బంగారం?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464031"
+    },
+    {
+      "english": "Anything I can help with, seriously?",
+      "telugu": "ఏమైనా సహాయం చేయగలనా, నిజంగా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464033"
+    },
+    {
+      "english": "How do you feel about this, hmm?",
+      "telugu": "దీని గురించి నీకు ఎలా అనిపిస్తోంది, హ్మ్?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464035"
+    },
+    {
+      "english": "Are you angry, or just tired?",
+      "telugu": "కోపంగా ఉన్నావా, లేక అలసిపోయావా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464037"
+    },
+    {
+      "english": "Does that make you uncomfortable?",
+      "telugu": "అది నీకు ఇబ్బందిగా అనిపిస్తోందా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464039"
+    },
+    {
+      "english": "What's got you so thoughtful?",
+      "telugu": "ఏమి నిన్ను అంత ఆలోచనలో పడేసింది?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464042"
+    },
+    {
+      "english": "Are you feeling a bit down?",
+      "telugu": "కొంచెం నీరసంగా ఉన్నావా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464044"
+    },
+    {
+      "english": "Did that upset you, I wonder?",
+      "telugu": "అది నిన్ను బాధపెట్టిందా, అనుకుంటున్నాను?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464046"
+    },
+    {
+      "english": "How are things going, mood-wise?",
+      "telugu": "ఎలా ఉంది పరిస్థితి, నీ మూడ్?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464048"
+    },
+    {
+      "english": "Is something bothering your peace?",
+      "telugu": "నీ ప్రశాంతతకు ఏదైనా భంగం కలిగిస్తోందా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464050"
+    },
+    {
+      "english": "What made you so happy just now?",
+      "telugu": "ఇప్పుడే నిన్ను అంత సంతోషపెట్టింది ఏంటి?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464051"
+    },
+    {
+      "english": "You seem a bit lost, need help?",
+      "telugu": "కొంచెం కంగారుగా కనిపిస్తున్నావు, సహాయం కావాలా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464053"
+    },
+    {
+      "english": "Why the sudden change in mood?",
+      "telugu": "మూడ్ లో ఇంత ఆకస్మిక మార్పు ఎందుకు?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464054"
+    },
+    {
+      "english": "Are you feeling overwhelmed, perhaps?",
+      "telugu": "భరించలేనంతగా అనిపిస్తోందా, ఏమో?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464056"
+    },
+    {
+      "english": "What's making you smile today?",
+      "telugu": "ఈరోజు నిన్ను నవ్విస్తోంది ఏంటి?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464057"
+    },
+    {
+      "english": "Do you need some comfort, dear?",
+      "telugu": "నీకు కొంచెం ఓదార్పు కావాలా, ప్రియతమా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464059"
+    },
+    {
+      "english": "How did that event affect you?",
+      "telugu": "ఆ సంఘటన నిన్ను ఎలా ప్రభావితం చేసింది?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464064"
+    },
+    {
+      "english": "Are you feeling down in the dumps?",
+      "telugu": "చాలా నిరుత్సాహంగా ఉన్నావా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464065"
+    },
+    {
+      "english": "What gives you such joy?",
+      "telugu": "నీకు అంత ఆనందాన్ని ఇచ్చేది ఏంటి?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464067"
+    },
+    {
+      "english": "Is this situation stressing you out?",
+      "telugu": "ఈ పరిస్థితి నిన్ను ఒత్తిడికి గురిచేస్తోందా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464068"
+    },
+    {
+      "english": "Tell me, what's the big deal?",
+      "telugu": "చెప్పు, అసలు విషయం ఏంటి?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464070"
+    },
+    {
+      "english": "Feeling a bit blue today, are we?",
+      "telugu": "ఈరోజు కొంచెం విచారంగా ఉన్నావా, అవునా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464071"
+    },
+    {
+      "english": "What's the reason for your smile?",
+      "telugu": "నీ నవ్వు వెనుక కారణం ఏంటి?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464073"
+    },
+    {
+      "english": "Did that make you feel awkward?",
+      "telugu": "అది నీకు ఇబ్బందిగా అనిపించిందా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464075"
+    },
+    {
+      "english": "Anything new on the emotional front?",
+      "telugu": "భావోద్వేగాల పరంగా ఏమైనా కొత్తగా ఉందా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464076"
+    },
+    {
+      "english": "Why the sudden outburst of joy?",
+      "telugu": "ఆనందం యొక్క ఆకస్మిక విస్ఫోటనం ఎందుకు?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464078"
+    },
+    {
+      "english": "Can you explain your feelings clearly?",
+      "telugu": "నీ భావాలను స్పష్టంగా వివరించగలవా?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464079"
+    },
+    {
+      "english": "Keep shining, superstar!",
+      "telugu": "మెరిసిపోతూ ఉండు, సూపర్ స్టార్!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464081"
+    },
+    {
+      "english": "You've got this, believe in yourself.",
+      "telugu": "నువ్వు చేయగలవు, నిన్ను నువ్వే నమ్ము.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464083"
+    },
+    {
+      "english": "Your effort, amazing!",
+      "telugu": "నీ ప్రయత్నం, అద్భుతం!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464085"
+    },
+    {
+      "english": "Dream big, start now.",
+      "telugu": "పెద్ద కలలు కను, ఇప్పుడే మొదలుపెట్టు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464087"
+    },
+    {
+      "english": "Your smile is infectious, you know.",
+      "telugu": "నీ నవ్వు అంటుకుంటుంది తెలుసా.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464089"
+    },
+    {
+      "english": "You inspire me, truly.",
+      "telugu": "నువ్వు నన్ను ప్రేరేపిస్తావు, నిజంగా.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464091"
+    },
+    {
+      "english": "Great job, keep going!",
+      "telugu": "చాలా బాగా చేసావు, కొనసాగించు!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464092"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "telugu": "నీ సంకల్పం మెచ్చుకోదగినది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464094"
+    },
+    {
+      "english": "Believe in your strength.",
+      "telugu": "నీ బలాన్ని నమ్ము.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464096"
+    },
+    {
+      "english": "What a wonderful attitude!",
+      "telugu": "ఎంత అద్భుతమైన వైఖరి!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464097"
+    },
+    {
+      "english": "You have a bright future.",
+      "telugu": "నీకు మంచి భవిష్యత్తు ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464099"
+    },
+    {
+      "english": "Radiate positivity, my friend.",
+      "telugu": "సానుకూలతను వెదజల్లు, నా స్నేహితుడా.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464101"
+    },
+    {
+      "english": "You make things better.",
+      "telugu": "నువ్వు విషయాలను మెరుగుపరుస్తావు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464102"
+    },
+    {
+      "english": "You're doing great, really.",
+      "telugu": "నువ్వు చాలా బాగా చేస్తున్నావు, నిజంగా.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464104"
+    },
+    {
+      "english": "Let your spirit soar high.",
+      "telugu": "నీ ఆత్మ ఉన్నతంగా ఎగరనీ.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464105"
+    },
+    {
+      "english": "Your kindness is appreciated.",
+      "telugu": "నీ దయను అభినందిస్తున్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464107"
+    },
+    {
+      "english": "Keep that spark alive.",
+      "telugu": "ఆ మెరుపును సజీవంగా ఉంచు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464109"
+    },
+    {
+      "english": "Always look on the bright side.",
+      "telugu": "ఎల్లప్పుడూ మంచి వైపే చూడు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464110"
+    },
+    {
+      "english": "You have a heart of gold.",
+      "telugu": "నీకు బంగారం లాంటి మనసుంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464113"
+    },
+    {
+      "english": "Your optimism is contagious.",
+      "telugu": "నీ ఆశావాదం అంటుకుంటుంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464115"
+    },
+    {
+      "english": "Keep up the fantastic work.",
+      "telugu": "అద్భుతమైన పనిని కొనసాగించు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464117"
+    },
+    {
+      "english": "You make a real difference.",
+      "telugu": "నువ్వు నిజమైన మార్పును తెస్తావు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464119"
+    },
+    {
+      "english": "Stay true to yourself.",
+      "telugu": "నీకు నువ్వే నిజాయితీగా ఉండు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464121"
+    },
+    {
+      "english": "Embrace every moment.",
+      "telugu": "ప్రతి క్షణాన్ని ఆస్వాదించు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464122"
+    },
+    {
+      "english": "Honestly, I feel quite peaceful now.",
+      "telugu": "నిజంగా, ఇప్పుడు నాకు చాలా ప్రశాంతంగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464124"
+    },
+    {
+      "english": "Sometimes, reflection brings clarity.",
+      "telugu": "కొన్నిసార్లు, ఆలోచిస్తే స్పష్టత వస్తుంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464126"
+    },
+    {
+      "english": "I'm learning to be patient with myself.",
+      "telugu": "నేను నాతో నేను ఓపికగా ఉండటం నేర్చుకుంటున్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464128"
+    },
+    {
+      "english": "Deep down, I know it's the right choice.",
+      "telugu": "లోతుగా, ఇది సరైన ఎంపిక అని నాకు తెలుసు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464130"
+    },
+    {
+      "english": "This experience taught me a lot.",
+      "telugu": "ఈ అనుభవం నాకు చాలా నేర్పింది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464132"
+    },
+    {
+      "english": "I'm genuinely happy for your success.",
+      "telugu": "నీ విజయం పట్ల నేను నిజంగా సంతోషంగా ఉన్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464134"
+    },
+    {
+      "english": "My heart feels full of gratitude.",
+      "telugu": "నా హృదయం కృతజ్ఞతతో నిండిపోయింది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464135"
+    },
+    {
+      "english": "Looking back, I'm proud of my journey.",
+      "telugu": "వెనక్కి తిరిగి చూస్తే, నా ప్రయాణం పట్ల గర్వంగా ఉంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464137"
+    },
+    {
+      "english": "This realization brought me peace.",
+      "telugu": "ఈ గ్రహింపు నాకు శాంతిని తెచ్చింది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464139"
+    },
+    {
+      "english": "I'm choosing to focus on the positive.",
+      "telugu": "నేను సానుకూలతపై దృష్టి పెట్టాలని ఎంచుకుంటున్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464140"
+    },
+    {
+      "english": "Your honesty means a lot to me.",
+      "telugu": "నీ నిజాయితీ నాకు చాలా ముఖ్యం.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464142"
+    },
+    {
+      "english": "This feeling is quite profound.",
+      "telugu": "ఈ అనుభూతి చాలా లోతైనది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464144"
+    },
+    {
+      "english": "I'm finally at ease.",
+      "telugu": "నేను చివరికి ప్రశాంతంగా ఉన్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464145"
+    },
+    {
+      "english": "This is a moment of quiet joy.",
+      "telugu": "ఇది నిశ్శబ్ద ఆనంద క్షణం.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464147"
+    },
+    {
+      "english": "I accept my imperfections.",
+      "telugu": "నేను నా అసంపూర్ణతలను అంగీకరిస్తున్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464149"
+    },
+    {
+      "english": "Letting go feels liberating.",
+      "telugu": "వదిలేయడం విముక్తినిస్తుంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464150"
+    },
+    {
+      "english": "I'm embracing this new chapter.",
+      "telugu": "నేను ఈ కొత్త అధ్యాయాన్ని స్వీకరిస్తున్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464152"
+    },
+    {
+      "english": "Authenticity is important to me.",
+      "telugu": "నాకు వాస్తవికత ముఖ్యం.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464154"
+    },
+    {
+      "english": "This inner peace is valuable.",
+      "telugu": "ఈ అంతర్గత శాంతి విలువైనది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464157"
+    },
+    {
+      "english": "I'm reflecting on past lessons.",
+      "telugu": "నేను గత పాఠాలపై ఆలోచిస్తున్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464158"
+    },
+    {
+      "english": "This is a turning point for me.",
+      "telugu": "ఇది నాకు ఒక మలుపు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464160"
+    },
+    {
+      "english": "I feel a sense of calm assurance.",
+      "telugu": "నాకు ప్రశాంతమైన భరోసా భావన కలుగుతోంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464162"
+    },
+    {
+      "english": "Trusting my intuition is key.",
+      "telugu": "నా అంతర్ దృష్టిని విశ్వసించడం ముఖ్యం.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464163"
+    },
+    {
+      "english": "I'm finding my center again.",
+      "telugu": "నేను మళ్ళీ నా కేంద్రాన్ని కనుగొంటున్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464165"
+    },
+    {
+      "english": "This honesty fosters connection.",
+      "telugu": "ఈ నిజాయితీ బంధాన్ని పెంచుతుంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464166"
+    },
+    {
+      "english": "I'm acknowledging my emotions fully.",
+      "telugu": "నేను నా భావోద్వేగాలను పూర్తిగా అంగీకరిస్తున్నాను.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464168"
+    },
+    {
+      "english": "When frustrated, take a deep breath.",
+      "telugu": "కోపంగా ఉన్నప్పుడు, దీర్ఘంగా శ్వాస తీసుకోండి.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464171"
+    },
+    {
+      "english": "Talk it out, don't keep it in.",
+      "telugu": "మాట్లాడండి, లోపల పెట్టుకోవద్దు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464173"
+    },
+    {
+      "english": "Acknowledge your feelings, it's okay.",
+      "telugu": "మీ భావాలను అంగీకరించండి, ఫరవాలేదు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464177"
+    },
+    {
+      "english": "Share your joy, spread happiness.",
+      "telugu": "మీ సంతోషాన్ని పంచుకోండి, ఆనందం పంచండి.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464178"
+    },
+    {
+      "english": "When sad, listen to calming music.",
+      "telugu": "విచారంగా ఉన్నప్పుడు, ప్రశాంతమైన సంగీతం వినండి.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464180"
+    },
+    {
+      "english": "Express gratitude, it feels good.",
+      "telugu": "కృతజ్ఞతను వ్యక్తపరచండి, అది బాగుంటుంది.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464182"
+    },
+    {
+      "english": "Don't ignore your gut feeling.",
+      "telugu": "మీ అంతర్బుద్ధిని విస్మరించవద్దు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464184"
+    },
+    {
+      "english": "Seek support when you need it.",
+      "telugu": "మీకు అవసరమైనప్పుడు సహాయం కోరండి.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464186"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "telugu": "చిన్న విజయాలను జరుపుకోండి, అవి ముఖ్యమైనవి.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464187"
+    },
+    {
+      "english": "Manage your stress, find calm.",
+      "telugu": "మీ ఒత్తిడిని నిర్వహించండి, ప్రశాంతతను కనుగొనండి.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464189"
+    },
+    {
+      "english": "Forgive others, free yourself.",
+      "telugu": "ఇతరులను క్షమించండి, మిమ్మల్ని మీరు విముక్తి చేసుకోండి.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464190"
+    },
+    {
+      "english": "Ask for help, it's not weakness.",
+      "telugu": "సహాయం అడగండి, అది బలహీనత కాదు.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464192"
+    },
+    {
+      "english": "Be present, enjoy this moment.",
+      "telugu": "వర్తమానంలో ఉండండి, ఈ క్షణాన్ని ఆస్వాదించండి.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-26T08:40:45.464194"
     }
   ],
-  "last_updated": "2026-10-25T08:14:08.211405"
+  "last_updated": "2026-10-26T08:40:45.464196"
 }
