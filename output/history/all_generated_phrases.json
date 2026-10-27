@@ -7199,7 +7199,727 @@
       "telugu": "వర్తమానంలో ఉండండి, ఈ క్షణాన్ని ఆస్వాదించండి.",
       "category": "Feelings & Emotions",
       "generated_at": "2026-10-26T08:40:45.464194"
+    },
+    {
+      "english": "Hello, table for two, please.",
+      "telugu": "నమస్కారం, ఇద్దరికి టేబుల్, దయచేసి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027376"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "telugu": "మెనూ చూడవచ్చా, దయచేసి?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027391"
+    },
+    {
+      "english": "What do you recommend, today?",
+      "telugu": "ఈరోజు, మీరు ఏమి సూచిస్తారు?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027395"
+    },
+    {
+      "english": "I'll have the biryani, please.",
+      "telugu": "నేను బిర్యానీ తీసుకుంటాను, దయచేసి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027398"
+    },
+    {
+      "english": "This is delicious, truly.",
+      "telugu": "ఇది చాలా రుచిగా ఉంది, నిజంగా.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027401"
+    },
+    {
+      "english": "A little spicy, for me.",
+      "telugu": "నాకు, కొంచెం కారంగా ఉంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027404"
+    },
+    {
+      "english": "Not too spicy, is it?",
+      "telugu": "ఎక్కువ కారంగా లేదు, కదా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027409"
+    },
+    {
+      "english": "Water, without ice, please.",
+      "telugu": "నీళ్ళు, ఐస్ లేకుండా, దయచేసి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027415"
+    },
+    {
+      "english": "Can I get some more, rice?",
+      "telugu": "ఇంకా కొంచెం, అన్నం తెస్తారా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027419"
+    },
+    {
+      "english": "The bill, please, when ready.",
+      "telugu": "బిల్లు, దయచేసి, సిద్ధంగా ఉన్నప్పుడు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027422"
+    },
+    {
+      "english": "Is service charge, included?",
+      "telugu": "సర్వీస్ ఛార్జ్, కలిపి ఉందా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027425"
+    },
+    {
+      "english": "This tastes, amazing, wow!",
+      "telugu": "ఇది చాలా అద్భుతంగా ఉంది, వావ్!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027428"
+    },
+    {
+      "english": "Anything for dessert, perhaps?",
+      "telugu": "డెజర్ట్ కోసం ఏమైనా, ఉందా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027431"
+    },
+    {
+      "english": "Just a coffee, to go.",
+      "telugu": "ఒక కాఫీ, తీసుకెళ్లడానికి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027433"
+    },
+    {
+      "english": "Where is the restroom, please?",
+      "telugu": "రెస్ట్ రూమ్ ఎక్కడ ఉంది, దయచేసి?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027436"
+    },
+    {
+      "english": "We are ready, to order.",
+      "telugu": "మేము ఆర్డర్ చేయడానికి, సిద్ధంగా ఉన్నాము.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027439"
+    },
+    {
+      "english": "I need, a moment, please.",
+      "telugu": "నాకు, ఒక క్షణం, కావాలి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027441"
+    },
+    {
+      "english": "This is too salty, unfortunately.",
+      "telugu": "ఇది చాలా ఉప్పగా ఉంది, దురదృష్టవశాత్తు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027444"
+    },
+    {
+      "english": "Can we share, this dish?",
+      "telugu": "మేము, ఈ వంటకాన్ని, పంచుకోవచ్చా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027447"
+    },
+    {
+      "english": "It's okay, I'll manage.",
+      "telugu": "పర్వాలేదు, నేను సర్దుకుంటాను.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027452"
+    },
+    {
+      "english": "More chutney, please, if possible.",
+      "telugu": "ఇంకా చట్నీ, దయచేసి, వీలైతే.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027455"
+    },
+    {
+      "english": "This is exactly, what I wanted.",
+      "telugu": "నేను కోరుకున్నది, సరిగ్గా ఇదే.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027458"
+    },
+    {
+      "english": "Can I have, some bread?",
+      "telugu": "కొంచెం బ్రెడ్, దొరుకుతుందా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027460"
+    },
+    {
+      "english": "The food is, taking too long.",
+      "telugu": "ఆహారం, చాలా ఆలస్యం అవుతోంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027463"
+    },
+    {
+      "english": "It's perfect, temperature wise.",
+      "telugu": "ఇది పరిపూర్ణంగా ఉంది, ఉష్ణోగ్రత పరంగా.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027466"
+    },
+    {
+      "english": "Do you have, vegetarian options?",
+      "telugu": "మీ దగ్గర, శాఖాహార ఎంపికలు, ఉన్నాయా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027468"
+    },
+    {
+      "english": "Could you make it, milder?",
+      "telugu": "దీన్ని, కొంచెం తక్కువ కారంగా, చేయగలరా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027471"
+    },
+    {
+      "english": "I am allergic, to nuts.",
+      "telugu": "నాకు, నట్స్ పడవు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027474"
+    },
+    {
+      "english": "It was a pleasure, dining here.",
+      "telugu": "ఇక్కడ భోజనం చేయడం, ఆనందంగా ఉంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027491"
+    },
+    {
+      "english": "Can I get, the doggy bag?",
+      "telugu": "మిగిలిపోయిన ఆహారం, ప్యాక్ చేస్తారా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027494"
+    },
+    {
+      "english": "Excuse me, could you help me?",
+      "telugu": "క్షమించండి, మీరు నాకు సహాయం చేయగలరా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027497"
+    },
+    {
+      "english": "What's your signature dish?",
+      "telugu": "మీ ప్రత్యేక వంటకం ఏమిటి?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027502"
+    },
+    {
+      "english": "Do you have any daily specials?",
+      "telugu": "మీకు ఏవైనా రోజువారీ ప్రత్యేకతలు ఉన్నాయా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027505"
+    },
+    {
+      "english": "Is this dish, very popular?",
+      "telugu": "ఈ వంటకం, చాలా ప్రాచుర్యం పొందిందా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027508"
+    },
+    {
+      "english": "What ingredients, are in this?",
+      "telugu": "ఇందులో ఏ పదార్థాలు, ఉన్నాయి?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027510"
+    },
+    {
+      "english": "Can I get, a different side dish?",
+      "telugu": "నేను వేరే సైడ్ డిష్, తీసుకోవచ్చా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027513"
+    },
+    {
+      "english": "How is this prepared, exactly?",
+      "telugu": "దీనిని సరిగ్గా, ఎలా తయారు చేస్తారు?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027516"
+    },
+    {
+      "english": "Could you explain, this item?",
+      "telugu": "ఈ వస్తువును, వివరించగలరా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027521"
+    },
+    {
+      "english": "Are there any, gluten-free options?",
+      "telugu": "ఏవైనా, గ్లూటెన్-ఫ్రీ ఎంపికలు ఉన్నాయా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027524"
+    },
+    {
+      "english": "What do you suggest, for a light meal?",
+      "telugu": "తేలికపాటి భోజనం కోసం, మీరు ఏమి సూచిస్తారు?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027527"
+    },
+    {
+      "english": "Is this spicy, or mild?",
+      "telugu": "ఇది కారంగా, లేదా తక్కువ కారంగా ఉందా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027530"
+    },
+    {
+      "english": "Can I substitute, the vegetables?",
+      "telugu": "నేను కూరగాయలను, మార్చవచ్చా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027532"
+    },
+    {
+      "english": "What kind, of bread is this?",
+      "telugu": "ఇది ఏ రకమైన, రొట్టె?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027535"
+    },
+    {
+      "english": "How long, will it take?",
+      "telugu": "ఇది ఎంత సమయం, పడుతుంది?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027538"
+    },
+    {
+      "english": "Can we have, separate bills?",
+      "telugu": "మేము వేర్వేరు బిల్లులు, తీసుకోవచ్చా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027540"
+    },
+    {
+      "english": "Is the sauce, on the side?",
+      "telugu": "సాస్, పక్కన పెట్టారా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027546"
+    },
+    {
+      "english": "What's fresh, today's catch?",
+      "telugu": "ఈ రోజు, తాజాగా ఏమి దొరికింది?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027550"
+    },
+    {
+      "english": "Can I have, less oil, please?",
+      "telugu": "నేను తక్కువ నూనె, తీసుకోవచ్చా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027553"
+    },
+    {
+      "english": "What is this called, in Telugu?",
+      "telugu": "దీనిని తెలుగులో, ఏమంటారు?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027556"
+    },
+    {
+      "english": "Is it possible, to make it vegan?",
+      "telugu": "దీనిని వేగన్, చేయడం సాధ్యమేనా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027558"
+    },
+    {
+      "english": "Could you bring, some napkins?",
+      "telugu": "కొన్ని నాప్కిన్లు, తీసుకురాగలరా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027561"
+    },
+    {
+      "english": "What's the soup, of the day?",
+      "telugu": "ఈ రోజు సూప్, ఏమిటి?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027564"
+    },
+    {
+      "english": "Can I order, something quick?",
+      "telugu": "నేను త్వరగా, ఏదైనా ఆర్డర్ చేయవచ్చా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027567"
+    },
+    {
+      "english": "What's the best, local cuisine?",
+      "telugu": "స్థానిక వంటకాల్లో, ఉత్తమమైనది ఏది?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027569"
+    },
+    {
+      "english": "Can I get, some extra sauce?",
+      "telugu": "నేను అదనపు సాస్, తీసుకోవచ్చా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027572"
+    },
+    {
+      "english": "Is this homemade, or pre-made?",
+      "telugu": "ఇది ఇంట్లో తయారుచేసినదా, లేక ముందుగా చేసినదా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027574"
+    },
+    {
+      "english": "Could you make this, less sweet?",
+      "telugu": "దీనిని, తక్కువ తీపిగా, చేయగలరా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027577"
+    },
+    {
+      "english": "Do you have, any recommendations?",
+      "telugu": "మీకు ఏవైనా, సూచనలు ఉన్నాయా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027580"
+    },
+    {
+      "english": "Is this spicy, on a scale?",
+      "telugu": "ఇది కారంగా, ఒక స్కేల్‌లో చెప్పాలంటే?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027583"
+    },
+    {
+      "english": "Believe in your Telugu, you'll learn fast.",
+      "telugu": "మీ తెలుగుపై నమ్మండి, త్వరగా నేర్చుకుంటారు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027586"
+    },
+    {
+      "english": "Every new word, is a small victory.",
+      "telugu": "ప్రతి కొత్త పదం, ఒక చిన్న విజయం.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027589"
+    },
+    {
+      "english": "Don't be afraid, to try new dishes.",
+      "telugu": "కొత్త వంటకాలను ప్రయత్నించడానికి, భయపడకండి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027592"
+    },
+    {
+      "english": "Taste the adventure, embrace the flavor.",
+      "telugu": "సాహసాన్ని రుచి చూడండి, రుచిని స్వీకరించండి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027594"
+    },
+    {
+      "english": "Mistakes are part, of learning.",
+      "telugu": "తప్పులు నేర్చుకోవడంలో, ఒక భాగం.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027597"
+    },
+    {
+      "english": "You have a good ear, for Telugu.",
+      "telugu": "మీకు తెలుగుపై, మంచి పట్టు ఉంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027600"
+    },
+    {
+      "english": "This learning journey, is exciting.",
+      "telugu": "ఈ అభ్యాస ప్రయాణం, ఉత్తేజకరమైనది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027603"
+    },
+    {
+      "english": "Your pronunciation, is improving daily.",
+      "telugu": "మీ ఉచ్చారణ, ప్రతిరోజూ మెరుగుపడుతుంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027605"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "telugu": "మీతో మీరు, ఓపికగా ఉండండి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027608"
+    },
+    {
+      "english": "You can do this, totally!",
+      "telugu": "మీరు దీన్ని, ఖచ్చితంగా చేయగలరు!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027611"
+    },
+    {
+      "english": "Embrace the challenge, enjoy the food.",
+      "telugu": "సవాలును స్వీకరించండి, ఆహారాన్ని ఆస్వాదించండి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027615"
+    },
+    {
+      "english": "Every meal, is a chance to practice.",
+      "telugu": "ప్రతి భోజనం, అభ్యాసం చేయడానికి ఒక అవకాశం.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027618"
+    },
+    {
+      "english": "Your courage, is inspiring.",
+      "telugu": "మీ ధైర్యం, స్ఫూర్తిదాయకం.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027621"
+    },
+    {
+      "english": "You're understanding, so much now.",
+      "telugu": "మీరు ఇప్పుడు, చాలా అర్థం చేసుకుంటున్నారు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027624"
+    },
+    {
+      "english": "This is how, fluency grows.",
+      "telugu": "ఇలాగే, ధారాళత పెరుగుతుంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027626"
+    },
+    {
+      "english": "You're speaking, more confidently.",
+      "telugu": "మీరు మరింత, ఆత్మవిశ్వాసంతో మాట్లాడుతున్నారు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027629"
+    },
+    {
+      "english": "Celebrate small wins, in Telugu.",
+      "telugu": "తెలుగులో, చిన్న విజయాలను జరుపుకోండి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027634"
+    },
+    {
+      "english": "Don't give up, learning is key.",
+      "telugu": "వదులుకోవద్దు, నేర్చుకోవడమే కీలకం.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027637"
+    },
+    {
+      "english": "Your progress, is fantastic.",
+      "telugu": "మీ పురోగతి, అద్భుతంగా ఉంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027640"
+    },
+    {
+      "english": "You're a natural, learner.",
+      "telugu": "మీరు ఒక సహజమైన, అభ్యాసకులు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027643"
+    },
+    {
+      "english": "Keep practicing, daily habits matter.",
+      "telugu": "అభ్యాసం చేస్తూ ఉండండి, రోజువారీ అలవాట్లు ముఖ్యం.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027645"
+    },
+    {
+      "english": "You're mastering, new phrases.",
+      "telugu": "మీరు కొత్త, పదబంధాలను నేర్చుకుంటున్నారు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027648"
+    },
+    {
+      "english": "Your confidence, is growing.",
+      "telugu": "మీ ఆత్మవిశ్వాసం, పెరుగుతోంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027651"
+    },
+    {
+      "english": "This is progress, not perfection.",
+      "telugu": "ఇది పురోగతి, పరిపూర్ణత కాదు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027654"
+    },
+    {
+      "english": "You're ordering, like a local!",
+      "telugu": "మీరు స్థానికుడిలా, ఆర్డర్ చేస్తున్నారు!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027656"
+    },
+    {
+      "english": "Every attempt, counts.",
+      "telugu": "ప్రతి ప్రయత్నం, విలువైనదే.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027659"
+    },
+    {
+      "english": "You're understanding, the culture.",
+      "telugu": "మీరు సంస్కృతిని, అర్థం చేసుకుంటున్నారు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027662"
+    },
+    {
+      "english": "This dish, has a wonderful aroma.",
+      "telugu": "ఈ వంటకం, మంచి సువాసనతో ఉంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027665"
+    },
+    {
+      "english": "I'm really enjoying, this experience.",
+      "telugu": "నేను ఈ అనుభూతిని, బాగా ఆస్వాదిస్తున్నాను.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027668"
+    },
+    {
+      "english": "It tastes authentic, like home.",
+      "telugu": "ఇది అసలైన రుచి, ఇంటిలా ఉంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027670"
+    },
+    {
+      "english": "I need a moment, to decide.",
+      "telugu": "నేను నిర్ణయించుకోవడానికి, ఒక క్షణం కావాలి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027673"
+    },
+    {
+      "english": "This is quite filling, thank you.",
+      "telugu": "ఇది చాలా కడుపు నింపుతుంది, ధన్యవాదాలు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027676"
+    },
+    {
+      "english": "I'm feeling very satisfied, now.",
+      "telugu": "నేను ఇప్పుడు, చాలా తృప్తిగా ఉన్నాను.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027679"
+    },
+    {
+      "english": "The service here, is exceptional.",
+      "telugu": "ఇక్కడ సేవ, అసాధారణంగా ఉంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027682"
+    },
+    {
+      "english": "It reminds me, of my childhood.",
+      "telugu": "ఇది నాకు, నా చిన్నతనాన్ని గుర్తు చేస్తుంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027684"
+    },
+    {
+      "english": "I appreciate, your patience.",
+      "telugu": "మీ ఓపికను, నేను అభినందిస్తున్నాను.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027689"
+    },
+    {
+      "english": "This flavor profile, is unique.",
+      "telugu": "ఈ రుచి విధానం, ప్రత్యేకమైనది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027691"
+    },
+    {
+      "english": "I'm learning, so much today.",
+      "telugu": "నేను ఈరోజు, చాలా నేర్చుకుంటున్నాను.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027694"
+    },
+    {
+      "english": "It’s a comforting meal, really.",
+      "telugu": "ఇది నిజంగా, ఓదార్పునిచ్చే భోజనం.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027698"
+    },
+    {
+      "english": "I feel a connection, to this food.",
+      "telugu": "నాకు ఈ ఆహారంతో, ఒక అనుబంధం అనిపిస్తుంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027701"
+    },
+    {
+      "english": "Can I have, some water, please?",
+      "telugu": "నేను కొంచెం నీళ్ళు, తెప్పించవచ్చా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027704"
+    },
+    {
+      "english": "This tastes surprisingly good.",
+      "telugu": "ఇది ఆశ్చర్యకరంగా, రుచిగా ఉంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027706"
+    },
+    {
+      "english": "I need to savor, this moment.",
+      "telugu": "నేను ఈ క్షణాన్ని, ఆస్వాదించాలి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027711"
+    },
+    {
+      "english": "It’s so much better, than expected.",
+      "telugu": "ఇది ఊహించినదానికంటే, చాలా బాగుంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027716"
+    },
+    {
+      "english": "I'm grateful, for this meal.",
+      "telugu": "ఈ భోజనానికి, నేను కృతజ్ఞుడను.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027719"
+    },
+    {
+      "english": "My compliments, to the chef.",
+      "telugu": "చెఫ్‌కు, నా అభినందనలు.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027722"
+    },
+    {
+      "english": "This brings back, good memories.",
+      "telugu": "ఇది మంచి జ్ఞాపకాలను, తిరిగి తెస్తుంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027724"
+    },
+    {
+      "english": "I feel very relaxed, here.",
+      "telugu": "నేను ఇక్కడ, చాలా రిలాక్స్‌డ్‌గా ఉన్నాను.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027727"
+    },
+    {
+      "english": "I'm truly touched, by this.",
+      "telugu": "నేను దీనితో, నిజంగా ప్రభావితమయ్యాను.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027729"
+    },
+    {
+      "english": "This food speaks, to my soul.",
+      "telugu": "ఈ ఆహారం, నా ఆత్మతో మాట్లాడుతుంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027732"
+    },
+    {
+      "english": "I'm so glad, I came here.",
+      "telugu": "నేను ఇక్కడికి వచ్చినందుకు, చాలా సంతోషంగా ఉంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027735"
+    },
+    {
+      "english": "It's a genuine, local flavor.",
+      "telugu": "ఇది నిజమైన, స్థానిక రుచి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027738"
+    },
+    {
+      "english": "I feel a sense, of peace.",
+      "telugu": "నాకు శాంతి, అనుభూతి కలుగుతుంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027740"
+    },
+    {
+      "english": "This tastes like, pure happiness.",
+      "telugu": "ఇది స్వచ్ఛమైన, ఆనందంలా రుచి చూస్తుంది.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027743"
+    },
+    {
+      "english": "I need a little time, please.",
+      "telugu": "నాకు కొంచెం సమయం, కావాలి దయచేసి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027746"
+    },
+    {
+      "english": "This is more than food, it's art.",
+      "telugu": "ఇది ఆహారం కంటే ఎక్కువ, ఇది కళ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027749"
+    },
+    {
+      "english": "I'll have, the spicy noodles.",
+      "telugu": "నేను, కారంగా ఉండే, నూడుల్స్ తీసుకుంటాను.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027751"
+    },
+    {
+      "english": "Is this, very spicy?",
+      "telugu": "ఇది, చాలా కారంగా, ఉంటుందా?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027754"
+    },
+    {
+      "english": "I prefer, mild spice, please.",
+      "telugu": "నాకు, తక్కువ కారం, కావాలి, దయచేసి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027757"
+    },
+    {
+      "english": "One plate, of biryani, please.",
+      "telugu": "ఒక ప్లేట్, బిర్యానీ, ఇవ్వండి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027760"
+    },
+    {
+      "english": "We need, another chair, please.",
+      "telugu": "మాకు, ఇంకో కుర్చీ, కావాలి, దయచేసి.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-27T08:47:05.027763"
     }
   ],
-  "last_updated": "2026-10-26T08:40:45.464196"
+  "last_updated": "2026-10-27T08:47:05.027765"
 }
