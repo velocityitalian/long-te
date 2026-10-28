@@ -7919,7 +7919,727 @@
       "telugu": "మాకు, ఇంకో కుర్చీ, కావాలి, దయచేసి.",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-10-27T08:47:05.027763"
+    },
+    {
+      "english": "Where is the bus stop?",
+      "telugu": "బస్ స్టాప్ ఎక్కడ ఉంది?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197084"
+    },
+    {
+      "english": "Is this the right bus?",
+      "telugu": "ఇది సరైన బస్సా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197096"
+    },
+    {
+      "english": "When does the bus arrive?",
+      "telugu": "బస్సు ఎప్పుడు వస్తుంది?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197098"
+    },
+    {
+      "english": "How much is the ticket?",
+      "telugu": "టికెట్ ఎంత?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197101"
+    },
+    {
+      "english": "I need to go here.",
+      "telugu": "నేను ఇక్కడికి వెళ్ళాలి.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197104"
+    },
+    {
+      "english": "Please stop the bus.",
+      "telugu": "దయచేసి బస్సు ఆపండి.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197105"
+    },
+    {
+      "english": "Next stop, please.",
+      "telugu": "తరువాత స్టాప్, దయచేసి.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197107"
+    },
+    {
+      "english": "This is my stop.",
+      "telugu": "ఇది నా స్టాప్.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197111"
+    },
+    {
+      "english": "Can you help me?",
+      "telugu": "మీరు నాకు సహాయం చేయగలరా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197113"
+    },
+    {
+      "english": "Is it crowded today?",
+      "telugu": "ఈరోజు రద్దీగా ఉందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197115"
+    },
+    {
+      "english": "I'm late for work.",
+      "telugu": "నాకు ఆఫీసుకి ఆలస్యం అయింది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197117"
+    },
+    {
+      "english": "Where can I buy a ticket?",
+      "telugu": "టికెట్ ఎక్కడ కొనాలి?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197118"
+    },
+    {
+      "english": "Is there a direct bus?",
+      "telugu": "నేరుగా వెళ్లే బస్సు ఉందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197120"
+    },
+    {
+      "english": "How long is the journey?",
+      "telugu": "ప్రయాణం ఎంత సేపు?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197121"
+    },
+    {
+      "english": "I missed my bus.",
+      "telugu": "నా బస్సు మిస్ అయింది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197124"
+    },
+    {
+      "english": "This bus is full.",
+      "telugu": "ఈ బస్సు నిండిపోయింది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197126"
+    },
+    {
+      "english": "When is the last bus?",
+      "telugu": "చివరి బస్సు ఎప్పుడు?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197127"
+    },
+    {
+      "english": "Can I get off here?",
+      "telugu": "నేను ఇక్కడ దిగవచ్చా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197129"
+    },
+    {
+      "english": "Excuse me, please.",
+      "telugu": "క్షమించండి, దయచేసి.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197130"
+    },
+    {
+      "english": "Does this go to the city?",
+      "telugu": "ఇది సిటీకి వెళ్తుందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197132"
+    },
+    {
+      "english": "I need to change buses.",
+      "telugu": "నేను బస్సులు మార్చాలి.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197134"
+    },
+    {
+      "english": "How often does it run?",
+      "telugu": "ఇది ఎంత తరచుగా నడుస్తుంది?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197135"
+    },
+    {
+      "english": "Is there a timetable?",
+      "telugu": "టైమ్ టేబుల్ ఉందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197137"
+    },
+    {
+      "english": "Can I have a window seat?",
+      "telugu": "కిటికీ సీటు దొరుకుతుందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197138"
+    },
+    {
+      "english": "I'm looking for the station.",
+      "telugu": "నేను స్టేషన్ కోసం చూస్తున్నాను.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197140"
+    },
+    {
+      "english": "This is very convenient.",
+      "telugu": "ఇది చాలా సౌకర్యవంతంగా ఉంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197142"
+    },
+    {
+      "english": "Is there a restroom here?",
+      "telugu": "ఇక్కడ టాయిలెట్ ఉందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197143"
+    },
+    {
+      "english": "Let's take the next one.",
+      "telugu": "తరువాత దాన్ని తీసుకుందాం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197145"
+    },
+    {
+      "english": "I need to get off soon.",
+      "telugu": "నేను త్వరలో దిగాలి.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197146"
+    },
+    {
+      "english": "Which bus goes to the market?",
+      "telugu": "మార్కెట్‌కి ఏ బస్సు వెళ్తుంది?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197148"
+    },
+    {
+      "english": "Is this bus going towards Gachibowli?",
+      "telugu": "ఈ బస్సు గచ్చిబౌలి వైపు వెళ్తుందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197152"
+    },
+    {
+      "english": "How do I get to the airport?",
+      "telugu": "విమానాశ్రయానికి ఎలా వెళ్ళాలి?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197155"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "telugu": "మళ్ళీ చెప్పగలరా, దయచేసి?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197164"
+    },
+    {
+      "english": "What's the next stop name?",
+      "telugu": "తరువాత స్టాప్ పేరు ఏమిటి?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197168"
+    },
+    {
+      "english": "Is there a seat available?",
+      "telugu": "సీటు ఖాళీగా ఉందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197170"
+    },
+    {
+      "english": "When does the last train depart?",
+      "telugu": "చివరి రైలు ఎప్పుడు బయలుదేరుతుంది?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197172"
+    },
+    {
+      "english": "Where is the nearest metro station?",
+      "telugu": "అతి దగ్గరలో మెట్రో స్టేషన్ ఎక్కడ ఉంది?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197174"
+    },
+    {
+      "english": "Does this ticket include a return?",
+      "telugu": "ఈ టికెట్‌లో రిటర్న్ కూడా ఉందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197176"
+    },
+    {
+      "english": "Can you help me find my route?",
+      "telugu": "నా రూట్ కనుక్కోవడానికి సహాయం చేస్తారా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197178"
+    },
+    {
+      "english": "Is this seat taken?",
+      "telugu": "ఈ సీటులో ఎవరైనా ఉన్నారా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197179"
+    },
+    {
+      "english": "How often does this bus come?",
+      "telugu": "ఈ బస్సు ఎంత తరచుగా వస్తుంది?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197181"
+    },
+    {
+      "english": "What time does the service start?",
+      "telugu": "సేవ ఎప్పుడు మొదలవుతుంది?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197183"
+    },
+    {
+      "english": "Is there a discount for students?",
+      "telugu": "విద్యార్థులకు డిస్కౌంట్ ఉందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197184"
+    },
+    {
+      "english": "Where do I get off for the museum?",
+      "telugu": "మ్యూజియం కోసం ఎక్కడ దిగాలి?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197186"
+    },
+    {
+      "english": "Can I reserve a seat?",
+      "telugu": "నేను సీటు రిజర్వ్ చేసుకోవచ్చా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197187"
+    },
+    {
+      "english": "Is this bus usually busy?",
+      "telugu": "ఈ బస్సు సాధారణంగా రద్దీగా ఉంటుందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197189"
+    },
+    {
+      "english": "What's the fare to the city center?",
+      "telugu": "సిటీ సెంటర్‌కి ఛార్జీ ఎంత?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197192"
+    },
+    {
+      "english": "How can I get a transfer ticket?",
+      "telugu": "ట్రాన్స్‌ఫర్ టికెట్ ఎలా తీసుకోవాలి?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197193"
+    },
+    {
+      "english": "Could you show me on the map?",
+      "telugu": "మ్యాప్‌లో చూపించగలరా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197195"
+    },
+    {
+      "english": "Is it safe to travel alone?",
+      "telugu": "ఒంటరిగా ప్రయాణించడం సురక్షితమేనా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197196"
+    },
+    {
+      "english": "Where can I find a taxi?",
+      "telugu": "టాక్సీ ఎక్కడ దొరుకుతుంది?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197198"
+    },
+    {
+      "english": "What's the best way to go?",
+      "telugu": "వెళ్ళడానికి ఉత్తమ మార్గం ఏమిటి?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197201"
+    },
+    {
+      "english": "Can I bring my luggage onboard?",
+      "telugu": "నా లగేజీని లోపలికి తీసుకురావచ్చా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197202"
+    },
+    {
+      "english": "Is this bus running on time?",
+      "telugu": "ఈ బస్సు సమయానికి నడుస్తోందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197204"
+    },
+    {
+      "english": "How do I signal the driver?",
+      "telugu": "డ్రైవర్‌కు ఎలా సంకేతం ఇవ్వాలి?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197205"
+    },
+    {
+      "english": "Is there Wi-Fi on the bus?",
+      "telugu": "బస్సులో వై-ఫై ఉందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197207"
+    },
+    {
+      "english": "You've got this, keep going!",
+      "telugu": "నువ్వు చేయగలవు, కొనసాగించు!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197209"
+    },
+    {
+      "english": "Every journey starts with a step.",
+      "telugu": "ప్రతి ప్రయాణం ఒక అడుగుతో మొదలవుతుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197210"
+    },
+    {
+      "english": "Learning Telugu is an adventure.",
+      "telugu": "తెలుగు నేర్చుకోవడం ఒక సాహసం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197212"
+    },
+    {
+      "english": "Be patient, progress takes time.",
+      "telugu": "ఓపికతో ఉండు, పురోగతికి సమయం పడుతుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197214"
+    },
+    {
+      "english": "Don't be afraid to ask questions.",
+      "telugu": "ప్రశ్నలు అడగడానికి భయపడకు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197216"
+    },
+    {
+      "english": "Mistakes are proof you are trying.",
+      "telugu": "తప్పులు నువ్వు ప్రయత్నిస్తున్నావనడానికి రుజువు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197217"
+    },
+    {
+      "english": "Embrace the challenge, enjoy the ride.",
+      "telugu": "సవాలును స్వీకరించు, ప్రయాణాన్ని ఆస్వాదించు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197220"
+    },
+    {
+      "english": "Believe in yourself, you can learn.",
+      "telugu": "నిన్ను నువ్వు నమ్ము, నువ్వు నేర్చుకోగలవు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197222"
+    },
+    {
+      "english": "Small wins add up, celebrate them.",
+      "telugu": "చిన్న విజయాలు కలిసి పెద్దవవుతాయి, వాటిని జరుపుకో.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197224"
+    },
+    {
+      "english": "It's okay to go slow, just don't stop.",
+      "telugu": "నెమ్మదిగా వెళ్ళినా ఫర్వాలేదు, ఆగకు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197226"
+    },
+    {
+      "english": "You're making excellent progress.",
+      "telugu": "నువ్వు అద్భుతమైన పురోగతి సాధిస్తున్నావు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197227"
+    },
+    {
+      "english": "Stay positive, learning is rewarding.",
+      "telugu": "సానుకూలంగా ఉండు, నేర్చుకోవడం లాభదాయకం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197229"
+    },
+    {
+      "english": "Each day is a new opportunity.",
+      "telugu": "ప్రతి రోజు ఒక కొత్త అవకాశం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197231"
+    },
+    {
+      "english": "Learning Telugu opens new doors.",
+      "telugu": "తెలుగు నేర్చుకోవడం కొత్త ద్వారాలను తెరుస్తుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197232"
+    },
+    {
+      "english": "Keep practicing, fluency will come.",
+      "telugu": "అభ్యాసం చేస్తూ ఉండు, అనర్గళత వస్తుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197234"
+    },
+    {
+      "english": "Focus on the goal, not the hurdles.",
+      "telugu": "అడ్డంకులపై కాదు, లక్ష్యంపై దృష్టి పెట్టు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197236"
+    },
+    {
+      "english": "This journey is worth it.",
+      "telugu": "ఈ ప్రయాణం విలువైనది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197237"
+    },
+    {
+      "english": "You're learning fast, well done!",
+      "telugu": "నువ్వు వేగంగా నేర్చుకుంటున్నావు, చాలా బాగా చేసావు!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197239"
+    },
+    {
+      "english": "Persistence pays off, keep trying.",
+      "telugu": "పట్టుదల ఫలిస్తుంది, ప్రయత్నిస్తూనే ఉండు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197241"
+    },
+    {
+      "english": "Every effort counts, don't give up.",
+      "telugu": "ప్రతి ప్రయత్నం లెక్కలోకి వస్తుంది, వదులుకోవద్దు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197243"
+    },
+    {
+      "english": "You are making great strides.",
+      "telugu": "నువ్వు గొప్ప పురోగతి సాధిస్తున్నావు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197244"
+    },
+    {
+      "english": "Believe in the process of learning.",
+      "telugu": "నేర్చుకునే ప్రక్రియపై నమ్మకం ఉంచు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197246"
+    },
+    {
+      "english": "Your hard work will be rewarded.",
+      "telugu": "నీ కష్టానికి ప్రతిఫలం ఉంటుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197248"
+    },
+    {
+      "english": "Embrace mistakes as learning tools.",
+      "telugu": "తప్పులను నేర్చుకునే సాధనాలుగా స్వీకరించు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197250"
+    },
+    {
+      "english": "You're growing every single day.",
+      "telugu": "నువ్వు ప్రతి రోజు ఎదుగుతున్నావు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197251"
+    },
+    {
+      "english": "This journey, really teaches me.",
+      "telugu": "ఈ ప్రయాణం, నాకు నిజంగా నేర్పిస్తుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197253"
+    },
+    {
+      "english": "Sometimes, I feel quite lost.",
+      "telugu": "కొన్నిసార్లు, నాకు చాలా అయోమయంగా ఉంటుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197255"
+    },
+    {
+      "english": "It's a chance, to observe people.",
+      "telugu": "ఇది ఒక అవకాశం, ప్రజలను గమనించడానికి.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197257"
+    },
+    {
+      "english": "The slow pace, helps me think.",
+      "telugu": "నెమ్మదైన వేగం, ఆలోచించడానికి సహాయపడుతుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197258"
+    },
+    {
+      "english": "I often reflect, on life's twists.",
+      "telugu": "జీవితంలోని మలుపులపై, నేను తరచుగా ఆలోచిస్తాను.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197263"
+    },
+    {
+      "english": "Patience, is key here.",
+      "telugu": "ఓపిక, ఇక్కడ ముఖ్యం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197264"
+    },
+    {
+      "english": "Feeling grateful, for the ride.",
+      "telugu": "ఈ ప్రయాణానికి, కృతజ్ఞతగా భావిస్తున్నాను.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197266"
+    },
+    {
+      "english": "The crowd, makes me introspective.",
+      "telugu": "జనం, నన్ను ఆత్మపరిశీలనకు గురిచేస్తారు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197268"
+    },
+    {
+      "english": "Finding peace, in motion.",
+      "telugu": "చలనంలో, శాంతిని కనుగొనడం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197269"
+    },
+    {
+      "english": "My thoughts wander, freely now.",
+      "telugu": "నా ఆలోచనలు, ఇప్పుడు స్వేచ్ఛగా తిరుగుతాయి.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197271"
+    },
+    {
+      "english": "It's a moment, for honest feelings.",
+      "telugu": "ఇది ఒక క్షణం, నిజాయితీగల భావాలకు.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197272"
+    },
+    {
+      "english": "Hoping for, a smoother trip.",
+      "telugu": "సులభమైన ప్రయాణం కోసం, ఆశిస్తున్నాను.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197274"
+    },
+    {
+      "english": "Accepting delays, with calm.",
+      "telugu": "ఆలస్యాలను, ప్రశాంతంగా అంగీకరించడం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197277"
+    },
+    {
+      "english": "This routine, has its own charm.",
+      "telugu": "ఈ దినచర్యకు, దాని స్వంత ఆకర్షణ ఉంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197278"
+    },
+    {
+      "english": "Feeling connected, to the city.",
+      "telugu": "నగరంతో, అనుబంధంగా భావిస్తున్నాను.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197280"
+    },
+    {
+      "english": "Reflecting on, past journeys.",
+      "telugu": "గత ప్రయాణాలపై, ఆలోచిస్తూ.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197282"
+    },
+    {
+      "english": "It teaches us, to wait.",
+      "telugu": "ఇది మనకు, వేచి ఉండటం నేర్పిస్తుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197283"
+    },
+    {
+      "english": "A small pause, in life's rush.",
+      "telugu": "జీవితపు హడావిడిలో, ఒక చిన్న విరామం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197286"
+    },
+    {
+      "english": "These moments, hold meaning.",
+      "telugu": "ఈ క్షణాలు, అర్థాన్ని కలిగి ఉంటాయి.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197287"
+    },
+    {
+      "english": "Trusting the process, unfolding.",
+      "telugu": "జరుగుతున్న ప్రక్రియపై, నమ్మకం ఉంచడం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197289"
+    },
+    {
+      "english": "So much to learn, right here.",
+      "telugu": "ఇక్కడ, నేర్చుకోవడానికి చాలా ఉంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197291"
+    },
+    {
+      "english": "This waiting, builds my resolve.",
+      "telugu": "ఈ నిరీక్షణ, నా సంకల్పాన్ని పెంచుతుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197293"
+    },
+    {
+      "english": "Finding my center, on the move.",
+      "telugu": "చలిస్తూ, నా కేంద్రాన్ని కనుగొనడం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197294"
+    },
+    {
+      "english": "Every ride, a lesson learned.",
+      "telugu": "ప్రతి ప్రయాణం, ఒక నేర్చుకున్న పాఠం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197296"
+    },
+    {
+      "english": "Surrendering to, the journey's flow.",
+      "telugu": "ప్రయాణపు ప్రవాహానికి, లొంగిపోవడం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197297"
+    },
+    {
+      "english": "This stillness, speaks volumes.",
+      "telugu": "ఈ నిశ్చలత, చాలా మాట్లాడుతుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197299"
+    },
+    {
+      "english": "I feel more present, now.",
+      "telugu": "నేను ఇప్పుడు, మరింత ప్రస్తుతం ఉన్నాను.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197300"
+    },
+    {
+      "english": "It grounds me, somehow.",
+      "telugu": "ఇది ఏదో ఒకవిధంగా, నన్ను స్థిరపరుస్తుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197302"
+    },
+    {
+      "english": "Appreciating the mundane, details.",
+      "telugu": "సాధారణమైన, వివరాలను అభినందించడం.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197305"
+    },
+    {
+      "english": "Can you tell me, when to get off?",
+      "telugu": "నేను ఎప్పుడు దిగాలో, మీరు చెప్పగలరా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197306"
+    },
+    {
+      "english": "Is this the correct bus, for the station?",
+      "telugu": "ఈ బస్సు, స్టేషన్‌కు సరైనదేనా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197308"
+    },
+    {
+      "english": "How much is the fare, to the market?",
+      "telugu": "మార్కెట్‌కు టికెట్ ధర ఎంత?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197310"
+    },
+    {
+      "english": "I need a ticket, please.",
+      "telugu": "నాకు ఒక టికెట్ కావాలి, దయచేసి.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197312"
+    },
+    {
+      "english": "Can I pay with my card?",
+      "telugu": "నేను కార్డుతో చెల్లించవచ్చా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197313"
+    },
+    {
+      "english": "Is there a restroom, on this train?",
+      "telugu": "ఈ రైలులో, టాయిలెట్ ఉందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197316"
+    },
+    {
+      "english": "What time, does the last bus leave?",
+      "telugu": "చివరి బస్సు, ఎంత సమయానికి బయలుదేరుతుంది?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197317"
+    },
+    {
+      "english": "My stop is next, please.",
+      "telugu": "నా స్టాప్, తర్వాత వస్తుంది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197319"
+    },
+    {
+      "english": "I missed my connection, unfortunately.",
+      "telugu": "దురదృష్టవశాత్తు, నా కనెక్షన్ మిస్ అయింది.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197320"
+    },
+    {
+      "english": "Is there a route map, available?",
+      "telugu": "రూట్ మ్యాప్, అందుబాటులో ఉందా?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-28T09:27:22.197322"
     }
   ],
-  "last_updated": "2026-10-27T08:47:05.027765"
+  "last_updated": "2026-10-28T09:27:22.197324"
 }
