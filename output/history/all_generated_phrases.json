@@ -8639,7 +8639,727 @@
       "telugu": "రూట్ మ్యాప్, అందుబాటులో ఉందా?",
       "category": "Public Transportation",
       "generated_at": "2026-10-28T09:27:22.197322"
+    },
+    {
+      "english": "Hello, my friend, how are you?",
+      "telugu": "హలో, నా స్నేహితుడా, ఎలా ఉన్నావు?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566904"
+    },
+    {
+      "english": "Nice to see you, friend.",
+      "telugu": "నిన్ను చూడటం సంతోషంగా ఉంది, స్నేహితుడా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566916"
+    },
+    {
+      "english": "Are you busy, friend?",
+      "telugu": "నువ్వు బిజీగా ఉన్నావా, స్నేహితుడా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566919"
+    },
+    {
+      "english": "Let's meet soon, friend.",
+      "telugu": "త్వరలో కలుద్దాం, స్నేహితుడా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566922"
+    },
+    {
+      "english": "Thanks for your help, friend.",
+      "telugu": "నీ సహాయానికి ధన్యవాదాలు, స్నేహితుడా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566925"
+    },
+    {
+      "english": "You are a good friend.",
+      "telugu": "నువ్వు మంచి స్నేహితుడివి.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566927"
+    },
+    {
+      "english": "I miss you, friend.",
+      "telugu": "నిన్ను మిస్ అవుతున్నాను, స్నేహితుడా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566930"
+    },
+    {
+      "english": "Take care, my friend.",
+      "telugu": "జాగ్రత్తగా ఉండు, నా స్నేహితుడా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566935"
+    },
+    {
+      "english": "What are you doing, friend?",
+      "telugu": "ఏం చేస్తున్నావు, స్నేహితుడా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566939"
+    },
+    {
+      "english": "Let's go out, friend.",
+      "telugu": "బయటకు వెళ్దాం, స్నేహితుడా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566942"
+    },
+    {
+      "english": "Can I help you, friend?",
+      "telugu": "నేను నీకు సహాయం చేయగలనా, స్నేహితుడా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566945"
+    },
+    {
+      "english": "You are always there for me.",
+      "telugu": "నువ్వు ఎప్పుడూ నాకు అండగా ఉంటావు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566947"
+    },
+    {
+      "english": "Our friendship is special.",
+      "telugu": "మన స్నేహం చాలా ప్రత్యేకమైనది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566950"
+    },
+    {
+      "english": "I trust you, friend.",
+      "telugu": "నేను నిన్ను నమ్ముతాను, స్నేహితుడా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566952"
+    },
+    {
+      "english": "We have fun together.",
+      "telugu": "మనం కలిసి సరదాగా ఉంటాం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566955"
+    },
+    {
+      "english": "You understand me, friend.",
+      "telugu": "నువ్వు నన్ను అర్థం చేసుకుంటావు, స్నేహితుడా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566957"
+    },
+    {
+      "english": "Happy birthday, dear friend.",
+      "telugu": "పుట్టినరోజు శుభాకాంక్షలు, ప్రియమైన స్నేహితుడా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566960"
+    },
+    {
+      "english": "We grew up together.",
+      "telugu": "మనం కలిసి పెరిగాము.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566962"
+    },
+    {
+      "english": "Your advice is valuable.",
+      "telugu": "నీ సలహా విలువైనది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566965"
+    },
+    {
+      "english": "Let's celebrate, friend.",
+      "telugu": "వేడుక చేసుకుందాం, స్నేహితుడా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566968"
+    },
+    {
+      "english": "Friendship is a gift.",
+      "telugu": "స్నేహం ఒక వరం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566970"
+    },
+    {
+      "english": "What a coincidence, friend!",
+      "telugu": "ఎంత యాదృచ్చికం, స్నేహితుడా!",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566973"
+    },
+    {
+      "english": "Let's grab a coffee, friend.",
+      "telugu": "కాఫీ తాగుదాం, స్నేహితుడా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566978"
+    },
+    {
+      "english": "You always make me laugh.",
+      "telugu": "నువ్వు ఎప్పుడూ నన్ను నవ్విస్తావు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566982"
+    },
+    {
+      "english": "Our bond is unbreakable.",
+      "telugu": "మన బంధం విడదీయరానిది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566984"
+    },
+    {
+      "english": "Glad we are friends.",
+      "telugu": "మనం స్నేహితులం అయినందుకు సంతోషం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566987"
+    },
+    {
+      "english": "What's new, friend?",
+      "telugu": "ఏంటి సంగతులు, మిత్రమా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566990"
+    },
+    {
+      "english": "Can I ask a favor?",
+      "telugu": "ఒక చిన్న సహాయం అడగవచ్చా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566992"
+    },
+    {
+      "english": "Are you free this weekend?",
+      "telugu": "ఈ వారాంతంలో ఖాళీగా ఉన్నావా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566997"
+    },
+    {
+      "english": "Tell me something interesting.",
+      "telugu": "ఏదైనా ఆసక్తికరమైన విషయం చెప్పు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.566999"
+    },
+    {
+      "english": "Do you need any advice?",
+      "telugu": "నీకు ఏదైనా సలహా కావాలా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567002"
+    },
+    {
+      "english": "Shall we plan something?",
+      "telugu": "ఏదైనా ప్లాన్ చేద్దామా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567004"
+    },
+    {
+      "english": "What's your favorite memory with me?",
+      "telugu": "నాతో నీకు ఇష్టమైన జ్ఞాపకం ఏది?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567007"
+    },
+    {
+      "english": "Did you hear the latest news?",
+      "telugu": "ఇటీవలి వార్తలు విన్నావా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567010"
+    },
+    {
+      "english": "Can we talk later?",
+      "telugu": "మనం తర్వాత మాట్లాడుకుందామా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567012"
+    },
+    {
+      "english": "Do you want to share something?",
+      "telugu": "ఏదైనా పంచుకోవాలనుకుంటున్నావా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567015"
+    },
+    {
+      "english": "What have you been up to?",
+      "telugu": "ఏం చేస్తున్నావు?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567017"
+    },
+    {
+      "english": "Can I get your thoughts?",
+      "telugu": "నీ ఆలోచనలు తెలుసుకోవచ్చా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567020"
+    },
+    {
+      "english": "Are you facing any challenges?",
+      "telugu": "ఏదైనా సవాళ్లు ఎదుర్కొంటున్నావా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567022"
+    },
+    {
+      "english": "What are your dreams?",
+      "telugu": "నీ కలలు ఏమిటి?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567024"
+    },
+    {
+      "english": "Let's catch up soon.",
+      "telugu": "త్వరగా కలుద్దాం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567027"
+    },
+    {
+      "english": "What are your hobbies?",
+      "telugu": "నీ అభిరుచులు ఏమిటి?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567029"
+    },
+    {
+      "english": "What's your favorite food?",
+      "telugu": "నీకు ఇష్టమైన ఆహారం ఏమిటి?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567032"
+    },
+    {
+      "english": "Can we discuss this problem?",
+      "telugu": "ఈ సమస్యను చర్చించవచ్చా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567034"
+    },
+    {
+      "english": "What's your goal for this year?",
+      "telugu": "ఈ సంవత్సరానికి నీ లక్ష్యం ఏమిటి?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567037"
+    },
+    {
+      "english": "Believe in yourself, friend.",
+      "telugu": "నిన్ను నువ్వు నమ్ముకో, మిత్రమా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567039"
+    },
+    {
+      "english": "Keep up the great work!",
+      "telugu": "ఈ గొప్ప పనిని కొనసాగించు!",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567042"
+    },
+    {
+      "english": "You inspire me a lot.",
+      "telugu": "నువ్వు నాకు చాలా స్ఫూర్తినిస్తావు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567044"
+    },
+    {
+      "english": "Always aim higher, okay?",
+      "telugu": "ఎప్పుడూ ఉన్నతమైన లక్ష్యాలను పెట్టుకో, సరేనా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567047"
+    },
+    {
+      "english": "Your efforts will pay off.",
+      "telugu": "నీ ప్రయత్నాలు ఫలిస్తాయి.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567049"
+    },
+    {
+      "english": "Stay strong through challenges.",
+      "telugu": "సవాళ్లలో దృఢంగా ఉండు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567054"
+    },
+    {
+      "english": "Keep that positive attitude!",
+      "telugu": "ఆ సానుకూల దృక్పథాన్ని కొనసాగించు!",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567057"
+    },
+    {
+      "english": "Your encouragement means the world.",
+      "telugu": "నీ ప్రోత్సాహం నాకు చాలా ముఖ్యం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567059"
+    },
+    {
+      "english": "Shine brightly, my friend.",
+      "telugu": "ప్రకాశవంతంగా వెలిగిపో, నా మిత్రమా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567062"
+    },
+    {
+      "english": "Your perspective is refreshing.",
+      "telugu": "నీ దృక్పథం నన్ను ఉత్తేజపరుస్తుంది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567065"
+    },
+    {
+      "english": "Keep exploring new paths.",
+      "telugu": "కొత్త దారులను అన్వేషిస్తూ ఉండు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567067"
+    },
+    {
+      "english": "You have such a good heart.",
+      "telugu": "నీకు చాలా మంచి మనసు ఉంది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567069"
+    },
+    {
+      "english": "Your kindness is remarkable.",
+      "telugu": "నీ దయ అసాధారణమైనది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567072"
+    },
+    {
+      "english": "It's okay to be vulnerable.",
+      "telugu": "బలహీనంగా ఉండటం తప్పు కాదు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567074"
+    },
+    {
+      "english": "Let your light shine.",
+      "telugu": "నీ వెలుగు ప్రకాశించనివ్వు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567082"
+    },
+    {
+      "english": "Embrace every opportunity.",
+      "telugu": "ప్రతి అవకాశాన్ని స్వీకరించు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567084"
+    },
+    {
+      "english": "You make the world brighter.",
+      "telugu": "నువ్వు ప్రపంచాన్ని మరింత ప్రకాశవంతం చేస్తావు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567087"
+    },
+    {
+      "english": "Never underestimate your power.",
+      "telugu": "నీ శక్తిని ఎప్పుడూ తక్కువ అంచనా వేయకు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567089"
+    },
+    {
+      "english": "Keep dreaming, keep achieving.",
+      "telugu": "కలలు కంటూ ఉండు, సాధిస్తూ ఉండు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567092"
+    },
+    {
+      "english": "Your presence is a blessing.",
+      "telugu": "నీ ఉనికి ఒక ఆశీర్వాదం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567094"
+    },
+    {
+      "english": "He's like my shadow, always there.",
+      "telugu": "అతను నా నీడ లాంటి వాడు, ఎప్పుడూ ఉంటాడు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567097"
+    },
+    {
+      "english": "He's my partner in crime, you know?",
+      "telugu": "వాడు నా అల్లరి పాలు, తెలుసా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567100"
+    },
+    {
+      "english": "She's my go-to person for everything.",
+      "telugu": "అన్నిటికీ తనే నా దిక్కన్నమాట.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567103"
+    },
+    {
+      "english": "We share a bond, strong and true.",
+      "telugu": "మా మధ్య బంధం ఉంది, గట్టిగా, నిజంగా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567106"
+    },
+    {
+      "english": "He's the salt of my life.",
+      "telugu": "వాడు నా జీవితానికి ఉప్పు లాంటి వాడు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567109"
+    },
+    {
+      "english": "We've seen many ups and downs.",
+      "telugu": "ఎన్నో ఒడిదుడుకులు చూశాము.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567111"
+    },
+    {
+      "english": "She understands me, without words.",
+      "telugu": "తను నన్ను మాటలు లేకుండానే అర్థం చేసుకుంటుంది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567114"
+    },
+    {
+      "english": "He's family, not just a friend.",
+      "telugu": "వాడు ఫ్రెండ్ కాదు, కుటుంబ సభ్యుడు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567117"
+    },
+    {
+      "english": "Our friendship is like a fine wine.",
+      "telugu": "మన స్నేహం పాతకాలపు వైన్ లాంటిది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567119"
+    },
+    {
+      "english": "He's my rock, always steady.",
+      "telugu": "వాడు నా బలం, ఎప్పుడూ స్థిరంగా ఉంటాడు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567122"
+    },
+    {
+      "english": "We have a connection, deep and old.",
+      "telugu": "మన మధ్య అనుబంధం ఉంది, గాఢమైనది, పాతది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567125"
+    },
+    {
+      "english": "She's my other half, practically.",
+      "telugu": "తను నాలో ఇంకో సగం, దాదాపుగా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567127"
+    },
+    {
+      "english": "He's my lucky charm, truly.",
+      "telugu": "వాడు నా అదృష్ట దేవత, నిజంగా.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567130"
+    },
+    {
+      "english": "We finish each other's sentences.",
+      "telugu": "ఒకరి వాక్యాలు ఒకరం పూర్తి చేస్తాము.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567134"
+    },
+    {
+      "english": "She's the sunshine on a cloudy day.",
+      "telugu": "ఆమె మేఘావృతమైన రోజున సూర్యరశ్మి.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567137"
+    },
+    {
+      "english": "He's got my back, always.",
+      "telugu": "వాడు నా వెన్నుతట్టేవాడు, ఎప్పుడూ.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567140"
+    },
+    {
+      "english": "Our friendship is a treasure, priceless.",
+      "telugu": "మన స్నేహం ఒక నిధి, వెలకట్టలేనిది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567143"
+    },
+    {
+      "english": "She's my confidante, my soulmate.",
+      "telugu": "ఆమె నా ఆప్తురాలు, నా ప్రాణ స్నేహితురాలు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567145"
+    },
+    {
+      "english": "He's my compass, guiding me.",
+      "telugu": "వాడు నా దిక్సూచి, నాకు మార్గం చూపుతాడు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567148"
+    },
+    {
+      "english": "We're like two peas in a pod.",
+      "telugu": "మేము ఒకేలాంటి ఇద్దరు వ్యక్తులం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567151"
+    },
+    {
+      "english": "She's the missing piece, completing me.",
+      "telugu": "ఆమె లేని లోటును పూరించేది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567153"
+    },
+    {
+      "english": "He's my anchor, keeping me grounded.",
+      "telugu": "వాడు నా లంగరు, నన్ను స్థిరంగా ఉంచుతాడు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567158"
+    },
+    {
+      "english": "Our friendship is built to last.",
+      "telugu": "మన స్నేహం శాశ్వతంగా ఉండేలా నిర్మించబడింది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567161"
+    },
+    {
+      "english": "She's my therapy, my best friend.",
+      "telugu": "ఆమె నా చికిత్స, నా ప్రాణ స్నేహితురాలు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567164"
+    },
+    {
+      "english": "He's my sounding board, always listening.",
+      "telugu": "వాడు నా మాట వినేవాడు, ఎప్పుడూ వింటాడు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567166"
+    },
+    {
+      "english": "We're thick as thieves, you know.",
+      "telugu": "మేము దొంగల్లా కలిసుంటాము, తెలుసా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567169"
+    },
+    {
+      "english": "She's my partner in everything.",
+      "telugu": "ఆమె నా ప్రతి దానిలో భాగస్వామి.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567174"
+    },
+    {
+      "english": "He's my north star, leading me.",
+      "telugu": "వాడు నా ఉత్తర నక్షత్రం, నాకు దారి చూపుతాడు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567177"
+    },
+    {
+      "english": "Our journey, together, has been amazing.",
+      "telugu": "మన ప్రయాణం, కలిసి, అద్భుతంగా ఉంది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567180"
+    },
+    {
+      "english": "What do you truly feel?",
+      "telugu": "నీకు నిజంగా ఏమనిపిస్తుంది?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567182"
+    },
+    {
+      "english": "This matters deeply to me.",
+      "telugu": "ఇది నాకు చాలా ముఖ్యం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567185"
+    },
+    {
+      "english": "I need some time, to think.",
+      "telugu": "నాకు కొంచెం ఆలోచించడానికి సమయం కావాలి.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567187"
+    },
+    {
+      "english": "Your thoughts are important.",
+      "telugu": "నీ ఆలోచనలు ముఖ్యమైనవి.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567190"
+    },
+    {
+      "english": "We need patience, always.",
+      "telugu": "మనకు ఎప్పుడూ ఓపిక అవసరం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567192"
+    },
+    {
+      "english": "Can we talk, openly?",
+      "telugu": "మనం, నిర్భయంగా మాట్లాడగలమా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567195"
+    },
+    {
+      "english": "I trust your judgment.",
+      "telugu": "నీ తీర్పును నేను నమ్ముతాను.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567197"
+    },
+    {
+      "english": "This friendship, means the world.",
+      "telugu": "ఈ స్నేహం, నాకు ప్రపంచం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567200"
+    },
+    {
+      "english": "I value your sincerity.",
+      "telugu": "నీ నిజాయితీని నేను విలువైనదిగా భావిస్తాను.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567202"
+    },
+    {
+      "english": "What is truly on your mind?",
+      "telugu": "నీ మనసులో నిజంగా ఏముంది?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567205"
+    },
+    {
+      "english": "Your honesty reassures me.",
+      "telugu": "నీ నిజాయితీ నాకు భరోసా ఇస్తుంది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567207"
+    },
+    {
+      "english": "It's okay to feel sad.",
+      "telugu": "బాధగా అనిపించడం ఫర్వాలేదు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567210"
+    },
+    {
+      "english": "We grow, through challenges.",
+      "telugu": "మనం సవాళ్ల ద్వారా ఎదుగుతాము.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567214"
+    },
+    {
+      "english": "Tell me, what you're thinking.",
+      "telugu": "నువ్వు ఏం ఆలోచిస్తున్నావో చెప్పు.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567217"
+    },
+    {
+      "english": "Our bond, feels so deep.",
+      "telugu": "మన బంధం, చాలా లోతుగా అనిపిస్తుంది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567220"
+    },
+    {
+      "english": "Let's share our real feelings.",
+      "telugu": "మన నిజమైన భావాలను పంచుకుందాం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567222"
+    },
+    {
+      "english": "Your understanding helps a lot.",
+      "telugu": "నీ అవగాహన చాలా సహాయపడుతుంది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567225"
+    },
+    {
+      "english": "We need to be real.",
+      "telugu": "మనం నిజాయితీగా ఉండాలి.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567227"
+    },
+    {
+      "english": "This moment, is precious.",
+      "telugu": "ఈ క్షణం, చాలా విలువైనది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567230"
+    },
+    {
+      "english": "Your perspective, is valuable.",
+      "telugu": "నీ అభిప్రాయం, విలువైనది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567232"
+    },
+    {
+      "english": "Let's talk, from the heart.",
+      "telugu": "గుండె లోతుల్లోంచి మాట్లాడుకుందాం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567235"
+    },
+    {
+      "english": "I'm grateful for this connection.",
+      "telugu": "ఈ అనుబంధానికి నేను కృతజ్ఞుడను.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567238"
+    },
+    {
+      "english": "True friendship requires effort.",
+      "telugu": "నిజమైన స్నేహానికి కృషి అవసరం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567240"
+    },
+    {
+      "english": "Can we be vulnerable, together?",
+      "telugu": "మనం కలిసి, బలహీనంగా ఉండగలమా?",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567243"
+    },
+    {
+      "english": "This journey, is better shared.",
+      "telugu": "ఈ ప్రయాణం, పంచుకుంటే బాగుంటుంది.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567245"
+    },
+    {
+      "english": "Let's check in, daily.",
+      "telugu": "ప్రతిరోజూ, కబుర్లు చెప్పుకుందాం.",
+      "category": "Friendship",
+      "generated_at": "2026-10-30T09:48:34.567248"
     }
   ],
-  "last_updated": "2026-10-28T09:27:22.197324"
+  "last_updated": "2026-10-30T09:48:34.567250"
 }
