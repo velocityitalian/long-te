@@ -9359,7 +9359,727 @@
       "telugu": "ప్రతిరోజూ, కబుర్లు చెప్పుకుందాం.",
       "category": "Friendship",
       "generated_at": "2026-10-30T09:48:34.567248"
+    },
+    {
+      "english": "Learn something new, daily.",
+      "telugu": "ప్రతిరోజూ, కొత్తది ఏదైనా నేర్చుకో.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715235"
+    },
+    {
+      "english": "Take small steps, forward.",
+      "telugu": "చిన్న చిన్న అడుగులు, ముందుకు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715248"
+    },
+    {
+      "english": "Be patient, good things come.",
+      "telugu": "ఓపికతో ఉండు, మంచి జరుగుతుంది.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715251"
+    },
+    {
+      "english": "Listen carefully, understand deeply.",
+      "telugu": "శ్రద్ధగా విను, లోతుగా అర్థం చేసుకో.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715254"
+    },
+    {
+      "english": "Practice makes perfect, they say.",
+      "telugu": "అభ్యాసంతోనే పరిపూర్ణత, అంటారు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715257"
+    },
+    {
+      "english": "Focus on your goals, clearly.",
+      "telugu": "నీ లక్ష్యాలపై, స్పష్టంగా దృష్టి పెట్టు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715260"
+    },
+    {
+      "english": "Embrace the change, bravely.",
+      "telugu": "మార్పును స్వీకరించు, ధైర్యంగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715281"
+    },
+    {
+      "english": "Stay humble, learn more.",
+      "telugu": "వినయంగా ఉండు, ఇంకా నేర్చుకో.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715287"
+    },
+    {
+      "english": "Be kind, to everyone.",
+      "telugu": "దయతో ఉండు, అందరి పట్ల.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715291"
+    },
+    {
+      "english": "Find your passion, pursue it.",
+      "telugu": "నీ అభిరుచిని కనుగొను, దానిని కొనసాగించు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715294"
+    },
+    {
+      "english": "Work hard, stay focused.",
+      "telugu": "కష్టపడి పనిచేయి, ఏకాగ్రతతో ఉండు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715296"
+    },
+    {
+      "english": "Be grateful, for everything.",
+      "telugu": "ప్రతిదానికీ, కృతజ్ఞతతో ఉండు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715299"
+    },
+    {
+      "english": "Accept your mistakes, grow from them.",
+      "telugu": "నీ తప్పులను అంగీకరించు, వాటి నుండి నేర్చుకో.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715302"
+    },
+    {
+      "english": "Be open-minded, explore possibilities.",
+      "telugu": "విశాల దృక్పథంతో ఉండు, అవకాశాలను అన్వేషించు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715305"
+    },
+    {
+      "english": "Celebrate small wins, enjoy the journey.",
+      "telugu": "చిన్న విజయాలను జరుపుకో, ప్రయాణాన్ని ఆస్వాదించు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715307"
+    },
+    {
+      "english": "Stay curious, keep asking questions.",
+      "telugu": "ఆసక్తిగా ఉండు, ప్రశ్నలు అడుగుతూ ఉండు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715310"
+    },
+    {
+      "english": "Manage your time, wisely.",
+      "telugu": "నీ సమయాన్ని, తెలివిగా నిర్వహించుకో.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715313"
+    },
+    {
+      "english": "Forgive easily, live peacefully.",
+      "telugu": "సులభంగా క్షమించు, ప్రశాంతంగా జీవించు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715315"
+    },
+    {
+      "english": "Visualize success, make it happen.",
+      "telugu": "విజయాన్ని ఊహించుకో, దానిని నిజం చేస్కో.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715318"
+    },
+    {
+      "english": "Be present, in the moment.",
+      "telugu": "వర్తమానంలో, ఉండు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715323"
+    },
+    {
+      "english": "Control your emotions, stay balanced.",
+      "telugu": "నీ భావోద్వేగాలను నియంత్రించు, సమతుల్యంగా ఉండు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715328"
+    },
+    {
+      "english": "Seek solutions, not problems.",
+      "telugu": "సమస్యలను కాదు, పరిష్కారాలను వెతుకు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715331"
+    },
+    {
+      "english": "Be adaptable, in all situations.",
+      "telugu": "అన్ని పరిస్థితులలో, అనుకూలతతో ఉండు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715333"
+    },
+    {
+      "english": "Do you have any suggestions, please?",
+      "telugu": "దయచేసి, మీకు ఏవైనా సూచనలు ఉన్నాయా?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715336"
+    },
+    {
+      "english": "Can you explain, that better?",
+      "telugu": "మీరు, దాన్ని బాగా వివరించగలరా?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715339"
+    },
+    {
+      "english": "Where should I start, first?",
+      "telugu": "నేను మొదట, ఎక్కడ ప్రారంభించాలి?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715343"
+    },
+    {
+      "english": "What's the best approach, here?",
+      "telugu": "ఇక్కడ, ఉత్తమ విధానం ఏమిటి?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715346"
+    },
+    {
+      "english": "What are your thoughts, on growth?",
+      "telugu": "అభివృద్ధిపై, మీ ఆలోచనలు ఏమిటి?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715349"
+    },
+    {
+      "english": "What advice, do you have?",
+      "telugu": "మీ సలహా, ఏమిటి?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715353"
+    },
+    {
+      "english": "What's the most important, thing?",
+      "telugu": "అత్యంత ముఖ్యమైన, విషయం ఏమిటి?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715356"
+    },
+    {
+      "english": "How do you stay, motivated?",
+      "telugu": "మీరు, ప్రేరణతో ఎలా ఉంటారు?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715359"
+    },
+    {
+      "english": "Any tips, for self-care?",
+      "telugu": "స్వీయ-సంరక్షణకు, ఏవైనా చిట్కాలు ఉన్నాయా?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715362"
+    },
+    {
+      "english": "What's your perspective, on failure?",
+      "telugu": "వైఫల్యంపై, మీ దృక్పథం ఏమిటి?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715365"
+    },
+    {
+      "english": "Could you share, your experience?",
+      "telugu": "మీ అనుభవాన్ని, పంచుకోగలరా?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715368"
+    },
+    {
+      "english": "What helps you, to learn?",
+      "telugu": "నేర్చుకోవడానికి, మీకు ఏది సహాయపడుతుంది?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715370"
+    },
+    {
+      "english": "What are you working, on now?",
+      "telugu": "మీరు ఇప్పుడు, దేనిపై పని చేస్తున్నారు?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715373"
+    },
+    {
+      "english": "How do you see, the future?",
+      "telugu": "మీరు, భవిష్యత్తును ఎలా చూస్తారు?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715376"
+    },
+    {
+      "english": "What's the key, to success?",
+      "telugu": "విజయానికి, కీలకం ఏమిటి?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715379"
+    },
+    {
+      "english": "How do you manage, stress?",
+      "telugu": "మీరు, ఒత్తిడిని ఎలా నిర్వహిస్తారు?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715381"
+    },
+    {
+      "english": "What's your biggest, lesson?",
+      "telugu": "మీ అతిపెద్ద, పాఠం ఏమిటి?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715384"
+    },
+    {
+      "english": "Can we share, ideas?",
+      "telugu": "మనం, ఆలోచనలను పంచుకోవచ్చా?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715387"
+    },
+    {
+      "english": "What's the next step, for you?",
+      "telugu": "మీకు, తదుపరి అడుగు ఏమిటి?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715389"
+    },
+    {
+      "english": "How do you celebrate, progress?",
+      "telugu": "మీరు, పురోగతిని ఎలా జరుపుకుంటారు?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715392"
+    },
+    {
+      "english": "Your effort counts, truly.",
+      "telugu": "నీ ప్రయత్నం ముఖ్యం, నిజంగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715395"
+    },
+    {
+      "english": "Keep pushing forward, gently.",
+      "telugu": "ముందుకు వెళ్తూ ఉండు, నెమ్మదిగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715398"
+    },
+    {
+      "english": "You are capable, of much.",
+      "telugu": "నువ్వు చాలా చేయగలవు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715400"
+    },
+    {
+      "english": "Inner strength, is your power.",
+      "telugu": "లోపలి బలం, నీ శక్తి.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715403"
+    },
+    {
+      "english": "Small steps, lead to big things.",
+      "telugu": "చిన్న అడుగులే, పెద్ద ఫలితాలు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715408"
+    },
+    {
+      "english": "Positive thoughts, bring good outcomes.",
+      "telugu": "మంచి ఆలోచనలు, మంచి ఫలితాలనిస్తాయి.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715411"
+    },
+    {
+      "english": "Your journey matters, deeply.",
+      "telugu": "నీ ప్రయాణం ముఖ్యం, చాలా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715414"
+    },
+    {
+      "english": "Don't compare, just grow.",
+      "telugu": "పోల్చుకోవద్దు, ఎదుగు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715418"
+    },
+    {
+      "english": "Today is a new chance.",
+      "telugu": "ఈరోజు ఒక కొత్త అవకాశం.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715421"
+    },
+    {
+      "english": "Your perspective, can change everything.",
+      "telugu": "నీ ఆలోచనా విధానం, అంతా మార్చగలదు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715424"
+    },
+    {
+      "english": "Be proud, of your progress.",
+      "telugu": "గర్వపడు, నీ ఎదుగుదలకు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715426"
+    },
+    {
+      "english": "You have the power, within.",
+      "telugu": "నీలో ఆ శక్తి ఉంది.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715429"
+    },
+    {
+      "english": "Every day, is a learning opportunity.",
+      "telugu": "ప్రతి రోజూ, ఒక నేర్చుకునే అవకాశం.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715432"
+    },
+    {
+      "english": "Shine your own light, brightly.",
+      "telugu": "నీ వెలుగును ప్రకాశింపజేయి.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715434"
+    },
+    {
+      "english": "Kindness multiplies, with sharing.",
+      "telugu": "దయ పంచుకుంటే, పెరుగుతుంది.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715437"
+    },
+    {
+      "english": "Trust the process, patiently.",
+      "telugu": "ప్రక్రియను నమ్ము, ఓపికగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715440"
+    },
+    {
+      "english": "Your attitude, shapes your reality.",
+      "telugu": "నీ వైఖరి, నీ వాస్తవాన్ని మారుస్తుంది.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715443"
+    },
+    {
+      "english": "Celebrate your uniqueness, boldly.",
+      "telugu": "నీ ప్రత్యేకతను, ధైర్యంగా జరుపుకో.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715447"
+    },
+    {
+      "english": "Growth happens, outside comfort.",
+      "telugu": "ఎదుగుదల, సౌకర్యానికి బయటే జరుగుతుంది.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715450"
+    },
+    {
+      "english": "Positive affirmations, build confidence.",
+      "telugu": "మంచి మాటలు, ఆత్మవిశ్వాసాన్ని పెంచుతాయి.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715453"
+    },
+    {
+      "english": "Be the change, you wish.",
+      "telugu": "నీవు కోరుకునే మార్పు నువ్వే అవ్వు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715455"
+    },
+    {
+      "english": "Your future self, will thank you.",
+      "telugu": "నీ భవిష్యత్తు నిన్ను అభినందిస్తుంది.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715458"
+    },
+    {
+      "english": "You are enough, right now.",
+      "telugu": "ఇప్పుడే నువ్వు సరిపోతావు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715460"
+    },
+    {
+      "english": "Learn from mistakes, not repeat.",
+      "telugu": "తప్పుల నుండి నేర్చుకో, మళ్ళీ చేయకు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715463"
+    },
+    {
+      "english": "Every problem, has a solution.",
+      "telugu": "ప్రతి సమస్యకు, ఒక పరిష్కారం ఉంటుంది.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715466"
+    },
+    {
+      "english": "Focus on your path, alone.",
+      "telugu": "నీ దారిపై దృష్టి పెట్టు, ఒంటరిగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715468"
+    },
+    {
+      "english": "Discipline is freedom, ultimately.",
+      "telugu": "క్రమశిక్షణే స్వేచ్ఛ, చివరికి.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715471"
+    },
+    {
+      "english": "Take calculated risks, wisely.",
+      "telugu": "లెక్కించిన రిస్కులు తీసుకో, తెలివిగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715473"
+    },
+    {
+      "english": "Embrace discomfort, for growth.",
+      "telugu": "అసౌకర్యాన్ని స్వీకరించు, ఎదుగుదల కోసం.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715476"
+    },
+    {
+      "english": "Your voice matters, truly.",
+      "telugu": "నీ గొంతుకు విలువ ఉంది, నిజంగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715479"
+    },
+    {
+      "english": "Continuous learning, is key.",
+      "telugu": "నిరంతర అభ్యాసం, ముఖ్యం.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715483"
+    },
+    {
+      "english": "Seek feedback, humbly.",
+      "telugu": "ఫీడ్‌బ్యాక్ కోరు, వినయంగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715487"
+    },
+    {
+      "english": "Effort yields, results.",
+      "telugu": "కృషి ఫలితాలనిస్తుంది, తప్పక.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715489"
+    },
+    {
+      "english": "Build habits, slowly.",
+      "telugu": "అలవాట్లను నిర్మించుకో, నెమ్మదిగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715494"
+    },
+    {
+      "english": "Forgive others, and yourself.",
+      "telugu": "ఇతరులను క్షమించు, నిన్ను నువ్వు కూడా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715497"
+    },
+    {
+      "english": "Adapt to change, easily.",
+      "telugu": "మార్పుకు అనుగుణంగా మారు, సులభంగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715500"
+    },
+    {
+      "english": "Your belief, creates reality.",
+      "telugu": "నీ నమ్మకమే, సృష్టిస్తుంది వాస్తవాన్ని.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715502"
+    },
+    {
+      "english": "Stay curious, always.",
+      "telugu": "ఎల్లప్పుడూ ఆసక్తిగా ఉండు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715505"
+    },
+    {
+      "english": "Control what you can, let go.",
+      "telugu": "నీవు నియంత్రించగలిగేవి నియంత్రించు, వదిలేయు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715507"
+    },
+    {
+      "english": "Find your purpose, clearly.",
+      "telugu": "నీ లక్ష్యాన్ని కనుగొను, స్పష్టంగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715510"
+    },
+    {
+      "english": "Value your time, greatly.",
+      "telugu": "నీ సమయానికి విలువ ఇవ్వు, చాలా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715513"
+    },
+    {
+      "english": "Accept imperfections, gracefully.",
+      "telugu": "లోపాలను స్వీకరించు, హుందాగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715515"
+    },
+    {
+      "english": "Share knowledge, freely.",
+      "telugu": "జ్ఞానాన్ని పంచు, స్వేచ్ఛగా.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715518"
+    },
+    {
+      "english": "Practice gratitude, daily.",
+      "telugu": "కృతజ్ఞతను పాటించు, ప్రతిరోజూ.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715521"
+    },
+    {
+      "english": "Believe in yourself, first.",
+      "telugu": "ముందు నీపై నువ్వే నమ్ము.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715523"
+    },
+    {
+      "english": "Seek balance, in life.",
+      "telugu": "జీవితంలో సమతుల్యతను కోరుకో.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715526"
+    },
+    {
+      "english": "Your effort, is enough.",
+      "telugu": "నీ ప్రయత్నం, చాలు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715528"
+    },
+    {
+      "english": "Be authentic, always.",
+      "telugu": "నిజాయితీగా ఉండు, ఎప్పుడూ.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715531"
+    },
+    {
+      "english": "Listen to your heart, always.",
+      "telugu": "నీ మనసు మాట విను, ఎప్పుడూ.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715533"
+    },
+    {
+      "english": "Express your feelings, openly.",
+      "telugu": "నీ భావాలను, తెరిచి చెప్పు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715538"
+    },
+    {
+      "english": "What are you feeling, right now?",
+      "telugu": "ఇప్పుడు, నీకు ఎలా అనిపిస్తోంది?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715541"
+    },
+    {
+      "english": "Be gentle, with yourself, always.",
+      "telugu": "నీతో నువ్వు, శాంతంగా ఉండు, ఎప్పుడూ.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715544"
+    },
+    {
+      "english": "True strength, is vulnerability.",
+      "telugu": "నిజమైన బలం, దుర్బలత్వమే.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715546"
+    },
+    {
+      "english": "Reflect on your journey, often.",
+      "telugu": "నీ ప్రయాణం గురించి, తరచుగా ఆలోచించు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715549"
+    },
+    {
+      "english": "Accept your emotions, without judgment.",
+      "telugu": "నీ భావోద్వేగాలను, తీర్పు లేకుండా అంగీకరించు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715551"
+    },
+    {
+      "english": "Your inner peace, is paramount.",
+      "telugu": "నీ అంతర్గత శాంతి, చాలా ముఖ్యం.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715554"
+    },
+    {
+      "english": "Speak your truth, kindly.",
+      "telugu": "నీ సత్యాన్ని, దయతో చెప్పు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715557"
+    },
+    {
+      "english": "What brings you, joy today?",
+      "telugu": "ఈరోజు, నీకు ఆనందాన్ని ఏమిస్తుంది?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715559"
+    },
+    {
+      "english": "Empathy, connects us all.",
+      "telugu": "సానుభూతి, మనందరినీ కలుపుతుంది.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715562"
+    },
+    {
+      "english": "Allow yourself, to feel deeply.",
+      "telugu": "లోతుగా అనుభూతి చెందడానికి, నిన్ను అనుమతించు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715566"
+    },
+    {
+      "english": "Self-compassion, is crucial.",
+      "telugu": "స్వీయ కరుణ, చాలా అవసరం.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715569"
+    },
+    {
+      "english": "What lesson, did you learn?",
+      "telugu": "ఏ పాఠం, నువ్వు నేర్చుకున్నావు?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715572"
+    },
+    {
+      "english": "Authenticity, is your superpower.",
+      "telugu": "నిజాయితీ, నీ సూపర్ పవర్.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715574"
+    },
+    {
+      "english": "Share your light, with others.",
+      "telugu": "నీ వెలుగును, ఇతరులతో పంచుకో.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715577"
+    },
+    {
+      "english": "Your feelings, are valid always.",
+      "telugu": "నీ భావాలు, ఎప్పుడూ సరైనవే.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715580"
+    },
+    {
+      "english": "Let go, of what burdens you.",
+      "telugu": "నిన్ను భారంగా చేసేవాటిని, వదిలేయ్.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715582"
+    },
+    {
+      "english": "Inner dialogue, matters greatly.",
+      "telugu": "మనసులో మాట, చాలా ముఖ్యం.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715585"
+    },
+    {
+      "english": "Are you being, true to yourself?",
+      "telugu": "నువ్వు, నీకు నిజాయితీగా ఉన్నావా?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715587"
+    },
+    {
+      "english": "Healing takes, time and care.",
+      "telugu": "స్వస్థతకు, సమయం మరియు జాగ్రత్త అవసరం.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715590"
+    },
+    {
+      "english": "Embrace your journey, with grace.",
+      "telugu": "నీ ప్రయాణాన్ని, దయతో స్వీకరించు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715593"
+    },
+    {
+      "english": "What are you grateful, for today?",
+      "telugu": "ఈరోజు, దేనికి కృతజ్ఞతతో ఉన్నావు?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715595"
+    },
+    {
+      "english": "Your intuition, rarely lies.",
+      "telugu": "నీ అంతర్బుద్ధి, అరుదుగా అబద్ధం చెబుతుంది.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715600"
+    },
+    {
+      "english": "Find peace, in simplicity.",
+      "telugu": "సరళతలో, శాంతిని కనుగొను.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715603"
+    },
+    {
+      "english": "Your emotional health, is vital.",
+      "telugu": "నీ మానసిక ఆరోగ్యం, చాలా ముఖ్యం.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715606"
+    },
+    {
+      "english": "Honoring your needs, is self-love.",
+      "telugu": "నీ అవసరాలను గౌరవించడం, స్వీయ ప్రేమ.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715608"
+    },
+    {
+      "english": "Try again, with patience.",
+      "telugu": "మళ్ళీ ప్రయత్నించు, ఓపికతో.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715611"
+    },
+    {
+      "english": "Focus on one thing, at a time.",
+      "telugu": "ఒకేసారి, ఒకదానిపై దృష్టి పెట్టు.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-31T09:25:10.715614"
     }
   ],
-  "last_updated": "2026-10-30T09:48:34.567250"
+  "last_updated": "2026-10-31T09:25:10.715616"
 }
