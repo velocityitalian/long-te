@@ -12239,7 +12239,727 @@
       "telugu": "చెక్ చేసినందుకు ధన్యవాదాలు, ఎంతో అర్థమైంది.",
       "category": "Gratitude",
       "generated_at": "2026-11-03T10:36:05.306340"
+    },
+    {
+      "english": "Here you go, take your time, please.",
+      "telugu": "ఇదిగో, సమయం తీసుకోండి, దయచేసి.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379919"
+    },
+    {
+      "english": "Sorry, my bad, are you okay?",
+      "telugu": "క్షమించండి, నా తప్పు, మీరు బాగున్నారా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379933"
+    },
+    {
+      "english": "No worries, I’ve got you, really.",
+      "telugu": "టెన్షన్ వద్దు, నేను చూసుకుంటా, నిజంగా.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379938"
+    },
+    {
+      "english": "Please, go ahead, I’ll wait here.",
+      "telugu": "దయచేసి ముందుకెళ్లండి, నేను ఇక్కడే వేచి ఉంటాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379942"
+    },
+    {
+      "english": "Thank you, that was really thoughtful.",
+      "telugu": "ధన్యవాదాలు, మీరు చాలా ఆలోచించి చేశారు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379945"
+    },
+    {
+      "english": "Excuse me, sorry to bother you.",
+      "telugu": "క్షమించండి, మీకు ఇబ్బంది కలిగించినందుకు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379948"
+    },
+    {
+      "english": "Are you alright, want some help?",
+      "telugu": "మీకు బాగానే ఉందా, సహాయం కావాలా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379951"
+    },
+    {
+      "english": "It’s okay, I understand, really.",
+      "telugu": "పర్లేదు, నాకు అర్థమైంది, నిజంగా.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379958"
+    },
+    {
+      "english": "Slow down, you’re doing great, keep going.",
+      "telugu": "నెమ్మదిగా, మీరు బాగా చేస్తున్నారు, ముందుకు సాగండి.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379962"
+    },
+    {
+      "english": "Let me help, I’ll take care of it.",
+      "telugu": "నేను సహాయం చేస్తాను, నేను చూసుకుంటాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379966"
+    },
+    {
+      "english": "Bless you, thanks for being kind.",
+      "telugu": "దేవుడి దయ ఉండాలి, కరుణ చూపినందుకు ధన్యవాదాలు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379969"
+    },
+    {
+      "english": "Mind your time, I respect your schedule.",
+      "telugu": "మీ సమయం చూసుకోండి, మీ షెడ్యూల్‌ను గౌరవిస్తాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379972"
+    },
+    {
+      "english": "Please don’t worry, it will be fine.",
+      "telugu": "దయచేసి టెన్షన్ పడకండి, అన్నీ బాగానే అవుతుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379975"
+    },
+    {
+      "english": "That’s thoughtful, you didn’t have to.",
+      "telugu": "చాలా మంచిగా ఉంది, మీరు తప్పనిసరి చేయాల్సింది లేదు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379979"
+    },
+    {
+      "english": "Can I help you with that, please?",
+      "telugu": "దయచేసి, అది చేసేందుకు మీకు సహాయం చేస్తానా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379982"
+    },
+    {
+      "english": "Thanks for waiting, I really appreciate it.",
+      "telugu": "వేచి ఉన్నందుకు ధన్యవాదాలు, నిజంగా మెచ్చుకుంటాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379985"
+    },
+    {
+      "english": "I’m sorry for the delay, thank you.",
+      "telugu": "లేట్ అయింది క్షమించండి, ధన్యవాదాలు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379988"
+    },
+    {
+      "english": "Take care, drive safe, okay?",
+      "telugu": "జాగ్రత్తగా ఉండండి, సేఫ్‌గా డ్రైవ్ చేయండి, సరేనా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379991"
+    },
+    {
+      "english": "I’m here, don’t handle it alone.",
+      "telugu": "నేను ఇక్కడే ఉన్నాను, ఒంటరిగా చేయొద్దు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.379997"
+    },
+    {
+      "english": "Good job, I’m proud of you, seriously.",
+      "telugu": "చాలా బాగుంది, నేను నిజంగా గర్వపడుతున్నాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380000"
+    },
+    {
+      "english": "Let’s keep it simple, no stress.",
+      "telugu": "సింపుల్‌గా చేసుకుందాం, టెన్షన్ లేదు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380004"
+    },
+    {
+      "english": "Thanks for checking in, that means a lot.",
+      "telugu": "మీరు చూసుకుంటున్నందుకు ధన్యవాదాలు, అది చాలా విలువైనది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380006"
+    },
+    {
+      "english": "Your turn, please go ahead, nice.",
+      "telugu": "మీ వంతు, దయచేసి ముందుకెళ్లండి, బాగుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380009"
+    },
+    {
+      "english": "I won’t forget, you were kind to me.",
+      "telugu": "నేను మర్చిపోను, మీరు నాకు మంచిగా చేశారు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380012"
+    },
+    {
+      "english": "Slow breathing, you can do this, okay?",
+      "telugu": "నెమ్మదిగా ఊపిరి పీల్చుకోండి, మీరు చేయగలరు, సరేనా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380015"
+    },
+    {
+      "english": "Sorry, I didn’t mean to hurt you.",
+      "telugu": "క్షమించండి, మీకు నొప్పి పెట్టాలనే ఉద్దేశం లేదు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380019"
+    },
+    {
+      "english": "You’re welcome, happy to help, anytime.",
+      "telugu": "స్వాగతం, సాయం చేయడం నాకు సంతోషం, ఎప్పుడైనా.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380022"
+    },
+    {
+      "english": "I respect you, thanks for your patience.",
+      "telugu": "నేను మీని గౌరవిస్తాను, మీ ఓపికకి ధన్యవాదాలు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380025"
+    },
+    {
+      "english": "Let’s share, it’s better together, right?",
+      "telugu": "పంచుకుందాం, కలిసి చేస్తే బాగుంటుంది, కదా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380028"
+    },
+    {
+      "english": "Could I ask you one quick question?",
+      "telugu": "నేను మీకు ఒక చిన్న ప్రశ్న అడగనా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380031"
+    },
+    {
+      "english": "Where’s the best place to buy water?",
+      "telugu": "నీరు కొనడానికి బెస్ట్ చోటు ఎక్కడుంది?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380035"
+    },
+    {
+      "english": "What do you recommend for a kind hello?",
+      "telugu": "మంచి పలకరింపు కోసం మీరు ఏమి సూచిస్తారు?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380037"
+    },
+    {
+      "english": "Do you have a minute for advice?",
+      "telugu": "సలహా కోసం మీకు ఒక నిమిషం ఉందా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380040"
+    },
+    {
+      "english": "Would you mind showing me the way, please?",
+      "telugu": "దారి చూపిస్తారా, దయచేసి?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380043"
+    },
+    {
+      "english": "What time is best to visit quietly?",
+      "telugu": "శాంతిగా చూడడానికి ఎప్పుడు బాగుంటుంది?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380048"
+    },
+    {
+      "english": "Can you tell me what to bring?",
+      "telugu": "నేను ఏమి తీసుకురావాలి చెప్పగలరా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380051"
+    },
+    {
+      "english": "Do people usually queue here, or no?",
+      "telugu": "ఇక్కడ సాధారణంగా క్యూ ఉంటుందా, లేదా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380053"
+    },
+    {
+      "english": "What’s a polite phrase for asking help?",
+      "telugu": "సహాయం అడగడానికి మర్యాదపూర్వక వాక్యం ఏమిటి?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380057"
+    },
+    {
+      "english": "May I know your plan for today?",
+      "telugu": "ఈరోజు మీ ప్లాన్ ఏంటి తెలుసుకోవచ్చా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380059"
+    },
+    {
+      "english": "How do you like to be addressed?",
+      "telugu": "మీరు ఏలా పిలవబడడం ఇష్టపడతారు?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380062"
+    },
+    {
+      "english": "Could you share one local tip, please?",
+      "telugu": "ఒక స్థానిక టిప్ చెప్పగలరా, దయచేసి?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380065"
+    },
+    {
+      "english": "Is it okay if I sit here?",
+      "telugu": "నేను ఇక్కడ కూర్చోవచ్చా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380067"
+    },
+    {
+      "english": "Where should I stand, so it’s respectful?",
+      "telugu": "గౌరవంగా ఉండాలంటే నేనెక్కడ నిలబడాలి?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380071"
+    },
+    {
+      "english": "What’s the easiest way to say sorry?",
+      "telugu": "క్షమించండి చెప్పడానికి సులభమైన మార్గం ఏమిటి?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380074"
+    },
+    {
+      "english": "Do you prefer formal or casual Telugu?",
+      "telugu": "మీకు ఫార్మల్ తెలుగు ఇష్టమా, లేక క్యాజువల్?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380077"
+    },
+    {
+      "english": "Can I get your opinion on this?",
+      "telugu": "దీనిపై మీ అభిప్రాయం చెప్పగలరా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380079"
+    },
+    {
+      "english": "Would you like me to repeat that?",
+      "telugu": "దాన్ని మళ్లీ చెప్తానా మీకు?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380082"
+    },
+    {
+      "english": "Is there anything you need right now?",
+      "telugu": "ఇప్పుడే మీకు ఏదైనా అవసరముందా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380085"
+    },
+    {
+      "english": "What’s the nicest way to greet someone?",
+      "telugu": "ఎవరినైనా పలకరించడానికి הכי nice మార్గం ఏమిటి?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380090"
+    },
+    {
+      "english": "How can I help, without taking over?",
+      "telugu": "మీ పని తీసుకోకుండా నేను ఎలా సహాయం చేయగలను?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380092"
+    },
+    {
+      "english": "Can you point out the main entrance?",
+      "telugu": "ప్రధాన ప్రవేశం ఎక్కడో చూపిస్తారా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380099"
+    },
+    {
+      "english": "What should I do next, in order?",
+      "telugu": "తర్వాత నేను ఏం చేయాలి, దశలుగా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380102"
+    },
+    {
+      "english": "If I’m late, what’s the best plan?",
+      "telugu": "నేను ఆలస్యమైతే ఏం చేయడం మంచిది?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380105"
+    },
+    {
+      "english": "Can we keep it short, then continue?",
+      "telugu": "ముందుగా చిన్నగా చెప్పి, తర్వాత కొనసాగిస్తామా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380108"
+    },
+    {
+      "english": "How did this help you, honestly?",
+      "telugu": "నిజంగా చెప్పండి, ఇది మీకు ఎలా సహాయపడింది?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380111"
+    },
+    {
+      "english": "What’s a good time to follow up?",
+      "telugu": "ఫాలో అప్ చేయడానికి మంచి సమయం ఎప్పుడు?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380114"
+    },
+    {
+      "english": "Would you like to join me here?",
+      "telugu": "మీరు ఇక్కడ నాకు తోడుగా రావాలా?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380117"
+    },
+    {
+      "english": "You’re doing great, keep going, kind friend.",
+      "telugu": "నువ్వు చాలా బాగా చేస్తున్నావు, కొనసాగించు, మంచి స్నేహితా.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380120"
+    },
+    {
+      "english": "Gentle words today, peace comes tomorrow.",
+      "telugu": "ఈరోజు మృదువైన మాటలు, రేపు శాంతి వస్తుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380123"
+    },
+    {
+      "english": "Smile first, kindness follows naturally.",
+      "telugu": "ముందుగా నవ్వు, దయ సహజంగా వస్తుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380126"
+    },
+    {
+      "english": "Small kindness counts, don’t underestimate it.",
+      "telugu": "చిన్న దయకూ విలువ ఉంది, తక్కువగా చూడకు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380130"
+    },
+    {
+      "english": "Your calm helps others breathe easier.",
+      "telugu": "నీ ప్రశాంతత వల్ల ఇతరులకు శ్వాస సులభం అవుతుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380133"
+    },
+    {
+      "english": "Choose kindness, even when it’s hard.",
+      "telugu": "కష్టంగా ఉన్నా, దయనే ఎంచుకో.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380136"
+    },
+    {
+      "english": "You made them feel seen, that matters.",
+      "telugu": "వాళ్లకు నువ్వు కనిపించినట్టు చేశావు, అది ముఖ్యం.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380139"
+    },
+    {
+      "english": "Kindness is your superpower, use it.",
+      "telugu": "దయ నీ సూపర్ పవర్, ఉపయోగించు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380142"
+    },
+    {
+      "english": "Say it softly, people feel safe.",
+      "telugu": "మృదువుగా చెప్పు, వాళ్లు సురక్షితంగా ఫీల్ అవుతారు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380145"
+    },
+    {
+      "english": "Let your heart speak, not your stress.",
+      "telugu": "నీ మనసు మాట్లాడనీ, నీ టెన్షన్ కాదు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380148"
+    },
+    {
+      "english": "Every day, you can be a little kinder.",
+      "telugu": "ప్రతి రోజూ, కొంచెం ఎక్కువ దయ చూపించొచ్చు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380150"
+    },
+    {
+      "english": "Pause, listen, then respond with care.",
+      "telugu": "ఒక్కసారి ఆగు, విను, తర్వాత శ్రద్ధగా స్పందించు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380153"
+    },
+    {
+      "english": "You’ve got this, one kind step at time.",
+      "telugu": "నీకు సాధ్యం, ఒక్క దయ అడుగు చొప్పున.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380157"
+    },
+    {
+      "english": "Praising effort builds stronger, kinder habits.",
+      "telugu": "ప్రయత్నాన్ని పొగడడం, బలమైన దయ అలవాట్లను పెంచుతుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380160"
+    },
+    {
+      "english": "It’s okay to start over, be gentle.",
+      "telugu": "మళ్లీ మొదలుపెట్టడం బాగానే ఉంది, మృదువుగా ఉండు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380164"
+    },
+    {
+      "english": "Your kindness returns, sooner than you think.",
+      "telugu": "నీ దయ తిరిగి వస్తుంది, నువ్వు ఊహించిన దానికన్నా ముందే.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380167"
+    },
+    {
+      "english": "Don’t chase perfection, aim for compassion.",
+      "telugu": "పర్ఫెక్షన్ వెంబడించకు, కరుణ లక్ష్యం పెట్టుకో.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380172"
+    },
+    {
+      "english": "Keep your tone warm, kindness wins.",
+      "telugu": "నీ మాట టోన్ వెచ్చగా ఉంచు, దయ గెలుస్తుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380175"
+    },
+    {
+      "english": "You’re making a difference, right now.",
+      "telugu": "నువ్వు మార్పు తీసుకొస్తున్నావు, ఇప్పుడే.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380179"
+    },
+    {
+      "english": "Be proud of your small good choices.",
+      "telugu": "నీ చిన్న మంచి ఎంపికలపై గర్వపడు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380181"
+    },
+    {
+      "english": "Kindness can be simple, just be present.",
+      "telugu": "దయ సులభమే, నువ్వు ఉంటే చాలుతుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380184"
+    },
+    {
+      "english": "What if you try a kinder thought?",
+      "telugu": "ఒకసారి, మరింత దయతో ఆలోచిస్తే ఎలా ఉంటుంది?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380187"
+    },
+    {
+      "english": "Let gratitude lead, your words will soften.",
+      "telugu": "కృతజ్ఞత ముందుండనివ్వు, మాటలు మృదువవుతాయి.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380190"
+    },
+    {
+      "english": "You don’t have to be perfect to be kind.",
+      "telugu": "దయ చూపడానికి నీకు పర్ఫెక్ట్ కావాల్సిన అవసరం లేదు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380193"
+    },
+    {
+      "english": "Choose patience, it protects relationships.",
+      "telugu": "సహనం ఎంచుకో, అది సంబంధాలను కాపాడుతుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380196"
+    },
+    {
+      "english": "Your support feels heavy in the best way.",
+      "telugu": "నీ సహాయం ఎంతో బరువుగా అనిపిస్తుంది, మంచి విధంగా.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380201"
+    },
+    {
+      "english": "Kindness turns awkward moments into comfort.",
+      "telugu": "దయ అసౌకర్య క్షణాలను సౌకర్యంగా మారుస్తుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380204"
+    },
+    {
+      "english": "Trust yourself, and be respectful in small ways.",
+      "telugu": "నీపై నమ్మకం ఉంచు, చిన్నగా గౌరవంగా ఉండు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380207"
+    },
+    {
+      "english": "When you speak kindly, you lift everyone.",
+      "telugu": "నువ్వు దయగా మాట్లాడితే, అందరూ పైకి లేస్తాయి.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380210"
+    },
+    {
+      "english": "Keep helping, one person at a time.",
+      "telugu": "ప్రతి సారి ఒకరికి సహాయం చేస్తూ ఉండి.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380212"
+    },
+    {
+      "english": "I feel lighter when you listen, truly.",
+      "telugu": "మీరు నిజంగా వింటే, నాకు తేలికగా అనిపిస్తుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380215"
+    },
+    {
+      "english": "I’m trying, slow steps, kind heart.",
+      "telugu": "నేను ప్రయత్నిస్తున్నాను, నెమ్మదిగా అడుగులు, మృదువైన మనసు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380219"
+    },
+    {
+      "english": "My honesty comes with gentleness, always.",
+      "telugu": "నా నిజాయితీ ఎప్పుడూ మృదుత్వంతోనే వస్తుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380221"
+    },
+    {
+      "english": "Take your time, I’ll wait with patience.",
+      "telugu": "నీకు సమయం తీసుకో, నేను ఓపికగా వేచి ఉంటాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380225"
+    },
+    {
+      "english": "I notice your effort, it matters to me.",
+      "telugu": "నీ ప్రయత్నం నాకు కనిపిస్తోంది, అది ముఖ్యం.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380228"
+    },
+    {
+      "english": "Even my worries can be kinder today.",
+      "telugu": "ఈరోజు నా ఆందోళన కూడా కాస్త మెత్తగా ఉంటుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380230"
+    },
+    {
+      "english": "I’ll speak less, but mean it more.",
+      "telugu": "నేను తక్కువ మాట్లాడతాను, కానీ ఎక్కువగా అర్థం పెట్టుకుంటాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380234"
+    },
+    {
+      "english": "Thanks for staying steady, you help me.",
+      "telugu": "స్థిరంగా ఉండడం కృతజ్ఞతలు, నన్ను నువ్వు బలపరుస్తావు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380237"
+    },
+    {
+      "english": "If you’re unsure, it’s okay, breathe.",
+      "telugu": "నీకు సందేహం ఉంటే, పర్వాలేదు, ఊపిరి పీల్చుకో.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380240"
+    },
+    {
+      "english": "I’ll check in, not press, just care.",
+      "telugu": "నేను చూస్తాను, ఒత్తిడి చేయను, కేవలం శ్రద్ధ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380244"
+    },
+    {
+      "english": "I’m learning kindness, one real moment at a time.",
+      "telugu": "నేను కాస్త కాస్తగా దయ నేర్చుకుంటున్నాను, ఒక్కో నిజమైన క్షణంతో.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380248"
+    },
+    {
+      "english": "Your boundaries help me stay respectful.",
+      "telugu": "నీ సరిహద్దులు నాకు గౌరవంగా ఉండేందుకు సహాయం చేస్తాయి.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380251"
+    },
+    {
+      "english": "I can feel your stress, let’s slow down.",
+      "telugu": "నీ టెన్షన్ నాకు తెలుస్తోంది, మనం నెమ్మదిగా చేద్దాం.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380254"
+    },
+    {
+      "english": "I’m grateful for your patience, really.",
+      "telugu": "నీ ఓపికకు నాకు నిజంగా కృతజ్ఞతలు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380257"
+    },
+    {
+      "english": "Let me apologize, I meant no harm.",
+      "telugu": "నేను క్షమాపణ చెబుతాను, నాకు హాని చేయాలనే ఉద్దేశం లేదు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380260"
+    },
+    {
+      "english": "I’m proud of how calm you stay.",
+      "telugu": "నువ్వు ఎంత ప్రశాంతంగా ఉంటావో చూసి గర్వంగా ఉంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380263"
+    },
+    {
+      "english": "I’ll assume good intent, until proven otherwise.",
+      "telugu": "ఇలా కాదు అని నిరూపించే వరకు, నేను మంచి ఉద్దేశం అని నమ్ముతాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380267"
+    },
+    {
+      "english": "I want to understand you, not win.",
+      "telugu": "నేను నిన్ను అర్థం చేసుకోవాలని ఉంది, గెలవాలనుకోవడం కాదు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380275"
+    },
+    {
+      "english": "Your kindness gives me strength to try.",
+      "telugu": "నీ దయ నన్ను ప్రయత్నించేందుకు శక్తి ఇస్తుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380278"
+    },
+    {
+      "english": "I’ll be honest, but I’ll stay respectful.",
+      "telugu": "నేను నిజాయితీగా చెబుతాను, కానీ గౌరవంగా ఉంటాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380281"
+    },
+    {
+      "english": "When words get sharp, I’ll soften mine.",
+      "telugu": "మాటలు కఠినంగా మారితే, నా మాటలను మృదువుగా చేస్తాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380285"
+    },
+    {
+      "english": "I’m listening again, because you matter.",
+      "telugu": "నీకు విలువ ఉంది కాబట్టి, నేను మళ్లీ వింటాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380288"
+    },
+    {
+      "english": "I won’t judge you, I’ll just be kind.",
+      "telugu": "నేను నిన్ను తీర్పు ఇవ్వను, కేవలం దయగా ఉంటాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380294"
+    },
+    {
+      "english": "You can vent, I’ll hold space for you.",
+      "telugu": "నువ్వు చెప్పుకునేలా ఉంచు, నేను నీ కోసం చోటు ఇస్తాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380297"
+    },
+    {
+      "english": "Let’s pause, feel it, then respond gently.",
+      "telugu": "ఒక్కసారి ఆగి, అది ఎలా ఉందో అనుభవించి, తర్వాత మృదువుగా స్పందిద్దాం.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380301"
+    },
+    {
+      "english": "My heart says help, not control.",
+      "telugu": "నా మనసు సహాయం చెయ్యమని చెబుతోంది, నియంత్రించమని కాదు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380303"
+    },
+    {
+      "english": "I’ll respect your pace, even today.",
+      "telugu": "ఈరోజైనా నీ వేగాన్ని గౌరవిస్తాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380308"
+    },
+    {
+      "english": "Kindness starts inside, then shows in actions.",
+      "telugu": "దయ లోపల మొదలై, పనుల్లో కనిపిస్తుంది.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380311"
+    },
+    {
+      "english": "I forgive fast, but I learn carefully.",
+      "telugu": "నేను త్వరగా క్షమిస్తాను, కానీ జాగ్రత్తగా నేర్చుకుంటాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380378"
+    },
+    {
+      "english": "I’m proud of you, for trying again.",
+      "telugu": "మళ్లీ ప్రయత్నించినందుకు నేను నీ గురించి గర్వపడుతున్నాను.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380383"
+    },
+    {
+      "english": "Hey, do you want help, no pressure?",
+      "telugu": "హే, మీకు సహాయం కావాలా, ఒత్తిడి లేదు?",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380387"
+    },
+    {
+      "english": "I’m listening, tell me what’s up.",
+      "telugu": "నేను వింటున్నా, ఏం జరుగుతోంది చెప్పు.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380390"
+    },
+    {
+      "english": "That’s okay, we can try again today.",
+      "telugu": "పరవాలేదు, మనం ఈరోజు మళ్లీ ప్రయత్నిద్దాం.",
+      "category": "Kindness",
+      "generated_at": "2026-11-04T10:40:21.380394"
     }
   ],
-  "last_updated": "2026-11-03T10:36:05.306342"
+  "last_updated": "2026-11-04T10:40:21.380396"
 }
