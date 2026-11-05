@@ -12959,7 +12959,727 @@
       "telugu": "పరవాలేదు, మనం ఈరోజు మళ్లీ ప్రయత్నిద్దాం.",
       "category": "Kindness",
       "generated_at": "2026-11-04T10:40:21.380394"
+    },
+    {
+      "english": "Great, I’m here, tell me quickly",
+      "telugu": "బాగుంది, నేను ఇక్కడే, త్వరగా చెప్పు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499796"
+    },
+    {
+      "english": "No worries, we’ll handle it, okay?",
+      "telugu": "టెన్షన్ వద్దు, మనం చూసుకుంటాం, సరేనా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499814"
+    },
+    {
+      "english": "Nice! That sounds good, let’s do it",
+      "telugu": "చాలా బాగుంది! అదే బాగుంది, చేద్దాం",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499817"
+    },
+    {
+      "english": "Okay, breathe in, calm down, step forward",
+      "telugu": "సరే, ఊపిరి పీల్చు, నిదానంగా ఉండు, ముందుకు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499820"
+    },
+    {
+      "english": "Thanks a lot, I really appreciate you",
+      "telugu": "చాలా ధన్యవాదాలు, నిజంగా కృతజ్ఞతలు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499822"
+    },
+    {
+      "english": "Good morning, hope your day is bright",
+      "telugu": "శుభోదయం, మీ రోజు వెలుగుగా ఉండాలి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499824"
+    },
+    {
+      "english": "Good job, you’re improving, keep going",
+      "telugu": "బాగా చేశారు, మీరు మెరుగవుతున్నారు, కొనసాగించండి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499827"
+    },
+    {
+      "english": "Let’s start small, but stay consistent",
+      "telugu": "చిన్నగా మొదలెడదాం, కానీ సుస్ధిరంగా ఉండు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499832"
+    },
+    {
+      "english": "That’s okay, we’ll try again, soon",
+      "telugu": "పర్వాలేదు, మళ్లీ ప్రయత్నిద్దాం, త్వరలో",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499836"
+    },
+    {
+      "english": "Sounds perfect, I’m in, let’s go",
+      "telugu": "అది పర్ఫెక్ట్‌గా ఉంది, నేను ఒప్పుకున్నాను, వెళ్లదాం",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499839"
+    },
+    {
+      "english": "Wait, wait—listen, this is important",
+      "telugu": "ఒక్కసారి, ఆగు—విను, ఇది ముఖ్యము",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499842"
+    },
+    {
+      "english": "Tell me the truth, I’m all ears",
+      "telugu": "నిజం చెప్పు, నేను పూర్తిగా వినడానికి సిద్ధం",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499844"
+    },
+    {
+      "english": "You got this, just trust yourself, okay?",
+      "telugu": "నీకు ఇది సాధ్యం, నీ మీద నమ్మకం ఉండు, సరేనా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499847"
+    },
+    {
+      "english": "All good, nothing to worry, right?",
+      "telugu": "అంతా బాగానే ఉంది, టెన్షన్ అవసరం లేదు, కదా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499850"
+    },
+    {
+      "english": "Great plan, start now, don’t overthink",
+      "telugu": "అద్భుతమైన ప్లాన్, ఇప్పుడే మొదలు, ఎక్కువ ఆలోచించకు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499853"
+    },
+    {
+      "english": "I’m proud of you, keep shining",
+      "telugu": "నీకోసం నేను గర్వపడుతున్నాను, వెలుగుతూనే ఉండు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499855"
+    },
+    {
+      "english": "Come on, you can do it, believe me",
+      "telugu": "అయితే రా, నువ్వు చేయగలవు, నమ్ము",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499858"
+    },
+    {
+      "english": "Let’s talk later, focus first, then relax",
+      "telugu": "తర్వాత మాట్లాడదాం, ముందు ఫోకస్, తర్వాత రిలాక్స్",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499861"
+    },
+    {
+      "english": "Sure, I’ll help, just message me",
+      "telugu": "ఖచ్చితంగా, నేను సహాయం చేస్తాను, మెసేజ్ చేయి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499864"
+    },
+    {
+      "english": "Be positive, one step at a time",
+      "telugu": "పాజిటివ్‌గా ఉండు, ఒక్కో అడుగు చొప్పున",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499866"
+    },
+    {
+      "english": "Perfect timing, I needed this",
+      "telugu": "సరిగ్గా టైమింగ్, నాకు ఇది అవసరం",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499868"
+    },
+    {
+      "english": "Respect, I understand, thank you for telling",
+      "telugu": "గౌరవం, నేను అర్థం చేసుకున్నాను, చెప్పినందుకు ధన్యవాదాలు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499870"
+    },
+    {
+      "english": "I hear you, let’s find a solution",
+      "telugu": "నేను వినాను, పరిష్కారం చూద్దాం",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499874"
+    },
+    {
+      "english": "Stay strong, things will get better",
+      "telugu": "ధైర్యంగా ఉండు, పరిస్థితులు మెరుగవుతాయి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499876"
+    },
+    {
+      "english": "No problem, whenever you’re ready",
+      "telugu": "సమస్య లేదు, నువ్వు రెడీ అయినప్పుడు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499879"
+    },
+    {
+      "english": "That’s true, let’s do it smarter",
+      "telugu": "అది నిజమే, తెలివిగా చేద్దాం",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499883"
+    },
+    {
+      "english": "I got it, thanks, I’m good now",
+      "telugu": "అర్థమైంది, ధన్యవాదాలు, ఇప్పుడు బాగానే ఉంది",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499886"
+    },
+    {
+      "english": "Quick check, did you eat today?",
+      "telugu": "ఒక్కసారి చెక్, ఈ రోజు తిన్నావా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499888"
+    },
+    {
+      "english": "Good vibes only, let’s keep moving",
+      "telugu": "మంచి వైబ్స్ మాత్రమే, ముందుకు సాగుదాం",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499891"
+    },
+    {
+      "english": "What’s your biggest goal this week, friend?",
+      "telugu": "ఈ వారం మీ పెద్ద లక్ష్యం ఏంటి, ఫ్రెండ్?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499894"
+    },
+    {
+      "english": "How do you stay calm, even on busy days?",
+      "telugu": "బిజీ రోజుల్లో కూడా మీరు ఎలా ప్రశాంతంగా ఉంటారు?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499896"
+    },
+    {
+      "english": "Can I ask you something important, please?",
+      "telugu": "దయచేసి, నేను ఒక ముఖ్యమైన విషయం అడగవచ్చా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499899"
+    },
+    {
+      "english": "What should I do first, to feel better?",
+      "telugu": "నాకు బాగా అనిపించాలంటే ముందుగా ఏమి చేయాలి?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499901"
+    },
+    {
+      "english": "Do you want advice, or just someone to listen?",
+      "telugu": "మీకు సలహా కావాలా, లేక వినే ఎవరో కావాలా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499904"
+    },
+    {
+      "english": "Where do you usually find motivation, after setbacks?",
+      "telugu": "ఆపదలు వచ్చిన తర్వాత మీరు ప్రేరణ ఎక్కడ తీసుకుంటారు?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499906"
+    },
+    {
+      "english": "What habit helps you most, day by day?",
+      "telugu": "రోజురోజుకీ మీకు ఎక్కువగా సహాయపడే అలవాటు ఏది?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499908"
+    },
+    {
+      "english": "Could you share one tip, that really works for you?",
+      "telugu": "మీకు నిజంగా పనిచేసే ఒక సూచన పంచుకుంటారా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499911"
+    },
+    {
+      "english": "How’s your energy today, on a scale of ten?",
+      "telugu": "ఈరోజు మీ ఎనర్జీ పది లో ఎంత?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499914"
+    },
+    {
+      "english": "What are you grateful for, right now?",
+      "telugu": "ఇప్పుడే మీకు ఏందుకు కృతజ్ఞతలు?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499916"
+    },
+    {
+      "english": "Would you like to plan tomorrow, together?",
+      "telugu": "మనిద్దరం కలిసి రేపటికి ప్లాన్ చేద్దామా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499918"
+    },
+    {
+      "english": "Which part feels hardest for you, lately?",
+      "telugu": "ఇటీవల మీకు ఏ భాగం చాలా కష్టంగా అనిపిస్తోంది?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499920"
+    },
+    {
+      "english": "Can we talk through this, slowly and calmly?",
+      "telugu": "దీనిని నెమ్మదిగా, ప్రశాంతంగా మాట్లాడుకుందామా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499922"
+    },
+    {
+      "english": "What’s one small win you had today?",
+      "telugu": "ఈ రోజు మీకు ఒక చిన్న విజయం ఏమిటి?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499925"
+    },
+    {
+      "english": "Do you need help, or space to think?",
+      "telugu": "మీకు సహాయం కావాలా, లేక ఆలోచించేందుకు టైమ్ కావాలా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499927"
+    },
+    {
+      "english": "How can I support you this week, exactly?",
+      "telugu": "ఈ వారం నేను మీకు ఎలా సహాయం చేయాలి, స్పష్టంగా చెప్పండి.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499929"
+    },
+    {
+      "english": "What’s the next step, after this situation?",
+      "telugu": "ఈ పరిస్థితి తర్వాత వచ్చే అడుగు ఏమిటి?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499932"
+    },
+    {
+      "english": "Can you tell me your real concern, briefly?",
+      "telugu": "మీ అసలు ఆందోళన ఏంటి, కాస్త చెప్పగలరా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499934"
+    },
+    {
+      "english": "What would make tomorrow feel easier for you?",
+      "telugu": "రేపు మీకు సులువుగా అనిపించేదేమిటి?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499936"
+    },
+    {
+      "english": "Do you prefer direct advice, or gentle encouragement?",
+      "telugu": "మీకు నేరుగా సలహా కావాలా, లేదా మృదువైన ప్రోత్సాహం కావాలా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499940"
+    },
+    {
+      "english": "When you feel stuck, what helps you move again?",
+      "telugu": "మీకు ఇబ్బందిగా అనిపించినప్పుడు, మళ్లీ ముందుకు తీసేది ఏమిటి?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499942"
+    },
+    {
+      "english": "Shall we set a goal, small, but meaningful?",
+      "telugu": "మనం ఒక లక్ష్యం పెట్టుకుందామా, చిన్నదైనా అర్థవంతంగా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499944"
+    },
+    {
+      "english": "What’s your plan, if things don’t go well?",
+      "telugu": "పరిస్థితి బాగా లేకపోతే, మీ ప్లాన్ ఏమిటి?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499947"
+    },
+    {
+      "english": "Can I check in with you later today?",
+      "telugu": "ఇవాళ తర్వాత నేను మీతో టచ్‌లో ఉంటానా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499949"
+    },
+    {
+      "english": "Which morning routine do you recommend, for beginners?",
+      "telugu": "ప్రారంభదశలో ఉన్నవారికి, ఏ ఉదయం రొటీన్ సిఫార్సు చేస్తారు?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499952"
+    },
+    {
+      "english": "What lesson did you learn from last month?",
+      "telugu": "గత నెల నుంచి మీరు ఏ పాఠం నేర్చుకున్నారు?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499955"
+    },
+    {
+      "english": "How can we make this conversation more helpful?",
+      "telugu": "ఈ చర్చను ఇంకా ఉపయోగకరంగా ఎలా చేసుకోగలం?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499958"
+    },
+    {
+      "english": "Do you want to vent, or solve it together?",
+      "telugu": "మీరు మనసు విప్పాలనుకుంటున్నారా, లేక కలిసి పరిష్కరించాలనుకుంటున్నారా?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499960"
+    },
+    {
+      "english": "What’s one thing you can control today?",
+      "telugu": "ఈ రోజు మీరు నియంత్రించగల ఒక విషయం ఏది?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499963"
+    },
+    {
+      "english": "If you could change one thing, what would it be?",
+      "telugu": "మీకు ఒక విషయం మార్చే అవకాశం ఉంటే, అది ఏది?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499966"
+    },
+    {
+      "english": "You’re doing better than you think, trust it",
+      "telugu": "మీరు అనుకుంటున్నదానికంటే ఇంకా బాగానే చేస్తున్నారు, నమ్మండి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499969"
+    },
+    {
+      "english": "Take a breath, then choose your next move",
+      "telugu": "ఒక్కసారి శ్వాస తీసుకోండి, తర్వాత మీ తదుపరి అడుగు ఎంచుకోండి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499971"
+    },
+    {
+      "english": "Small progress counts, even on tough days",
+      "telugu": "కష్టమైన రోజుల్లో కూడా చిన్న పురోగతి లెక్కే, నిజం",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499973"
+    },
+    {
+      "english": "Let your mind say, I can do this",
+      "telugu": "మీ మనసు చెబనివ్వండి, నేను చేయగలను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499975"
+    },
+    {
+      "english": "Focus on today, future will handle itself",
+      "telugu": "ఈరోజు మీద దృష్టి పెట్టండి, రేపు తానే చూసుకుంటుంది",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499978"
+    },
+    {
+      "english": "You’ve survived before, you’ll handle this too",
+      "telugu": "ముందే మీరు నిలబడ్డారు, ఇదీ కూడా మీరు పట్టుకుంటారు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499981"
+    },
+    {
+      "english": "Reset your thoughts, start fresh right now",
+      "telugu": "మీ ఆలోచనలను రీసెట్ చేయండి, ఇప్పుడే కొత్తగా మొదలుపెట్టండి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499983"
+    },
+    {
+      "english": "Speak kind words to yourself, daily",
+      "telugu": "ప్రతిరోజూ మీకు మీరు మంచిగా మాటలు చెప్పండి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499985"
+    },
+    {
+      "english": "Good choices build a good mood, quietly",
+      "telugu": "మంచి నిర్ణయాలు నెమ్మదిగా మంచి మూడ్‌ని ఇస్తాయి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499988"
+    },
+    {
+      "english": "You’re not behind, you’re on your path",
+      "telugu": "మీరు వెనుకబడలేదు, మీరు మీ దారిలోనే ఉన్నారు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499990"
+    },
+    {
+      "english": "Believe in small wins, they stack up",
+      "telugu": "చిన్న విజయాల్లో నమ్మకం పెట్టండి, అవి కూడుకుంటాయి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499992"
+    },
+    {
+      "english": "Keep your standards high, your pressure low",
+      "telugu": "మీ ప్రమాణాలు ఎత్తుగా ఉంచండి, ఒత్తిడి తక్కువగా",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499996"
+    },
+    {
+      "english": "You’ve got this, step by confident step",
+      "telugu": "మీ చేతిలోనే ఉంది, నమ్మకంతో ఒక్కో అడుగు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.499998"
+    },
+    {
+      "english": "Even mistakes teach you, don’t quit",
+      "telugu": "తప్పులు కూడా నేర్పుతాయి, ఆగిపోవద్దు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500002"
+    },
+    {
+      "english": "Give yourself credit, you worked hard",
+      "telugu": "మీకు మీరు క్రెడిట్ ఇవ్వండి, మీరు కష్టపడ్డారు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500005"
+    },
+    {
+      "english": "Make room for hope, not just worry",
+      "telugu": "ఆశకి చోటు ఇవ్వండి, కేవలం ఆందోళనకి కాదు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500007"
+    },
+    {
+      "english": "Try again, your momentum is growing",
+      "telugu": "మళ్లీ ప్రయత్నించండి, మీ వేగం పెరుగుతోంది",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500009"
+    },
+    {
+      "english": "Stay gentle with yourself, progress comes",
+      "telugu": "మీతో మీరు సున్నితంగా ఉండండి, పురోగతి వస్తుంది",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500011"
+    },
+    {
+      "english": "Choose calm over chaos, every time",
+      "telugu": "ప్రతి సారి గందరగోళం కంటే ప్రశాంతత ఎంచుకోండి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500014"
+    },
+    {
+      "english": "You’re learning fast, keep the rhythm",
+      "telugu": "మీరు వేగంగా నేర్చుకుంటున్నారు, రిథమ్‌ని కాపాడండి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500016"
+    },
+    {
+      "english": "Celebrate effort, results will follow",
+      "telugu": "ప్రయత్నాన్ని సెలబ్రేట్ చేయండి, ఫలితం వస్తుంది",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500018"
+    },
+    {
+      "english": "Let today be your comeback day",
+      "telugu": "ఈరోజు మీ రీకమ్‌బ్యాక్ రోజు చేయండి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500020"
+    },
+    {
+      "english": "Trust the process, not the panic",
+      "telugu": "భయానికి కాదు, ప్రక్రియకి నమ్మకం పెట్టండి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500022"
+    },
+    {
+      "english": "Your consistency is powerful, don’t doubt it",
+      "telugu": "మీ స్థిరత్వం శక్తివంతం, అనుమానం వద్దు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500025"
+    },
+    {
+      "english": "Say, I can handle this, right now",
+      "telugu": "ఇప్పుడే చెప్పండి, నేను దీన్ని హ్యాండిల్ చేయగలను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500027"
+    },
+    {
+      "english": "Make one plan, then act, no overthinking",
+      "telugu": "ఒక ప్లాన్ పెట్టండి, తర్వాత చేయండి, ఎక్కువగా ఆలోచించకుండా",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500030"
+    },
+    {
+      "english": "You’re allowed to grow, at your speed",
+      "telugu": "మీ వేగానికి తగ్గట్టు పెరగడానికి మీకు హక్కుంది",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500032"
+    },
+    {
+      "english": "Turn pain into power, slowly",
+      "telugu": "నొప్పిని శక్తిగా మార్చండి, నెమ్మదిగా",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500037"
+    },
+    {
+      "english": "Tomorrow will thank you, start today",
+      "telugu": "రేపు మీకు ధన్యవాదాలు చెబుతుంది, ఈరోజే మొదలుపెట్టండి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500039"
+    },
+    {
+      "english": "I feel lighter when I name my emotions",
+      "telugu": "నా భావాలను పేరు పెట్టగానే, నాకు తేలికగా అనిపిస్తుంది",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500041"
+    },
+    {
+      "english": "Be honest, but don’t be cruel to yourself",
+      "telugu": "నిజాయితీగా ఉండు, కానీ నిన్ను నువ్వే బాధించకు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500044"
+    },
+    {
+      "english": "I need patience, not pressure today",
+      "telugu": "ఈరోజు నాకు ఒత్తిడి కాదు, సహనం కావాలి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500046"
+    },
+    {
+      "english": "I’m learning to let worries pass",
+      "telugu": "ఆందోళనలను పోనివ్వడం నేర్చుకుంటున్నాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500048"
+    },
+    {
+      "english": "I don’t need to rush, I can steady",
+      "telugu": "నేను తొందరపడాల్సిన అవసరం లేదు, నేను స్థిరంగా ఉండగలను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500051"
+    },
+    {
+      "english": "Some days, quiet is my best answer",
+      "telugu": "కొన్ని రోజులు, నిశ్శబ్దమే నా బెస్ట్ సమాధానం",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500053"
+    },
+    {
+      "english": "I forgive myself, and move with purpose",
+      "telugu": "నేను నన్ను క్షమిస్తాను, లక్ష్యంతో ముందుకు కదులుతాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500055"
+    },
+    {
+      "english": "I notice my feelings, without judging them",
+      "telugu": "నా భావాలను గమనిస్తాను, వాటిని తీర్పు చేయను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500057"
+    },
+    {
+      "english": "When I’m tired, I choose kindness",
+      "telugu": "నాకు అలసటగా ఉన్నప్పుడు, నేను దయను ఎంచుకుంటాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500059"
+    },
+    {
+      "english": "I reflect, then I pick my next step",
+      "telugu": "నేను ఆలోచిస్తాను, తర్వాత నా తదుపరి అడుగు ఎంచుకుంటాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500062"
+    },
+    {
+      "english": "My feelings are real, and so is my strength",
+      "telugu": "నా భావాలు నిజం, నా బలం కూడా నిజమే",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500063"
+    },
+    {
+      "english": "I can pause, breathe, and restart gently",
+      "telugu": "నేను ఆగి, శ్వాస తీసుకుని, మళ్లీ మృదువుగా మొదలుపెట్టగలను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500066"
+    },
+    {
+      "english": "I don’t chase perfection, I chase peace",
+      "telugu": "పరిపూర్ణతను వెంబడించను, శాంతిని వెంబడిస్తాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500069"
+    },
+    {
+      "english": "I’m allowed to change my mind",
+      "telugu": "నా మనసు మార్చుకునే హక్కు నాకు ఉంది",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500071"
+    },
+    {
+      "english": "I ask, what do I truly need today?",
+      "telugu": "ఈరోజు నాకు నిజంగా ఏం కావాలి?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500073"
+    },
+    {
+      "english": "I release control, and keep moving forward",
+      "telugu": "నియంత్రణను వదిలేస్తాను, అయినా ముందుకు కదులుతాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500075"
+    },
+    {
+      "english": "Even my silence can be productive",
+      "telugu": "నా నిశ్శబ్దం కూడా ప్రయోజనకరమే",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500077"
+    },
+    {
+      "english": "I talk to myself like a friend",
+      "telugu": "నేను నాతో ఒక స్నేహితుడిలా మాట్లాడతాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500079"
+    },
+    {
+      "english": "I slow down, so my thoughts feel safe",
+      "telugu": "నేను నెమ్మదిస్తాను, నా ఆలోచనలు సురక్షితంగా ఉంటాయి",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500081"
+    },
+    {
+      "english": "My growth is quiet, but it’s real",
+      "telugu": "నా ఎదుగుదల నెమ్మదిగా ఉంటుంది, కానీ నిజం",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500083"
+    },
+    {
+      "english": "I respect my pace, no comparisons",
+      "telugu": "నా వేగాన్ని గౌరవిస్తాను, పోలికలు వద్దు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500085"
+    },
+    {
+      "english": "I learn from the moment, not the panic",
+      "telugu": "భయపడకుండా, ఆ క్షణం నుంచే నేర్చుకుంటాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500087"
+    },
+    {
+      "english": "What I feel is valid, I still choose hope",
+      "telugu": "నా భావాలు చెల్లుబాటు అవుతాయి, నేను ఆశను ఎంచుకుంటాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500089"
+    },
+    {
+      "english": "I can be both fragile, and strong",
+      "telugu": "నేను సున్నితంగా కూడా ఉంటాను, బలంగా కూడా ఉంటాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500091"
+    },
+    {
+      "english": "I keep my heart open, even with fear",
+      "telugu": "భయంగా ఉన్నా, నా హృదయాన్ని తెరిచే ఉంచుతాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500093"
+    },
+    {
+      "english": "I journal, so my thoughts don’t drown me",
+      "telugu": "నేను రాసుకుంటాను, నా ఆలోచనలు నన్ను ముంచనివ్వవు",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500095"
+    },
+    {
+      "english": "I trust myself, even when results take time",
+      "telugu": "ఫలితాలు సమయం తీసుకున్నా, నేను నన్ను నమ్ముతాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500098"
+    },
+    {
+      "english": "I take the lesson, and release the blame",
+      "telugu": "నేను పాఠం తీసుకుంటాను, నిందను వదిలేస్తాను",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500100"
+    },
+    {
+      "english": "I’m proud I keep showing up, softly",
+      "telugu": "నేను నెమ్మదిగా అయినా, నేను వచ్చి నిలబడుతున్నందుకు గర్వంగా ఉంది",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500102"
+    },
+    {
+      "english": "Breathe first, then message them politely.",
+      "telugu": "ముందుగా శ్వాస తీసుకో, తర్వాత వారికి మర్యాదగా మెసేజ్ చేయి.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500106"
+    },
+    {
+      "english": "If you slip, just restart, no shame.",
+      "telugu": "నీకు తప్పు జరిగితే, వెంటనే మళ్లీ మొదలు పెట్టు, సిగ్గు లేదు.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500109"
+    },
+    {
+      "english": "Before meetings, set one clear goal.",
+      "telugu": "మీటింగ్ ముందు, ఒక స్పష్టమైన లక్ష్యం పెట్టుకో.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-05T10:32:51.500111"
     }
   ],
-  "last_updated": "2026-11-04T10:40:21.380396"
+  "last_updated": "2026-11-05T10:32:51.500113"
 }
