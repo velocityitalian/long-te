@@ -13679,7 +13679,727 @@
       "telugu": "మీటింగ్ ముందు, ఒక స్పష్టమైన లక్ష్యం పెట్టుకో.",
       "category": "Positive Life",
       "generated_at": "2026-11-05T10:32:51.500111"
+    },
+    {
+      "english": "Who’s at home right now?",
+      "telugu": "ఇప్పుడు ఇంట్లో ఎవరు ఉన్నారు?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126866"
+    },
+    {
+      "english": "Come home soon, please.",
+      "telugu": "దయచేసి త్వరగా ఇంటికి రా.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126881"
+    },
+    {
+      "english": "Did you eat yet, Mom?",
+      "telugu": "అమ్మా, ఇంకా తిన్నావా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126885"
+    },
+    {
+      "english": "I’m back, wait a minute.",
+      "telugu": "నేను వచ్చాను, ఒక నిమిషం ఆగు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126889"
+    },
+    {
+      "english": "Tell me if you need help.",
+      "telugu": "నీకు సహాయం అవసరమైతే చెప్పు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126892"
+    },
+    {
+      "english": "Where’s my phone, please?",
+      "telugu": "నా ఫోన్ ఎక్కడ ఉంది, దయచేసి?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126895"
+    },
+    {
+      "english": "I can’t find my keys.",
+      "telugu": "నా తాళాలు దొరకడం లేదు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126898"
+    },
+    {
+      "english": "Let’s eat together now.",
+      "telugu": "ఇప్పుడు కలిసి తినేద్దాం.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126904"
+    },
+    {
+      "english": "I’m hungry, bring something.",
+      "telugu": "నాకు ఆకలిగా ఉంది, ఏదైనా తీసుకురా.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126908"
+    },
+    {
+      "english": "Wait, I’ll open the door.",
+      "telugu": "ఆగు, నేను తలుపు తెరుస్తాను.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126912"
+    },
+    {
+      "english": "The house is too noisy.",
+      "telugu": "ఇంటి మాటలు చాలా శబ్దంగా ఉన్నాయి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126914"
+    },
+    {
+      "english": "Please speak softly, baby.",
+      "telugu": "బిడ్డా, దయచేసి నెమ్మదిగా మాట్లాడి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126917"
+    },
+    {
+      "english": "Oh no, something fell!",
+      "telugu": "అయ్యో, ఏదో పడిపోయింది!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126920"
+    },
+    {
+      "english": "Be careful, don’t spill it.",
+      "telugu": "జాగ్రత్త, అది చిందించొద్దు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126923"
+    },
+    {
+      "english": "Who broke this, tell me!",
+      "telugu": "దీన్ని ఎవరు పగలగొట్టారు? చెప్పండి!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126926"
+    },
+    {
+      "english": "Good job, you remembered!",
+      "telugu": "బాగా చేసింది, నువ్వు గుర్తు పెట్టుకున్నావు!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126929"
+    },
+    {
+      "english": "I forgot again, sorry.",
+      "telugu": "మళ్లీ మరచిపోయాను, సారీ.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126932"
+    },
+    {
+      "english": "It’s okay, try once more.",
+      "telugu": "పర్లేదు, ఇంకోసారి ట్రై చెయ్.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126935"
+    },
+    {
+      "english": "Don’t worry, I’ve got it.",
+      "telugu": "టెన్షన్ పడొద్దు, నేను చూసుకుంటాను.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126938"
+    },
+    {
+      "english": "Where are the kids?",
+      "telugu": "పిల్లలు ఎక్కడున్నారు?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126941"
+    },
+    {
+      "english": "Did you lock the door?",
+      "telugu": "తలుపు లాక్ చేశావా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126943"
+    },
+    {
+      "english": "I’ll handle the dishes.",
+      "telugu": "పళ్ళెాలు నేను చూసుకుంటాను.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126946"
+    },
+    {
+      "english": "Can you clean this table?",
+      "telugu": "ఈ టేబుల్ శుభ్రం చేయగలవా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126949"
+    },
+    {
+      "english": "Your dad is calling.",
+      "telugu": "నీ నాన్న కాల్ చేస్తున్నాడు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126951"
+    },
+    {
+      "english": "Tell him I’ll call back.",
+      "telugu": "అతనికి నేను తిరిగి కాల్ చేస్తాను చెప్పు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126956"
+    },
+    {
+      "english": "Why is the light on?",
+      "telugu": "లైట్ ఎందుకు వేసి ఉంది?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126959"
+    },
+    {
+      "english": "Is the water running?",
+      "telugu": "నీళ్ళు ప్రవహిస్తున్నాయా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126964"
+    },
+    {
+      "english": "Let’s set the table.",
+      "telugu": "పళ్లెం రెడీ చేద్దాం.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126969"
+    },
+    {
+      "english": "I’ll be there in five minutes.",
+      "telugu": "నాకు ఐదు నిమిషాల్లో అక్కడ ఉంటాను.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126972"
+    },
+    {
+      "english": "Family comes first, always.",
+      "telugu": "కుటుంబం ముందే, ఎప్పుడూ.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126975"
+    },
+    {
+      "english": "Where’s Mom’s room, exactly, please?",
+      "telugu": "అమ్మ గది ఎక్కడుంది, ఖచ్చితంగా, చెప్పండి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126978"
+    },
+    {
+      "english": "Can we talk about home plans?",
+      "telugu": "ఇంటికి సంబంధించిన ప్లాన్లు గురించి మాట్లాడవచ్చా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126981"
+    },
+    {
+      "english": "What time does Dad usually come back?",
+      "telugu": "నాన్న సాధారణంగా ఎప్పుడు తిరిగి వస్తారు?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126984"
+    },
+    {
+      "english": "Do we need to buy anything today?",
+      "telugu": "ఈరోజు ఇంకేమైనా కొనాల్సి ఉందా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126986"
+    },
+    {
+      "english": "Is the fridge stocked, or we’re running low?",
+      "telugu": "ఫ్రిజ్‌లో సరిపోతుందా, లేక తగ్గిపోతుందా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126990"
+    },
+    {
+      "english": "Which soap do you use, for clothes?",
+      "telugu": "బట్టల కోసం మీరు ఏ సబ్బు వాడతారు?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126993"
+    },
+    {
+      "english": "Can you help me sort the laundry?",
+      "telugu": "బట్టలు వర్గీకరించడంలో మీరు నాకు సహాయం చేస్తారా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.126998"
+    },
+    {
+      "english": "How do we keep the house tidy?",
+      "telugu": "ఇంటిని శుభ్రంగా ఎలా ఉంచుకోవాలి?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127000"
+    },
+    {
+      "english": "What should I cook, for the family?",
+      "telugu": "కుటుంబానికి నేను ఏమి వండాలి?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127003"
+    },
+    {
+      "english": "Do the kids need anything from outside?",
+      "telugu": "పిల్లలకు బయట నుండి ఏదైనా కావాలా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127006"
+    },
+    {
+      "english": "Can you check the water filter later?",
+      "telugu": "తర్వాత నీటి ఫిల్టర్ చెక్ చేస్తారా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127009"
+    },
+    {
+      "english": "Where should I place these groceries?",
+      "telugu": "ఈ సరుకులు నేను ఎక్కడ పెట్టాలి?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127011"
+    },
+    {
+      "english": "Mom, what’s the plan for tomorrow morning?",
+      "telugu": "అమ్మా, రేపు ఉదయం ప్లాన్ ఏంటి?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127015"
+    },
+    {
+      "english": "Do we have enough rice for tonight?",
+      "telugu": "ఈ రాత్రికి సరిపడా బియ్యం ఉందా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127017"
+    },
+    {
+      "english": "Can you show me your cleaning routine?",
+      "telugu": "మీ శుభ్రపరిచే విధానం నాకు చూపిస్తారా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127020"
+    },
+    {
+      "english": "Which room gets the best sunlight?",
+      "telugu": "ఏ గది ఎక్కువ సూర్యరశ్మి పొందుతుంది?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127023"
+    },
+    {
+      "english": "How often do you change the bedsheets?",
+      "telugu": "మీరు బెడ్‌షీట్లు ఎప్పుడప్పుడు మార్చుతారు?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127025"
+    },
+    {
+      "english": "Can we rearrange the living room furniture?",
+      "telugu": "లివింగ్ రూమ్ ఫర్నిచర్ మార్చొచ్చా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127028"
+    },
+    {
+      "english": "What’s the best way to store snacks?",
+      "telugu": "స్నాక్స్ నిల్వ చేయడానికి ఉత్తమ మార్గం ఏది?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127031"
+    },
+    {
+      "english": "Should I call the plumber today?",
+      "telugu": "ఈరోజు ప్లంబర్‌కు కాల్ చేయాలా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127033"
+    },
+    {
+      "english": "Can you recommend a good home detergent?",
+      "telugu": "మంచి ఇంటి లాండ్రీ డిటర్జెంట్ సిఫారసు చేస్తారా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127036"
+    },
+    {
+      "english": "Which towel is for guests here?",
+      "telugu": "ఇక్కడ అతిథులకు ఏ తువాలు వాడతారు?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127038"
+    },
+    {
+      "english": "What do you do when power goes out?",
+      "telugu": "విద్యుత్ పోయినప్పుడు మీరు ఏం చేస్తారు?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127041"
+    },
+    {
+      "english": "Can we set a family cleaning schedule?",
+      "telugu": "కుటుంబానికి శుభ్రపరిచే షెడ్యూల్ పెట్టుకుందామా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127043"
+    },
+    {
+      "english": "How did you organize these cupboards?",
+      "telugu": "ఈ కబోర్డ్స్‌ని మీరు ఎలా ఆర్గనైజ్ చేశారు?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127046"
+    },
+    {
+      "english": "Do we need to refill the hand soap?",
+      "telugu": "హ్యాండ్ సబ్బు రీఫిల్ చేయాలా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127049"
+    },
+    {
+      "english": "What’s your go-to dish for visitors?",
+      "telugu": "అతిథులు వస్తే మీరు చేసే బెస్ట్ వంటకం ఏది?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127052"
+    },
+    {
+      "english": "Can you remind me about rent payment?",
+      "telugu": "రెంటు చెల్లింపు గురించి మీరు గుర్తు చేస్తారా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127054"
+    },
+    {
+      "english": "Is everyone feeling okay at home today?",
+      "telugu": "ఈరోజు ఇంట్లో అందరూ బాగానే ఉన్నారా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127057"
+    },
+    {
+      "english": "What should I do first, your suggestion?",
+      "telugu": "ముందుగా నేను ఏం చేయాలి, మీ సలహా ఏమిటి?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127062"
+    },
+    {
+      "english": "Home sweet home, right, let’s chill.",
+      "telugu": "ఇంటిది స్వీట్ హోమ్ కదా, లేట్స్ రిలాక్స్.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127065"
+    },
+    {
+      "english": "Maa intlo, amma laa, akka laa—no worries.",
+      "telugu": "మా ఇంట్లో, అమ్మలా, అక్కలా—టెన్షన్ లేదు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127069"
+    },
+    {
+      "english": "We’ll manage, illanti rojulu వస్తాయి కదా.",
+      "telugu": "సరిపెట్టేస్తాం, ఇలాంటి రోజులు వస్తాయి కదా.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127074"
+    },
+    {
+      "english": "Home is where heart settles, calm first.",
+      "telugu": "ఇల్లు అంటే మనసు నిలిచే చోటు, ముందు శాంతి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127077"
+    },
+    {
+      "english": "Kitchen ki veltaava, snack ready avvada?",
+      "telugu": "కిచెన్ కి వెళ్తావా, స్నాక్ రెడీ అవ్వదా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127080"
+    },
+    {
+      "english": "Leave it, poojalu అయ్యాకే అన్నీ సెట్.",
+      "telugu": "వదిలెయ్యి, పూజలు అయ్యాకే అన్నీ సెట్.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127085"
+    },
+    {
+      "english": "Guests vachchaaru, ఇంట్లో పండుగే.",
+      "telugu": "అతిథులు వచ్చారు, ఇంట్లో పండుగే.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127089"
+    },
+    {
+      "english": "No sound, akka—house is resting now.",
+      "telugu": "సద్దు సద్దు, అక్కా—ఇంటి విశ్రాంతి ఇప్పుడు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127092"
+    },
+    {
+      "english": "Tidy ga ఉంచు, లేదంటే మనకే తల తిరుగుతుంది.",
+      "telugu": "టైడి గా ఉంచు, లేకపోతే మనకే తల తిరుగుతుంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127101"
+    },
+    {
+      "english": "Family bond, అదే నా పవర్.",
+      "telugu": "కుటుంబ బంధం, అదే నా పవర్.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127105"
+    },
+    {
+      "english": "Don’t worry, amma cheppindi, అదే చాలు.",
+      "telugu": "టెన్షన్ వద్దు, అమ్మ చెప్పింది, అదే చాలు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127109"
+    },
+    {
+      "english": "Rangoli veyyaala, ఇంట్లో పాజిటివ్ రావాలి.",
+      "telugu": "రంగోళీ వేయాలా, ఇంట్లో పాజిటివ్ రావాలి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127115"
+    },
+    {
+      "english": "Shoes outside, మళ్ళీ మళ్ళీ శుభ్రం చేయొద్దు.",
+      "telugu": "బూట్లు బయటే, మళ్లీ మళ్లీ శుభ్రం చేయొద్దు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127120"
+    },
+    {
+      "english": "Tea ready, రమ్మంటే ఏదో సంతోషమే.",
+      "telugu": "టీ రెడీ, రమ్మంటే ఏదో సంతోషమే.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127125"
+    },
+    {
+      "english": "Start small, intlo hustle slow ga.",
+      "telugu": "చిన్నగా మొదలు, ఇంట్లో హస్టిల్ స్లో గా.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127128"
+    },
+    {
+      "english": "That corner needs air, windows open chēddām.",
+      "telugu": "ఆ మూలకి గాలి కావాలి, కిటికీలు ఓపెన్ చేద్దాం.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127132"
+    },
+    {
+      "english": "Mother’s touch, ఇంట్లో మేజిక్ మొదలైపోతుంది.",
+      "telugu": "అమ్మ స్పర్శ, ఇంట్లో మేజిక్ మొదలైపోతుంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127138"
+    },
+    {
+      "english": "Bedsheets shake chey, space fresh అనిపిస్తుంది.",
+      "telugu": "పలకలు షేక్ చేయి, స్పేస్ ఫ్రెష్ అనిపిస్తుంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127142"
+    },
+    {
+      "english": "No arguments, ఇంట్లో శాంతి ఉంటే చాలు.",
+      "telugu": "వాదనలు వద్దు, ఇంట్లో శాంతి ఉంటే చాలు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127147"
+    },
+    {
+      "english": "Don’t leave it dirty, మర్యాదగా ఉండు.",
+      "telugu": "అలా మురికి అలాగే ఉంచొద్దు, మర్యాదగా ఉండు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127151"
+    },
+    {
+      "english": "Come, food smell vachesindi, ఇంట్లోనే ఉన్నాం.",
+      "telugu": "రా, వాసన వచ్చేసింది, ఇంట్లోనే ఉన్నాం.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127156"
+    },
+    {
+      "english": "Let’s talk softly, పిల్లలు నిద్రలో ఉన్నారు.",
+      "telugu": "నెమ్మదిగా మాట్లాడదాం, పిల్లలు నిద్రలో ఉన్నారు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127163"
+    },
+    {
+      "english": "Small help counts, ఇంట్లో పెద్ద సాయం కదా.",
+      "telugu": "చిన్న సాయం కూడా పెద్దది, ఇంట్లో అది పెద్ద సహాయం కదా.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127168"
+    },
+    {
+      "english": "Hug once, worries drop—నీకు ఇది కావాలి.",
+      "telugu": "ఒక్క హగ్, టెన్షన్లు పడిపోతాయి—నీకు ఇది కావాలి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127173"
+    },
+    {
+      "english": "Dinner table, here’s your seat, రండి.",
+      "telugu": "డిన్నర్ టేబుల్, మీ సీటు ఇదిగో, రండి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127177"
+    },
+    {
+      "english": "Sweets for today, ఇంట్లో తీపి పెరగాలి.",
+      "telugu": "ఈరోజు స్వీట్స్, ఇంట్లో తీపి పెరగాలి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127181"
+    },
+    {
+      "english": "When elders say, listen, ఇంటి నియమం ఇదే.",
+      "telugu": "పెద్దలు అంటే వినాలి, ఇంటి నియమం ఇదే.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127186"
+    },
+    {
+      "english": "Calm ga koorchuni, ఇంటి పని ఒక్కొక్కటిగా.",
+      "telugu": "శాంతిగా కూర్చొని, ఇంటి పని ఒక్కొక్కటిగా.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127190"
+    },
+    {
+      "english": "Your place is here, home laage అనిపిస్తావా?",
+      "telugu": "నీ ప్లేస్ ఇదే, ఇంటిలా అనిపిస్తుందా?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127195"
+    },
+    {
+      "english": "I miss home, amma, today especially.",
+      "telugu": "అమ్మా, నాకు ఈరోజు ప్రత్యేకంగా ఇంటి మిస్ అవుతోంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127198"
+    },
+    {
+      "english": "I’m tired, but I’ll stay patient.",
+      "telugu": "నేను అలిసిపోయాను, కానీ ఓపికగా ఉంటాను.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127203"
+    },
+    {
+      "english": "Let’s breathe slowly, fights won’t help.",
+      "telugu": "నెమ్మదిగా ఊపిరి తీసుకుందాం, గొడవల వల్ల లాభం లేదు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127207"
+    },
+    {
+      "english": "I feel better, when we sit together.",
+      "telugu": "మనం కలిసి కూర్చుంటే, నాకు బాగుంటుంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127210"
+    },
+    {
+      "english": "I’ll say sorry first, no ego today.",
+      "telugu": "ఈరోజు అహంకారం లేదు, ముందు నేనే సారీ చెప్తాను.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127213"
+    },
+    {
+      "english": "Home feels safe, when hearts are calm.",
+      "telugu": "మనసులు ప్రశాంతంగా ఉంటే, ఇల్లు సేఫ్‌గా అనిపిస్తుంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127216"
+    },
+    {
+      "english": "Can you listen, I just need space.",
+      "telugu": "నువ్వు వినగలవా, నాకు కొంచెం స్పేస్ కావాలి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127218"
+    },
+    {
+      "english": "Honestly, I’m worried about everyone.",
+      "telugu": "నిజంగా, అందరి గురించి నాకు ఆందోళనగా ఉంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127222"
+    },
+    {
+      "english": "Even small help, feels like big love here.",
+      "telugu": "ఇక్కడ చిన్న సాయం కూడా పెద్ద ప్రేమలా అనిపిస్తుంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127225"
+    },
+    {
+      "english": "I don’t want perfection, just peace.",
+      "telugu": "పర్ఫెక్ట్ కావాలనే లేదు, నాకు శాంతి చాలు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127228"
+    },
+    {
+      "english": "When I’m angry, I’ll cool down first.",
+      "telugu": "నేను కోపంగా ఉన్నప్పుడు, ముందుగా తగ్గించుకుంటాను.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127231"
+    },
+    {
+      "english": "Let’s check in, how are you feeling?",
+      "telugu": "ఒక్కసారి తెలుసుకుందాం, నువ్వు ఎలా ఫీలవుతున్నావు?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127234"
+    },
+    {
+      "english": "I’m grateful, for this warm home feeling.",
+      "telugu": "ఈ వెచ్చని ఇంటి ఫీలింగ్‌కి నేను కృతజ్ఞుడిని.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127238"
+    },
+    {
+      "english": "Sometimes I get quiet, please don’t assume.",
+      "telugu": "కొన్నిసార్లు నేను నిశ్శబ్దంగా ఉంటాను, అర్థం చేసుకోకుండా ఊహించొద్దు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127241"
+    },
+    {
+      "english": "I’ll handle it, you just rest a bit.",
+      "telugu": "నేను చూసుకుంటాను, నువ్వు కొంచెం రెస్ట్ తీసుకో.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127244"
+    },
+    {
+      "english": "This house listens, even when we don’t talk.",
+      "telugu": "మనం మాట్లాడకపోయినా, ఈ ఇల్లు వినిపిస్తుంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127250"
+    },
+    {
+      "english": "I’m trying, please be patient with me.",
+      "telugu": "నేను ప్రయత్నిస్తున్నాను, నాతో ఓపికగా ఉండండి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127262"
+    },
+    {
+      "english": "I don’t need lectures, just reassurance.",
+      "telugu": "నాకు ఉపదేశాలు వద్దు, కాస్త ధైర్యం చెప్పండి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127265"
+    },
+    {
+      "english": "I’ll clean, but don’t rush me.",
+      "telugu": "నేను క్లీన చేయిస్తాను, కానీ నన్ను తొందర పెట్టొద్దు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127269"
+    },
+    {
+      "english": "When we laugh, the house feels lighter.",
+      "telugu": "మనం నవ్వితే, ఇల్లు తేలికగా అనిపిస్తుంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127271"
+    },
+    {
+      "english": "I said yes, now I’m stressed.",
+      "telugu": "నేను హ్యా అన్నాను, ఇప్పుడు టెన్షన్‌గా ఉంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127275"
+    },
+    {
+      "english": "Let me go slow, I want it right.",
+      "telugu": "నెమ్మదిగా చేస్తాను, సరిగ్గా రావాలి కదా.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127277"
+    },
+    {
+      "english": "Sometimes silence is my way of healing.",
+      "telugu": "కొన్నిసార్లు నిశ్శబ్దం నా హీలింగ్ పద్ధతి.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127280"
+    },
+    {
+      "english": "I’m proud, even after all this mess.",
+      "telugu": "ఇంత గందరగోళం తర్వాత కూడా, నాకు గర్వంగా ఉంది.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127283"
+    },
+    {
+      "english": "I’ll stop comparing, family is enough.",
+      "telugu": "నేను పోల్చడం ఆపేస్తాను, కుటుంబం చాలు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127286"
+    },
+    {
+      "english": "We’ll get through, one calm step at a time.",
+      "telugu": "మనం దాటేస్తాం, ఒకో ప్రశాంత అడుగు వేస్తూ.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127289"
+    },
+    {
+      "english": "I want to talk kindly, no hurt words.",
+      "telugu": "మంచిగా మాట్లాడాలనుంది, బాధపెట్టే మాటలు వద్దు.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127292"
+    },
+    {
+      "english": "At night, I reflect, home taught me love.",
+      "telugu": "రాత్రి సమయంలో నేను ఆలోచిస్తాను, ఇంటి నుంచే ప్రేమ నేర్చుకున్నాను.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127295"
+    },
+    {
+      "english": "Tea ready, come sit, quick break.",
+      "telugu": "టీ రెడీ, రా కూర్చో, చిన్న బ్రేక్.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127298"
+    },
+    {
+      "english": "Who’s cooking today, you or me?",
+      "telugu": "ఈరోజు వంట ఎవరే, నువ్వా లేదా నేను?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127302"
+    },
+    {
+      "english": "First dishes, then we all relax.",
+      "telugu": "మొదట ప్లేట్లు కడుగు, తర్వాత అందరం రిలాక్స్.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-06T10:35:29.127304"
     }
   ],
-  "last_updated": "2026-11-05T10:32:51.500113"
+  "last_updated": "2026-11-06T10:35:29.127306"
 }
