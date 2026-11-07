@@ -14399,7 +14399,727 @@
       "telugu": "మొదట ప్లేట్లు కడుగు, తర్వాత అందరం రిలాక్స్.",
       "category": "Family & Home",
       "generated_at": "2026-11-06T10:35:29.127304"
+    },
+    {
+      "english": "Got any hobbies, what do you like?",
+      "telugu": "నీకు ఏమైనా హాబీలు ఉన్నాయా, ఏం ఇష్టమో చెప్పు.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483609"
+    },
+    {
+      "english": "What do you do in your free time?",
+      "telugu": "ఖాళీ సమయంలో నువ్వేం చేస్తావు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483622"
+    },
+    {
+      "english": "I usually unwind by listening to music.",
+      "telugu": "నేను సాధారణంగా సంగీతం వింటూ రిలాక్స్ అవుతాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483626"
+    },
+    {
+      "english": "That’s awesome, I love that idea!",
+      "telugu": "అద్భుతం, ఆ ఐడియా నాకు బాగా నచ్చింది!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483632"
+    },
+    {
+      "english": "Nice, you’re really into that!",
+      "telugu": "బాగుంది, నిజంగా నీకు దాంట్లో పట్టు ఉంది!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483636"
+    },
+    {
+      "english": "When I’m bored, I start a new game.",
+      "telugu": "నాకు విసుగు వచ్చాక, కొత్త గేమ్ స్టార్ట్ చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483639"
+    },
+    {
+      "english": "Do you watch tutorials for hobbies?",
+      "telugu": "హాబీల కోసం ట్యుటోరియల్స్ చూస్తావా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483642"
+    },
+    {
+      "english": "I’m trying something new this week.",
+      "telugu": "ఈ వారం కొత్తగా ఏదో ట్రై చేస్తున్నాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483648"
+    },
+    {
+      "english": "Let’s chill after work, okay?",
+      "telugu": "పని తర్వాత కాస్త రిలాక్స్ అవుదాం, సరేనా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483666"
+    },
+    {
+      "english": "I’m addicted to short videos lately.",
+      "telugu": "ఇటీవల చిన్న వీడియోలకు బాగా అలవాటు అయింది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483671"
+    },
+    {
+      "english": "Really? Tell me, how did you start?",
+      "telugu": "నిజంగా? చెప్పు, నువ్వు ఎలా మొదలుపెట్టావు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483676"
+    },
+    {
+      "english": "I don’t have much free time, honestly.",
+      "telugu": "నిజం చెప్పాలంటే నాకు అంత ఫ్రీ టైమ్ లేదు.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483680"
+    },
+    {
+      "english": "That sounds fun, I might try it.",
+      "telugu": "అది సరదాగా ఉంది, నేను కూడా ట్రై చేయొచ్చు.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483683"
+    },
+    {
+      "english": "I’m learning Telugu through podcasts.",
+      "telugu": "పాడ్కాస్ట్‌ల ద్వారా నేను తెలుగు నేర్చుకుంటున్నాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483686"
+    },
+    {
+      "english": "Hold on, show me your setup!",
+      "telugu": "ఆగు, నీ సెటప్‌ని చూపించు!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483689"
+    },
+    {
+      "english": "Awesome habit, keep going!",
+      "telugu": "అద్భుతమైన అలవాటు, అలాగే కొనసాగించు!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483692"
+    },
+    {
+      "english": "I like to sketch, even on busy days.",
+      "telugu": "జబ్బుగా ఉన్న రోజుల్లో కూడా నేను స్కెచ్ చేయడం ఇష్టం.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483695"
+    },
+    {
+      "english": "What’s your favorite weekend activity?",
+      "telugu": "నీకి ఇష్టమైన వీకెండ్ పని ఏంటి?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483698"
+    },
+    {
+      "english": "I’m working on a new hobby, slowly.",
+      "telugu": "నేను కొత్త హాబీ మీద నెమ్మదిగా పని చేస్తున్నాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483702"
+    },
+    {
+      "english": "After dinner, I usually read a bit.",
+      "telugu": "రాత్రి భోజనం తర్వాత, నేను కొంచెం చదువుతాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483704"
+    },
+    {
+      "english": "Not bad, you’re improving fast!",
+      "telugu": "బాగానే ఉంది, నువ్వు త్వరగా మెరుగుపడుతున్నావు!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483707"
+    },
+    {
+      "english": "I’ll be home soon, then we can practice.",
+      "telugu": "నేను త్వరగా ఇంటికి వస్తాను, తర్వాత ప్రాక్టీస్ చేద్దాం.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483711"
+    },
+    {
+      "english": "What do you collect, books or gadgets?",
+      "telugu": "నువ్వు ఏమి సేకరిస్తావు, పుస్తకాలు లేదా గాడ్జెట్లు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483714"
+    },
+    {
+      "english": "I need a break, let’s do something fun.",
+      "telugu": "నాకు ఒక బ్రేక్ కావాలి, మనం సరదాగా ఏదైనా చేద్దాం.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483719"
+    },
+    {
+      "english": "Yes, I’m into fitness, I try daily.",
+      "telugu": "అవును, నాకు ఫిట్‌నెస్ ఇష్టం, ప్రతిరోజూ ట్రై చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483723"
+    },
+    {
+      "english": "No worries, we can start small.",
+      "telugu": "టెన్షన్ వద్దు, చిన్నగా మొదలుపెడదాం.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483726"
+    },
+    {
+      "english": "I’m planning to join a weekend class.",
+      "telugu": "నేను వీకెండ్ క్లాస్‌లో చేరాలని ప్లాన్ చేస్తున్నాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483729"
+    },
+    {
+      "english": "That’s cool, where do you usually go?",
+      "telugu": "అద్భుతం, నువ్వు సాధారణంగా ఎక్కడికి వెళ్తావు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483732"
+    },
+    {
+      "english": "I’m busy right now, but later we’ll talk.",
+      "telugu": "ఇప్పుడు నేను బిజీగా ఉన్నాను, కానీ తర్వాత మాట్లాడదాం.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483736"
+    },
+    {
+      "english": "Let me know, and I’ll join you.",
+      "telugu": "తెలిపి పెట్టు, నేను కూడా నీతో వస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483739"
+    },
+    {
+      "english": "What hobby do you do most weekends?",
+      "telugu": "మీకు ఎక్కువగా ఏ హాబీ, వీకెండ్స్‌లో?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483742"
+    },
+    {
+      "english": "Which one feels relaxing for you?",
+      "telugu": "మీకు ఏది, రిలాక్స్‌గా ఉంటుంది?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483745"
+    },
+    {
+      "english": "Do you prefer indoor or outdoor activities?",
+      "telugu": "మీకు ఇండోర్, ఇష్టమా, అవుట్‌డోర్ అ‍యినా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483747"
+    },
+    {
+      "english": "How did you get into this hobby?",
+      "telugu": "ఈ హాబీ, మీరు ఎలా మొదలుపెట్టారు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483750"
+    },
+    {
+      "english": "Any tips for a beginner like me?",
+      "telugu": "నా లాంటి beginner‌కి, మీ సూచనలు ఏమున్నాయి?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483753"
+    },
+    {
+      "english": "What do you do when you have spare time?",
+      "telugu": "ఫ్రీ టైమ్ ఉంటే, మీరు ఏమి చేస్తారు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483755"
+    },
+    {
+      "english": "Is it hard to learn this from scratch?",
+      "telugu": "దీన్ని కొత్తగా నేర్చుకోవడం కష్టమా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483758"
+    },
+    {
+      "english": "Where do you usually find hobby ideas?",
+      "telugu": "హాబీ ఐడియాలు, మీరు ఎక్కడ చూస్తారు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483760"
+    },
+    {
+      "english": "Do you practice daily, or only weekends?",
+      "telugu": "మీరు ప్రతిరోజూ చేస్తారా, వీకెండ్స్‌లోనేనా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483763"
+    },
+    {
+      "english": "What kind of music helps you focus?",
+      "telugu": "ఫోకస్‌కి మీకు ఏ సంగీతం బాగా వస్తుంది?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483766"
+    },
+    {
+      "english": "Can you recommend a good starter activity?",
+      "telugu": "మొదలు పెట్టడానికి, ఒక మంచి పని చెప్పండి.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483770"
+    },
+    {
+      "english": "Do you do hobbies alone, or with friends?",
+      "telugu": "హాబీలు మీరు ఒంటరిగా, లేక ఫ్రెండ్స్‌తోనా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483773"
+    },
+    {
+      "english": "What’s your go-to hobby for weekends?",
+      "telugu": "వీకెండ్స్‌లో, మీకు ఫస్ట్ చాయిస్ హాబీ ఏది?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483776"
+    },
+    {
+      "english": "How long have you been doing it?",
+      "telugu": "ఇది మీరు ఎంతకాలంగా చేస్తున్నారు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483781"
+    },
+    {
+      "english": "Do you have a favorite place to practice?",
+      "telugu": "ప్రాక్టీస్‌కి మీకు ఇష్టమైన స్థలం ఉందా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483783"
+    },
+    {
+      "english": "What’s the best part of this hobby?",
+      "telugu": "ఈ హాబీలో మీకు బెస్ట్ భాగం ఏంటి?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483787"
+    },
+    {
+      "english": "Is there something you want to try next?",
+      "telugu": "తర్వాత మీరు ఏదైనా ట్రై చేయాలనుకుంటున్నారా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483790"
+    },
+    {
+      "english": "How do you stay motivated during busy days?",
+      "telugu": "బిజీ రోజుల్లో, మీరు ఎలా ప్రేరణగా ఉంటారు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483792"
+    },
+    {
+      "english": "What helps you relax after work?",
+      "telugu": "వర్క్ తర్వాత మీకు రిలాక్స్ కావడానికి ఏది బాగుంటుంది?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483795"
+    },
+    {
+      "english": "Do you join any clubs for hobbies?",
+      "telugu": "హాబీల కోసం మీరు ఏదైనా క్లబ్‌లో చేరుతారా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483797"
+    },
+    {
+      "english": "What tools or supplies do you use?",
+      "telugu": "మీరు ఏ టూల్స్, ఏ సప్లైస్ వాడుతారు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483800"
+    },
+    {
+      "english": "Which hobby feels easiest for beginners?",
+      "telugu": "beginner‌లకు ఏ హాబీ సులభంగా ఉంటుంది?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483802"
+    },
+    {
+      "english": "Do you set a weekly plan for hobbies?",
+      "telugu": "హాబీల కోసం మీరు వీక్లీ ప్లాన్ చేస్తారా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483805"
+    },
+    {
+      "english": "Can I ask what you’re into lately?",
+      "telugu": "ఇటీవల మీకు ఆసక్తి ఏంటో అడగొచ్చా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483808"
+    },
+    {
+      "english": "What do you do to recharge your mind?",
+      "telugu": "మనసు రీచార్జ్ చేసుకోవడానికి మీరు ఏం చేస్తారు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483811"
+    },
+    {
+      "english": "Do you learn from friends, or online resources?",
+      "telugu": "మీరు ఫ్రెండ్స్‌ వల్లనా, ఆన్‌లైన్ వల్లనా నేర్చుకుంటారు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483814"
+    },
+    {
+      "english": "When you have time, what’s your first choice?",
+      "telugu": "మీకు టైమ్ దొరికితే, మొదట మీరు ఏం చేస్తారు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483817"
+    },
+    {
+      "english": "Is there a local class you recommend?",
+      "telugu": "మీకు దగ్గరలో ఉన్న క్లాస్ ఏదైనా సిఫార్సు ఉందా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483820"
+    },
+    {
+      "english": "How do you keep it fun, not stressful?",
+      "telugu": "దాన్ని స్ట్రెస్ కాకుండా, సరదాగా ఎలా ఉంచుతారు?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483823"
+    },
+    {
+      "english": "Would you share your hobby routine with me?",
+      "telugu": "మీ హాబీ రూటీన్‌ని, నాకు చెప్పగలరా?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483825"
+    },
+    {
+      "english": "Time pass, so I pick a new skill.",
+      "telugu": "టైమ్ పాస్ కోసం, నేను కొత్త స్కిల్ ట్రై చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483828"
+    },
+    {
+      "english": "I just try, slow and steady wins.",
+      "telugu": "నేను ట్రై చేస్తాను, నెమ్మదిగా చేస్తేనే గెలుపు.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483831"
+    },
+    {
+      "english": "Weekend time, I go for a walk.",
+      "telugu": "వీకెండ్ టైమ్, నేను వాకింగ్‌కి వెళ్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483834"
+    },
+    {
+      "english": "Mind fresh, that’s my little routine.",
+      "telugu": "మనసు ఫ్రెష్, అదే నా చిన్న రూటీన్.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483837"
+    },
+    {
+      "english": "Let it flow, I paint whenever I can.",
+      "telugu": "మనసు నడిచేలా, నాకు కుదిరితే పెయింట్ చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483840"
+    },
+    {
+      "english": "For me, learning feels like a pastime.",
+      "telugu": "నాకైతే, లెర్నింగ్ అంటే టైమ్ పాస్‌లానే.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483843"
+    },
+    {
+      "english": "I keep it simple, I practice in peace.",
+      "telugu": "సింపుల్‌గా ఉంచుతాను, ప్రశాంతంగా ప్రాక్టీస్ చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483848"
+    },
+    {
+      "english": "No big talk, just do it today.",
+      "telugu": "పెద్దగా మాటలు వద్దు, ఇవాళే చేసేద్దాం.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483850"
+    },
+    {
+      "english": "I recharge by listening, music does wonders.",
+      "telugu": "వినడం ద్వారా రీచార్జ్ అవుతాను, మ్యూజిక్ అద్భుతం.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483853"
+    },
+    {
+      "english": "When I’m free, I don’t overthink—just play.",
+      "telugu": "ఫ్రీగా ఉంటే, ఎక్కువ ఆలోచించను—సింపుల్‌గా ఆడుతాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483858"
+    },
+    {
+      "english": "Try once, you’ll get the hang of it.",
+      "telugu": "ఒక్కసారి ట్రై చేయండి, అలవాటు పడిపోతుంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483861"
+    },
+    {
+      "english": "Small steps count, that’s how hobbies grow.",
+      "telugu": "చిన్న చిన్న స్టెప్స్ కౌంట్, అలా హాబీలు పెరుగుతాయి.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483866"
+    },
+    {
+      "english": "I switch off, by gardening in the morning.",
+      "telugu": "ఆఫ్ అవుతాను, ఉదయం గార్డెనింగ్ చేస్తూ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483869"
+    },
+    {
+      "english": "Even on busy days, I make time.",
+      "telugu": "బిజీ రోజుల్లో కూడా, టైమ్ కేటాయిస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483872"
+    },
+    {
+      "english": "My rule is, hobby first, phone later.",
+      "telugu": "నా రూల్ ఏంటంటే, హాబీ ముందు, ఫోన్ తర్వాత.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483875"
+    },
+    {
+      "english": "I go with the flow, cooking calms me.",
+      "telugu": "మనసు నడిచేలా, వంట చేస్తే ప్రశాంతం.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483878"
+    },
+    {
+      "english": "Nothing fancy, just practice and enjoy.",
+      "telugu": "ఏం ఫ్యాన్సీ కాదు, ప్రాక్టీస్ చేస్తే చాలు, ఎంజాయ్.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483880"
+    },
+    {
+      "english": "I learn by doing, not by watching only.",
+      "telugu": "చేసి నేర్చుకుంటాను, కేవలం చూడటం కాదు.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483884"
+    },
+    {
+      "english": "Whenever free, I join a local meet-up.",
+      "telugu": "ఎప్పుడైతే ఖాళీ, లోకల్ మీట్-అప్‌కి వెళ్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483887"
+    },
+    {
+      "english": "A little creativity keeps boredom away.",
+      "telugu": "కొంచెం క్రియేటివిటీ ఉంటే బోర్‌మ్ పోతుంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483889"
+    },
+    {
+      "english": "If it’s fun, I repeat it next week.",
+      "telugu": "అది ఫన్ అయితే, వచ్చే వారం మళ్ళీ చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483893"
+    },
+    {
+      "english": "I’m not perfect yet, but I’m consistent.",
+      "telugu": "ఇంకా పర్ఫెక్ట్ కాదు, కానీ సతతంగా చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483896"
+    },
+    {
+      "english": "I keep my hobby close, it lifts my mood.",
+      "telugu": "హాబీ దగ్గరే ఉంచుకుంటాను, మనసు లిఫ్ట్ అవుతుంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483899"
+    },
+    {
+      "english": "Don’t wait, grab the moment and start.",
+      "telugu": "ఆగొద్దు, క్షణం పట్టుకుని స్టార్ట్ చేయండి.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483902"
+    },
+    {
+      "english": "I do it for peace, not for pressure.",
+      "telugu": "ప్రెషర్ కాదు, ప్రశాంతం కోసం చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483905"
+    },
+    {
+      "english": "My friends say, I’ve got a hobby habit.",
+      "telugu": "నా ఫ్రెండ్స్ అంటారు, నాకు హాబీ అలవాటు ఉంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483908"
+    },
+    {
+      "english": "Whenever stress hits, I go for sport.",
+      "telugu": "స్ట్రెస్ వస్తే, నేను స్పోర్ట్స్‌కి వెళ్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483911"
+    },
+    {
+      "english": "I keep notes, small progress feels big.",
+      "telugu": "నోట్లు పెట్టుకుంటాను, చిన్న ప్రోగ్రెస్ పెద్దగా అనిపిస్తుంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483916"
+    },
+    {
+      "english": "After dinner, I unwind with a hobby.",
+      "telugu": "డిన్నర్ తర్వాత, హాబీతో నెమ్మదిగా రిలాక్స్ అవుతాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483920"
+    },
+    {
+      "english": "Steady practice, that’s the Telugu way!",
+      "telugu": "స్థిరంగా ప్రాక్టీస్ చేస్తే, అదే తెలుగు స్టైల్!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483923"
+    },
+    {
+      "english": "I feel calm, when I practice daily.",
+      "telugu": "నేను రోజూ ప్రాక్టీస్ చేస్తే, నాకు ప్రశాంతంగా ఉంటుంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483926"
+    },
+    {
+      "english": "Honestly, I started just to cope.",
+      "telugu": "నిజంగా చెప్పాలంటే, ఎదుర్కొనేందుకే మొదలుపెట్టాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483929"
+    },
+    {
+      "english": "Sometimes I get impatient, but I restart.",
+      "telugu": "కొన్నిసార్లు ఆత్రంగా ఉంటుంది, అయినా మళ్లీ మొదలు పెడతాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483932"
+    },
+    {
+      "english": "It’s not perfect yet, but it’s mine.",
+      "telugu": "ఇంకా పర్ఫెక్ట్ కాదు, కానీ అది నాది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483936"
+    },
+    {
+      "english": "I notice my mood changing, after hobbies.",
+      "telugu": "హాబీల తర్వాత నా మూడ్ మారుతున్నట్టు గమనిస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483939"
+    },
+    {
+      "english": "I don’t chase results, I enjoy the process.",
+      "telugu": "ఫలితాలు వెంబడించను, ప్రక్రియను ఆస్వాదిస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483942"
+    },
+    {
+      "english": "When I fail, I try again kindly.",
+      "telugu": "నేను ఫెయిల్ అయితే, మళ్లీ దయగా ట్రై చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483945"
+    },
+    {
+      "english": "I keep patience, even when progress is slow.",
+      "telugu": "ప్రోగ్రెస్ నెమ్మదిగా ఉన్నా, నేను ఓపికగా ఉంటాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483948"
+    },
+    {
+      "english": "This hobby reminds me, I’m still growing.",
+      "telugu": "ఈ హాబీ నాకు గుర్తు చేస్తుంది, నేను ఇంకా ఎదుగుతున్నానని.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483951"
+    },
+    {
+      "english": "I’m learning to stay consistent, not excited.",
+      "telugu": "ఉత్సాహం కాదు, స్థిరంగా ఉండటం నేర్చుకుంటున్నాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483955"
+    },
+    {
+      "english": "I take breaks, so my focus comes back.",
+      "telugu": "నేను బ్రేక్స్ తీసుకుంటాను, దాంతో నా ఫోకస్ తిరిగి వస్తుంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483958"
+    },
+    {
+      "english": "Sometimes I feel stuck, so I change small things.",
+      "telugu": "కొన్నిసార్లు నేను ఇరుక్కుపోతాను, అందుకే చిన్న మార్పులు చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483961"
+    },
+    {
+      "english": "I’m proud of tiny wins, even quietly.",
+      "telugu": "చిన్న విజయాలకే నేను గర్వపడతాను, నిశ్శబ్దంగా కూడా.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483964"
+    },
+    {
+      "english": "My heart settles, when I create something.",
+      "telugu": "నేను ఏదైనా సృష్టించినప్పుడు, నా హృదయం కుదురుతుంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483969"
+    },
+    {
+      "english": "I don’t need motivation, I just show up.",
+      "telugu": "నాకు మోటివేషన్ అవసరం లేదు, నేను వచ్చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483973"
+    },
+    {
+      "english": "I listen to myself first, then pick a hobby.",
+      "telugu": "ముందుగా నన్నే వినుతాను, తర్వాత హాబీ ఎంచుకుంటాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483975"
+    },
+    {
+      "english": "I’m honest, I still get nervous sometimes.",
+      "telugu": "నిజంగా చెప్పాలంటే, కొన్నిసార్లు నాకు కూడా టెన్షన్ వస్తుంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483979"
+    },
+    {
+      "english": "That’s okay, learning has a messy middle.",
+      "telugu": "అది ఓకే, నేర్చుకోవడంలో గందరగోళం దశ ఉంటుంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483982"
+    },
+    {
+      "english": "I reflect after, what worked, what didn’t.",
+      "telugu": "తర్వాత నేను ఆలోచిస్తాను, ఏం పనిచేసింది, ఏం చేయలేదు.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483986"
+    },
+    {
+      "english": "I keep it simple, my energy decides the hobby.",
+      "telugu": "నేను సింపుల్‌గా ఉంచుతాను, నా ఎనర్జీనే హాబీ నిర్ణయిస్తుంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483988"
+    },
+    {
+      "english": "Some days, I just want comfort hobbies.",
+      "telugu": "కొన్ని రోజులు, నాకు కంఫర్ట్ హాబీలు మాత్రమే కావాలి.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483991"
+    },
+    {
+      "english": "When I’m tired, I choose low-pressure activities.",
+      "telugu": "నేను అలసిపోయినప్పుడు, తక్కువ ప్రెషర్ ఉన్న పనులు ఎంచుకుంటాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483995"
+    },
+    {
+      "english": "I let my hobby heal my week slowly.",
+      "telugu": "నా హాబీ నా వారాన్ని నెమ్మదిగా నయం చేస్తుంది.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.483999"
+    },
+    {
+      "english": "I’m grateful, for any progress I can get.",
+      "telugu": "నాకు వచ్చే ఏ చిన్న ప్రోగ్రెస్‌కైనా నేను కృతజ్ఞుడ్ని.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.484003"
+    },
+    {
+      "english": "I try again, even if I feel off.",
+      "telugu": "నేను ఆఫ్‌గా ఉన్నా, మళ్లీ ట్రై చేస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.484006"
+    },
+    {
+      "english": "My hobby helps me face thoughts, not run.",
+      "telugu": "నా హాబీ నా ఆలోచనలను ఎదుర్కొనేలా చేస్తుంది, పారిపోనివ్వదు.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.484009"
+    },
+    {
+      "english": "I don’t compare, I measure only my growth.",
+      "telugu": "నేను పోల్చుకోను, నా ఎదుగుదలనే చూస్తాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.484012"
+    },
+    {
+      "english": "It’s okay to start small, I remind myself.",
+      "telugu": "చిన్నగా మొదలుపెట్టడం ఓకే, నేను నన్నే గుర్తు చేసుకుంటాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.484015"
+    },
+    {
+      "english": "Sometimes I just need quiet, and a hobby.",
+      "telugu": "కొన్నిసార్లు నాకు ప్రశాంతత, ఒక హాబీ మాత్రమే కావాలి.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.484018"
+    },
+    {
+      "english": "I want peace, so I choose what feels right.",
+      "telugu": "నాకు శాంతి కావాలి, అందుకే సరైనదిగా అనిపించేదాన్ని ఎంచుకుంటాను.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T09:47:11.484021"
     }
   ],
-  "last_updated": "2026-11-06T10:35:29.127306"
+  "last_updated": "2026-11-07T09:47:11.484023"
 }
