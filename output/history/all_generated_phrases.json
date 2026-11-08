@@ -15119,7 +15119,727 @@
       "telugu": "నాకు శాంతి కావాలి, అందుకే సరైనదిగా అనిపించేదాన్ని ఎంచుకుంటాను.",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-07T09:47:11.484021"
+    },
+    {
+      "english": "Excuse me, where is the nearest metro?",
+      "telugu": "క్షమించండి, దగ్గరలో మెట్రో ఎక్కడ ఉంది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773734"
+    },
+    {
+      "english": "Hi, can you tell me the way to this?",
+      "telugu": "హాయ్, ఇదిగో దారి చెప్పగలరా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773749"
+    },
+    {
+      "english": "Sorry, is this bus going to the airport?",
+      "telugu": "క్షమించండి, ఈ బస్సు విమానాశ్రయానికి వెళ్తుందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773752"
+    },
+    {
+      "english": "Quick question, where can I get water?",
+      "telugu": "ఒక్క చిన్న ప్రశ్న, నీరు ఎక్కడ దొరుకుతుంది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773755"
+    },
+    {
+      "english": "Thanks, which exit should I take here?",
+      "telugu": "ధన్యవాదాలు, ఇక్కడి నుంచి ఏ ఎగ్జిట్ తీసుకోవాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773758"
+    },
+    {
+      "english": "Excuse me, how far is the hospital?",
+      "telugu": "క్షమించండి, హాస్పిటల్ ఎంత దూరంలో ఉంది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773760"
+    },
+    {
+      "english": "Please, is there a pharmacy nearby?",
+      "telugu": "దయచేసి, దగ్గరలో ఫార్మసీ ఉందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773763"
+    },
+    {
+      "english": "Sorry, I’m lost, can you help me?",
+      "telugu": "క్షమించండి, నేను దారితప్పాను, మీరు సహాయం చేస్తారా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773770"
+    },
+    {
+      "english": "Which road is this, exactly?",
+      "telugu": "ఇది ఏ రోడ్, ఖచ్చితంగా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773773"
+    },
+    {
+      "english": "I need a taxi, where can I find one?",
+      "telugu": "నాకు టాక్సీ కావాలి, ఎక్కడ దొరుకుతుంది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773776"
+    },
+    {
+      "english": "Right here, or should I go ahead?",
+      "telugu": "ఇక్కడేనా, లేక ముందుకు పోవాలా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773778"
+    },
+    {
+      "english": "Okay, go straight, and then turn left?",
+      "telugu": "సరే, నేరుగా వెళ్లి, తర్వాత ఎడమ తిరగాలా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773783"
+    },
+    {
+      "english": "Wait, is that the correct stop?",
+      "telugu": "ఆగండి, ఇది సరైన స్టాప్ కాదా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773786"
+    },
+    {
+      "english": "Excuse me, where is platform number three?",
+      "telugu": "క్షమించండి, ప్లాట్‌ఫారం నెంబర్ మూడు ఎక్కడ ఉంది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773789"
+    },
+    {
+      "english": "How do I reach this place, please?",
+      "telugu": "దయచేసి, ఈ చోటుకు ఎలా వెళ్తాను?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773791"
+    },
+    {
+      "english": "Is it walkable, or do I need a ride?",
+      "telugu": "ఇది నడిచి వెళ్లొచ్చా, లేక రైడ్ తీసుకోవాలా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773794"
+    },
+    {
+      "english": "Can I get there by bus, yes or no?",
+      "telugu": "బస్సుతో అక్కడికి వెళ్లొచ్చా, అవునా కాదా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773796"
+    },
+    {
+      "english": "Thanks a lot, I’ll take this route.",
+      "telugu": "చాలా ధన్యవాదాలు, నేను ఈ మార్గం తీసుకుంటాను.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773799"
+    },
+    {
+      "english": "Sorry, I don’t understand, repeat once.",
+      "telugu": "క్షమించండి, నాకు అర్థం కాలేదు, ఒకసారి మళ్లీ చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773802"
+    },
+    {
+      "english": "Is there a landmark nearby, like a bank?",
+      "telugu": "దగ్గరలో బ్యాంక్ లాంటి గుర్తింపు ప్రదేశం ఉందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773805"
+    },
+    {
+      "english": "Great, so the station is right there?",
+      "telugu": "అద్భుతం, మరి స్టేషన్ అక్కడే కదా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773807"
+    },
+    {
+      "english": "Excuse me, what’s the fastest way?",
+      "telugu": "క్షమించండి, త్వరగా వెళ్లే మార్గం ఏది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773810"
+    },
+    {
+      "english": "Okay, I’m here now, where next?",
+      "telugu": "సరే, నేను ఇక్కడే ఉన్నాను, తర్వాత ఎక్కడ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773814"
+    },
+    {
+      "english": "Do I turn at the traffic light?",
+      "telugu": "ట్రాఫిక్ సిగ్నల్ దగ్గరే తిరుగుతానా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773816"
+    },
+    {
+      "english": "Is this the correct entrance for the mall?",
+      "telugu": "ఇది మాల్ కోసం సరైన ప్రవేశ ద్వారం కాదా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773819"
+    },
+    {
+      "english": "What bus number goes to that area?",
+      "telugu": "ఆ ప్రాంతానికి ఏ బస్ నెంబర్ వెళ్తుంది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773821"
+    },
+    {
+      "english": "I’m looking for the ATM, where is it?",
+      "telugu": "నాకు ఏటిఎం కావాలి, అది ఎక్కడ ఉంది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773824"
+    },
+    {
+      "english": "Sorry, is there a restroom nearby?",
+      "telugu": "క్షమించండి, దగ్గరలో రెస్ట్రూమ్ ఉందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773826"
+    },
+    {
+      "english": "Yes, thank you, I got it now.",
+      "telugu": "అవును, ధన్యవాదాలు, ఇప్పుడు అర్థమైంది.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773829"
+    },
+    {
+      "english": "No worries, where should I go?",
+      "telugu": "పరవాలేదు, నేను ఎక్కడికి వెళ్లాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773831"
+    },
+    {
+      "english": "Quick help, what’s the nearest stop?",
+      "telugu": "త్వరగా సహాయం, దగ్గర్లో ఏ స్టాప్?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773843"
+    },
+    {
+      "english": "Is there a shortcut through this lane?",
+      "telugu": "ఈ లేన్ లో షార్ట్‌కట్ ఉందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773846"
+    },
+    {
+      "english": "Where do I wait for that bus?",
+      "telugu": "ఆ బస్సు కోసం ఎక్కడ వేచి ఉండాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773849"
+    },
+    {
+      "english": "Can I take a left at the junction?",
+      "telugu": "జంక్షన్ వద్ద ఎడమ తిరుగుతానా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773851"
+    },
+    {
+      "english": "Do you know any cheaper route?",
+      "telugu": "చెక్కగా, చవక రూట్ తెలుసా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773854"
+    },
+    {
+      "english": "Which side is the entrance on?",
+      "telugu": "ప్రవేశం ఏ వైపున ఉంటుంది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773856"
+    },
+    {
+      "english": "I’m early, where can I stand safely?",
+      "telugu": "నేను ముందే వచ్చాను, ఎక్కడ సేఫ్‌గా నిలబడాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773859"
+    },
+    {
+      "english": "Is there parking near the landmark?",
+      "telugu": "ఆ గుర్తు దగ్గర పార్కింగ్ ఉందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773862"
+    },
+    {
+      "english": "How many turns, roughly, to reach?",
+      "telugu": "అందుకోవడానికి సుమారుగా ఎన్ని మలుపులు?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773865"
+    },
+    {
+      "english": "What’s the easiest way, honestly?",
+      "telugu": "నిజంగా చెప్పండి, అతి సులువు ఏది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773868"
+    },
+    {
+      "english": "Should I follow the main road?",
+      "telugu": "మైన్ రోడ్‌ని ఫాలో అవ్వనా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773870"
+    },
+    {
+      "english": "Do buses stop near the market?",
+      "telugu": "మార్కెట్ దగ్గర బస్సులు ఆగుతాయా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773873"
+    },
+    {
+      "english": "Which direction is it from here?",
+      "telugu": "ఇక్కడి నుంచి అది ఏ దిశలో?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773875"
+    },
+    {
+      "english": "Can you point, I’ll follow you.",
+      "telugu": "మీరు చూపించండి, నేను ఫాలో అవుతాను.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773878"
+    },
+    {
+      "english": "Is the place close, like ten minutes?",
+      "telugu": "ఆ చోటు దగ్గరేనా, పది నిమిషాలంతా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773880"
+    },
+    {
+      "english": "Is there an overpass to cross here?",
+      "telugu": "ఇక్కడ క్రాస్ చేయడానికి ఓవర్‌పాస్ ఉందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773882"
+    },
+    {
+      "english": "I have a map, but help please.",
+      "telugu": "నా దగ్గర మ్యాప్ ఉంది, అయినా సహాయం చేయండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773885"
+    },
+    {
+      "english": "How do I avoid traffic on the way?",
+      "telugu": "వెళ్ళే దారిలో ట్రాఫిక్ ఎలా తప్పించాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773887"
+    },
+    {
+      "english": "Is there a wall or gate nearby?",
+      "telugu": "దగ్గరలో గోడ లేదా గేట్ ఉందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773890"
+    },
+    {
+      "english": "Do I need to change buses here?",
+      "telugu": "ఇక్కడ బస్సు మార్చుకోవాల్సి వస్తుందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773892"
+    },
+    {
+      "english": "Can I reach by auto, around how much?",
+      "telugu": "ఆటోతో వెళ్లొచ్చా, సుమారు ఎంత?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773894"
+    },
+    {
+      "english": "When should I get off, roughly?",
+      "telugu": "సుమారుగా ఎప్పుడు దిగాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773896"
+    },
+    {
+      "english": "What time does this road quiet down?",
+      "telugu": "ఈ రోడ్ ఎప్పుడు తక్కువగా ఉంటుంది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773899"
+    },
+    {
+      "english": "Is there a shortcut near the river?",
+      "telugu": "నది దగ్గర షార్ట్‌కట్ ఉందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773901"
+    },
+    {
+      "english": "If I miss it, what’s the backup stop?",
+      "telugu": "నేను మిస్ అయితే, బ్యాకప్ స్టాప్ ఏది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773903"
+    },
+    {
+      "english": "Can I walk partway, then take a ride?",
+      "telugu": "కొంచెం నడిచి, తరువాత రైడ్ తీసుకోవచ్చా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773906"
+    },
+    {
+      "english": "Sorry, one more thing, is it on the right?",
+      "telugu": "ఇంకో విషయం, అది కుడి వైపున ఉందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773908"
+    },
+    {
+      "english": "No stress, let’s find it step by step.",
+      "telugu": "టెన్షన్ లేదు, అడుగు అడుగుగా దాన్ని చూసేద్దాం.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773911"
+    },
+    {
+      "english": "You’ve got this, just tell me where.",
+      "telugu": "మీకు సాధ్యమే, ఎక్కడ చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773915"
+    },
+    {
+      "english": "Take your time, I’m listening carefully.",
+      "telugu": "సమయం తీసుకోండి, నేను జాగ్రత్తగా వింటున్నాను.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773918"
+    },
+    {
+      "english": "Little help now, we’ll reach soon.",
+      "telugu": "ఇప్పుడే కొంచెం సహాయం, త్వరలో చేరుకుంటాం.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773921"
+    },
+    {
+      "english": "Stay calm, one turn at a time.",
+      "telugu": "శాంతిగా ఉండు, ఒక్కో మలుపు ఒక్కోసారి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773923"
+    },
+    {
+      "english": "Great attitude, guide me with landmarks.",
+      "telugu": "బాగుంది, మలుపులుగా గుర్తులతో చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773926"
+    },
+    {
+      "english": "I can do this, just need directions.",
+      "telugu": "నేను చేయగలను, దారి మాత్రం కావాలి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773929"
+    },
+    {
+      "english": "Tell me clearly, I’ll follow smoothly.",
+      "telugu": "స్పష్టంగా చెప్పండి, నేను సులువుగా ఫాలో అవుతాను.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773932"
+    },
+    {
+      "english": "Kindly point, I’ll figure it out.",
+      "telugu": "దయచేసి చూపించండి, నేను అర్థం చేసుకుంటాను.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773934"
+    },
+    {
+      "english": "You’re doing great, keep it simple please.",
+      "telugu": "మీరు బాగా చేస్తున్నారు, దయచేసి సింపుల్‌గా చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773937"
+    },
+    {
+      "english": "Let’s not rush, which way first?",
+      "telugu": "ఆతురపడకండి, ముందుగా ఏ దారి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773940"
+    },
+    {
+      "english": "Confidence matters, so speak slowly.",
+      "telugu": "ఆత్మవిశ్వాసం ముఖ్యం, కాబట్టి నెమ్మదిగా చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773944"
+    },
+    {
+      "english": "Thanks, your help makes this easy.",
+      "telugu": "ధన్యవాదాలు, మీ సహాయం దాన్ని ఈజీ చేస్తుంది.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773946"
+    },
+    {
+      "english": "That sounds right, where should I turn?",
+      "telugu": "అది కరెక్ట్‌లా ఉంది, నేను ఎక్కడ తిరగాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773948"
+    },
+    {
+      "english": "No problem, tell me the next step.",
+      "telugu": "పర్లేదు, తర్వాతి స్టెప్ చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773951"
+    },
+    {
+      "english": "You can help, I’m ready to move.",
+      "telugu": "మీరు సహాయం చేస్తారు, నేను వెళ్దామన్నాను.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773954"
+    },
+    {
+      "english": "Perfect, keep going, I’m catching up.",
+      "telugu": "పర్ఫెక్ట్, కొనసాగించండి, నేను పట్టుకుంటున్నాను.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773957"
+    },
+    {
+      "english": "Even if it’s far, we’ll manage.",
+      "telugu": "దూరమే అయినా సరే, మేము చూసుకుంటాం.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773960"
+    },
+    {
+      "english": "Just confirm, is this the right road?",
+      "telugu": "ఒక్కసారి కన్ఫర్మ్ చేయండి, ఇదే సరైన రోడ్డా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773963"
+    },
+    {
+      "english": "I’m determined, guide me in simple words.",
+      "telugu": "నేను పట్టుదలగా ఉన్నాను, సింపుల్ మాటల్లో చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773966"
+    },
+    {
+      "english": "You seem sure, so I trust your directions.",
+      "telugu": "మీరు నమ్మకంగా చెబుతున్నారు, కాబట్టి నేను నమ్ముతున్నాను.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773968"
+    },
+    {
+      "english": "Small steps, big result, where next please?",
+      "telugu": "చిన్న అడుగులు, పెద్ద ఫలితం, తర్వాత ఎక్కడ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773972"
+    },
+    {
+      "english": "Keep it friendly, tell me the easiest route.",
+      "telugu": "స్నేహంగా చెప్పండి, అతి ఈజీ దారి ఏది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773975"
+    },
+    {
+      "english": "You’re helping a lot, I appreciate it.",
+      "telugu": "మీరు చాలా సహాయం చేస్తున్నారు, నాకు కృతజ్ఞతలు.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773978"
+    },
+    {
+      "english": "Stay positive, we’ll get there together.",
+      "telugu": "పాజిటివ్‌గా ఉండండి, మనం కలిసి అక్కడికి వెళ్తాం.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773980"
+    },
+    {
+      "english": "Quick check, is the entrance near that stop?",
+      "telugu": "ఒక్కసారి చెక్ చేయండి, ఆ స్టాప్ దగ్గరే ప్రవేశమా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773983"
+    },
+    {
+      "english": "You’ve got it, just tell me the landmarks.",
+      "telugu": "మీకు తెలుసు, మలుపుల గుర్తులు చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773986"
+    },
+    {
+      "english": "I’m learning fast, please repeat directions once.",
+      "telugu": "నేను వేగంగా నేర్చుకుంటున్నాను, దయచేసి ఒకసారి మళ్లీ చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773989"
+    },
+    {
+      "english": "Relax, I’ll remember, what’s the next landmark?",
+      "telugu": "ఆరామంగా ఉండండి, నేను గుర్తుపెట్టుకుంటాను, తర్వాత ఏ గుర్తు?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773992"
+    },
+    {
+      "english": "We’ll figure it out, just point me forward.",
+      "telugu": "మనమిదాన్ని చూసుకుంటాం, ముందుకు దారి చూపండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773995"
+    },
+    {
+      "english": "I’m a bit nervous, please guide me gently.",
+      "telugu": "నాకు కొంచెం టెన్షన్ ఉంది, దయచేసి మృదువుగా చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.773998"
+    },
+    {
+      "english": "I want to get there right, not fast.",
+      "telugu": "నేను త్వరగా కాదు, సరిగ్గా అక్కడికి చేరాలి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774002"
+    },
+    {
+      "english": "I’m new here, so please be patient.",
+      "telugu": "నేను కొత్తగా ఉన్నాను, కాబట్టి కొంచెం ఓపికగా చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774006"
+    },
+    {
+      "english": "Can you repeat the last turn, please?",
+      "telugu": "చివరి మలుపు మళ్లీ చెప్పగలరా, దయచేసి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774009"
+    },
+    {
+      "english": "I might miss it, tell me the landmark again.",
+      "telugu": "నేను తప్పిపోవచ్చు, ఆ గుర్తు మళ్లీ చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774011"
+    },
+    {
+      "english": "I’m thinking, which side feels easier to walk?",
+      "telugu": "నేను ఆలోచిస్తున్నాను, నడవడానికి ఏ వైపు సులువు?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774015"
+    },
+    {
+      "english": "I want to be careful, where exactly should I go?",
+      "telugu": "నేను జాగ్రత్తగా ఉండాలి, నేను ఖచ్చితంగా ఎక్కడికి వెళ్లాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774017"
+    },
+    {
+      "english": "I’m not sure, but I’ll follow your steps.",
+      "telugu": "నాకు ఖచ్చితంగా తెలియదు, కానీ మీ దశలను పాటిస్తాను.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774021"
+    },
+    {
+      "english": "If I get confused, can you simplify it?",
+      "telugu": "నేను కన్ఫ్యూజ్ అయితే, మీరు సులభంగా చెప్పగలరా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774023"
+    },
+    {
+      "english": "I don’t want to bother you too much, sorry.",
+      "telugu": "మీకు ఎక్కువ ఇబ్బంది పెట్టకూడదు, క్షమించండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774026"
+    },
+    {
+      "english": "I feel lost, so please guide me patiently.",
+      "telugu": "నేను తప్పిపోయాను అనిపిస్తోంది, కాబట్టి ఓపికగా దారి చూపండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774029"
+    },
+    {
+      "english": "Just tell me, how should I approach it?",
+      "telugu": "ఇలా చెప్పండి, నేను దాన్ని ఎలా చేరుకోవాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774031"
+    },
+    {
+      "english": "My phone isn’t working, where do I turn?",
+      "telugu": "నా ఫోన్ పనిచేయడం లేదు, నేను ఎక్కడికి మలుపు తీసుకోవాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774034"
+    },
+    {
+      "english": "I’m trying to remember, what comes after this?",
+      "telugu": "నేను గుర్తు పెట్టుకోవడానికి ప్రయత్నిస్తున్నాను, దీని తర్వాత ఏముంది?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774039"
+    },
+    {
+      "english": "I don’t want to guess, please confirm direction.",
+      "telugu": "నేను ఊహించకూడదు, దారి సరిగ్గా ఉందని చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774041"
+    },
+    {
+      "english": "I’m learning slowly, speak in simple steps.",
+      "telugu": "నేను నెమ్మదిగా నేర్చుకుంటున్నాను, సులభమైన దశల్లో చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774044"
+    },
+    {
+      "english": "I want the safest way, not the quickest.",
+      "telugu": "నాకు అత్యంత సురక్షితమైన దారి కావాలి, త్వరితంగా కాదు.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774046"
+    },
+    {
+      "english": "I’m nervous about landmarks, what should I look for?",
+      "telugu": "గుర్తులు చూసి భయం వేస్తోంది, ఏది చూడాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774050"
+    },
+    {
+      "english": "I’m listening, tell me the main road first.",
+      "telugu": "నేను వింటున్నాను, ముందుగా ప్రధాన రోడ్డు ఏదో చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774053"
+    },
+    {
+      "english": "I’m not rushing, so tell me clearly once more.",
+      "telugu": "నేను తొందరపడడం లేదు, ఒకసారి ఇంకా స్పష్టంగా చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774056"
+    },
+    {
+      "english": "Please point it out, I can’t recognize streets.",
+      "telugu": "దయచేసి చూపించండి, నాకు వీధులు గుర్తు కావడం లేదు.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774059"
+    },
+    {
+      "english": "I’m a little tired, is there an easier route?",
+      "telugu": "నేను కొంచెం అలసిపోయాను, సులభమైన మార్గం ఉందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774062"
+    },
+    {
+      "english": "I need reassurance, will this direction work?",
+      "telugu": "నాకు ధైర్యం కావాలి, ఈ దారి పని చేస్తుందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774064"
+    },
+    {
+      "english": "If anything changes, tell me right away.",
+      "telugu": "ఏదైనా మారితే, వెంటనే చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774067"
+    },
+    {
+      "english": "I’m trying to stay calm, guide me step by step.",
+      "telugu": "నేను ప్రశాంతంగా ఉండాలని చూస్తున్నాను, దశలుగా చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774070"
+    },
+    {
+      "english": "I’m grateful, thank you for checking my route.",
+      "telugu": "నాకు చాలా కృతజ్ఞతలు, నా దారిని చెక్ చేసినందుకు ధన్యవాదాలు.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774073"
+    },
+    {
+      "english": "I don’t want to get stuck, what’s the next sign?",
+      "telugu": "నేను ఇరుక్కుపోకూడదు, తర్వాత ఏ సైన్ చూడాలి?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774076"
+    },
+    {
+      "english": "I appreciate your honesty, it helps a lot.",
+      "telugu": "మీ నిజాయితీకి ధన్యవాదాలు, అది చాలా సహాయం చేస్తుంది.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774078"
+    },
+    {
+      "english": "I’ll take it slow, just tell me the first step.",
+      "telugu": "నేను నెమ్మదిగా తీసుకుంటాను, మొదటి దశ ఏది చెప్పండి.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774081"
+    },
+    {
+      "english": "Which road do I take, left or right?",
+      "telugu": "ఎది తీసుకోవాలి, ఎడమా కుడా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774084"
+    },
+    {
+      "english": "Is there a bus stop near this place?",
+      "telugu": "ఈ చోటు దగ్గర బస్ స్టాప్ ఉందా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774086"
+    },
+    {
+      "english": "How far is it, about five minutes?",
+      "telugu": "ఇది ఎంత దూరం, సుమారు ఐదు నిమిషాలా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774088"
+    },
+    {
+      "english": "Can you tell me the closest entrance?",
+      "telugu": "దగ్గరలో ఉన్న ప్రవేశం ఏది చెప్పగలరా?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:59:31.774090"
     }
   ],
-  "last_updated": "2026-11-07T09:47:11.484023"
+  "last_updated": "2026-11-08T09:59:31.774092"
 }
