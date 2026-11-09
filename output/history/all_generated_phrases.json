@@ -15839,7 +15839,727 @@
       "telugu": "దగ్గరలో ఉన్న ప్రవేశం ఏది చెప్పగలరా?",
       "category": "Asking for Directions",
       "generated_at": "2026-11-08T09:59:31.774090"
+    },
+    {
+      "english": "Hey, do you have a room for tonight?",
+      "telugu": "హే, ఈ రాత్రికి మీ దగ్గర గది ఉందా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648482"
+    },
+    {
+      "english": "Hi, can I check in, please?",
+      "telugu": "హాయ్, దయచేసి నేను చెక్ ఇన్ చేయొచ్చా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648497"
+    },
+    {
+      "english": "Is breakfast included, or extra?",
+      "telugu": "బ్రేక్‌ఫాస్ట్‌లో చేరిందా, లేక అదనమా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648499"
+    },
+    {
+      "english": "What’s the room price per night?",
+      "telugu": "ఒక రాత్రికి గది ధర ఎంత?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648501"
+    },
+    {
+      "english": "Do you have AC rooms, by chance?",
+      "telugu": "అక్కడ AC గదులు ఉన్నాయా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648503"
+    },
+    {
+      "english": "Great, I’ll take it, thanks!",
+      "telugu": "అలాగే, నేను తీసుకుంటాను, థ్యాంక్స్!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648505"
+    },
+    {
+      "english": "Wait, the Wi‑Fi password, please?",
+      "telugu": "ఆగండి, వై‑ఫై పాస్‌వర్డ్ చెప్పండి, ప్లీజ్.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648508"
+    },
+    {
+      "english": "Can I get late checkout, maybe?",
+      "telugu": "లేట్ చెక్‌ఔట్ ఇవ్వగలరా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648511"
+    },
+    {
+      "english": "Is there hot water available now?",
+      "telugu": "ఇప్పుడే హాట్ వాటర్ ఉందా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648514"
+    },
+    {
+      "english": "Where’s the reception desk, sorry?",
+      "telugu": "రిసెప్షన్ డెస్క్ ఎక్కడుంది, సారీ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648516"
+    },
+    {
+      "english": "Do I need an ID for check-in?",
+      "telugu": "చెక్ ఇన్‌కు ID అవసరమా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648518"
+    },
+    {
+      "english": "Can I store my luggage here?",
+      "telugu": "ఇక్కడ నా సామాను ఉంచొచ్చా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648519"
+    },
+    {
+      "english": "I’m sorry, the key isn’t working.",
+      "telugu": "సారీ, కీ పని చేయడం లేదు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648521"
+    },
+    {
+      "english": "My room is too noisy, please help.",
+      "telugu": "నా గది చాలా శబ్దంగా ఉంది, దయచేసి సహాయం చేయండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648523"
+    },
+    {
+      "english": "Could you send housekeeping, please?",
+      "telugu": "దయచేసి హౌస్‌కీపింగ్ పంపగలరా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648524"
+    },
+    {
+      "english": "Do you have a towel, by any chance?",
+      "telugu": "ఏమైనా టవల్ ఉందా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648526"
+    },
+    {
+      "english": "Is parking included, or separate?",
+      "telugu": "పార్కింగ్‌లో చేరిందా, వేరుగా ఉందా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648527"
+    },
+    {
+      "english": "I’d like to change rooms, please.",
+      "telugu": "దయచేసి గదిని మార్చుకోవాలనుకుంటున్నాను.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648529"
+    },
+    {
+      "english": "Can I pay by card, or cash?",
+      "telugu": "కార్డ్‌తో పేమెంట్ చేయొచ్చా, క్యాష్‌నా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648530"
+    },
+    {
+      "english": "Hi, where do I get the elevator key?",
+      "telugu": "హాయ్, లిఫ్ట్ కీ ఎక్కడ తీసుకోవాలి?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648532"
+    },
+    {
+      "english": "Excuse me, how do I reach my room?",
+      "telugu": "సారీ, నా గది కి ఎలా వెళ్లాలి?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648534"
+    },
+    {
+      "english": "Sorry, can you speak a bit slower, please?",
+      "telugu": "క్షమించండి, కొంచెం నెమ్మదిగా మాట్లాడగలరా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648536"
+    },
+    {
+      "english": "This room is perfect, thank you so much.",
+      "telugu": "ఈ గది బాగుంది, చాలా ధన్యవాదాలు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648538"
+    },
+    {
+      "english": "Where can I find the laundry service?",
+      "telugu": "లాండ్రీ సర్వీస్ ఎక్కడ ఉంటుంది?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648539"
+    },
+    {
+      "english": "Do you have a kettle in the room?",
+      "telugu": "గదిలో కేతిల్ ఉందా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648541"
+    },
+    {
+      "english": "Can I borrow an umbrella for tonight?",
+      "telugu": "ఈ రాత్రికి ఒక గొడుగు ఇస్తారా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648544"
+    },
+    {
+      "english": "My phone charger isn’t working, please help.",
+      "telugu": "నా ఫోన్ ఛార్జర్ పనిచేయడం లేదు, దయచేసి సహాయం చేయండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648546"
+    },
+    {
+      "english": "The AC is not cooling, any fix?",
+      "telugu": "ఏసీ చల్లగా చేయడం లేదు, ఏం చేయాలి?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648548"
+    },
+    {
+      "english": "Is there a fridge in here?",
+      "telugu": "ఇక్కడ ఫ్రిజ్ ఉందా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648549"
+    },
+    {
+      "english": "I’d like extra blankets, please.",
+      "telugu": "నాకు అదనపు దుప్పట్లు కావాలి, దయచేసి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648551"
+    },
+    {
+      "english": "Can I get an early morning wake-up call?",
+      "telugu": "ఉదయం ముందుగానే మేల్కొలుపు కాల్ ఇస్తారా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648553"
+    },
+    {
+      "english": "Where is the common lounge area?",
+      "telugu": "కామన్ లాంజ్ ఏరియా ఎక్కడ ఉంది?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648555"
+    },
+    {
+      "english": "I need an extra room key, please.",
+      "telugu": "నాకు ఇంకో గది కీ కావాలి, దయచేసి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648557"
+    },
+    {
+      "english": "Is there a study desk for work?",
+      "telugu": "పని కోసం స్టడీ డెస్క్ ఉందా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648560"
+    },
+    {
+      "english": "The room light is too dim, please check.",
+      "telugu": "గది లైట్ చాలా డిమ్‌గా ఉంది, చూడగలరా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648562"
+    },
+    {
+      "english": "How late is housekeeping available?",
+      "telugu": "హౌస్‌కీపింగ్ ఎంత వరకు ఉంటుంది?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648563"
+    },
+    {
+      "english": "Could I get water bottles, please?",
+      "telugu": "నీటి బాటిళ్లు ఇస్తారా, దయచేసి?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648565"
+    },
+    {
+      "english": "I’m just resting, please knock first.",
+      "telugu": "నేను విశ్రాంతి తీసుకుంటున్నాను, ముందుగా తట్టండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648567"
+    },
+    {
+      "english": "Do you offer airport pickup, by any chance?",
+      "telugu": "ఎయిర్‌పోర్ట్ పికప్ సర్వీస్ ఉందా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648569"
+    },
+    {
+      "english": "Where can I buy snacks nearby?",
+      "telugu": "ఇక్కడ దగ్గర్లో స్నాక్స్ ఎక్కడ దొరుకుతాయి?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648570"
+    },
+    {
+      "english": "Nice! The room smells so fresh.",
+      "telugu": "బాగుంది! గది చాలా ఫ్రెష్‌గా ఉంది.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648572"
+    },
+    {
+      "english": "I’ll be back soon, please hold my items.",
+      "telugu": "నేను త్వరలో వస్తాను, నా వస్తువులు ఉంచండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648575"
+    },
+    {
+      "english": "Can I request a quiet room, please?",
+      "telugu": "నాకు నిశ్శబ్దమైన గది కావాలి, దయచేసి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648577"
+    },
+    {
+      "english": "What time is breakfast served here?",
+      "telugu": "ఇక్కడ బ్రేక్‌ఫాస్ట్ ఎప్పుడు ఇస్తారు?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648578"
+    },
+    {
+      "english": "Thanks, I found it, you’re a lifesaver.",
+      "telugu": "ధన్యవాదాలు, దొరికింది, మీరు గ్రేట్.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648580"
+    },
+    {
+      "english": "Is there a smoking area on-site?",
+      "telugu": "ఇక్కడ స్మోకింగ్ ఏరియా ఉందా?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648582"
+    },
+    {
+      "english": "I’d like to extend my stay for two nights.",
+      "telugu": "నేను రెండు రాత్రులు ఉండాలని ఉంది.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648584"
+    },
+    {
+      "english": "Perfect, I’ll rest now, see you later.",
+      "telugu": "సూపర్, నేను ఇప్పుడు విశ్రాంతి తీసుకుంటాను, తరువాత కలుద్దాం.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648586"
+    },
+    {
+      "english": "You’re doing great, check in and relax.",
+      "telugu": "మీరు బాగా చేస్తున్నారు, చెక్-ఇన్ చేసి రిలాక్స్ అవండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648588"
+    },
+    {
+      "english": "Today’s gonna be easy, one key at a time.",
+      "telugu": "ఈ రోజు సులభమే, ఒక్క కీతో ఒక్క అడుగు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648590"
+    },
+    {
+      "english": "Nice choice, this place feels so welcoming.",
+      "telugu": "బాగుంది, ఈ చోటు చాలా ఆహ్వానించేలా ఉంది.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648591"
+    },
+    {
+      "english": "Breathe in, your room is ready for you.",
+      "telugu": "ఒకసారి శ్వాస తీసుకోండి, మీ గది రెడీగా ఉంది.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648593"
+    },
+    {
+      "english": "No worries, you’ll find everything you need.",
+      "telugu": "టెన్షన్ పడకండి, మీకు కావాల్సింది దొరుకుతుంది.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648595"
+    },
+    {
+      "english": "Stay positive, your stay will feel amazing.",
+      "telugu": "పాజిటివ్‌గా ఉండండి, మీ బస అద్భుతంగా ఉంటుంది.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648597"
+    },
+    {
+      "english": "Small comfort, big mood—enjoy your night.",
+      "telugu": "చిన్న సౌకర్యం, పెద్ద మూడ్—మీ రాత్రి ఆనందించండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648599"
+    },
+    {
+      "english": "You’ve got this, settle in and unwind.",
+      "telugu": "మీరు చేయగలరు, సెట్ అవ్వండి, రిలాక్స్ అవ్వండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648601"
+    },
+    {
+      "english": "Great news, your booking is confirmed here.",
+      "telugu": "గుడ్ న్యూస్, మీ బుకింగ్ ఇక్కడ కన్ఫర్మ్ అయ్యింది.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648603"
+    },
+    {
+      "english": "Relax now, you deserve a peaceful stay.",
+      "telugu": "ఇప్పుడు రిలాక్స్ అవండి, శాంతియుతమైన బస మీకే కావాలి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648605"
+    },
+    {
+      "english": "You’re amazing, thank you for being patient.",
+      "telugu": "మీరు అద్భుతం, సహనం చూపినందుకు థ్యాంక్స్.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648607"
+    },
+    {
+      "english": "Make yourself at home, everything’s taken care.",
+      "telugu": "మీలా ఇంట్లో ఉన్నట్లే ఉండండి, అన్నీ చూసుకున్నాం.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648609"
+    },
+    {
+      "english": "Morning vibes start here, good luck!",
+      "telugu": "ఉదయం వైబ్‌లు ఇక్కడే మొదలవుతాయి, ఆల్ ది బెస్ట్!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648611"
+    },
+    {
+      "english": "Celebrate this moment, your comfort matters.",
+      "telugu": "ఈ క్షణాన్ని సెలబ్రేట్ చేయండి, మీ సౌకర్యం ముఖ్యమే.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648613"
+    },
+    {
+      "english": "Calm down, the staff will help fast.",
+      "telugu": "శాంతంగా ఉండండి, సిబ్బంది త్వరగా సహాయం చేస్తారు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648616"
+    },
+    {
+      "english": "You picked the right place, trust me.",
+      "telugu": "మీరు సరైన చోటు ఎంచుకున్నారు, నమ్మండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648617"
+    },
+    {
+      "english": "Everything will be smooth, you’ll see.",
+      "telugu": "అన్నీ సజావుగా సాగుతాయి, చూస్తారు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648619"
+    },
+    {
+      "english": "You’re safe here, enjoy the stay.",
+      "telugu": "మీరు ఇక్కడ సేఫ్, బసని ఆనందించండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648622"
+    },
+    {
+      "english": "Let’s make it cozy, you’ll love this room.",
+      "telugu": "ఇప్పుడే కంఫర్ట్‌గా చేసుకుందాం, ఈ గది మీకు నచ్చుతుంది.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648624"
+    },
+    {
+      "english": "Nice and easy, just drop your stuff.",
+      "telugu": "సులభంగా, మీ సామాన్లు అక్కడే వదిలేయండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648626"
+    },
+    {
+      "english": "You’re in control, choose what feels best.",
+      "telugu": "మీ చేతుల్లోనే, మీకు నచ్చేది ఎంచుకోండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648627"
+    },
+    {
+      "english": "Confidence looks good on you, enjoy!",
+      "telugu": "కాన్ఫిడెన్స్ మీకు బాగా సూట్ అవుతుంది, ఆనందించండి!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648629"
+    },
+    {
+      "english": "Small steps, great rest, sleep well tonight.",
+      "telugu": "చిన్న అడుగులు, గొప్ప విశ్రాంతి—ఈ రాత్రి బాగా నిద్రపోండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648631"
+    },
+    {
+      "english": "Thank you, you handled everything so smoothly.",
+      "telugu": "ధన్యవాదాలు, మీరు అన్నీ చాలా సజావుగా చేసారు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648632"
+    },
+    {
+      "english": "You made it, now relax and enjoy.",
+      "telugu": "మీరు వచ్చారు, ఇప్పుడు రిలాక్స్ అవండి, ఆనందించండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648634"
+    },
+    {
+      "english": "Positive mindset, better sleep, best days ahead.",
+      "telugu": "పాజిటివ్ మైండ్‌సెట్, మంచి నిద్ర, ముందున్న రోజులు బెస్ట్.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648636"
+    },
+    {
+      "english": "You’ll have a great trip, starting right now.",
+      "telugu": "మీ ట్రిప్ అద్భుతంగా ఉంటుంది, ఇప్పుడే మొదలు!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648638"
+    },
+    {
+      "english": "Trust yourself, this stay will work out.",
+      "telugu": "మీపై నమ్మకం, ఈ బస బాగా సాగుతుంది.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648639"
+    },
+    {
+      "english": "Make the most of it, enjoy every moment.",
+      "telugu": "దీని నుంచి ఎక్కువ తీసుకోండి, ప్రతి క్షణం ఆనందించండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648641"
+    },
+    {
+      "english": "You’re doing awesome, welcome home for tonight.",
+      "telugu": "మీరు అద్భుతంగా చేస్తున్నారు, ఈ రాత్రికి హోమ్‌లోకి స్వాగతం.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648645"
+    },
+    {
+      "english": "Room ready, just come straight in.",
+      "telugu": "గది రెడీ, నేరుగా లోపలికి రండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648646"
+    },
+    {
+      "english": "First night feels like home, honestly.",
+      "telugu": "మొదటి రాత్రి హోమ్‌లానే ఉంటుంది, నిజంగా.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648649"
+    },
+    {
+      "english": "Keys here, don’t worry about anything.",
+      "telugu": "కీలు ఇవే, ఏ టెన్షన్ వద్దు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648651"
+    },
+    {
+      "english": "You’ll sleep like a baby tonight, promise.",
+      "telugu": "ఈ రోజు రాత్రి బేబీలా నిద్ర పడుతుంది, మాట.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648653"
+    },
+    {
+      "english": "Aircon on, summer problem solved, easy!",
+      "telugu": "ఎయిర్‌కాన్ ఆన్ చేయండి, సమ్మర్ సమస్య గుడ్‌బై!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648655"
+    },
+    {
+      "english": "Hot water? It’ll come, no worries.",
+      "telugu": "వెచ్చని నీళ్లు? వస్తాయి, టెన్షన్ లేదు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648657"
+    },
+    {
+      "english": "Your request? We’ll handle it, properly.",
+      "telugu": "మీ అభ్యర్థన? బాగా చూసుకుంటాం.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648659"
+    },
+    {
+      "english": "Breakfast starts early, so wake up smart.",
+      "telugu": "బ్రేక్‌ఫాస్ట్ ముందే ఉంటుంది, అప్పుడు తెలివిగా లేచి రండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648661"
+    },
+    {
+      "english": "Laundry done fast, no drama, just clean.",
+      "telugu": "లాండ్రీ ఫాస్ట్, డ్రామా లేదు, క్లీన్‌గా.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648662"
+    },
+    {
+      "english": "Check-in quick, you’ll be settled soon.",
+      "telugu": "చెక్-ఇన్ త్వరగా, త్వరలోనే సెటిల్ అవుతారు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648664"
+    },
+    {
+      "english": "If anything’s missing, tell us right away.",
+      "telugu": "ఏదైనా మిస్ అయితే, వెంటనే చెప్పండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648666"
+    },
+    {
+      "english": "Towels are here, fresh and ready.",
+      "telugu": "టవల్స్ ఇవే, ఫ్రెష్‌గా రెడీ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648668"
+    },
+    {
+      "english": "Wi‑Fi password, write it down, please.",
+      "telugu": "వై‑ఫై పాస్‌వర్డ్, రాసుకుని ఉంచండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648670"
+    },
+    {
+      "english": "Lift works fine, don’t take the stairs.",
+      "telugu": "లిఫ్ట్ సాఫీగా ఉంటుంది, మెట్లు వద్దు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648671"
+    },
+    {
+      "english": "This area is calm, night peace guaranteed.",
+      "telugu": "ఇక్కడంతా ప్రశాంతం, రాత్రి పీస్ గ్యారెంటీ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648673"
+    },
+    {
+      "english": "Housekeeping will come, they keep it tidy.",
+      "telugu": "హౌస్‌కీపింగ్ వస్తుంది, చక్కగా సర్దుతుంది.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648675"
+    },
+    {
+      "english": "Late check-out? Let’s see what we can do.",
+      "telugu": "లేట్ చెక్-అవుట్? ఏమి చేయగలమో చూద్దాం.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648678"
+    },
+    {
+      "english": "If you need help, just ring the bell.",
+      "telugu": "సహాయం కావాలంటే, బెల్ నొక్కండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648680"
+    },
+    {
+      "english": "Your bed is made, rest mode on.",
+      "telugu": "మీ బెడ్ రెడీగా ఉంది, రెస్ట్ మోడ్ ఆన్.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648682"
+    },
+    {
+      "english": "Location is top, everything’s nearby.",
+      "telugu": "లొకేషన్ అదిరిపోయింది, అన్నీ దగ్గరే.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648684"
+    },
+    {
+      "english": "Parking is tight, park smartly, okay?",
+      "telugu": "పార్కింగ్ కాస్త ఇరుకుగా ఉంటుంది, తెలివిగా పార్క్ చేయండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648685"
+    },
+    {
+      "english": "No noise here, peaceful sleep, surely.",
+      "telugu": "ఇక్కడ శబ్దం లేదు, ప్రశాంత నిద్ర ఖాయం.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648687"
+    },
+    {
+      "english": "Good vibes only, enjoy your stay.",
+      "telugu": "మంచి వైబ్స్ మాత్రమే, మీ బస ఆనందంగా గడపండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648689"
+    },
+    {
+      "english": "A little request, we’ll make it happen.",
+      "telugu": "చిన్న అభ్యర్థన, సాధ్యం చేస్తాం.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648690"
+    },
+    {
+      "english": "Your room, your rules, relax.",
+      "telugu": "మీ గది, మీ ఇష్టం, రిలాక్స్ అవ్వండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648692"
+    },
+    {
+      "english": "Power backup works, don’t panic.",
+      "telugu": "పవర్ బ్యాకప్ ఉంది, ప్యానిక్ వద్దు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648694"
+    },
+    {
+      "english": "Check tomorrow, for upgrades if available.",
+      "telugu": "అప్‌గ్రేడ్ ఉంటే రేపు చెక్ చేయండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648695"
+    },
+    {
+      "english": "You’ll love the view, it’s worth it.",
+      "telugu": "వ్యూ నచ్చుతుంది, విలువ ఉంటుంది.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648699"
+    },
+    {
+      "english": "Leave it to us, everything’s sorted.",
+      "telugu": "మాకే వదిలేయండి, అన్నీ సెట్టయిపోయాయి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648701"
+    },
+    {
+      "english": "Before sleep, double-check the door lock.",
+      "telugu": "పడుకునే ముందు, తలుపు లాక్‌ని రెండుసార్లు చెక్ చేయండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648703"
+    },
+    {
+      "english": "At night, ask reception for extra blankets.",
+      "telugu": "రాత్రి అయితే, అదనపు దుప్పట్లు కోసం రిసెప్షన్‌ని అడగండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648705"
+    },
+    {
+      "english": "Keep your keycard in the same wallet.",
+      "telugu": "మీ కీకార్డ్‌ని అదే వాలెట్‌లో ఉంచుకోండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648707"
+    },
+    {
+      "english": "If Wi‑Fi is slow, try restarting your phone.",
+      "telugu": "వై‑ఫై స్లోగా ఉంటే, ఫోన్‌ని రీస్టార్ట్ చేయండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648708"
+    },
+    {
+      "english": "When you arrive, scan the room for safety.",
+      "telugu": "వచ్చాక, సేఫ్టీ కోసం గదిని ఒక్కసారి స్కాన్ చేయండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648710"
+    },
+    {
+      "english": "Need iron? Request it, they’ll deliver fast.",
+      "telugu": "ఇస్త్రీ కావాలా? రిక్వెస్ట్ చేయండి, త్వరగా తెస్తారు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648712"
+    },
+    {
+      "english": "Have luggage? Use the bellhop, no rush.",
+      "telugu": "సామాను ఉందా? బెల్‌బాయ్‌ని వాడండి, తొందర లేదు.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648714"
+    },
+    {
+      "english": "For late guests, keep your contact updated.",
+      "telugu": "లేట్‌గా వచ్చే వాళ్లకు, మీ కాంటాక్ట్‌ని అప్‌డేట్ ఉంచండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648716"
+    },
+    {
+      "english": "Turn off lights, save power and feel better.",
+      "telugu": "లైట్లు ఆఫ్ చేయండి, పవర్ సేవ్ అవుతుంది, ఫీల్ బెటర్.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648717"
+    },
+    {
+      "english": "If the room smells, ask for fresh cleaning.",
+      "telugu": "గదికి వాసన వస్తే, ఫ్రెష్ క్లీనింగ్ కోసం అడగండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648719"
+    },
+    {
+      "english": "Before shower, check the water temperature once.",
+      "telugu": "షవర్ ముందు, నీటి టెంపరేచర్‌ని ఒకసారి చెక్ చేయండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648721"
+    },
+    {
+      "english": "Want a quiet corner? Request it early.",
+      "telugu": "నిశ్శబ్దం కావాలా? ముందే రిక్వెస్ట్ చేయండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648722"
+    },
+    {
+      "english": "For safety, keep valuables in the locker.",
+      "telugu": "సేఫ్టీ కోసం విలువైనవన్నీ లాకర్‌లో పెట్టండి.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T11:06:57.648724"
     }
   ],
-  "last_updated": "2026-11-08T09:59:31.774092"
+  "last_updated": "2026-11-09T11:06:57.648726"
 }
