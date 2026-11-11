@@ -17279,7 +17279,727 @@
       "telugu": "పనిలో, ఒక స్పష్టమైన తదుపరి అడుగు రాయండి.",
       "category": "Joy",
       "generated_at": "2026-11-10T10:57:45.878035"
+    },
+    {
+      "english": "I’m happy today, tell me good news.",
+      "telugu": "నేను ఇవాళ సంతోషంగా ఉన్నాను, మంచి వార్త చెప్పండి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243605"
+    },
+    {
+      "english": "That made me smile, thank you!",
+      "telugu": "అది నాకు చిరునవ్వు తెప్పించింది, ధన్యవాదాలు!",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243619"
+    },
+    {
+      "english": "Good morning, hope your day feels light.",
+      "telugu": "శుభోదయం, మీ రోజు తేలికగా ఉండాలి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243622"
+    },
+    {
+      "english": "I feel better now, things are okay.",
+      "telugu": "ఇప్పుడు నాకు బాగుంది, అన్ని ఓకే.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243625"
+    },
+    {
+      "english": "Yes, I’m okay, don’t worry.",
+      "telugu": "అవును, నాకు ఓకే, టెన్షన్ పడకండి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243629"
+    },
+    {
+      "english": "I’m grateful, really, thank you for that.",
+      "telugu": "నేను నిజంగా కృతజ్ఞుడిని, దానికి ధన్యవాదాలు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243633"
+    },
+    {
+      "english": "Nice! That’s exactly what I needed.",
+      "telugu": "చాలా బాగుంది! ఇదే నాకు కావాల్సింది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243636"
+    },
+    {
+      "english": "Today feels calm, it’s a good vibe.",
+      "telugu": "ఇవాళ ప్రశాంతంగా ఉంది, మంచి ఫీల్.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243642"
+    },
+    {
+      "english": "You’re right, that’s a relief.",
+      "telugu": "మీరు నిజం చెప్పారు, ఇదొక ఉపశమనమే.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243649"
+    },
+    {
+      "english": "Let’s celebrate small wins, okay?",
+      "telugu": "చిన్న విజయాలను జరుపుకుందాం, ఒప్పా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243652"
+    },
+    {
+      "english": "Wow, that’s awesome, I’m genuinely happy.",
+      "telugu": "వావ్, అదిరిపోయింది, నాకు నిజంగా సంతోషం.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243656"
+    },
+    {
+      "english": "I’m proud of you, keep going.",
+      "telugu": "నేను మీ మీద గర్వపడుతున్నాను, కొనసాగండి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243659"
+    },
+    {
+      "english": "Thanks for checking, I feel seen.",
+      "telugu": "చెక్ చేసినందుకు ధన్యవాదాలు, నాకు విలువ ఉంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243662"
+    },
+    {
+      "english": "My heart is light, today is different.",
+      "telugu": "నా మనసు తేలికగా ఉంది, ఇవాళ వేరేలా ఉంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243664"
+    },
+    {
+      "english": "I’m cheering for you, you’ve got this.",
+      "telugu": "నేను మీకోసం చీర్స్ చేస్తున్నాను, మీరు చేయగలరు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243667"
+    },
+    {
+      "english": "That’s perfect, I love this plan.",
+      "telugu": "అది పర్ఫెక్ట్, నాకు ఈ ప్లాన్ నచ్చింది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243670"
+    },
+    {
+      "english": "I’m smiling inside, you don’t know.",
+      "telugu": "లోపల నేను నవ్వుతున్నాను, మీకు తెలీదు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243674"
+    },
+    {
+      "english": "What a relief, finally we’re good.",
+      "telugu": "ఎంతో ఉపశమనం, చివరికి మనం బాగున్నాం.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243677"
+    },
+    {
+      "english": "Everything’s working out, slowly but surely.",
+      "telugu": "అన్ని బాగానే జరుగుతున్నాయి, నెమ్మదిగా కానీ ఖచ్చితంగా.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243680"
+    },
+    {
+      "english": "Stay positive, good days come back.",
+      "telugu": "పాజిటివ్‌గా ఉండండి, మంచి రోజులు తిరిగి వస్తాయి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243683"
+    },
+    {
+      "english": "Really? That’s amazing news, tell me more.",
+      "telugu": "నిజమా? అదో అద్భుతమైన వార్త, ఇంక చెప్పండి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243686"
+    },
+    {
+      "english": "I feel lucky today, thanks universe.",
+      "telugu": "ఇవాళ నాకు అదృష్టంగా ఉంది, ధన్యవాదాలు ప్రపంచం.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243689"
+    },
+    {
+      "english": "No problem, I’ve got you, honestly.",
+      "telugu": "పర్లేదు, నేను తోడుగా ఉంటాను, నిజంగా.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243692"
+    },
+    {
+      "english": "I’m calm now, breathe with me.",
+      "telugu": "ఇప్పుడు నాకు ప్రశాంతంగా ఉంది, నాతో శ్వాస తీసుకోండి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243695"
+    },
+    {
+      "english": "This feels like home, I’m happy.",
+      "telugu": "ఇది ఇంటిలా ఉంది, నాకు సంతోషం.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243698"
+    },
+    {
+      "english": "What’s your good thing for today?",
+      "telugu": "ఇవాళ నీ మంచి విషయం ఏది?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243701"
+    },
+    {
+      "english": "I’m all set, let’s start happy.",
+      "telugu": "నేను రెడీగా ఉన్నాను, సంతోషంతో మొదలుపెడదాం.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243704"
+    },
+    {
+      "english": "Yes, that worked, I’m relieved.",
+      "telugu": "అవును, అది పనిచేసింది, నాకు ఊపిరి వచ్చింది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243707"
+    },
+    {
+      "english": "Keep smiling, you’re doing great.",
+      "telugu": "నవ్వుతూనే ఉండండి, మీరు బాగా చేస్తున్నారు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243710"
+    },
+    {
+      "english": "I needed this, it’s a good day.",
+      "telugu": "నాకు ఇది అవసరం, ఇవాళ మంచి రోజు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243713"
+    },
+    {
+      "english": "Can I ask you something, about happiness?",
+      "telugu": "హ్యాపినెస్‌ గురించి, ఒక విషయం అడగవచ్చా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243716"
+    },
+    {
+      "english": "What’s your secret, to feel good daily?",
+      "telugu": "ప్రతిరోజు బాగా ఫీల్ అవ్వడానికి, నీ సీక్రెట్ ఏంటి?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243719"
+    },
+    {
+      "english": "Tell me, what helps you feel hopeful?",
+      "telugu": "చెప్పు, నిన్ను ఆశగా ఉంచేది ఏమిటి?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243722"
+    },
+    {
+      "english": "When you’re stressed, what do you do first?",
+      "telugu": "స్ట్రెస్‌ వస్తే, ముందుగా నువ్వేం చేస్తావు?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243725"
+    },
+    {
+      "english": "Should we talk, I want your advice?",
+      "telugu": "మనం మాట్లాడదాం, నీ సలహా కావాలి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243727"
+    },
+    {
+      "english": "Where do you go, to feel happier quickly?",
+      "telugu": "త్వరగా హ్యాపీగా ఫీల్ అవ్వడానికి, నువ్వెక్కడికి వెళ్తావు?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243730"
+    },
+    {
+      "english": "Do you meditate, or is it something else?",
+      "telugu": "నువ్వు మెడిటేట్ చేస్తావా, లేక వేరే ఏదైనా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243732"
+    },
+    {
+      "english": "What’s a small joy, you don’t skip?",
+      "telugu": "నువ్వు మిస్ చేయని చిన్న ఆనందం ఏది?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243737"
+    },
+    {
+      "english": "Can you share, one happy habit with me?",
+      "telugu": "ఒక హ్యాపీ అలవాటు, నాతో పంచుకుంటావా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243742"
+    },
+    {
+      "english": "Are you feeling okay, or should I help?",
+      "telugu": "నువ్వు బాగానే ఉన్నావా, లేక నేను సహాయం చేయాలా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243745"
+    },
+    {
+      "english": "What’s your plan, for a happier evening?",
+      "telugu": "మంచి ఈవెనింగ్ కోసం, నీ ప్లాన్ ఏంటి?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243748"
+    },
+    {
+      "english": "Do you laugh more, when life is simple?",
+      "telugu": "జీవితం సింపుల్‌గా ఉంటే, నువ్వు ఎక్కువగా నవ్వుతావా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243750"
+    },
+    {
+      "english": "Which quote keeps you going, on tough days?",
+      "telugu": "కష్టమైన రోజుల్లో, ఏ కోట్ నిన్ను ముందుకు నడిపిస్తుంది?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243753"
+    },
+    {
+      "english": "What makes you feel loved, right now?",
+      "telugu": "ఇప్పుడే నీకు ప్రేమగా ఫీల్ కావడానికి, ఏది చేస్తుంది?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243756"
+    },
+    {
+      "english": "Can I get your honest opinion, please?",
+      "telugu": "దయచేసి, నీ నిజమైన అభిప్రాయం చెప్తావా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243760"
+    },
+    {
+      "english": "If you had one wish, what would it be?",
+      "telugu": "నీకు ఒక కోరిక ఉంటే, అది ఏంటి?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243763"
+    },
+    {
+      "english": "How do you bounce back, after disappointment?",
+      "telugu": "నిరాశ వచ్చిన తర్వాత, నువ్వు ఎలా తిరిగి లేస్తావు?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243765"
+    },
+    {
+      "english": "Should I try journaling, or is that weird?",
+      "telugu": "నేను జర్నలింగ్ ట్రై చేయాలా, లేక అది వింతగా ఉందా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243768"
+    },
+    {
+      "english": "What’s your comfort food, for happiness?",
+      "telugu": "హ్యాపినెస్‌కి నీ కంఫర్ట్ ఫుడ్ ఏది?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243773"
+    },
+    {
+      "english": "Can we switch to positive talks, today?",
+      "telugu": "ఈరోజు పాజిటివ్‌గా మాట్లాడదామా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243776"
+    },
+    {
+      "english": "How do you handle overthinking, quickly?",
+      "telugu": "అతిగా ఆలోచించడం వస్తే, త్వరగా ఎలా ఆపుతావు?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243778"
+    },
+    {
+      "english": "What’s one thing you’re thankful for?",
+      "telugu": "నువ్వు కృతజ్ఞతతో చెప్పే ఒక విషయం ఏది?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243781"
+    },
+    {
+      "english": "Do you set goals, or just feel it?",
+      "telugu": "నువ్వు గోల్స్ సెట్ చేస్తావా, లేక అలా ఫీల్ అవుతావా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243784"
+    },
+    {
+      "english": "When friends tease you, you okay, right?",
+      "telugu": "ఫ్రెండ్స్ జోక్ చేస్తే, నువ్వు బాగానే ఉంటావు కదా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243787"
+    },
+    {
+      "english": "What helps, when your mood drops suddenly?",
+      "telugu": "నీ మూడ్ ఒక్కసారిగా పడితే, ఏమి సహాయం చేస్తుంది?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243790"
+    },
+    {
+      "english": "Can you recommend one happy playlist for me?",
+      "telugu": "నాకు ఒక హ్యాపీ ప్లేలిస్ట్ సూచిస్తావా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243792"
+    },
+    {
+      "english": "Do you prefer morning walks, or cozy nights?",
+      "telugu": "ఉదయం వాక్స్‌ ఇష్టమా, లేక కోజీ నైట్స్‌నా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243795"
+    },
+    {
+      "english": "What’s your best tip, for staying positive?",
+      "telugu": "పాజిటివ్‌గా ఉండడానికి, నీ బెస్ట్ టిప్ ఏది?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243798"
+    },
+    {
+      "english": "Can we trade ideas, about happiness today?",
+      "telugu": "ఈరోజు హ్యాపినెస్‌ గురించి మనం ఐడియాలు పంచుకుందామా?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243800"
+    },
+    {
+      "english": "Small wins count, celebrate them loudly.",
+      "telugu": "చిన్న విజయాలు కూడా లెక్కే, బాగా జరుపుకుందాం.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243803"
+    },
+    {
+      "english": "Your thoughts steer, so choose kind ones.",
+      "telugu": "నీ ఆలోచనలు దారి చూపుతాయి, కాబట్టి దయగా ఎంచుకో.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243806"
+    },
+    {
+      "english": "Even messy days, still teach you something.",
+      "telugu": "గందరగోళం రోజైనా, ఏదో నేర్పుతుంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243808"
+    },
+    {
+      "english": "Tell your brain, we’re safe, keep going.",
+      "telugu": "నీ మెదడుతో చెప్పు, మనం సేఫ్, ముందుకు వెళ్దాం.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243812"
+    },
+    {
+      "english": "Smile first, happiness follows, trust me.",
+      "telugu": "ముందుగా నవ్వు, ఆనందం వస్తుంది, నమ్ము.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243815"
+    },
+    {
+      "english": "You tried, that’s already progress, seriously.",
+      "telugu": "నువ్వు ప్రయత్నించావు, అదే కదా ప్రోగ్రెస్, నిజంగా.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243818"
+    },
+    {
+      "english": "Pause, breathe, and let the worry fade.",
+      "telugu": "ఆగు, శ్వాస తీసుకో, ఆ టెన్షన్ తగ్గిపోతుంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243821"
+    },
+    {
+      "english": "Give yourself credit, you earned it.",
+      "telugu": "నీకు నువ్వే క్రెడిట్ ఇవ్వు, సంపాదించావు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243824"
+    },
+    {
+      "english": "If it’s small, still be proud.",
+      "telugu": "అది చిన్నదైనా, గర్వపడు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243827"
+    },
+    {
+      "english": "Today’s vibe? Choose calm, not chaos.",
+      "telugu": "ఈ రోజూ వైబ్ ఏంటి? కల్మ్ ఎంచుకో, గందరగోళం కాదు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243832"
+    },
+    {
+      "english": "Talk to yourself gently, like a friend.",
+      "telugu": "నీతోనే నెమ్మదిగా మాట్లాడుకో, ఫ్రెండ్‌లా.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243834"
+    },
+    {
+      "english": "Set one tiny intention, it works.",
+      "telugu": "ఒక చిన్న ఉద్దేశం పెట్టు, పని చేస్తుంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243837"
+    },
+    {
+      "english": "Stop chasing perfect, enjoy the present.",
+      "telugu": "పర్ఫెక్ట్ వెంబడించకు, ఇప్పుడిని ఆస్వాదించు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243840"
+    },
+    {
+      "english": "When doubt shows up, out-treat it.",
+      "telugu": "సందేహం వస్తే, దానికి కేర్‌తో ఓడించు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243842"
+    },
+    {
+      "english": "You’ve done hard things, remember that.",
+      "telugu": "నువ్వు కఠినమైనవి చేశావు, గుర్తు పెట్టుకో.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243845"
+    },
+    {
+      "english": "Let gratitude be your daily shortcut.",
+      "telugu": "కృతజ్ఞతను రోజువారీ షార్ట్‌కట్‌లా ఉంచుకో.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243848"
+    },
+    {
+      "english": "Compliment yourself, before others do.",
+      "telugu": "ఇతరులు చెప్పే ముందు, నిన్నే నువ్వు పొగడుకో.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243851"
+    },
+    {
+      "english": "Good mood doesn’t wait, you create it.",
+      "telugu": "మంచి మూడ్ కోసం ఎదురుచూడదు, నువ్వే సృష్టించు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243854"
+    },
+    {
+      "english": "Keep your circle kind, it changes you.",
+      "telugu": "నీ స్నేహితుల వలయం దయగా ఉంచు, అది మారుస్తుంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243857"
+    },
+    {
+      "english": "Try one positive action, right now.",
+      "telugu": "ఇప్పుడే ఒక పాజిటివ్ పని ట్రై చేయి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243859"
+    },
+    {
+      "english": "Your effort counts, even if slow.",
+      "telugu": "నీ ప్రయత్నం లెక్కే, వేగం తక్కువైనా.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243862"
+    },
+    {
+      "english": "Don’t spiral, ground yourself with one task.",
+      "telugu": "చుట్టూ తిరిగే ఆలోచనలకి పోవద్దు, ఒక్క పని మీద నిలువు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243865"
+    },
+    {
+      "english": "You’re allowed to feel, and still be okay.",
+      "telugu": "నువ్వు ఫీలయ్యే హక్కుంది, అయినా బాగానే ఉంటావు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243868"
+    },
+    {
+      "english": "Make your mind a safe place.",
+      "telugu": "నీ మనసుకు సేఫ్ స్పేస్ తయారుచేయి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243870"
+    },
+    {
+      "english": "Today, pick one thing to trust.",
+      "telugu": "ఈరోజు ఒక విషయం మీద నమ్మకం ఎంచుకో.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243873"
+    },
+    {
+      "english": "Stop replaying, start learning, that’s growth.",
+      "telugu": "మళ్లీ మళ్లీ రీప్లే చేయద్దు, నేర్చుకోవడం మొదలు పెట్టు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243876"
+    },
+    {
+      "english": "You’re not behind, you’re just building.",
+      "telugu": "నువ్వు వెనకలేదు, నువ్వు నిర్మిస్తున్నావు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243880"
+    },
+    {
+      "english": "Say it out loud, I’m getting better.",
+      "telugu": "బయటికి చెప్పు, నేను కాస్త మెరుగవుతున్నాను.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243883"
+    },
+    {
+      "english": "Celebrate your kindness, it’s strength, not weakness.",
+      "telugu": "నీ దయను సెలబ్రేట్ చెయ్యి, అది బలం, బలహీనత కాదు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243887"
+    },
+    {
+      "english": "When you’re lost, ask, what’s one win?",
+      "telugu": "నువ్వు గందరగోళంగా ఉంటే, అడుగు, ఒక విజయం ఏంటి?",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243892"
+    },
+    {
+      "english": "I’m learning to feel, without rushing past it.",
+      "telugu": "నేను నేర్చుకుంటున్నాను, వెంటనే దాటకుండా ఫీల్ చేయడం.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243897"
+    },
+    {
+      "english": "Some days, peace is enough, really.",
+      "telugu": "కొన్ని రోజులకి, శాంతి చాలు, నిజంగా.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243900"
+    },
+    {
+      "english": "I check my feelings, then choose calmly.",
+      "telugu": "నేను నా ఫీలింగ్స్ చెక్ చేస్తాను, తర్వాత ప్రశాంతంగా ఎంచుకుంటాను.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243903"
+    },
+    {
+      "english": "Patience makes happiness stick, not slide away.",
+      "telugu": "ఓపిక ఉంటే ఆనందం కట్టుకుంటుంది, జారిపోదు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243905"
+    },
+    {
+      "english": "I don’t chase joy, I build it daily.",
+      "telugu": "నేను ఆనందాన్ని వెంబడించను, ప్రతిరోజూ నిర్మిస్తా.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243909"
+    },
+    {
+      "english": "When I slow down, my heart speaks.",
+      "telugu": "నేను నెమ్మదిస్తే, నా గుండె మాట్లాడుతుంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243911"
+    },
+    {
+      "english": "I’m honest about my mood, and still okay.",
+      "telugu": "నా మూడ్‌పై నిజాయితీగా ఉంటాను, అయినా బాగానే ఉంటా.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243914"
+    },
+    {
+      "english": "Small calm moments, they heal me quietly.",
+      "telugu": "చిన్న శాంతి క్షణాలు, అవి నన్ను నెమ్మదిగా బాగుచేస్తాయి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243917"
+    },
+    {
+      "english": "I forgive myself, before the day ends.",
+      "telugu": "రోజు ముగిసేలోపు నేనే నన్ను క్షమిస్తాను.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243920"
+    },
+    {
+      "english": "Happiness grows where I stay present.",
+      "telugu": "నేను ఇక్కడే ఉంటే, ఆనందం పెరుగుతుంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243922"
+    },
+    {
+      "english": "I’m okay with taking time, it helps.",
+      "telugu": "టైమ్ తీసుకోవడం నాకిష్టమే, అది సహాయం చేస్తుంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243925"
+    },
+    {
+      "english": "I notice my breath, and my thoughts soften.",
+      "telugu": "నేను నా ఊపిరిని గమనిస్తాను, ఆలోచనలు نرمపడతాయి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243929"
+    },
+    {
+      "english": "I don’t need perfect, I need steady.",
+      "telugu": "నాకు పర్ఫెక్ట్ కాదు, స్థిరంగా ఉండటం కావాలి.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243932"
+    },
+    {
+      "english": "Sometimes I feel low, and it passes.",
+      "telugu": "కొన్ని సార్లు నాకు డౌన్‌గా ఉంటుంది, తర్వాత పోతుంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243935"
+    },
+    {
+      "english": "I choose respect for myself, always.",
+      "telugu": "నేను ఎప్పుడూ నాకే గౌరవం ఎంచుకుంటాను.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243938"
+    },
+    {
+      "english": "My mind calms when I keep promises.",
+      "telugu": "నేను మాట ఇచ్చినట్టు చేస్తే, నా మనసు కుదుట పడుతుంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243940"
+    },
+    {
+      "english": "I’m not weak, I’m just human.",
+      "telugu": "నేను బలహీనుడు కాదు, నేను మనిషిని మాత్రమే.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243944"
+    },
+    {
+      "english": "Grief can sit, and joy can return.",
+      "telugu": "దుఃఖం కూర్చునొచ్చు, ఆనందం కూడా తిరిగి వస్తుంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243946"
+    },
+    {
+      "english": "I reflect, then I move, not react.",
+      "telugu": "నేను ఆలోచిస్తాను, తర్వాత ముందుకెళ్తాను, వెంటనే రియాక్ట్ కాదు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243949"
+    },
+    {
+      "english": "I talk less, but listen more to me.",
+      "telugu": "నేను తక్కువ మాట్లాడతాను, నాకే ఎక్కువ వింటాను.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243952"
+    },
+    {
+      "english": "Happiness isn’t loud, it’s steady inside.",
+      "telugu": "ఆనందం పెద్దగా కాదు, లోపల స్థిరంగా ఉంటుంది.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243957"
+    },
+    {
+      "english": "I let thoughts pass, like clouds in sky.",
+      "telugu": "ఆ ఆలోచనలను వదిలేస్తాను, ఆకాశంలో మేఘాల్లా.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243959"
+    },
+    {
+      "english": "I’m proud of my honesty, even messy days.",
+      "telugu": "నేను నిజాయితీగా ఉన్నందుకు గర్వంగా ఉంది, అస్తవ్యస్త రోజుల్లో కూడా.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243963"
+    },
+    {
+      "english": "What I can’t change, I release with love.",
+      "telugu": "నేను మార్చలేనిదాన్ని, ప్రేమతో వదిలేస్తాను.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243966"
+    },
+    {
+      "english": "I keep it real, then I steady my steps.",
+      "telugu": "నిజంగా ఉంచి, తర్వాత నా అడుగులు స్థిరం చేస్తాను.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243969"
+    },
+    {
+      "english": "Sometimes the win is, I didn’t quit.",
+      "telugu": "కొన్నిసార్లు విజయం అంటే, నేను వదల్లేదు.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243972"
+    },
+    {
+      "english": "I notice what triggers me, then choose better.",
+      "telugu": "నన్ను ట్రిగర్ చేసే దాన్ని గమనిస్తాను, తర్వాత బాగా ఎంచుకుంటాను.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243974"
+    },
+    {
+      "english": "My heart heals slowly, and that’s okay.",
+      "telugu": "నా గుండె నెమ్మదిగా బాగవుతుంది, అది సరే.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243977"
+    },
+    {
+      "english": "I don’t compare, I grow at my pace.",
+      "telugu": "నేను పోల్చుకోను, నా వేగానికి నేను పెరుగుతాను.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243980"
+    },
+    {
+      "english": "Today, I’ll be kind, even to my doubt.",
+      "telugu": "ఈ రోజు, నా సందేహానికీ కూడా దయగా ఉంటాను.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243983"
+    },
+    {
+      "english": "Before meetings, breathe deep, then speak gently.",
+      "telugu": "మీటింగ్స్ ముందు, లోతుగా శ్వాస తీసుకో, నెమ్మదిగా మాట్లాడూ.",
+      "category": "Happiness",
+      "generated_at": "2026-11-11T10:32:06.243986"
     }
   ],
-  "last_updated": "2026-11-10T10:57:45.878037"
+  "last_updated": "2026-11-11T10:32:06.243988"
 }
