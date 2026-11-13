@@ -17999,7 +17999,399 @@
       "telugu": "మీటింగ్స్ ముందు, లోతుగా శ్వాస తీసుకో, నెమ్మదిగా మాట్లాడూ.",
       "category": "Happiness",
       "generated_at": "2026-11-11T10:32:06.243986"
+    },
+    {
+      "english": "How much is this per piece?",
+      "telugu": "ఇది ఒక్కటి ఎంత అవుతుంది?",
+      "transliteration": "Idi okkati ENta avutundi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Do you have it in brown?",
+      "telugu": "దీనిని బ్రౌన్‌లో ఉందా?",
+      "transliteration": "Deenini BROWN-lo undaa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Can I try it on, please?",
+      "telugu": "దయచేసి ఇది ట్రై చేయనా?",
+      "transliteration": "DayachEsi idi TRY cheyyanaa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Is there a discount for today?",
+      "telugu": "ఈ రోజు డిస్కౌంట్ ఏమైనా ఉందా?",
+      "transliteration": "Ee roju DISкаунt eemainaa undaa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "What’s the price without tax?",
+      "telugu": "టాక్స్ లేకుండా ఎంత ఖర్చవుతుంది?",
+      "transliteration": "TAKS lEkuNDA enTaa kharchavutundi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Does it come with warranty?",
+      "telugu": "దీనికి వారంటీ ఉందా?",
+      "transliteration": "Deeniki WARANTEE undaa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Can I pay with UPI here?",
+      "telugu": "ఇక్కడ UPI తో చెల్లించవచ్చా?",
+      "transliteration": "Ikkada UPI to chellinchavachaa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I forgive you, let’s move on.",
+      "telugu": "నేను నిన్ను క్షమిస్తున్నాను, ముందుకు వెళ్లుదాం.",
+      "transliteration": "NENU NINNU KSHAMISTUNNANU, MUNDUKU VELLUDAM.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "It hurt, but I choose forgiveness.",
+      "telugu": "నొప్పించింది, కానీ నేను క్షమనే ఎంచుకుంటున్నాను.",
+      "transliteration": "NOPPINCHINDI, KANI NENU KSHAME ENCHUKUNTUNNANU.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Please drop it, I’m forgiving you.",
+      "telugu": "దాన్ని వదిలేయండి, నేను క్షమిస్తున్నాను.",
+      "transliteration": "DAANNI VADILEYANDI, NENU KSHAMISTUNNANU.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "You didn’t mean it, it’s okay.",
+      "telugu": "మీ ఉద్దేశం అలా కాదు, సరే.",
+      "transliteration": "MEE UDDESAM ALA KADU, SARAYE.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Let’s talk calmly, no blaming.",
+      "telugu": "మనము ప్రశాంతంగా మాట్లాడుదాం, నిందించకుండా.",
+      "transliteration": "MANAMU PRA,SANTANGA MATLADUDAM, NINDINCHAKUNDA.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I forgive you for that mistake.",
+      "telugu": "ఆ తప్పుకు నేను నిన్ను క్షమిస్తున్నాను.",
+      "transliteration": "AA TAPPUKU NENU NINNU KSHAMISTUNNANU.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Thanks for apologizing, I accept it.",
+      "telugu": "క్షమాపణ చెప్పినందుకు ధన్యవాదాలు, నేను అంగీకరిస్తున్నాను.",
+      "transliteration": "KSHAMAPANA CHEPPINANDUKU DHANYAVAADALU, NENU ANGEEKARISTUNNANU.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Where is the check-in desk?",
+      "telugu": "చెక్ ఇన్ కౌంటర్ ఎక్కడ ఉంది?",
+      "transliteration": "cek in COUNTER ekkaDa undi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "My flight is delayed, what now?",
+      "telugu": "నా విమానం ఆలస్యమైంది, ఇప్పుడు ఏం చేయాలి?",
+      "transliteration": "naa vimaanam aaLASYamainadi, ippuDu EEm cheyyaali?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Can I get a window seat?",
+      "telugu": "విండో సీట్ దొరుకుతుందా?",
+      "transliteration": "WIN do SEAT dorukutundaa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Do I need a boarding pass?",
+      "telugu": "బోర్డింగ్ పాస్ తప్పనిసరా?",
+      "transliteration": "BOARDing PASS tappanisar aa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Where is security screening?",
+      "telugu": "సెక్యూరిటీ చెకింగ్ ఎక్కడ చేస్తారు?",
+      "transliteration": "sekYUU riti chekING ekkaDa chEstaaru?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Please tell me the gate number.",
+      "telugu": "దయచేసి గేట్ నంబర్ చెప్పండి.",
+      "transliteration": "dayachEsi gATE Nambar cheppandi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I have hand luggage only.",
+      "telugu": "నా దగ్గర హ్యాండ్ లగేజ్ మాత్రమే ఉంది.",
+      "transliteration": "naa daggara HAND lagaaj maathrame undi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Right now, breathe and soften.",
+      "telugu": "ఇప్పుడే శ్వాస తీసుకోండి, మృదువుగా అవ్వండి.",
+      "transliteration": "Ippuḍe shvāsa teesukondi, mṛduvāga avvandi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "My mind can settle today.",
+      "telugu": "నా మనసు ఈ రోజు కుదుట పడుతుంది.",
+      "transliteration": "Nā manasu ī roju kuḍuṭa paḍutundi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I let the worry pass by.",
+      "telugu": "నేను ఆ టెన్షన్‌ను వెళ్లనిస్తాను.",
+      "transliteration": "Nēnu ā tension-nu veḷlanistānu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "No need to answer every thought.",
+      "telugu": "ప్రతి ఆలోచనకు సమాధానం చెప్పాల్సిన అవసరం లేదు.",
+      "transliteration": "Prati ālōchanaku samādhānaṁ cheppalsina avasaram lēdu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Sit quietly, my shoulders drop.",
+      "telugu": "నిశ్శబ్దంగా కూర్చోండి, నా భుజాలు తగ్గుతాయి.",
+      "transliteration": "Nishshabdaṅgā kūrchoṇdi, nā bhujālu taggutāyi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I choose calm over reacting.",
+      "telugu": "ప్రతిస్పందించడం కంటే నేను శాంతిని ఎంచుకుంటాను.",
+      "transliteration": "Prati-spandinchadam kante nēnu shāntini eṅchukuntānu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "One slow sip, and I'm okay.",
+      "telugu": "ఒక నెమ్మదిగా తాగండి, నేను బాగానే ఉంటాను.",
+      "transliteration": "Oka nemmadigā tāgandi, nēnu bāgāṇē unṭānu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "How do you warm up before running?",
+      "telugu": "పరిగెత్తే ముందు మీరు ఎలా వార్మ్ అప్ చేస్తారు?",
+      "transliteration": "pariGetthe muMdu mIru elA vArM aP chEstAru?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I’m trying interval training this week.",
+      "telugu": "ఈ వారం నేను ఇంటర్వల్ ట్రైనింగ్ ప్రయత్నిస్తున్నాను.",
+      "transliteration": "I vArM nEnu INTarval trainiNg prayatnistunnaanu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Can you spot me during squats?",
+      "telugu": "స్క్వాట్స్ చేసే సమయంలో మీరు నన్ను గమనిస్తారా?",
+      "transliteration": "skvAts chEsE sAmyM lO mIru nannu gamanisthArA?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "My smartwatch says I hit my goal.",
+      "telugu": "నా స్మార్ట్‌వాచ్ నా గోల్‌ని చేరిందని చెబుతోంది.",
+      "transliteration": "nA smartvAch nA gOlnI chErindani chEbtundi.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I’ll walk instead of driving today.",
+      "telugu": "ఈరోజు డ్రైవ్ చేయకుండా నేను నడుస్తాను.",
+      "transliteration": "I rOju driV chEyakunda nEnu naDustaanu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "What’s your favorite post-workout snack?",
+      "telugu": "వర్కౌట్ తర్వాత మీకు ఇష్టమైన స్నాక్ ఏది?",
+      "transliteration": "workout tarvAta mIku ishTamaina snAk eDi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I drink water, then stretch for ten minutes.",
+      "telugu": "నేను నీరు తాగి, పది నిమిషాలు స్ట్రెచ్ చేస్తాను.",
+      "transliteration": "nEnu nIru tAgi, padI nimiShAlu stretch chEstaanu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Pause, breathe, feel your body.",
+      "telugu": "ఆగండి, శ్వాస తీసుకోండి, మీ శరీరాన్ని అనుభవించండి.",
+      "transliteration": "AAgandi, SHvaasa teesukondi, mee shareeraanni anubhavinchandi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Right now, notice the next sound.",
+      "telugu": "ఇప్పుడే, తర్వాత వచ్చే శబ్దాన్ని గమనించండి.",
+      "transliteration": "IvvaDe, taruvāta vacche SHabdaanni gamaninchandi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Soften your jaw, let go of tension.",
+      "telugu": "మీ దవడను نرمగా చేయండి, టెన్షన్ విడిచేయండి.",
+      "transliteration": "Mee davadanu narmagaa chEeyandi, TenSHan vidichEyandi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Check in with your emotions quietly.",
+      "telugu": "మీ భావాలను నెమ్మదిగా చూసుకోండి.",
+      "transliteration": "Mee bhaavaalanu nemmadi gaa choosukondi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Shoulders down, breathe in calmly.",
+      "telugu": "భుజాలు కింద పెట్టండి, ప్రశాంతంగా శ్వాస తీసుకోండి.",
+      "transliteration": "BhujAalu kindapeTTandi, praSaaMtanga SHvaasa teesukondi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Before you speak, take one mindful breath.",
+      "telugu": "మీరు మాట్లాడే ముందు, ఒక సావధాన శ్వాస తీసుకోండి.",
+      "transliteration": "Meeru maatlaaDE mundu, oka saavadhāna SHvaasa teesukondi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Feel your feet, even while waiting.",
+      "telugu": "ఎదురుచూస్తున్నప్పటికీ మీ పాదాలను అనుభవించండి.",
+      "transliteration": "EduruchooStunnappatikii mee paadaalanu anubhavinchandi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Tell me your real purpose.",
+      "telugu": "మీ నిజమైన ఉద్దేశ్యం చెప్పండి,",
+      "transliteration": "mee NIJAamainA UDDESEYAM cheppandi,",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I called with a clear purpose.",
+      "telugu": "నేను ఒక స్పష్టమైన ఉద్దేశ్యంతోనే కాల్ చేశాను,",
+      "transliteration": "nEnu O SPasHTamaina UDDEseyamtoNE kAL cheSAnu,",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "What’s your intention here?",
+      "telugu": "ఇక్కడ మీ ఉద్దేశ్యం ఏమిటి,",
+      "transliteration": "iKKaDa mee UDDEseyam Emaiti,",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I need this for a purpose.",
+      "telugu": "ఇది నాకు ఒక ఉద్దేశ్యం కోసం కావాలి,",
+      "transliteration": "idi naaku O UDDEseyam kOsaM kaavaali,",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "My goal is simple, help you.",
+      "telugu": "నా ఉద్దేశ్యం సింపుల్, మీకు సహాయం చేయడం,",
+      "transliteration": "naa UDDEseyam SIMPLE, mee ku sahAyaM cheyyadam,",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "We’re here for a good reason.",
+      "telugu": "మంచి కారణం కోసం మేము ఇక్కడ ఉన్నాం,",
+      "transliteration": "manchi kaaraNaM kOsaM mEmu iKKaDa unnaam,",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "That decision serves no purpose.",
+      "telugu": "ఆ నిర్ణయం ఏ ఉద్దేశ్యానికి ఉపయోగపడదు,",
+      "transliteration": "aa nirNayaM E UDDEseyAniki upayOgapaDadu,",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Let’s pick a time for tomorrow.",
+      "telugu": "రేపటికి సమయం ఎంచుకుందాం,",
+      "transliteration": "rEpatiki samayam eNchukundAm,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I need a quick plan for tonight.",
+      "telugu": "ఈ రాత్రికి నాకు ఒక త్వరిత ప్రణాళిక కావాలి,",
+      "transliteration": "ī rātriki naaku oka tvarita praṇāḷika kaavāli,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Can we make a checklist together?",
+      "telugu": "మనము కలిసి ఒక చెక్‌లిస్ట్ తయారు చేయగలమా,",
+      "transliteration": "manamu kalisi oka chek-list tayāru ceyyagalAmā,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "First, let’s decide the budget.",
+      "telugu": "ముందుగా బడ్జెట్ నిర్ణయిద్దాం,",
+      "transliteration": "muṃdugā baḍjeṭ nirṇayiddām,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "What’s our backup plan if it rains?",
+      "telugu": "వర్షం పడ్డా మన బ్యాకప్ ప్రణాళిక ఏమిటి,",
+      "transliteration": "varṣaṃ paḍḍā mana b yāk-ap praṇāḷika ēmiti,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "I’ll book the tickets, you handle dinner.",
+      "telugu": "నేను టికెట్లు బుక్ చేస్తాను, నువ్వు డిన్నర్ చూసుకో,",
+      "transliteration": "nēnu ṭikеṭlu bukk chEstānu, nuvvu dinner cUsukō,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T23:45:44.081203"
+    },
+    {
+      "english": "Let’s set reminders on our phones.",
+      "telugu": "మన ఫోన్లలో రిమైండర్లు సెట్ చేద్దాం,",
+      "transliteration": "mana fōn-lō rimainḍarlu sēt ce-ddām,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T23:45:44.081203"
     }
   ],
-  "last_updated": "2026-11-11T10:32:06.243988"
+  "last_updated": "2026-11-12T23:45:44.081203"
 }
