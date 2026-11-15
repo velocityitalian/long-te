@@ -19175,7 +19175,399 @@
       "transliteration": "Ī rOju nēnu adRUshtam kanna shramanu eNchukunNAnu.",
       "category": "Growth",
       "generated_at": "2026-11-14T22:37:23.678431"
+    },
+    {
+      "english": "Say it clearly, then move on.",
+      "telugu": "స్పష్టంగా చెప్పు, ఆ తర్వాత ముందుకు కదలూ.",
+      "transliteration": "spashtanga cheppu, ā taruvāta munduku kaḍlū.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I trust my judgment, today.",
+      "telugu": "నేడు నా నిర్ణయంపై నాకు నమ్మకం.",
+      "transliteration": "nēḍu nā nirṇayampai nāku namm̄akam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I’ll speak up, even if I’m nervous.",
+      "telugu": "భయంగా ఉన్నా కూడా నేను మాట్లాడేస్తాను.",
+      "transliteration": "bhayaṅgā unnā kuda nēnu mātāḍestān u.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Let’s try, and learn as we go.",
+      "telugu": "మనం ప్రయత్నిద్దాం, వెళ్తూ నేర్చుకుందాం.",
+      "transliteration": "manam prayatnin̄caddām, veḷtū nērchukundām.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I don’t need perfection, just progress.",
+      "telugu": "పరిపూర్ణత అవసరం లేదు, పురోగతి చాలు.",
+      "transliteration": "paripūrṇata avasaram lēdu, purōgati chālu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I can start small, it’s okay.",
+      "telugu": "చిన్నగా మొదలుపెట్టినా పర్లేదు.",
+      "transliteration": "chinnagā modalupettinā parlēdu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "My effort will show results.",
+      "telugu": "నా ప్రయత్నం ఫలితాలు చూపిస్తుంది.",
+      "transliteration": "nā prayatnam phalita lu chūpistundi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Boss, i m running a bit late",
+      "telugu": "బాస్, నేను కొంచెం లేట్ అవుతున్నాను",
+      "transliteration": "Boss, nēnu konchēm LĒT avuthunnaanu",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Hold on, wait a second",
+      "telugu": "ఒక్క క్షణం ఆగు, సెకండ్",
+      "transliteration": "Oka kshaṇam āgu, sekṇd",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "No worries, it s on me",
+      "telugu": "లేదులే, నేను చూసుకుంటాను",
+      "transliteration": "Lēdulē, nēnu chūsukuntānu",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "That s a good one, for real",
+      "telugu": "అది బాగుంది, నిజంగా",
+      "transliteration": "Adi bāgundi, nijangā",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I ll explain in plain words",
+      "telugu": "సాదాగా చెప్పిస్తాను",
+      "transliteration": "Sāḍāgā cheppisthānu",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Why you so serious today",
+      "telugu": "ఈరోజు నువ్వు అంత సీరియస్ ఏందుకు",
+      "transliteration": "Īrojū nuvvu antha SERĮS ēnduku",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Let s not overthink it",
+      "telugu": "దాన్ని ఎక్కువగా ఆలోచించద్దు",
+      "transliteration": "Dānni ekkuvāga ālo chinchaddu",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Can you check my symptoms, please?",
+      "telugu": "నా లక్షణాలు చెక్ చేస్తారా, ప్లీజ్.",
+      "transliteration": "Naa LAKSHANAALU CHECK chesTARA, PLEASE.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "What’s the soonest appointment?",
+      "telugu": "అత్యంత త్వరగా ఎప్పుడు అపాయింట్‌మెంట్ ఉంటుంది.",
+      "transliteration": "ATYANTHA THWARAGA ePPUDU APPOINTMENT uMTUundi.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Do I need a prescription?",
+      "telugu": "ఇది కోసం ప్రిస్క్రిప్షన్ అవసరమా.",
+      "transliteration": "IDI KOసం PRESCRIPTION avasaramA?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Is this medicine safe for me?",
+      "telugu": "ఈ మందు నాకు సేఫా, డాక్టర్.",
+      "transliteration": "Ee MANdu naaku SAFEaa, DOCTOR.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I have allergies, tell me carefully.",
+      "telugu": "నాకు అలర్జీలు ఉన్నాయి, జాగ్రత్తగా చెప్పండి.",
+      "transliteration": "Naaku aLARJIELU unnAyi, JaAGRATTHaga cheppanDi.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Can I take it with food?",
+      "telugu": "ఇది తినడం తర్వాత తీసుకోవచ్చా.",
+      "transliteration": "IDI TINdaM tarvaata teesukovaChchA?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "What side effects should I watch?",
+      "telugu": "ఏ సైడ్ ఎఫెక్ట్స్ జాగ్రత్తగా చూడాలి.",
+      "transliteration": "E sAID efekTs JAGRATTHaga chUDaalI.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I check my balance before I buy.",
+      "telugu": "నేను కొనడానికి ముందు బ్యాలెన్స్ చెక్ చేస్తాను,",
+      "transliteration": "nenu konadaniki munde balance chek chestaanu, STRESS",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Set up auto-pay for my bills.",
+      "telugu": "నా బిల్లులకి ఆటో పేమెంట్ సెట్ చేసాను,",
+      "transliteration": "naa billulaki auto payment set chesaaN, STRESS",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I keep my card PIN private.",
+      "telugu": "నా కార్డ్ పిన్ ని ఎప్పుడూ గోప్యంగా ఉంచుతాను,",
+      "transliteration": "naa card pin ni eppudu goopyamgaa unchutaanu, STRESS",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I track every expense, small too.",
+      "telugu": "ప్రతి ఖర్చుని ట్రాక్ చేస్తాను, చిన్నదైనా సరే,",
+      "transliteration": "prati kharchuni track chestaanu, chinnadi aina sare, STRESS",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I review statements, no surprises later.",
+      "telugu": "స్టేట్ మెంట్ ని చూసుకుంటాను, తరువాత షాక్ ఉండదు,",
+      "transliteration": "statement ni chusukuntaanu, taruvata shock undadu, STRESS",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Transfers go through, I confirm quickly.",
+      "telugu": "ట్రాన్స్‌ఫర్ అయిన వెంటనే నేను వెంటనే కన్ఫర్మ్ చేస్తాను,",
+      "transliteration": "transfer ayina ventane nenu ventane confirm chestaanu, STRESS",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I choose savings first, then spending.",
+      "telugu": "నేను ముందుగా సేవింగ్స్ పెడతాను, తర్వాతనే ఖర్చు చేస్తాను,",
+      "transliteration": "nenu munde savings pedtaanu, taruvataane kharchu chestaanu, STRESS",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I m swamped, can we reschedule?",
+      "telugu": "నేను బాగా బిజీగా ఉన్నాను, మనం మళ్లీ టైమ్ కుద్దుకుందామా?",
+      "transliteration": "nēnu bāgā bījīgā unnānu, manam malli taim kuddhukundāmā?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Could you share that document, please?",
+      "telugu": "దయచేసి ఆ డాక్యుమెంట్ షేర్ చేయగలరా?",
+      "transliteration": "dayachēsi ā ḍākument shār karagalārā?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Let me check the schedule quickly.",
+      "telugu": "నేను షెడ్యూల్‌ ను త్వరగా చూసుకుంటాను.",
+      "transliteration": "nēnu shēḍyūl nu tvaragā chūsukuntānu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I need an update on this task.",
+      "telugu": "ఈ పని మీద నాకు ఒక అప్డేట్ కావాలి.",
+      "transliteration": "ī pani mēda naaku oka apḍēṭ kāvāli.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "What s the next step for me?",
+      "telugu": "నా కోసం తదుపరి అడుగు ఏమిటి?",
+      "transliteration": "nā kōsam tadupari aḍugu ēmiti?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Can we align on priorities today?",
+      "telugu": "ఈ రోజే ప్రాధాన్యతల విషయంలో మనం సరిపోలుదాం?",
+      "transliteration": "ī rōjē prādhānyatala viṣayaṁlō manam saripōludāmā?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Please clarify the email instructions.",
+      "telugu": "దయచేసి ఈమెయిల్ సూచనలను క్లియర్‌గా చెప్పండి.",
+      "transliteration": "dayachēsi īmēil sūcanalanu klīyar gā cheppandi.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I miss you, let me come closer.",
+      "telugu": "నీకోసం నేను మిస్ అవుతున్నాను, నిన్ను దగ్గరగా చేరాలని ఉంది.",
+      "transliteration": "Neekosam nenu MISS avutunnaanu, ninnu DAGGARAKI cheraalani undi.",
+      "category": "Love",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Stay with me through the busy days.",
+      "telugu": "ఈ బిజీ రోజుల్లో కూడా నాతోనే ఉండు.",
+      "transliteration": "Ee BIZI ROJULLO kooda naathone UNDU.",
+      "category": "Love",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Your laugh makes my worries smaller.",
+      "telugu": "నీ నవ్వు నా కంగారును చిన్నది చేస్తుంది.",
+      "transliteration": "Nee navvu naa kangaaraunu CHINNadi chestundi.",
+      "category": "Love",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I want to build trust with you.",
+      "telugu": "నీతో కలిసి నమ్మకాన్ని కట్టాలని ఉంది.",
+      "transliteration": "Neetho kalisi NAMMAKAanni kattanai undi.",
+      "category": "Love",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Let me hold your hand tonight.",
+      "telugu": "ఈ రాత్రి నీ చేతిని నా చేతిలోకి తీసుకుందాం.",
+      "transliteration": "Ee RAATRI nee chethini naa chethiloki teesukundaam.",
+      "category": "Love",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I choose you, again and again.",
+      "telugu": "నేను నిన్నే ఎంచుకుంటాను, మళ్లీ మళ్లీ.",
+      "transliteration": "Nenu NINNE enchoo kuntaanu, MALLI malli.",
+      "category": "Love",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Tell me what you need right now.",
+      "telugu": "ఇప్పుడే నీకు ఏమి కావాలి చెప్పు.",
+      "transliteration": "Ippude neeku Emi kaavaali cheppu.",
+      "category": "Love",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I showed up, even scared.",
+      "telugu": "నేను భయంగా ఉన్నా కూడా చూపించాను.",
+      "transliteration": "nēnu bhayaṅgā unnā kuda chūpīn̄chānū.",
+      "category": "Success",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Today I chose myself, gently.",
+      "telugu": "ఈ రోజు నేను నన్నే ఎంచుకున్నాను, సున్నితంగా.",
+      "transliteration": "ī rōju nēnu nan̄nē en̄chukun̄nānu, sunnitaṅgā.",
+      "category": "Success",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "My effort finally matches my goals.",
+      "telugu": "నా ప్రయత్నం ఇప్పుడు నా లక్ష్యాలకు సరిపోతుంది.",
+      "transliteration": "nā prayatnam ippuḍu nā lakshyalaku saripōtundi.",
+      "category": "Success",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I kept my promise to me.",
+      "telugu": "నేను నాకు ఇచ్చిన వాగ్దానాన్ని నిలబెట్టుకున్నాను.",
+      "transliteration": "nēnu nāku icchina vāgḍānaṁ niḷabēṭṭukun̄nānu.",
+      "category": "Success",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Small wins add up, quietly.",
+      "telugu": "చిన్న విజయాలు నెమ్మదిగా కూడగడతాయి.",
+      "transliteration": "chinna vijayālU nEmmadi gā kUDagadatāyi.",
+      "category": "Success",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I learned to stop blaming.",
+      "telugu": "నిందించడం ఆపడం నేర్చుకున్నాను.",
+      "transliteration": "nindin̄chaḍaṁ āpaḍaṁ nērchukun̄nānu.",
+      "category": "Success",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "This is my comeback, not luck.",
+      "telugu": "ఇది నా రీ-కమ్‌బ్యాక్, అదృష్టం కాదు.",
+      "transliteration": "idi nā rī-kam-byāk, aḍrustam kādu.",
+      "category": "Success",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Good morning, I’ll take it gently.",
+      "telugu": "శుభోదయం, నేను దీన్ని మృదువుగా తీసుకుంటాను.",
+      "transliteration": "Shubhodayam, nEnu dIni ni mruduvugA teesukuntAnu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I check my day before it rushes.",
+      "telugu": "అది పరుగెత్తే ముందు నేను నా రోజును చూసుకుంటాను.",
+      "transliteration": "adi parrugette mundu nEnu nA rOjunu chUsukuntAnu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I stretch, then start with one task.",
+      "telugu": "నేను కొంచెం స్ట్రెచ్ చేస్తాను, తర్వాత ఒక పని మొదలుపెడతాను.",
+      "transliteration": "nEnu konchem stretch chEstAnu, taruvAta oka pani modalupedatAnu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Coffee helps, but I eat too.",
+      "telugu": "కాఫీ కుదురుతుంది, కానీ నేను తింటాను కూడా.",
+      "transliteration": "kAphI kudurutundi, kAni nEnu tintAnu kUDA.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I tidy my space for ten minutes.",
+      "telugu": "నేను నా స్థలాన్ని పది నిమిషాలు సర్దుతాను.",
+      "transliteration": "nEnu nA sThalAnni padi nimishAlu sarDutAnu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I wash up slowly, no rushing.",
+      "telugu": "నేను నెమ్మదిగా స్నానం చేసి శుభ్రం అవుతాను, తొందరేం లేదు.",
+      "transliteration": "nEnu nemmadigA snAnam chEsi shubhraM avutAnu, tondarEm lEdu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "I put my phone away after lunch.",
+      "telugu": "మధ్యాహ్న భోజనం తర్వాత నేను ఫోన్ దూరంగా పెడతాను.",
+      "transliteration": "madhyAhna bhOjanam taruvAta nEnu phOn dUraMgA peDatAnu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-15T23:01:11.023560"
     }
   ],
-  "last_updated": "2026-11-14T22:37:23.678431"
+  "last_updated": "2026-11-15T23:01:11.023560"
 }
