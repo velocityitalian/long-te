@@ -19567,7 +19567,399 @@
       "transliteration": "madhyAhna bhOjanam taruvAta nEnu phOn dUraMgA peDatAnu.",
       "category": "Daily Routine",
       "generated_at": "2026-11-15T23:01:11.023560"
+    },
+    {
+      "english": "Hi, it's nice to finally meet you.",
+      "telugu": "హాయ్, చివరకు మీను కలవడం ఆనందంగా ఉంది.",
+      "transliteration": "Hai, CHIVARAKU miiNU kalavadam aanandamgaa undi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "What’s your name, and what do you do?",
+      "telugu": "మీ పేరు ఏమిటి, మీరు ఏం చేస్తారు?",
+      "transliteration": "mii pEru EmiiTi, meeru Em chEstaaru?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Thanks for saying hello to me.",
+      "telugu": "నాతో హాయ్ చెప్పినందుకు ధన్యవాదాలు.",
+      "transliteration": "naatO hai cheppinanduku dhanyavaadaalu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "I’m glad we crossed paths today.",
+      "telugu": "ఈరోజు మన మార్గాలు కలిసినందుకు సంతోషం.",
+      "transliteration": "iiROju mana maargaaLu kalisinanduku santoSham.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "How are you feeling today, honestly?",
+      "telugu": "నిజంగా చెప్పాలంటే, ఈరోజు మీరు ఎలా ఫీలవుతున్నారు?",
+      "transliteration": "nijangaa cheppaalante, iiROju meeru elaa FEEL avutunnaaru?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "May I introduce myself, I’m Sam.",
+      "telugu": "మీకు నా పరిచయం చేసుకోవచ్చా, నేను సామ్.",
+      "transliteration": "mIku naa pariichayam chEsukovachchaa, nEnu saAm.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "It’s great to hear your voice again.",
+      "telugu": "మళ్లీ మీ మాటలు వినడం చాలా బాగుంది.",
+      "transliteration": "maLLii mii maaTalu vinadam chalaa baagundi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Knowledge becomes power when you use it.",
+      "telugu": "జ్ఞానం వాడితేనే శక్తి అవుతుంది.",
+      "transliteration": "GYAANAM VAADITHE NEE SHAKTHI AVUTUNDI.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Ask questions, let wisdom grow.",
+      "telugu": "ప్రశ్నలు అడగండి, జ్ఞానం పెరుగనివ్వండి.",
+      "transliteration": "PRASHNALU ADAGANDI, GYAANAM PERUGANIVVANDI.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Small lessons add up over time.",
+      "telugu": "చిన్న పాఠాలు కాలక్రమేణా కూడిపోతాయి.",
+      "transliteration": "CHINNA PAATHAALU KAALAKRAMEÑA KOOÐIPOTAAYI.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Real understanding changes your choices.",
+      "telugu": "నిజమైన అర్థం మీ నిర్ణయాలను మార్చుతుంది.",
+      "transliteration": "NIJAMAINA ARDHAM MEE NIRNAYAALU MAARCHUTUNDI.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Read widely, think deeply, act wisely.",
+      "telugu": "విస్తృతంగా చదవండి, లోతుగా ఆలోచించండి, తెలివిగా చేయండి.",
+      "transliteration": "VISTRUTHAMGA CHADAVANDI, LOTHUGA ALOCHINCHANDI, TELIVIGAA CHEYANDI.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Wrong ideas, corrected fast, help you learn.",
+      "telugu": "తప్పు మాటలు త్వరగా సరిచేస్తే నేర్చుకోవడం సులువు.",
+      "transliteration": "THAPPU MAATALU THWARAGA SARICHESTHE NERCHUKOVADAM SULUVU.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Wisdom listens first, then speaks.",
+      "telugu": "తెలివి ముందు వింటుంది, తర్వాత మాట్లాడుతుంది.",
+      "transliteration": "TELIVI MUNDU VINTUNDI, TARWĀTA MATLAADUTUNDI.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "I feel nervous, but I can do it.",
+      "telugu": "నాకు టెన్షన్‌గా ఉంది, అయినా నేను చేయగలను.",
+      "transliteration": "Naaku TENS-ən gaa undi, Ainaa Nenu CHEY-galanu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Right now, I feel excited and ready.",
+      "telugu": "ఇప్పుడే నాకు ఉత్సాహం, సిద్ధంగా ఉన్నాను.",
+      "transliteration": "IppuDE naaku UT-SA-haM, siDDangaa unnaanu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "That compliment made me blush.",
+      "telugu": "ఆ ప్రశంస నన్ను సిగ్గుపడేలా చేసింది.",
+      "transliteration": "Aa PRA-SAN-sa nannu SIG-gu paDE-laa chEsindi.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "I’m missing you more than usual.",
+      "telugu": "నిన్ను సాధారణంగా కంటే ఎక్కువగా మిస్ అవుతున్నాను.",
+      "transliteration": "Ninnu saadhaaraNangaa Kante ekkuva gaa miss avuthunnaanu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "I feel lonely, but I’m reaching out.",
+      "telugu": "నాకు ఒంటరితనంగా ఉంది, అయినా నేను సంప్రదిస్తున్నాను.",
+      "transliteration": "Naaku ON-ta-ri-than-gaa undi, ainaa nEnu SAM-pradinchuthunnaanu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "I’m proud, and I still want to grow.",
+      "telugu": "నాకు గర్వంగా ఉంది, అయినా ఇంకా ఎదగాలనుకుంటున్నాను.",
+      "transliteration": "Naaku GAR-vaangaa undi, ainaa inkaa EDGaalaanukuntunnaanu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Anger is here, so I’ll slow down.",
+      "telugu": "కోపం వస్తోంది, కాబట్టి నేను నెమ్మదిగా ఉంటాను.",
+      "transliteration": "KO-pam vasthondi, kaabatti nEnu nEM-madigaa untaanu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "I’ll try the chef’s special.",
+      "telugu": "నేను చెఫ్ స్పెషల్ ట్రై చేస్తాను.",
+      "transliteration": "NENU CHEF SPESHAL TRAY CEESTAANU.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Please pack it to go.",
+      "telugu": "ఇది టేక్ అవుట్‌గా ప్యాక్ చేస్తారా?",
+      "transliteration": "IDI TAKE OUT GA PAAK CEESTAARAA?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Can we split the bill, please?",
+      "telugu": "బిల్‌ను పంచుకుంటారా, దయచేసి?",
+      "transliteration": "BILNU PANCHUKUNTAARAA, DAYACHESI?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Do you have fresh lime soda?",
+      "telugu": "తాజా లైమ్ సోడా ఉందా?",
+      "transliteration": "TAAJAA LAIM SODAA UNDAA?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "No onions for me, please.",
+      "telugu": "నాకు ఉల్లిపాయలు వద్దు, దయచేసి.",
+      "transliteration": "NAKU ULLIPAAYALU VODDU, DAYACHESI.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "I’m allergic to nuts, just so you know.",
+      "telugu": "నాకు గింజలకు అలెర్జీ ఉంది, దయచేసి గుర్తుంచుకోండి.",
+      "transliteration": "NAKU GINJALAKU ALERJEE UNDI, DAYACHESI GURUTUNCHUKONDI.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Can I get extra rice, please?",
+      "telugu": "అదనంగా అన్నం ఇవ్వగలరా, దయచేసి?",
+      "transliteration": "ADANANGAA ANNAM IVA GALARAA, DAYACHESI?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Is this bus going to downtown?",
+      "telugu": "ఈ బస్సు డౌన్‌టౌన్‌కి వెళ్తుందా?",
+      "transliteration": "Ee BUS-su DAUN-TOON ki VEL-thundaa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Where do I tap my card?",
+      "telugu": "నా కార్డ్‌ని ఎక్కడ ట్యాప్‌ చేయాలి?",
+      "transliteration": "Naa CARD ni EKKada TAP cheyaali?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "How long is the next stop?",
+      "telugu": "తదుపరి స్టాప్‌కి ఎంత సమయం?",
+      "transliteration": "Tadupari STOP ki entha SAMayam?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Do I need exact change?",
+      "telugu": "ఖచ్చితమైన చిల్లర అవసరమా?",
+      "transliteration": "KHAChchi-tamaina CHILLara avasaramaa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Is there space for a wheelchair?",
+      "telugu": "వీల్‌చెయిర్‌కి స్థలం ఉందా?",
+      "transliteration": "VEEL-chei r ki STHALam undaa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Does this line run at night?",
+      "telugu": "ఈ లైన్‌ రాత్రి కూడా నడుస్తుందా?",
+      "transliteration": "Ee LINE raathri KooDA NADU-stundaa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Please let me off here, thanks.",
+      "telugu": "ఇక్కడ దిగి పోనిస్తారా, ధన్యవాదాలు.",
+      "transliteration": "IkkaDa DIGI po-nisthaaraa, dhan-ya-vaa-daalu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Friends like you make life lighter.",
+      "telugu": "మీలాంటి స్నేహితులు జీవితాన్ని తేలికగా చేస్తారు.",
+      "transliteration": "Mee laanti snehitulu jeevitaanni telikagaa chestaaru.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "I can be myself with you.",
+      "telugu": "నేను మీతోనే నిజంగా నన్నే నేను.",
+      "transliteration": "Nenu meekone nijangaa nanne nenu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Thanks for showing up for me.",
+      "telugu": "నా కోసం మీరు కనిపించడం నిజంగా ధన్యవాదాలు.",
+      "transliteration": "Naa kosam meeru kanipinchadam nijangaa dhanyavaadaalu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Let’s keep each other honest.",
+      "telugu": "మనిద్దరం నిజాయితీగా ఉండాలని కాపాడుకుందాం.",
+      "transliteration": "Maniddaram nijaaayiteegaa undaalani kaapaadukundaaam.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Your calls always mean a lot.",
+      "telugu": "మీ కాల్స్ ఎప్పుడూ నాకు చాలా అర్థం.",
+      "transliteration": "Mee calls eppuduu naaku chaalaa artham.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Even quiet time feels safe together.",
+      "telugu": "మనిద్దరం నిశ్శబ్దంగా ఉన్నా కూడా సేఫ్‌గా ఉంటుంది.",
+      "transliteration": "Maniddaram nishshabdaṅgaa unna aakaa safegaa untundi.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "We laugh, and that heals me.",
+      "telugu": "మనము నవ్వుతాం, అది నన్ను నయం చేస్తుంది.",
+      "transliteration": "Manamu navvutaam, adi nannu nayam chestundi.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Small steps beat perfect plans.",
+      "telugu": "చిన్న చిన్న అడుగులు, పర్ఫెక్ట్ ప్లాన్లను మించుతాయి.",
+      "transliteration": "Chinna chinna adugulu, PERFECT plans ni minchuthayi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Talk less, do more for growth.",
+      "telugu": "మాటలు తగ్గించండి, వృద్ధికి పనిని పెంచండి.",
+      "transliteration": "Matlu thagginchandi, vruddhiki pani ni penchandi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Choose one habit to upgrade today.",
+      "telugu": "ఈరోజే ఒక అలవాటును మెరుగుపరచండి.",
+      "transliteration": "Ee roje oka ALAVATU ni meruguparchandi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Set boundaries, protect your energy.",
+      "telugu": "పరిమితులు పెట్టండి, మీ శక్తిని కాపాడుకోండి.",
+      "transliteration": "Parimithulu pettandi, mee SHAKTHINI kaapaadukondi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "When stuck, ask one better question.",
+      "telugu": "ఇరుక్కుపోతే, ఒక మంచి ప్రశ్న అడగండి.",
+      "transliteration": "Irukkupothe, oka manchi PRAshna adigandi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Write your goals, then review weekly.",
+      "telugu": "మీ లక్ష్యాలు రాసుకోండి, వారానికి ఒకసారి చూడండి.",
+      "transliteration": "Mee LAKSHYALU raasukondi, vaaraniki okasari chudandi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Break big fears into bite-size actions.",
+      "telugu": "పెద్ద భయాలను చిన్న చిన్న పనులుగా విడదీయండి.",
+      "transliteration": "Pedda BAYALU ni chinna chinna panulugaa vidadeeyandi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Start where you are, right now.",
+      "telugu": "నేను ఉన్న చోట నుంచే, ఇప్పుడు మొదలుపెడతాను.",
+      "transliteration": "Nenu unna chota nunchi, ipude modalupedathaanu.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "One more try, then breathe.",
+      "telugu": "మరొకసారి ప్రయత్నించు, అప్పుడు నెమ్మదిగా శ్వాస తీసుకో.",
+      "transliteration": "Maro sari prayatninchu, appudu nemmadi ga shwaasa theesuko.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "I can do it, slowly.",
+      "telugu": "నేను చేయగలను, నెమ్మదిగా అయినా.",
+      "transliteration": "Nenu cheyagalanu, nemmadi ga aina.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Celebrate tiny wins, even quietly.",
+      "telugu": "చిన్న విజయాలకూ, నిశ్శబ్దంగానైనా సెలబ్రేట్ చేస్తాను.",
+      "transliteration": "Chinna vijayaalaku, nishshabdam gani aina celebrate chestaanu.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "I choose effort over excuses.",
+      "telugu": "నెపాలు కాదు, కృషిని నేను ఎంచుకుంటాను.",
+      "transliteration": "Nepaalu kaadu, krushini nenu enchukuntaanu.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Write it down, then follow through.",
+      "telugu": "దాన్ని రాసి పెట్టి, పూర్తిచేసే వరకు వెళ్తాను.",
+      "transliteration": "Daani raasi pett i, poorthi chese varaku veltanu.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T01:56:36.010180"
+    },
+    {
+      "english": "Ask, practice, repeat, no shame.",
+      "telugu": "అడుగు, ప్రాక్టీస్ చేయి, మళ్లీ చేయి, సిగ్గు పడొద్దు.",
+      "transliteration": "Adugu, practice cheyyi, malli cheyyi, siggu padoddu.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T01:56:36.010180"
     }
   ],
-  "last_updated": "2026-11-15T23:01:11.023560"
+  "last_updated": "2026-11-17T01:56:36.010180"
 }
