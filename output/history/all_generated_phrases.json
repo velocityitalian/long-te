@@ -20743,7 +20743,399 @@
       "transliteration": "Manam madhya ika śikṣa lēdu.",
       "category": "Forgiveness",
       "generated_at": "2026-11-19T00:34:56.208193"
+    },
+    {
+      "english": "Help me understand the main aim.",
+      "telugu": "నాకు ముఖ్య ఉద్దేశ్యం చెప్పండి, దయచేసి.",
+      "transliteration": "Naaku mukhya uddeSyaM cheppandi, dayachEsi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "What are you trying to achieve?",
+      "telugu": "మీరు ఏం సాధించాలనుకుంటున్నారు?",
+      "transliteration": "MEEru EM saavushinchAlanukuntunnAru?",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I’m calling to fix this issue.",
+      "telugu": "ఈ సమస్యను పరిష్కరించడానికి నేను ఫోన్ చేస్తున్నాను.",
+      "transliteration": "Ee samasyanu parishkarinchadaniki nEnu phOn panutunnAnu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Let’s talk, what’s the purpose?",
+      "telugu": "మాట్లాడదాం, ఉద్దేశ్యం ఏమిటో చెప్పండి.",
+      "transliteration": "MaaTlADadAM, uddeSyaM EmiTO cheppandi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Are you here for business or help?",
+      "telugu": "మీరు పనికి వచ్చారా, లేక సహాయం కోసం వచ్చారా?",
+      "transliteration": "MEEru paniki vachchArA, lEka sahAyaM kOsam vachchArA?",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I need your reason in plain words.",
+      "telugu": "మీ కారణం సులువుగా చెప్పండి.",
+      "transliteration": "Mee kaaraNaM suLuvugA cheppandi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "This meeting has a clear objective.",
+      "telugu": "ఈ సమావేశానికి స్పష్టమైన ఉద్దేశ్యం ఉంది.",
+      "transliteration": "Ee saBhaYaaniki spashTamaina uddeSyaM undi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Is there any offer on this?",
+      "telugu": "దీనిపై ఏదైనా ఆఫర్ ఉందా?",
+      "transliteration": "Dheenipai Edaina OFFER unda?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "What sizes do you have in stock?",
+      "telugu": "మీ దగ్గర ఏ సైజులు స్టాక్‌లో ఉన్నాయి?",
+      "transliteration": "Mee daggara E SAIZULU STOCK-lo unnayi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Do you have a medium, please?",
+      "telugu": "దయచేసి మీడియం ఉందా?",
+      "transliteration": "Dayachesi MEDIUM unda?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Can I get a bill, please?",
+      "telugu": "దయచేసి బిల్లు ఇవ్వగలరా?",
+      "transliteration": "Dayachesi BILL ivvalara?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "How much for two items?",
+      "telugu": "రెండు వస్తువులకు ఎంత అవుతుంది?",
+      "transliteration": "Rendu vasthuvulaku entha avutundi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Is the price fixed or negotiable?",
+      "telugu": "ధర ఫిక్స్‌దా, లేక మాట మాట్లాడొచ్చా?",
+      "transliteration": "Dara FIX-da, leka maata matladoccha?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Do you accept card for payment?",
+      "telugu": "చెల్లింపుకోసం కార్డు తీసుకుంటారా?",
+      "transliteration": "Ch e l limpukosam CARd teesukuntara?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I can’t stop now, I’m close.",
+      "telugu": "నేను ఇప్పుడు ఆపలేను, నేను దగ్గర్లోనే ఉన్నాను.",
+      "transliteration": "NEnu ippudu AapalenU, nEnu daggarlo ne unnAnu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Small steps, steady heart, keep going.",
+      "telugu": "చిన్న చిన్న అడుగులు, స్థిరమైన మనసు, ముందుకు సాగండి.",
+      "transliteration": "Chinna chinna aDugulu, sThiramaina manasu, muMdUku saagandi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I missed it, so I’ll try again.",
+      "telugu": "నేను మిస్ అయ్యాను, అందుకే మళ్ళీ ట్రై చేస్తాను.",
+      "transliteration": "NEnu miss ayyAnu, andukE malli try chEstAnu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "My effort counts, even on hard days.",
+      "telugu": "కష్టం రోజులైనా నా ప్రయత్నం విలువే ఉంది.",
+      "transliteration": "KasTampaDinaaa nA prayatnaM viluvE undi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I’ll finish this, no matter what.",
+      "telugu": "ఏమైతే అయినా, నేను ఇది పూర్తి చేస్తాను.",
+      "transliteration": "Em aitae ayinaa, nEnu idi pUrti chEstAnu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Let it be slow, just don’t stop.",
+      "telugu": "అది నెమ్మదిగా అయినా సరే, ఆగకండి.",
+      "transliteration": "Adi nemmadi gaa ayinaa sarE, Aagakandi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Keep your focus, one day at a time.",
+      "telugu": "దృష్టి నిలిపి ఉంచండి, ఒక్కో రోజు ఒక్కోలా సాగండి.",
+      "transliteration": "DruShTi nilipi unchandi, okko rOju okkoLa saagandi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "What pastries are just baked right now?",
+      "telugu": "ఇప్పుడే తాజాగా కాల్చిన పేస్ట్రీలు ఏవి ఉన్నాయి?",
+      "transliteration": "IppuDae tazaaga kaaLchinaa paesTrylu aevi unnai?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Do you have oat milk for lattes?",
+      "telugu": "లాట్లకు ఓట్ మిల్క్ ఉందా?",
+      "transliteration": "Laatlukku oat milk undaa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Can I get a small Americano?",
+      "telugu": "ఒక చిన్న అమెరికానో ఇవ్వగలరా?",
+      "transliteration": "Oka chinna ameriKaaNo ivvagalaraa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I’ll take the chocolate croissant, please.",
+      "telugu": "చాక్లెట్ క్రొవాసాంట్ ఒకటి ఇవ్వండి, ప్లీజ్.",
+      "transliteration": "ChaakleT kruvoasaanT okaTi ivvandi, PLIIS.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Is there a veggie breakfast sandwich today?",
+      "telugu": "ఈరోజు వెజ్జీ బ్రేక్‌ఫాస్ట్ శాండ్‌విచ్ ఉందా?",
+      "transliteration": "Eeroju vejjii breekfaast saanDviCh undaa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "What’s your best seller pastry right now?",
+      "telugu": "ఇప్పుడే మీ బెస్ట్ సెల్లర్ ఏ పేస్ట్రీ?",
+      "transliteration": "IppuDae mee best seller ae paesTry?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Can I order at the counter now?",
+      "telugu": "ఇప్పుడు కౌంటర్ దగ్గర ఆర్డర్ చేయవచ్చా?",
+      "transliteration": "IppuDu kauNter daggara aarDer cheyavachchaa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Start with one brave question.",
+      "telugu": "ఒక ధైర్యమైన ప్రశ్నతో మొదలుపెట్టు,",
+      "transliteration": "Oka DHAIRyamaina PRAshna tho modalu pettu,",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Let today prove you can.",
+      "telugu": "ఈరోజు నీకు సాధ్యమే అని చూపించనివ్వు,",
+      "transliteration": "Ee roj u nEku saadhyame ani chu pinch anivvu,",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Breathe, then do the next thing.",
+      "telugu": "ఊపిరి తీసుకుని, తర్వాతి పనిని చేయి,",
+      "transliteration": "Uupiri teesukoni, taruvAti panini cheyi,",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Your effort is an answer.",
+      "telugu": "నీ ప్రయత్నమే సమాధానం,",
+      "transliteration": "Nee prayatnamE samaadhanam,",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Turn doubt into fuel, quietly.",
+      "telugu": "సందేహాన్ని ఇంధనంలా మార్చు, నిశ్శబ్దంగా,",
+      "transliteration": "SamdEhanni indhanam la maarchu, nishshabdam ga,",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Choose progress over perfection, now.",
+      "telugu": "ఇప్పుడే సంపూర్ణత కంటే ముందడుగు ఎంచుకో,",
+      "transliteration": "IppuDE sampoorNata kante mundeDugu enchu ko,",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Walk anyway, even slowly.",
+      "telugu": "నడవు, آهస్తాగా అయినా,",
+      "transliteration": "Nadavu, Aahstaa ga ainaa,",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I can try again, right now.",
+      "telugu": "నేను ఇంకొకసారి ప్రయత్నించగలను, ఇప్పుడే.",
+      "transliteration": "nenu INKOkasāri praYATNincha galanu, IPuḍE.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "This message gives me hope.",
+      "telugu": "ఈ మాటలు నాకు ఆశ ఇస్తున్నాయి.",
+      "transliteration": "ee MĀTalu nAku āsha isthunnāyi.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Hope in my pocket, not in fear.",
+      "telugu": "భయం కంటే, నా జేబులో ఆశ ఉంది.",
+      "transliteration": "bhayaṁ kaṇṭe, nā jēbulo āsha undi.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I trust the next step.",
+      "telugu": "తదుపరి అడుగు మీద నాకు నమ్మకం.",
+      "transliteration": "taDUPAri aḍugu mIda naaku nammakaṁ.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Even when it’s dark, I hope.",
+      "telugu": "చీకటిగా ఉన్నా కూడా, నేను ఆశపోతాను.",
+      "transliteration": "cIkaṭigā unnā kō̄dā, nēnu āshapōthānu.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I’m waiting for good news, quietly.",
+      "telugu": "మంచి వార్తల కోసం నేను నిశ్శబ్దంగా ఎదురుచూస్తున్నాను.",
+      "transliteration": "mañci vārtala kōsam nēnu niSSaBdamgā eduruchusthunnānu.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "My hope listens, then moves.",
+      "telugu": "నా ఆశ వింటుంది, తర్వాత ముందుకు తీసుకెళుతుంది.",
+      "transliteration": "nā āsha viṇṭundi, taruvāta mundaḍuku tīsukeḷthundi.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Breathe, then choose your strength",
+      "telugu": "శ్వాస తీసుకో, అప్పుడు నీ బలం ఎంచుకో",
+      "transliteration": "SVAASA TISUKO, APUDU NEE BALAM ENCHUKO",
+      "category": "Strength",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I set boundaries, I stay strong",
+      "telugu": "నేను సరిహద్దులు పెట్టుకుంటాను, నేను బలంగా ఉంటాను",
+      "transliteration": "NENU SARIBADDHALU PETUKUNTAA NU, NENU BALAMAA GA UNTAA NU",
+      "category": "Strength",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Hard day, steady strength in me",
+      "telugu": "కఠినమైన రోజు, నా లో స్థిరమైన బలం",
+      "transliteration": "KA THINAMAINA ROJU, NAA LO STHIRAMAINA BALAM",
+      "category": "Strength",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "My spine is tall, my mind is calm",
+      "telugu": "నా వెన్నెముక సూటిగా ఉంటుంది, నా మనసు ప్రశాంతంగా ఉంటుంది",
+      "transliteration": "NAA VENNEMUKA SOOTIGA UNTUNDI, NAA MANASU PRA SHAA NTANGA UNTUNDI",
+      "category": "Strength",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I ask for help, still strong",
+      "telugu": "నాకు సహాయం కావాలి అని చెబుతాను, అయినా బలంగా ఉంటాను",
+      "transliteration": "NAKU S AHAA YAM KAAVALI ANI CHEBUTAA NU, AINA BALAMAA GA UNTAA NU",
+      "category": "Strength",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I stretch my limits a little",
+      "telugu": "నేను నా హద్దులను కొంచెం చాపుతాను",
+      "transliteration": "NENU NAA HADDU LUNU KONCHAM CHAPUTAA NU",
+      "category": "Strength",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Tonight I rest, tomorrow I rise",
+      "telugu": "ఈ రాత్రి నేను విశ్రాంతి తీసుకుంటాను, రేపు లేస్తాను",
+      "transliteration": "EE RAATRI NENU VISRAANTHI TISUKUNTAA NU, REPU LE STAANU",
+      "category": "Strength",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Is it humid today, or not?",
+      "telugu": "ఈ రోజు తేమగా ఉందా, లేదా?",
+      "transliteration": "Ee ROju TEMga undaa, lEdaa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "The sun is out, finally!",
+      "telugu": "చివరికి ఎండ బయట పడింది!",
+      "transliteration": "Chivarıki ENḍa bāṭa paḍindi!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Feels chilly in the shade.",
+      "telugu": "నీడలో కొంచెం చలి అనిపిస్తోంది.",
+      "transliteration": "NIDalo koncheM chali anipistOOndi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Did the clouds clear up yet?",
+      "telugu": "మేఘాలు ఇంకా క్లియర్ అయ్యాయా?",
+      "transliteration": "Mēghaalu inkaa CLEAR ayyayaa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "I hear thunder in the distance.",
+      "telugu": "దూరంగా గర్జన శబ్దం వినిపిస్తోంది.",
+      "transliteration": "Dooramgaa GARjana sabdham vinipistOOndi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "Is it going to rain soon?",
+      "telugu": "కొద్దిసేపట్లో వర్షం పడుతుందా?",
+      "transliteration": "KoDDi sEpaṭlo varsham paḍutundaā?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T00:45:29.540842"
+    },
+    {
+      "english": "My phone says air quality is bad.",
+      "telugu": "నా ఫోన్ గాలి నాణ్యత బాగోలేదని చెబుతోంది.",
+      "transliteration": "Naa phoṇe gaali nāṇyataa baagOlEdani chebtooNdi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T00:45:29.540842"
     }
   ],
-  "last_updated": "2026-11-19T00:34:56.208193"
+  "last_updated": "2026-11-20T00:45:29.540842"
 }
