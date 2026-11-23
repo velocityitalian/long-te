@@ -21919,7 +21919,399 @@
       "transliteration": "Jāgrattagā koncham snacks kuda pettukuntānu.",
       "category": "Daily Routine",
       "generated_at": "2026-11-21T23:31:20.247477"
+    },
+    {
+      "english": "Your kindness changes my whole day.",
+      "telugu": "నీ దయ నా రోజంతా మారుస్తుంది.",
+      "transliteration": "Nee daya naa rojanthaa maarusthundi.",
+      "category": "Love",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Hold me close, just for a while.",
+      "telugu": "కొంచెం సేపు నన్ను నీ దగ్గరికి దగ్గరగా పట్టుకో.",
+      "transliteration": "Konchem sepu nannu nee daggariki daggaragaa pattu ko.",
+      "category": "Love",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I’m proud of us, always.",
+      "telugu": "ఎప్పుడూ మనం చేసిన దానికీ నాకు గర్వంగా ఉంటుంది.",
+      "transliteration": "Eppudoo mana chesina daanikii naaku garvamgaa untundi.",
+      "category": "Love",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Let’s make room for quiet.",
+      "telugu": "నెమ్మదిగా ఉండటానికి మన మధ్య స్థలం కలుపుదాం.",
+      "transliteration": "Nemmadaigaa undataaniki mana madhya sthalam kalupudam.",
+      "category": "Love",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I’m choosing patience, with you.",
+      "telugu": "నీతోనే నేను ఓపికతో ముందుకు వెళ్తాను.",
+      "transliteration": "Neethone nenu opikatho munduku velthaanu.",
+      "category": "Love",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "When you smile, I breathe easier.",
+      "telugu": "నువ్వు నవ్వితే, నాకు శ్వాస సులభంగా అనిపిస్తుంది.",
+      "transliteration": "Nuvvu navvithe, naaku shwaasa sulabhanga anipisthundi.",
+      "category": "Love",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Tell me your truth, no armor.",
+      "telugu": "నువ్వు నిజంగా ఉన్నట్లే చెప్పు, కవచం అవసరం లేదు.",
+      "transliteration": "Nuvvu nijamgaa unnattule cheppu, kavacham avasaram ledu.",
+      "category": "Love",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I m ready to start my shift.",
+      "telugu": "నేను నా షిఫ్ట్ ప్రారంభించడానికి సిద్ధంగా ఉన్నాను.",
+      "transliteration": "Nenu naa shift aarambhinchadaaniki sidhanga unnaanu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Can you confirm the meeting time?",
+      "telugu": "మీటింగ్ టైమ్‌ ని మీరు నిర్ధారిస్తారా?",
+      "transliteration": "Meetiṅg time ni meeru nirdharisthaara?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Please loop me in on updates.",
+      "telugu": "దయచేసి అప్‌డేట్స్‌లో నన్ను కూడా చేర్చండి.",
+      "transliteration": "Dayachesi updates lo nannu kooda cheračāṇḍi.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I ll handle the client follow up.",
+      "telugu": "నేను క్లయింట్ ఫాలో అప్ చూసుకుంటాను.",
+      "transliteration": "Nēnu client follow up chusukuntaanu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Where can I find the shared folder?",
+      "telugu": "షేర్డ్ ఫోల్డర్ ఎక్కడ ఉంది?",
+      "transliteration": "Shared folder ekkada undi?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Let s set clear deliverables for today.",
+      "telugu": "ఈరోజు కోసం స్పష్టమైన డెలివరబుల్స్‌ సెట్ చేద్దాం.",
+      "transliteration": "Ee roju kosam spashṭamaina deliverables set cheddām.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I think we missed that deadline.",
+      "telugu": "మనమది డెడ్‌లైన్ మిస్ అయిందేమో.",
+      "transliteration": "Mana madi deadline miss ayyindemo.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I’ll take this dish, please.",
+      "telugu": "ఇది నాకు ఇస్తారా, దయచేసి.",
+      "transliteration": "Idi naaku isthaarA, dayachEsi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Can you make it less oily?",
+      "telugu": "దయచేసి కొంచెం తక్కువ నూనెగా చేస్తారా?",
+      "transliteration": "DayachEsi konchem takkuva nUnegaa chestaarA?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Is this dish gluten-free?",
+      "telugu": "ఇందులో గ్లూటెన్ లేకుండా ఉంటుందా?",
+      "transliteration": "Indulo gluten lEkuNdaa untaadhaa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Please add extra chutney for me.",
+      "telugu": "దయచేసి నాకు ఇంకొంచెం చట్నీ ఇవ్వండి.",
+      "transliteration": "DayachEsi naaku inkonchem chatnI ivvandi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "What comes with the curry?",
+      "telugu": "ఈ కూరతో ఏమి వస్తుంది?",
+      "transliteration": "Ee kUrato Emi vasthundi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Do you have spicy sauce on the side?",
+      "telugu": "పక్కన స్పైసీ సాస్ ఏమైనా ఉంటుందా?",
+      "transliteration": "Pakkan spicy sAas emainaa untaadaa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Can I get a to-go box?",
+      "telugu": "టూ-గో బాక్స్ ఇవ్వగలరా?",
+      "transliteration": "Too-go bAks ivvagalaraa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "You make tough days softer for me.",
+      "telugu": "నీ వల్ల నా కఠిన రోజులు కూడా మృదువవుతాయి.",
+      "transliteration": "Nee valla naa kathina rojulu kooda mruduvavutaayi.",
+      "category": "Friendship",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Thanks for listening without judging.",
+      "telugu": "నువ్వు తీర్పు ఇవ్వకుండా వింటున్నందుకు ధన్యవాదాలు.",
+      "transliteration": "Nuvvu teerpu ivvakunda vintunnanduku dhanyavaadaalu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I can count on you, always.",
+      "telugu": "నిన్ను నమ్ముకుని నేను ఎప్పుడూ ఉండగలను.",
+      "transliteration": "Ninnu nammesukoni nenu eppudoo undagalanu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Tell me the truth, please.",
+      "telugu": "దయచేసి నిజం చెప్పు.",
+      "transliteration": "Daya chesi nijam cheppu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "We’ll celebrate your wins together.",
+      "telugu": "నీ విజయాలను మనం కలిసి జరుపుకుందాం.",
+      "transliteration": "Nee vijayaala ni manam kalisi jarupukundaam.",
+      "category": "Friendship",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "When I’m stuck, you help me move.",
+      "telugu": "నేను ఇరుక్కుపోతే, నువ్వు నన్ను ముందుకు నడిపిస్తావు.",
+      "transliteration": "Nenu irukkupothe, nuvvu nannu munduku nadipistaavu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Your friendship feels steady, not noisy.",
+      "telugu": "నీ స్నేహం గట్టిగా ఉంటుంది, హడావుడి కాదు.",
+      "transliteration": "Nee sneham gattigaa untundi, hadaavudi kaadu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I feel overwhelmed, I need a pause.",
+      "telugu": "నాకు ఒత్తిడి ఎక్కువగా ఉంది, నాకు కాస్త విరామం అవసరం.",
+      "transliteration": "Naaku ottidi ekkuva gaa undi, naaku kaastha viRaamam avasaram.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "My heart is racing right now.",
+      "telugu": "ఇప్పుడే నా హృదయం వేగంగా కొట్టుకుంటోంది.",
+      "transliteration": "Ippude na hrudayam veganga kottukuntondi.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I’m feeling hopeful, like things will shift.",
+      "telugu": "నాకు ఆశగా ఉంది, విషయాలు మారతాయని అనిపిస్తోంది.",
+      "transliteration": "Naaku aashaga undi, vishayaalu maarathayani anipistundi.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I’m quietly grieving, but I’ll be okay.",
+      "telugu": "నేను నెమ్మదిగా బాధపడుతున్నాను, అయినా నేను బాగానే ఉంటాను.",
+      "transliteration": "Nenu nemmadi gaa baadapadutunnaanu, ainaa nenu baagaane untanu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "That thought makes me tense.",
+      "telugu": "ఆ ఆలోచన నన్ను కఠినంగా టెన్షన్ పెడుతోంది.",
+      "transliteration": "Aa aalocana nannu kuTinanga ten shan pedutondi.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I feel embarrassed, but I’ll recover.",
+      "telugu": "నాకు ఇబ్బందిగా ఉంది, అయినా నేను మళ్లీ సర్దుకుంటాను.",
+      "transliteration": "Naaku ibbandigaa undi, ainaa nenu malli sardukuntanu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I’m proud, and I still listen.",
+      "telugu": "నాకు గర్వంగా ఉంది, అయినా నేను వినడం ఆపను.",
+      "transliteration": "Naaku garvam gaa undi, ainaa nenu vinala aapan u.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Start with one honest action today.",
+      "telugu": "ఈరోజు ఒక నిజమైన పని మొదలు పెట్టండి.",
+      "transliteration": "ee roju oka nijamaina pani modalu pettandi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Clean your mind, one thought at a time.",
+      "telugu": "మీ మనసును శుభ్రం చేయండి, ఒక్క ఆలోచనతోనే.",
+      "transliteration": "mee manasunu subhram cheyyandi, okka alochanatho ne.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Forgive yourself, then move forward.",
+      "telugu": "మీని మీరు క్షమించుకోండి, తర్వాత ముందుకు వెళ్ళండి.",
+      "transliteration": "mīni mīru kshaminchukondi, taruvata munduku veLLandi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Choose progress over staying comfortable.",
+      "telugu": "సౌకర్యంగా ఉండడం కంటే, ఎదుగుదలని ఎంచుకోండి.",
+      "transliteration": "saukaryamga undadam kante, edugudala ni enchukondi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Make space for rest without guilt.",
+      "telugu": "దోషభావం లేకుండా విశ్రాంతికి స్థలం ఇవ్వండి.",
+      "transliteration": "dOsha bhavEm lekunda vishrāntiki sthalam ivvandi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Notice patterns, then change one thing.",
+      "telugu": "పాటర్న్స్ గుర్తించండి, తర్వాత ఒక్కదాన్ని మార్చండి.",
+      "transliteration": "pāttarns gurthinchandi, taruvata okkadāni māarchandi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Say no, and protect your focus.",
+      "telugu": "కాదు చెప్పండి, మీ ఫోకస్‌ని కాపాడుకోండి.",
+      "transliteration": "kaadu cheppandi, mee focus ni kaapādu koṇḍi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Where is the nearest platform entrance?",
+      "telugu": "దగ్గర్లో ఉన్న ప్లాట్‌ఫామ్ ప్రవేశం ఎక్కడ ఉంది?",
+      "transliteration": "Daggara-lo unna PLATFORM pravesham ekkaḍa undi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Is this bus going near the hospital?",
+      "telugu": "ఈ బస్సు హాస్పిటల్ దగ్గరికి వెళ్తుందా?",
+      "transliteration": "Ee bus HOSPITAL daggariki veltundaa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "How often does this service run?",
+      "telugu": "ఈ సర్వీస్ ఎంత తరచుగా నడుస్తుంది?",
+      "transliteration": "Ee SERVICE entha tarachugaa nadustundi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Can I board from the front door?",
+      "telugu": "నేను ముందు తలుపు దగ్గర నుంచే ఎక్కవచ్చా?",
+      "transliteration": "Nenu mundu talupu daggara nunchi ekkavachchaa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Please hold the door, thank you.",
+      "telugu": "దయచేసి తలుపు మూసొద్దు, థ్యాంక్యూ.",
+      "transliteration": "Dayachesi talupu musoddu, THANK YOU.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Does this route pass through my area?",
+      "telugu": "ఈ మార్గం నా ప్రాంతం గుండా వెళ్తుందా?",
+      "transliteration": "Ee maargam naa prāntam gunda veltundaa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Is there a crowd-free line for tickets?",
+      "telugu": "టిక్కెట్ల కోసం జనాలు తక్కువగా ఉండే లైన్ ఉందా?",
+      "transliteration": "Tikkets kosam janalu takkuvagaa undē LINE undaa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I show up, even tired.",
+      "telugu": "నేను అలసిపోయినా, నేను ముందుకు వస్తాను.",
+      "transliteration": "NENU ALASIPOYINA, NENu MUNDUKU VASTANU",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "Today, I choose progress.",
+      "telugu": "ఈ రోజు, నేను పురోగతిని ఎంచుకుంటాను.",
+      "transliteration": "EE ROJU, NENU PUROGATINI ENCHUKUNTANU",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "My fear can sit beside me.",
+      "telugu": "నా భయం నా పక్కన కూర్చుంటుంది, అయినా ముందుకు సాగుతాను.",
+      "transliteration": "NĀ BHAYAMĀ NA PAKKANA KOORCHUNTUNDI, AINA MUNDUKU SAGUTĀNU",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I can start messy, then learn.",
+      "telugu": "నేను గందరగోళంగా మొదలుపెట్టినా, నేర్చుకుంటాను.",
+      "transliteration": "NENu GANDARAGOOLANGĀ MODALUPETTINA, NĒRCHUKUNTĀNU",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "When I doubt, I study anyway.",
+      "telugu": "సందేహం వచ్చినా, నేను చదువుతాను.",
+      "transliteration": "SANDEHĀM VACCHINA, NENU CHADUVUTĀNU",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I breathe, then take one action.",
+      "telugu": "నేను శ్వాస తీసుకుని, ఒక్క పని చేస్తాను.",
+      "transliteration": "NĒNU SHVĀS TĒESUKONI, OKKA PANI CHESTĀNU",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "I’m allowed to be a beginner.",
+      "telugu": "నేను మొదటివాడిగా ఉండటానికి అనుమతి ఉంది.",
+      "transliteration": "NĒNU MODATIVĀDIGA UNDĀTĀNIKI ANUMATI UNDĪ",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T23:43:23.409435"
     }
   ],
-  "last_updated": "2026-11-21T23:31:20.247477"
+  "last_updated": "2026-11-22T23:43:23.409435"
 }
