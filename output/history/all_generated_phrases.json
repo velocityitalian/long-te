@@ -22311,7 +22311,399 @@
       "transliteration": "NĒNU MODATIVĀDIGA UNDĀTĀNIKI ANUMATI UNDĪ",
       "category": "Motivation",
       "generated_at": "2026-11-22T23:43:23.409435"
+    },
+    {
+      "english": "When in doubt, ask why.",
+      "telugu": "సందేహం ఉంటే, ఎందుకు అని అడుగు.",
+      "transliteration": "Sandeham unte, ENDUku ani ADugu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Truth is found through questions.",
+      "telugu": "నిజం ప్రశ్నల ద్వారా తెలుస్తుంది.",
+      "transliteration": "Nijam PRASHNala dwArA telustundi.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Read one good thing today.",
+      "telugu": "ఈ రోజు ఒక మంచి విషయం చదువు.",
+      "transliteration": "Ee ROju oka MANchi vishayam chadavu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Knowledge without practice stays quiet.",
+      "telugu": "అభ్యాసం లేక జ్ఞానం నిశ్శబ్దమే.",
+      "transliteration": "AbhyAsam leka JNAnam NISShabdamE.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Trust facts, not just feelings.",
+      "telugu": "భావాల కన్నా, నిజాలు నమ్ము.",
+      "transliteration": "BhAvaala kanna, NIjAlu nammu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Use what you learned, right away.",
+      "telugu": "నేర్చుకున్నదాన్ని వెంటనే ప్రయోగించు.",
+      "transliteration": "NerchukunndhAnni VENTANE prayoGyinchu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "A small lesson can change your day.",
+      "telugu": "చిన్న పాఠం కూడా రోజు మార్చేస్తుంది.",
+      "transliteration": "Chinna PAtam kUDA rOju mArchEstundi.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Hi, I’m happy to meet you.",
+      "telugu": "హాయ్, మిమ్మల్ని కలవడం నాకు ఆనందంగా ఉంది.",
+      "transliteration": "Hai, mimmalni kalavadam naaku aanandamgaa undi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Welcome, let’s talk for a minute.",
+      "telugu": "స్వాగతం, ఒక నిమిషం మాట్లాడుకుందాం.",
+      "transliteration": "Swaagatham, oka nimisham maatlaadukundaam.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "It’s nice seeing you in person.",
+      "telugu": "మీని ప్రత్యక్షంగా చూడటం చాలా బాగుంది.",
+      "transliteration": "Mee ni pratyakshanga chudatam chalaa baagundi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "How’s everything going for you?",
+      "telugu": "మీకు అన్నీ ఎలా సాగుతున్నాయి?",
+      "transliteration": "Meeku anni elaagaa saaguthunnaayi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Thanks for taking the time today.",
+      "telugu": "ఈరోజు సమయం కేటాయించినందుకు ధన్యవాదాలు.",
+      "transliteration": "Ee roju samayam kaatayinchinanduku dhanyavaadaalu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I’m glad we made time to meet.",
+      "telugu": "మనము కలుసుకోవడానికి సమయం దొరకడం నాకు సంతోషం.",
+      "transliteration": "Manaamu kalusukovataaniki samayam dorakadam naaku santhosham.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Your story sounds really interesting.",
+      "telugu": "మీ కథ నిజంగా చాలా ఆసక్తిగా ఉంది.",
+      "transliteration": "Mee katha nijamgaa chaalaa aasaktigaa undi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I pick a hobby after work.",
+      "telugu": "పని అయిపోయాక నేను ఒక అభిరుచిని ఎంచుకుంటాను.",
+      "transliteration": "panI ayipoyaka nEnu oka abhiruchini enchukuntaanu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "My hobby keeps my mind busy.",
+      "telugu": "నా అభిరుచి నా మనసును బిజీగా ఉంచుతుంది.",
+      "transliteration": "naa abhiruchi naa manasunu bIjIgaa unchuthundi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I make time for creativity today.",
+      "telugu": "ఈరోజు సృజనాత్మకతకు టైమ్ కేటాయిస్తాను.",
+      "transliteration": "IrojU srujanaatmakatha ku taim kEtaayisthaanu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I switch hobbies to feel alive.",
+      "telugu": "నాకు బాగా జీవం వచ్చినట్టు అనిపించడానికి అభిరుచులు మార్చుకుంటాను.",
+      "transliteration": "naaku baagaa jeevam vachchinattu anipinchadaaniki abhiruchulu maarchukuntaanu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Even chores feel lighter with music.",
+      "telugu": "మ్యూజిక్ ఉంటే పనులు కూడా తేలికగా అనిపిస్తాయి.",
+      "transliteration": "myUzik unte panulu kUDA telikagaa anipisthaayi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I go for walks to reset.",
+      "telugu": "రిసెట్ కావడానికి నేను నడకకి వెళ్తాను.",
+      "transliteration": "risET kaavadaniki nEnu nadaki veLLathaanu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I keep a notebook for quick ideas.",
+      "telugu": "త్వరగా వచ్చే ఆలోచనల కోసం నేను ఒక నోట్‌బుక్ ఉంచుకుంటాను.",
+      "transliteration": "thvaragaa vachche aalOchanal kOsam nEnu oka nOtbuk unchukuntaanu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Can I change my room today?",
+      "telugu": "ఈరోజే నా గది మార్చుకోవచ్చా?",
+      "transliteration": "EeROje naa gaDi maarchukovaachaa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Is breakfast buffet or fixed menu?",
+      "telugu": "బ్రేక్‌ఫాస్ట్ బఫేనా, లేక ఫిక్స్‌డ్ మెనూనా?",
+      "transliteration": "BrekFAST bAFEnaa, leka FIXED mEnoo naa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "How do I request room service?",
+      "telugu": "రూమ్ సర్వీస్ ఎలా అడగాలి?",
+      "transliteration": "Room SERVICE elaa ADagaali?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Is there a gym or fitness room?",
+      "telugu": "జిమ్ లేదా ఫిట్నెస్ రూమ్ ఉందా?",
+      "transliteration": "JIM ledaa FITness room undaa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Can I get a late breakfast?",
+      "telugu": "లేట్ బ్రేక్‌ఫాస్ట్ ఇవ్వగలరా?",
+      "transliteration": "LAIT brekFAST ivvalaraa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Do you have an extra blanket option?",
+      "telugu": "అదనంగా దుప్పటి ఇవ్వగలరా?",
+      "transliteration": "adanangaa dUPpati ivvalaraa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Is there a kettle and tea available?",
+      "telugu": "టీ కెట్టిల్ ఉందా, చాయ్ ఇవ్వగలరా?",
+      "transliteration": "Tee KETtil undaa, chaay ivvalaraa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "That was hard, I’m here with you.",
+      "telugu": "అది కష్టం, నేను మీతోనే ఉన్నాను.",
+      "transliteration": "Adi kashtam, nenu mētōn e unnaanu.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I’ll choose patience, not pressure.",
+      "telugu": "నేను ఒత్తిడి కాకుండా ఓపికను ఎంచుకుంటాను.",
+      "transliteration": "Nenu ottidi kaakunda opikanu enchōkuntaanu.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "You don’t have to explain everything.",
+      "telugu": "మీరు అన్నీ వివరించాల్సిన అవసరం లేదు.",
+      "transliteration": "Meeru anni vivarinchalsina avasaram ledu.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I appreciate your effort, seriously.",
+      "telugu": "మీ ప్రయత్నం నిజంగా నాకు విలువైనది.",
+      "transliteration": "Mee prayatnam nijangaa naaku viluvainadi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I’ll speak softly, even about issues.",
+      "telugu": "సమస్యల గురించి కూడా నేను మృదువుగా మాట్లాడుతాను.",
+      "transliteration": "Samasya la gurinchi kooda nenu mruduvugaa maatlaadutaanu.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Let’s take it slow, together.",
+      "telugu": "దాన్ని నెమ్మదిగా, కలిసి చూద్దాం.",
+      "transliteration": "Daani nemmadigaa, kalisi chuddaam.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "No blame, we’ll figure it out.",
+      "telugu": "నింద కాదు, మనం కలిసి పరిష్కరిద్దాం.",
+      "transliteration": "Ninda kaadu, manam kalisi parishkariddhaam.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I choose solutions over spirals.",
+      "telugu": "నేను స్పైరల్స్ కంటే పరిష్కారాలు ఎంచుకుంటాను.",
+      "transliteration": "nenu spirals kaNTe pariSkaaralu eNchukuntaanu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Today, I speak truth kindly.",
+      "telugu": "ఈ రోజు, నేను నిజం చెప్పేటప్పుడు దయగా మాట్లాడుతాను.",
+      "transliteration": "ee roju, nenu nijam cheppetappuDu dayagaa maatlaaDutaanu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I let others be who they are.",
+      "telugu": "వాళ్లు ఎవరైతే వాళ్లుగా ఉంటారో అలాగే ఉండనిస్తాను.",
+      "transliteration": "vaallu evaraitE vaalugaa uNtaaro alaa uNDanistaanu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "My mind can rest without answers.",
+      "telugu": "సమాధానాలు లేకపోయినా నా మనసు విశ్రాంతి తీసుకోవచ్చు.",
+      "transliteration": "samādhaanalu lEkapooyinaa naa manasu visraaMti tIsukOvachchu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I celebrate small wins, not just big.",
+      "telugu": "పెద్దవాటే కాదు, చిన్న విజయాలనూ జరుపుకుంటాను.",
+      "transliteration": "pedda vaaTiE kaadu, chinna vijayaala nū jarupukuntaanu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I ask for help sooner.",
+      "telugu": "నేను ముందుగానే సహాయం అడుగుతాను.",
+      "transliteration": "nEnu muMd ugaa sahāyam aDugutaanu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I clean my space, my thoughts follow.",
+      "telugu": "నా స్థలాన్ని సర్దుకుంటే, నా ఆలోచనలు కూడా కుదురుకుంటాయి.",
+      "transliteration": "naa sthalaanni sardukonTe, naa alOchanalu kooDa kudurukuntaayi.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I’m home, door’s open, come in.",
+      "telugu": "నేను ఇంటికి వచ్చాను, తలుపు తెరిచి ఉంది, రండి.",
+      "transliteration": "Nenu intiki vachaanu, talupu terichi undi, randi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Let’s do chores together, no pressure.",
+      "telugu": "మనం కలిసి పనులు చేద్దాం, ఒత్తిడి లేదు.",
+      "transliteration": "Manam kalisi panulu cheddam, otthidi ledu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Can we share the cooking today?",
+      "telugu": "ఈ రోజు వంటని మనం పంచుకుందామా?",
+      "transliteration": "Ee roju vantinI manam panchukundama?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Please, knock before you enter my room.",
+      "telugu": "దయచేసి, నా గదిలోకి రాకముందు తట్టి చూడండి.",
+      "transliteration": "Dayachesi, naa gadiloki raakamuMdu thatti choodandi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Family first, we handle the rest calmly.",
+      "telugu": "కుటుంబం ముందు, మిగతావన్నీ నెమ్మదిగా చూస్తాం.",
+      "transliteration": "Kுடుంబam muNdu, migataa vanni nemmadigaa choostaaM.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "I’ll refill your water, just a second.",
+      "telugu": "నీకు నీళ్లు మళ్లీ నింపుతాను, ఒక్క నిమిషం.",
+      "transliteration": "Neeku neellu malli nimputaanu, okka nimisham.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Socks stay in the basket, please.",
+      "telugu": "సాక్స్ బుట్టలోనే వేయండి, దయచేసి.",
+      "transliteration": "Saaks buttalo nE veyandi, dayachesi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Can you show me on the map?",
+      "telugu": "మీరు మ్యాప్ లో చూపించగలరా?",
+      "transliteration": "MEEru MAP LO choopinchagalaraa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Is there a landmark near the turn?",
+      "telugu": "ఆ మలుపు దగ్గర ఏదైనా గుర్తు చిహ్నం ఉందా?",
+      "transliteration": "AA malupu daggara EDainaa gurthuchihnam undaa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "How do I get there from here?",
+      "telugu": "ఇక్కడ నుంచి అక్కడికి ఎలా వెళ్తాను?",
+      "transliteration": "IKKADA nunchi AKKADIKI elaa veLtaaNU?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Should I walk straight or curve?",
+      "telugu": "నేను నేరుగా నడవాలా, వంక తిరగాలా?",
+      "transliteration": "NENU nerugaa nadavaalaa, VANKA tiragaalaa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "What street is this, please?",
+      "telugu": "ఇది ఏ వీధి, దయచేసి చెప్తారా?",
+      "transliteration": "IDI eE veedhi, dayachEsi cheptaaraa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Where can I park, safely?",
+      "telugu": "భద్రంగా ఎక్కడ పార్క్ చేసుకోవచ్చు?",
+      "transliteration": "BHADRAMgaa ekkada PARK chEsukOvachchu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Is it better to go by foot?",
+      "telugu": "పాదచారిగా వెళ్లడం మంచిదా?",
+      "transliteration": "PAADACHaarigaa veLLadam MANCHidhaa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T04:03:05.103579"
     }
   ],
-  "last_updated": "2026-11-22T23:43:23.409435"
+  "last_updated": "2026-11-24T04:03:05.103579"
 }
