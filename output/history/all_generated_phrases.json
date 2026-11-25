@@ -22703,7 +22703,399 @@
       "transliteration": "PAADACHaarigaa veLLadam MANCHidhaa?",
       "category": "Asking for Directions",
       "generated_at": "2026-11-24T04:03:05.103579"
+    },
+    {
+      "english": "Thank you for showing up, again.",
+      "telugu": "మళ్లీ వచ్చినందుకు ధన్యవాదాలు.",
+      "transliteration": "MALLI vachchinanduku dhanyavaadalu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Your kindness made my day lighter.",
+      "telugu": "మీ మంచితనం నా రోజును తేలిక చేసింది.",
+      "transliteration": "Mee manchitanam naa rojudni tELIKA chEsindi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I’m grateful you listened without fixing.",
+      "telugu": "నన్ను సరిచేయకుండా విన్నందుకు ధన్యవాదాలు.",
+      "transliteration": "Nannu sari cheyyakunda vinnaanduku dhanyavaadalu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "That check-in calmed me fast.",
+      "telugu": "ఆ చెక్-ఇన్ నాకు త్వరగా ప్రశాంతం చేసింది.",
+      "transliteration": "Aa check-in naku tvaragaa prashaaNtham chEsindi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Thanks for the honest, gentle nudge.",
+      "telugu": "ఆ నిజాయితీతో కూడిన మృదువైన హింట్ ఇచ్చినందుకు ధన్యవాదాలు.",
+      "transliteration": "Aa nijaaYitI tho kUDina mRuduvain hint ivvinanduku dhanyavaadalu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I appreciate you believing in me.",
+      "telugu": "నాలో నమ్మకాన్ని పెట్టినందుకు ధన్యవాదాలు.",
+      "transliteration": "Naalo nammakaanni peTTinanduku dhanyavaadalu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "You helped me stand back up.",
+      "telugu": "మీరు నన్ను మళ్లీ లేవనిచ్చారు.",
+      "transliteration": "Meeru nannu malli lEvani chAaru.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "You make me want to try.",
+      "telugu": "నిన్ను చూసి నేను ప్రయత్నించాలనిపిస్తోంది,",
+      "transliteration": "Ninnu choosi nenu prayatninchaalanipistోంది,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Date night sounds perfect with you.",
+      "telugu": "నీతో డేట్ నైట్ అంటే పర్ఫెక్ట్‌గా ఉంది,",
+      "transliteration": "Neeto date naight ante perfect gaa undi,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I like your honesty in small things.",
+      "telugu": "చిన్న విషయాల్లో కూడా నీ నిజాయితీ నాకు నచ్చుతుంది,",
+      "transliteration": "Chinna vishayaallo kooda nee nijaaayitee naaku nacchutundi,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Your smile changes my whole mood.",
+      "telugu": "నీ చిరునవ్వు నా మూడ్ మొత్తం మార్చేస్తుంది,",
+      "transliteration": "Nee chirunavvuu naa mood mottham maarchestundi,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Slow kisses, if you’re comfortable.",
+      "telugu": "నువ్వు ఓకే అంటే, నెమ్మదిగా ముద్దులు,",
+      "transliteration": "Nuvvu oke ante, nemmadigaa muddulu,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Let’s talk, no distractions tonight.",
+      "telugu": "ఈ రాత్రి ఇంకేమీ పరధ్యానం లేకుండా మాట్లాడదాం,",
+      "transliteration": "Ee raathri inkemi paradhyaana leekunda maatlaadadaam,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I feel safe when you’re close.",
+      "telugu": "నీవు దగ్గర ఉన్నప్పుడు నాకు భయం ఉండదు,",
+      "transliteration": "Neevu daggara unnaappudu naaku bhayam undadu,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Let’s choose the main priorities first.",
+      "telugu": "మన ముఖ్యమైన ప్రాధాన్యతలను ముందుగా నిర్ణయిద్దాం.",
+      "transliteration": "Mana mukhyamina praadhianyalanu munduga nirnayiddam.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "What time do we start, realistically?",
+      "telugu": "మనమొద్దు దాదాపుగా ఎంతసమయానికి మొదలు పెడదాం?",
+      "transliteration": "Manamoddhu dhaadapuga enthasamayaaniki modalu pedadham?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I’ll draft a plan, you review.",
+      "telugu": "నేను ఒక ప్రణాళిక తయారు చేస్తాను, నువ్వు చూసి సరిచేయి.",
+      "transliteration": "Nenu oka praanayika tayaaru chestaanu, nuvvu choosi sarihayi.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Let’s split tasks by who’s best.",
+      "telugu": "ప్రతి పని ఎవరు బాగా చేయగలరో దాని ప్రకారం పంచుకుందాం.",
+      "transliteration": "Prati pani evaru baagaa cheyyagaloro dhaani prakaaram panchukundam.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Should we plan for backup people too?",
+      "telugu": "అనుకోని పరిస్థితుల కోసం బ్యాకప్ వ్యక్తులు కూడా ఉండేలా ప్లాన్ చేద్దామా?",
+      "transliteration": "Anukoni paristhitulaki baakup vyakthulu kuda unde la plan cheddama?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Let’s decide what success looks like.",
+      "telugu": "విజయం ఎలా ఉంటుందో నిర్ణయిద్దాం.",
+      "transliteration": "Vijayam ela untundo nirnayiddam.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Can we schedule a quick check-in?",
+      "telugu": "మనం చిన్నగా చెక్ ఇన్ కోసం ఒక సమయం పెట్టుకుందామా?",
+      "transliteration": "Manam chinnaga check in kosam oka samayam pettukundama?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Look around, just notice quietly.",
+      "telugu": "చుట్టూ చూడండి, నిశ్శబ్దంగా గమనించండి.",
+      "transliteration": "Chuttoo choodandi, nishshabdamgaa gamaninchandi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Pause, feel your attention settle.",
+      "telugu": "ఆగండి, మీ దృష్టి స్థిరపడుతున్నట్టు అనుభవించండి.",
+      "transliteration": "Aagandi, me dhrusti sThirapaDutunnaTTu anubhavinchandi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Feel the space between thoughts.",
+      "telugu": "ఆలోచనల మధ్య ఉన్న ఖాళీని అనుభవించండి.",
+      "transliteration": "Aalochanala madhya unna khaali ni anubhavinchandi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Let your face soften, gently.",
+      "telugu": "మీ ముఖం మృదువుగా ఉండనివ్వండి, నెమ్మదిగా.",
+      "transliteration": "Mee mukham mruduvugaa undanivvandi, nemmadigaa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Notice your breath without changing it.",
+      "telugu": "మీ శ్వాసను మార్చకుండా గమనించండి.",
+      "transliteration": "Mee shvaasanu maarche aakuNdaa gamaninchandi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Inhale, then relax your hands.",
+      "telugu": "శ్వాస లోపలికి తీసుకోండి, ఆపై మీ చేతులను రిలాక్స్ చేయండి.",
+      "transliteration": "Shvaasa lopaliki teesukondi, aapai mee chetulanu relax cheyyandi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Feel your back supported right now.",
+      "telugu": "ఇప్పుడే మీ వీపు సపోర్ట్ అవుతున్నట్టు అనుభవించండి.",
+      "transliteration": "Ippude mee veepu support avutunnattu anubhavinchandi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Where can I print my boarding pass?",
+      "telugu": "నా బోర్డింగ్ పాస్ నేను ఎక్కడ ప్రింట్ చేసుకోవచ్చు?",
+      "transliteration": "Naa boarding pass nenu ekkaDa PRINT chEsukOvachchu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I lost my boarding pass, sorry.",
+      "telugu": "నా బోర్డింగ్ పాస్ పోయింది, క్షమించండి.",
+      "transliteration": "Naa boarding pass POyindi, kshaminchandi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Do I need to check in online?",
+      "telugu": "ఆన్‌లైన్‌లో చెక్ ఇన్ చేయాలా?",
+      "transliteration": "ONlain lO CHEK in cheyyaalaa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Can you help me change seats?",
+      "telugu": "సీట్ మార్చడానికి మీరు సహాయం చేస్తారా?",
+      "transliteration": "seet maarchadaaniki mIru sahayam chestaaraa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "My passport needs help, please.",
+      "telugu": "నా పాస్‌పోర్ట్ గురించి సహాయం కావాలి.",
+      "transliteration": "naa passport gurinchi sahayam kaavaali.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Where is the immigration desk?",
+      "telugu": "ఇమిగ్రేషన్ కోసం డెస్క్ ఎక్కడ ఉంది?",
+      "transliteration": "Immigration kOsaM DESK ekkaDa undi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "How long is the transfer walk?",
+      "telugu": "కనెక్షన్ కోసం నడక ఎంత దూరం?",
+      "transliteration": "kaneKshan kOsaM naDak entha dUraM?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Breathe in, unclench your jaw.",
+      "telugu": "ఊపిరి పీల్చండి, దవడ బిగించకండి.",
+      "transliteration": "Oopiri peelchandi, davaḍa biginchakandi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I am safe with what I feel.",
+      "telugu": "నేను అనుభవిస్తున్న భావాలతోనే నేను సురక్షితంగా ఉంటాను.",
+      "transliteration": "Nenu anubhavisthunna bhaavalatho neney surakshitanga untanu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Let the day be messy.",
+      "telugu": "ఈ రోజు గందరగోళంగా ఉన్నా పర్వాలేదు.",
+      "transliteration": "Ee roju gandaraGolamga unna paṛvaaledu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I’ll answer later, not now.",
+      "telugu": "తరువాత సమాధానం ఇస్తాను, ఇప్పుడే కాదు.",
+      "transliteration": "Taruvatha samadhanam isthanu, ippuḍe kaadu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "My breath leads, I follow.",
+      "telugu": "నా శ్వాస ముందుకు నడిపిస్తుంది, నేను అనుసరిస్తాను.",
+      "transliteration": "Naa shvaasa munduku nadipisthundi, nenu anusaristhaanu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I soften, even when I’m tense.",
+      "telugu": "నేను టెన్షన్‌లో ఉన్నా కూడా నెమ్మదిగా نرمగిస్తాను.",
+      "transliteration": "Nenu tenshon lo unna kooda nemmadigaa narmigistaanu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Right now, I choose gentleness.",
+      "telugu": "ఇప్పుడే, నేను మృదుత్వాన్ని ఎంచుకుంటాను.",
+      "transliteration": "Ippude, nenu mruduvvanni enchukuntaanu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Gratitude turns ordinary days golden",
+      "telugu": "కృతజ్ఞతతో సాధారణ రోజులు బంగారమవుతాయి",
+      "transliteration": "Krutajnyata tho saadharana rojulu bangaaram avuthaayi",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I smile first, then my body follows",
+      "telugu": "నేను ముందుగా నవ్వుతాను, నా శరీరం వెంటనే చేరుతుంది",
+      "transliteration": "Nenu munduga navvuthaanu, naa shareeram ventane cheruthundi",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I let good news land in me",
+      "telugu": "మంచి వార్తలు నాలోకి దిగనివ్వుతాను",
+      "transliteration": "Manchi vaarthalu naaloiki diganivvuthaaanu",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "My home feels safe when I breathe",
+      "telugu": "నేను శ్వాస తీసుకున్నప్పుడు నా ఇల్లు సురక్షితంగా అనిపిస్తుంది",
+      "transliteration": "Nenu shvaasa theesukunnaappudu naa illu surakshithamgaa anipisthundi",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Joy shows up when I stop rushing",
+      "telugu": "నేను తొందరపడటం ఆపినప్పుడు ఆనందం వస్తుంది",
+      "transliteration": "Nenu thondarapadatam aapinappudu aanandam vasthundi",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I choose one real rest today",
+      "telugu": "ఈ రోజు ఒక్క నిజమైన విశ్రాంతిని ఎంచుకుంటాను",
+      "transliteration": "Ee roju okka nijamaina vishraanthi ni enchukuntaanu",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Kind words to myself change everything",
+      "telugu": "నా గురించి నేను దయగా మాట్లాడితే అన్నీ మారిపోతాయి",
+      "transliteration": "Naa gurinchi nenu dayagaa maatlaadithe anni maari pothaayi",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I forgive you, no hard feelings.",
+      "telugu": "నేను క్షమిస్తున్నాను, మనసులో ఎలాంటి గట్టితనం లేదు.",
+      "transliteration": "Nenu kshaminchaanu, manasulo ENTI gaTTitanu ledu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Let it go, we can heal.",
+      "telugu": "దాన్ని వదిలేద్దాం, మనం కలిసి నయం అవుదాం.",
+      "transliteration": "Daanini vadileddam, manaM kalisi Nayam avudham.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "Your apology helps me move forward.",
+      "telugu": "నీ క్షమాపణ నాకు ముందుకు సాగడానికి సహాయం చేస్తోంది.",
+      "transliteration": "Nee kshamaapana naaku muMdunku saagadaaniki sahayaM chestోంది.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I choose peace over the fight.",
+      "telugu": "వాదం కంటే శాంతిని నేనే ఎన్నుకుంటాను.",
+      "transliteration": "VaaDam kante shaantini nene encho kuntaanu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I won’t bring this up again.",
+      "telugu": "ఇది మళ్లీ నేను తీసి మాట్లాడను.",
+      "transliteration": "Idi malli nenu tees i maatlaadanu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "It’s okay, I’m ready to forgive.",
+      "telugu": "పరవాలేదు, నేను క్షమించడానికి సిద్ధంగా ఉన్నాను.",
+      "transliteration": "Paravaaledu, nenu kshaminchadaaniki sidhdaNgaa unnanu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T02:40:04.547624"
+    },
+    {
+      "english": "I accept your effort, not perfection.",
+      "telugu": "నువ్వు చేసిన ప్రయత్నాన్ని నేను అంగీకరిస్తాను, పరిపూర్ణతని కాదు.",
+      "transliteration": "Nuvvu chesina prayatnaanni nenu angikaristaanu, paripoornata ni kaadu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T02:40:04.547624"
     }
   ],
-  "last_updated": "2026-11-24T04:03:05.103579"
+  "last_updated": "2026-11-25T02:40:04.547624"
 }
