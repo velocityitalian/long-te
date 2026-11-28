@@ -23879,7 +23879,399 @@
       "transliteration": "sarE, adi nEnu alochinchAlaedu.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-27T01:51:36.079273"
+    },
+    {
+      "english": "I’ll wait, go at your pace",
+      "telugu": "నేను వేచి ఉంటాను, మీ వేగంలోనే చేయండి",
+      "transliteration": "Nēnu vēchi untānu, mī vēgam lōnē chēyaṇḍi",
+      "category": "Patience",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Hold on, let’s do this gently",
+      "telugu": "ఒక్కసారిగా ఆగండి, మనం నెమ్మదిగా చేద్దాం",
+      "transliteration": "Okkasāri āgandi, manam nemmadi gā chēddām",
+      "category": "Patience",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Take your time, I won’t interrupt",
+      "telugu": "మీ సమయం తీసుకోండి, నేను మధ్యలో ఆపను",
+      "transliteration": "Mī samayam tīsukuṇḍi, nēnu madhyalo āpanu",
+      "category": "Patience",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "It’s fine, keep trying slowly",
+      "telugu": "సరే, నెమ్మదిగా ప్రయత్నిస్తూనే ఉండండి",
+      "transliteration": "Sarē, nemmadi gā prayatnistūnē uṇḍaṇḍi",
+      "category": "Patience",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "No pressure, we can restart",
+      "telugu": "ఒత్తిడి లేదు, మళ్లీ మొదలు పెడదాం",
+      "transliteration": "Ottidi lēdu, maḷḷī modalu peḍadām",
+      "category": "Patience",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I understand, breathe and continue",
+      "telugu": "అర్థమైంది, ఒకసారి శ్వాస తీసుకుని కొనసాగించండి",
+      "transliteration": "Arthamaindi, oka sāri śvāsa tīsukoni konasāgiṇcaṇḍi",
+      "category": "Patience",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Let’s take one small step now",
+      "telugu": "ఇప్పుడు ఒక్క చిన్న అడుగు వేయండి",
+      "transliteration": "Ippudu okka chinna aḍugu vēyaṇḍi",
+      "category": "Patience",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I talk to my plants, gently.",
+      "telugu": "నేను నా మొక్కలతో మెల్లగా మాట్లాడతాను.",
+      "transliteration": "Nēnu na mokkalato mellagā māṭlāḍutānu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I turn errands into photo scavenger hunts.",
+      "telugu": "పనులన్నీ ఫోటో స్కావెంజర్ హంట్స్‌లా మారుస్తాను.",
+      "transliteration": "Panullanni phōṭō skāvēnjar hants-lā mārustānu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I narrate my day like a movie.",
+      "telugu": "నా రోజును నేను సినిమా లా చెప్పుకుంటాను.",
+      "transliteration": "Nā rōjunū nēnu sinimā lā cheppukuntānu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I make up characters during boring meetings.",
+      "telugu": "బోరింగ్ మీటింగ్స్‌లో పాత్రల్ని కల్పిస్తాను.",
+      "transliteration": "Bōring mīṭings-lō pātra-lni kalpis tānu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I draw tiny maps for my thoughts.",
+      "telugu": "నా ఆలోచనలకోసం చిన్న మ్యాప్‌లు గీస్తాను.",
+      "transliteration": "Nā ālōchanalkōsam chinna māp-lu gīs tānu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I rename everyday items, playfully.",
+      "telugu": "రోజువారీ వస్తువులకి సరదాగా కొత్త పేర్లు పెడతాను.",
+      "transliteration": "Rōjulvāri vastuvulaki saradāgā kottā pērlu peḍatānu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I create jingles from random street sounds.",
+      "telugu": "యాదృచ్ఛిక వీధి శబ్దాల నుండి జింగిల్స్ తయారుచేస్తాను.",
+      "transliteration": "Yādṛcchika vīdi sabdāla nundi jingils tayāru chēstānu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I swallowed something dangerous by mistake.",
+      "telugu": "నేను పొరపాటుగా ప్రమాదకరమైనది మింగాను.",
+      "transliteration": "Nēnu porapāṭugā panikārakaramainadi miṅgānu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "My wound is getting infected fast.",
+      "telugu": "నా గాయం త్వరగా ఇన్ఫెక్షన్ అవుతోంది.",
+      "transliteration": "Nā gāyaṁ tvaragā infeṣhan avutōndi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I think I have food poisoning.",
+      "telugu": "నాకు ఫుడ్ పాయిజనింగ్ అనిపిస్తోంది.",
+      "transliteration": "Nāku food pāyijaning ani pisthōndi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I am having an allergic reaction.",
+      "telugu": "నాకు అలెర్జిక్ రియాక్షన్ వస్తోంది.",
+      "transliteration": "NākU alərjik riyākṣan vastōndi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "My lips are swelling, please help.",
+      "telugu": "నా పెదవులు వాచిపోతున్నాయి, దయచేసి సహాయం చేయండి.",
+      "transliteration": "Nā pedavulu vācipōtunnāyi, dayacēsi sahāyam cēyandi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I just got shocked by electricity.",
+      "telugu": "నేను ఇప్పుడు విద్యుత్ షాక్ తగిలింది.",
+      "transliteration": "Nēnu ippuḍu vidyut shāk tagilindi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I burned my hand, it hurts a lot.",
+      "telugu": "నా చేతి కాలిపోయింది, చాలా నొప్పిగా ఉంది.",
+      "transliteration": "Nā cēti kālipo yindi, chāla nōppigā undi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I’ll do it scared, not silent.",
+      "telugu": "నేను భయంగా ఉన్నా, నిశ్శబ్దంగా ఉండను.",
+      "transliteration": "Nenu BHAyanga unna, nishshabdamga undanu.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Ask, then try, before doubt grows.",
+      "telugu": "సందేహం పెరగకముందే అడిగి, ప్రయత్నిస్తాను.",
+      "transliteration": "Sandheham peragakamunde adigi, prayatnisthaanu.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "My legs shake, my voice stays.",
+      "telugu": "నా కాళ్లు వణికినా, నా మాట నిలబడుతుంది.",
+      "transliteration": "Naa kaallu vanikinaa, naa maata nilabaduthundi.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I set my fear down gently.",
+      "telugu": "నా భయాన్ని నెమ్మదిగా పక్కన పెడతాను.",
+      "transliteration": "Naa bhayanni nemmadi gaa pakkana pedathaanu.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "No more hiding behind maybe.",
+      "telugu": "ఇంకా కావొచ్చు అనుకునే దానిలో దాక్కోను.",
+      "transliteration": "Inkaa kaavochu anukune daanilo daakkonu.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I can pause and still proceed.",
+      "telugu": "నేను ఆగినా, ముందుకు సాగుతాను.",
+      "transliteration": "Nenu aaginaa, munduku saaguthaanu.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Today I protect my own truth.",
+      "telugu": "ఈ రోజు నా నిజాన్ని నేను కాపాడుకుంటాను.",
+      "transliteration": "Ee roju naa nijanni nenu kaapaadukuntaanu.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "We exchange greetings after puja.",
+      "telugu": "పూజ ముగిశాక మనం ఒకరికొకరు శుభాకాంక్షలు చెప్పుకుంటాం.",
+      "transliteration": "Pooja mugisHAKA manam okarikokaru shubhakANKshalu cheppukuntAM.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "At Pongal, we cook outdoors together.",
+      "telugu": "పోంగల్‌కి మనం బయటే కలిసి వంట చేసుకుంటాం.",
+      "transliteration": "PONGal-ki manam bayate kalisi vanta chesukuntAM.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "We tie a protective thread in prayer.",
+      "telugu": "ప్రార్థనలో రక్షణ కోసం దారాన్ని కడతాం.",
+      "transliteration": "Praarthanalo rakshanako daaraanni kadatAM.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "On new clothes day, elders bless softly.",
+      "telugu": "కొత్త బట్టల రోజున పెద్దవాళ్లు నెమ్మదిగా ఆశీర్వదిస్తారు.",
+      "transliteration": "Kottha battala rojuna pedda vaLLu nEmmadiGA aasheervadistAru.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Before temple entry, we remove slippers.",
+      "telugu": "గుడిలోకి వెళ్లేముందు చెప్పులు తీసేస్తాం.",
+      "transliteration": "GuDi lOki veLLemundu cheppulu tIsestAM.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "We serve food to guests first.",
+      "telugu": "అతిథులకు ముందుగా భోజనం వడ్డిస్తాం.",
+      "transliteration": "Athidhulaku mundugA bhojanam vaDDistAM.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "During Navaratri, we honor different goddesses.",
+      "telugu": "నవరాత్రిలో మనం ఒక్కో రోజూ వేర్వేరు దేవతలను గౌరవిస్తాం.",
+      "transliteration": "NavarAtri lO manam okko rOjU vEveRRu devatalanu gAurovisTAM.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Doctor, I need a quick opinion today.",
+      "telugu": "డాక్టర్, నాకు ఈరోజే ఒక త్వరిత అభిప్రాయం కావాలి.",
+      "transliteration": "Dr, naaku ee roje oka tvarita abhipraayam kaavaali.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Is this urgent, or can I wait?",
+      "telugu": "ఇది అత్యవసరమా, లేక నేను వేచి ఉండవచ్చా?",
+      "transliteration": "Idi atyavasyamaa, leeka nenu vechi undavachaa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Can you write the exact dosage, please?",
+      "telugu": "దయచేసి సరైన మోతాదు ఎలా వ్రాయాలి?",
+      "transliteration": "Dayachesi saraina mothaadu elaa vraayaali?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "How long will I take it, doctor?",
+      "telugu": "డాక్టర్, నేను ఇది ఎంతకాలం తీసుకోవాలి?",
+      "transliteration": "Doctor, nenu idi enta kaalam teesukovaali?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I’m new here, where is pharmacy?",
+      "telugu": "నేను ఇక్కడ కొత్త, ఫార్మసీ ఎక్కడ ఉంది?",
+      "transliteration": "Nenu ikkada kottha, pharmacy ekkada undi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Do you have this medicine in stock?",
+      "telugu": "మీ దగ్గర ఈ మందు స్టాక్‌లో ఉందా?",
+      "transliteration": "Mee daggara ee mandu stock lo undaa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "What’s the generic name for this?",
+      "telugu": "దీనికి జెనెరిక్ పేరు ఏమిటి?",
+      "transliteration": "Deeniki generic peru emiti?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I make my bed, then breathe.",
+      "telugu": "నేను మంచం సర్దుకుని, అప్పుడు శ్వాస తీసుకుంటాను.",
+      "transliteration": "nēnu man̄cam sardūkuni, appūdu svāsa tīsukuntānu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I list three wins for today.",
+      "telugu": "ఈ రోజు కోసం మూడు చిన్న విజయాలు రాస్తాను.",
+      "transliteration": "ī rōju kōsām mūḍu cinna vijayālu rāstānu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I take the stairs, not the lift.",
+      "telugu": "లిఫ్ట్ కాదు, మెట్ల మీదుగా వెళ్తాను.",
+      "transliteration": "liPhṭ kādu, meṭla mīdūgā veḷtānu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I check the weather before leaving.",
+      "telugu": "బయటికి వెళ్లే ముందు వాతావరణం చెక్ చేస్తాను.",
+      "transliteration": "bayṭiki veḷḷē muṇdu vātāvaraṇaṁ cēk cēstānu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I pack my bag the night before.",
+      "telugu": "రాత్రే నా బ్యాగ్ సిద్ధం చేసుకుంటాను.",
+      "transliteration": "rātrē nā byāg siddhaṁ cēsukuntānu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I tidy my desk, two minutes.",
+      "telugu": "నా డెస్క్‌ని రెండు నిమిషాలు సర్దుతాను.",
+      "transliteration": "nā desk ni reṇḍu nimiṣālu sardūtānu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I sip warm tea, slowly, smiling.",
+      "telugu": "వెచ్చని టీని నెమ్మదిగా, చిరునవ్వుతో తాగుతాను.",
+      "transliteration": "veccani ṭī ni nemmadīgā, cirunavvutō tāgutānu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Can you explain my statement clearly?",
+      "telugu": "నా స్టేట్‌మెంట్‌ని సరిగ్గా అర్థమయ్యేలా చెప్తారా?",
+      "transliteration": "Naa STATE-ment-ni sariggaa ARDHamayyela chepthaaraa?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Why was my transfer rejected?",
+      "telugu": "నా ట్రాన్స్‌ఫర్ ఎందుకు తిరస్కరించబడింది?",
+      "transliteration": "Naa TRANS-fer enduku THIRA-skarinchabadiMdi?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Please increase my credit limit.",
+      "telugu": "దయచేసి నా క్రెడిట్ లిమిట్ పెంచండి.",
+      "transliteration": "Dayachesi naa CREDIT LIMIT PENCHandi.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I want to activate my debit card.",
+      "telugu": "నా డెబిట్ కార్డ్‌ని యాక్టివేట్ చేయాలి.",
+      "transliteration": "Naa DE-bit kaard-ni AAK-tivate cheyaali.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "I was charged for a fee, why?",
+      "telugu": "నాకు ఫీజు కట్టారు, ఎందుకు?",
+      "transliteration": "Naaku FEE-zu kattaru, ENduku?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "How do I add money to my account?",
+      "telugu": "నా ఖాతాలో డబ్బు ఎలా జమ చేయాలి?",
+      "transliteration": "Naa KHAATaa-lo DABbu ela JAM cheyaali?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T01:32:49.261267"
+    },
+    {
+      "english": "Show me the available balance now.",
+      "telugu": "ఇప్పుడే అందుబాటులో ఉన్న బ్యాలెన్స్ చూపించండి.",
+      "transliteration": "IPPu-de ANDu-baa-tu lo unna BAL-ance choopinchandi.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T01:32:49.261267"
     }
   ],
-  "last_updated": "2026-11-27T01:51:36.079273"
+  "last_updated": "2026-11-28T01:32:49.261267"
 }
